@@ -7,6 +7,10 @@ description: "Projeto DSIP-MT — Convênio 984799/2025 SUDECO–UNEMAT"
 
 O **Projeto Desenvolvimento Sustentável e Inclusivo do Pantanal Norte Mato-grossense (DSIP-MT)** realiza um estudo de análise diagnóstica de ordenamento territorial e desenvolvimento regional sustentável e inclusivo do Pantanal Norte Mato-grossense. É executado pela Universidade do Estado de Mato Grosso (UNEMAT) com recursos da Superintendência do Desenvolvimento do Centro-Oeste (SUDECO), no âmbito do Convênio 984799/2025, com vigência de fevereiro de 2026 a agosto de 2027.
 
+::: {.logos-realizacao}
+![UNEMAT — Universidade do Estado de Mato Grosso](assets/logo-unemat.png) ![Governo do Estado de Mato Grosso](assets/brasao-mt.png) ![SUDECO — Superintendência do Desenvolvimento do Centro-Oeste](assets/logo-sudeco.png)
+:::
+
 - **Coordenação geral:** Prof. Dr. Ademir Machado de Oliveira (UNEMAT)
 - **Responsável técnico e manutenção deste site:** Prof. Dr. Lindomar Pegorini Daniel (UNEMAT)
 
