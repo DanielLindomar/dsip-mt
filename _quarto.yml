@@ -59,7 +59,7 @@ website:
     left: |
       Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link "Criar uma issue" (GitHub) ou escreva à coordenação.
     right: |
-      ![UNEMAT](/assets/logo-unemat.png){height=40} ![Governo de Mato Grosso](/assets/brasao-mt.png){height=44} ![SUDECO](/assets/logo-sudeco.png){height=40}
+      ![UNEMAT](/assets/logo-unemat.png){height=40} ![SUDECO](/assets/logo-sudeco.png){height=40}
 
 format:
   html:
