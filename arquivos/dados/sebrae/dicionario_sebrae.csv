@@ -1,0 +1,42 @@
+arquivo,variavel,descricao,unidade,fonte_original
+sebrae_conectividade.csv,ibc,Índice Brasileiro de Conectividade: combina cobertura móvel e fixa; densidade; competição e fibra,índice 0–100,ANATEL via OST
+sebrae_conectividade.csv,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,ANATEL via OST
+sebrae_conectividade.csv,densidade_smp,Acessos de telefonia móvel por 100 habitantes,acessos por 100 hab.,ANATEL via OST
+sebrae_conectividade.csv,densidade_scm,Acessos de banda larga fixa por 100 domicílios,acessos por 100 dom.,ANATEL via OST
+sebrae_conectividade.csv,fibra,Presença de backhaul de fibra óptica (componente do IBC),índice 0–100,ANATEL via OST
+sebrae_conectividade.csv,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,ANATEL via OST
+sebrae_conectividade.csv,adensamento_estacoes,Adensamento de estações rádio base (componente do IBC),índice 0–100,ANATEL via OST
+sebrae_conectividade.csv,hhi_smp,Concentração de mercado da telefonia móvel (componente do IBC),índice 0–100,ANATEL via OST
+sebrae_conectividade.csv,hhi_scm,Concentração de mercado da banda larga fixa (componente do IBC),índice 0–100,ANATEL via OST
+sebrae_turismo_cadastur.csv,empresas_cadastur,Prestadores de serviços turísticos cadastrados no CadasTur (contagem distinta),empresas,MTur via OST
+sebrae_turismo_cadastur.csv,meios_hospedagem,Meios de hospedagem cadastrados,empresas,MTur via OST
+sebrae_turismo_cadastur.csv,agencias_turismo,Agências de turismo cadastradas,empresas,MTur via OST
+sebrae_turismo_cadastur.csv,guias_turismo,Guias de turismo cadastrados,pessoas,MTur via OST
+sebrae_turismo_cadastur.csv,leitos,Leitos nos meios de hospedagem cadastrados,leitos,MTur via OST
+sebrae_turismo_cadastur.csv,unidades_habitacionais,Unidades habitacionais nos meios de hospedagem cadastrados,UH,MTur via OST
+sebrae_turismo_cadastur.csv,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,leitos por 1.000 hab.,MTur via OST; população DSIP-MT
+sebrae_turismo_mapa.csv,regiao_turistica,Região turística do Mapa do Turismo Brasileiro,texto,MTur via OST
+sebrae_turismo_mapa.csv,cluster_mtur,Categoria (cluster A a E) do município no Mapa do Turismo,texto,MTur via OST
+sebrae_turismo_mapa.csv,empregos_turismo,Empregos formais em atividades características do turismo (hospedagem),empregos,MTur via OST
+sebrae_turismo_mapa.csv,estabelecimentos_turismo,Estabelecimentos formais de hospedagem,estabelecimentos,MTur via OST
+sebrae_turismo_mapa.csv,visitas_nacionais_est,Visitas domésticas estimadas,visitas,MTur via OST
+sebrae_turismo_mapa.csv,visitas_internacionais_est,Visitas internacionais estimadas,visitas,MTur via OST
+sebrae_turismo_mapa.csv,arrecadacao_turismo,Arrecadação de impostos federais dos meios de hospedagem,R$ correntes,MTur via OST
+sebrae_turismo_categorizacao.csv,categoria_turistica,Categoria do município na categorização do Mapa do Turismo,texto,MTur via OST
+sebrae_empresas_ativas.csv,empresas_ativas,Estabelecimentos com CNPJ em situação ativa,estabelecimentos,Receita Federal via OST
+sebrae_empresas_ativas.csv,mei,Estabelecimentos ativos de Microempreendedores Individuais,estabelecimentos,Receita Federal via OST
+sebrae_empresas_ativas.csv,me,Microempresas ativas,estabelecimentos,Receita Federal via OST
+sebrae_empresas_ativas.csv,epp,Empresas de pequeno porte ativas,estabelecimentos,Receita Federal via OST
+sebrae_empresas_ativas.csv,sh_mei_pct,Participação dos MEI nos estabelecimentos ativos,%,Receita Federal via OST
+sebrae_empresas_ativas.csv,sh_mpe_pct,Participação de MEI + ME + EPP nos estabelecimentos ativos,%,Receita Federal via OST
+sebrae_empresas_ativas.csv,empresas_ativas_por_1000_hab,Estabelecimentos ativos por mil habitantes (população 2025),por 1.000 hab.,Receita Federal via OST; população DSIP-MT
+sebrae_aberturas_empresas.csv,aberturas,Estabelecimentos com início de atividade no ano (qualquer situação cadastral atual),estabelecimentos,Receita Federal via OST
+sebrae_aberturas_empresas.csv,aberturas_mei,Aberturas de MEI no ano,estabelecimentos,Receita Federal via OST
+sebrae_aberturas_empresas.csv,aberturas_por_1000_hab,Aberturas no ano por mil habitantes,por 1.000 hab.,Receita Federal via OST; população DSIP-MT
+sebrae_agencias_bancarias.csv,agencias_bancarias,Agências bancárias no último mês disponível do ano,agências,Banco Central via OST
+sebrae_agencias_bancarias.csv,postos_bancarios,Postos de atendimento bancário no último mês disponível do ano,postos,Banco Central via OST
+sebrae_agencias_bancarias.csv,agencias_por_10mil_hab,Agências bancárias por 10 mil habitantes,por 10.000 hab.,Banco Central via OST; população DSIP-MT
+sebrae_homicidios.csv,homicidios,Vítimas de homicídio no ano,vítimas,MJSP/Sinesp via OST
+sebrae_homicidios.csv,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100.000 hab.,MJSP/Sinesp via OST; população DSIP-MT
+sebrae_censo_ocupacao.csv,taxa_desocupacao_pct,Desocupados sobre a força de trabalho (Censo 2022),%,IBGE via OST
+sebrae_censo_ocupacao.csv,taxa_participacao_pct,Força de trabalho sobre a população em idade de trabalhar (Censo 2022),%,IBGE via OST

@@ -1,0 +1,14 @@
+---
+title: "Homicídios por 100 mil habitantes"
+description: "D3 — por 100 mil hab.. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "taxa_homicidios_100k"
+```
+
+{{< include _indicador.qmd >}}
+

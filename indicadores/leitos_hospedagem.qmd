@@ -1,0 +1,14 @@
+---
+title: "Leitos em meios de hospedagem (CadasTur)"
+description: "D2 — leitos. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "leitos_hospedagem"
+```
+
+{{< include _indicador.qmd >}}
+

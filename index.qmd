@@ -32,7 +32,7 @@ div(class = "atalhos",
                   lapply(seq_len(nrow(M13)), function(j) tags$option(value = paste0("municipios/", M13$slug[j], ".html"), M13$municipio[j])))),
   div(tags$label(`for` = "ir-ind", "Ir para um indicador"),
       tags$select(id = "ir-ind", class = "form-select", onchange = "if (this.value) window.location = this.value",
-                  tags$option(value = "", "Escolha um dos 55 indicadores…"),
+                  tags$option(value = "", "Escolha um dos 72 indicadores…"),
                   lapply(split(IND, IND$dim), function(g) tags$optgroup(label = paste(g$dim[1], "·", DIMS[[g$dim[1]]]),
                     lapply(seq_len(nrow(g)), function(j) tags$option(value = paste0("indicadores/", g$id[j], ".html"), g$rotulo[j])))))))
 ```
@@ -60,7 +60,7 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ```{=html}
 <div class="cartoes">
   <a class="cartao" href="municipios/index.html"><h4>Municípios</h4><p>Perfil de cada um dos 13 municípios: indicadores das seis dimensões, comparação com o Pantanal Norte e Mato Grosso, FOFA municipal e ficha em PDF.</p></a>
-  <a class="cartao" href="indicadores/index.html"><h4>Indicadores</h4><p>Os 55 indicadores com mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e evolução no tempo.</p></a>
+  <a class="cartao" href="indicadores/index.html"><h4>Indicadores</h4><p>Os 72 indicadores com mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e evolução no tempo.</p></a>
   <a class="cartao" href="dimensoes/d1.html"><h4>Dimensões</h4><p>Principais resultados, figuras e ressalvas dos seis Relatórios Parciais I (D1 a D6).</p></a>
   <a class="cartao" href="revisao/index.html"><h4>Revisão de literatura</h4><p>Matriz FOFA da área econômica, estudos do corpus e situação das demais áreas.</p></a>
   <a class="cartao" href="dados/index.html"><h4>Dados</h4><p>Explorador de indicadores para os 141 municípios de MT e download das bases tratadas com dicionários.</p></a>
@@ -70,6 +70,8 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ```
 
 ## Novidades
+
+- **30/09/2026** — Versão 0.3: 17 indicadores complementares do Observatório Sebrae (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022, ISDEL); valores dos gráficos ao passar o cursor ou tocar; mapas mais leves.
 
 - **30/09/2026** — Versão 0.2: perfis municipais em abas, com posição entre os 13 e minisséries; páginas de indicador com mapa; matriz FOFA em quadrantes; fichas municipais em PDF; tabelas em português; mapas sem dependência externa.
 

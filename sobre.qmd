@@ -37,7 +37,7 @@ O estudo cobre 13 municípios, definidos institucionalmente no convênio: Barão
 
 Este site reúne, num só lugar, os resultados que a equipe do projeto já produziu: indicadores por município, relatórios, bases de dados e a revisão de literatura. **É uma versão preliminar**, atualizada à medida que as etapas são concluídas.
 
-- Os números vêm das bases tratadas da Fase I, congeladas em 08/07/2026, e dos pacotes entregues da revisão de literatura.
+- Os números vêm das bases tratadas da Fase I, congeladas em 08/07/2026, e dos pacotes entregues da revisão de literatura. Indicadores complementares (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022 e o ISDEL) foram obtidos no [Observatório Setorial Territorial do Sebrae](https://observatorio.sebrae.com.br/) em 30/09/2026 e aparecem com o selo OST.
 - Os documentos da Biblioteca são as versões de referência para citação.
 - O site é gerado com [Quarto](https://quarto.org) e R a partir dos arquivos oficiais do projeto e publicado no GitHub Pages.
 - Não são publicados textos integrais de artigos de terceiros, microdados com informação pessoal nem bases cuja redistribuição depende de autorização (IFDM/FIRJAN).

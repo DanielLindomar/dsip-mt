@@ -8,6 +8,13 @@ pib  <- resumo_ind("pib_real", MUN_ID)
 emp  <- resumo_ind("empregos_formais", MUN_ID)
 f_rev <- ds("revisao", "fofa_municipal.csv")
 f_est <- ds("revisao", "estudos_municipio.csv")
+TUR  <- ler(ds("turismo_info.csv")); TUR <- TUR[TUR$id_municipio == MUN_ID, ]
+txt_tur <- if (nrow(TUR)) {
+  reg <- if (grepl("^Sem Regi", TUR$regiao_turistica)) "o município não integrava região turística" else paste0("o município integrava a ", TUR$regiao_turistica)
+  clu <- if (TUR$cluster_mtur %in% LETTERS[1:5]) paste0(", categoria ", TUR$cluster_mtur, " (de A a E)") else ""
+  cat_t <- if (!is.na(TUR$categoria_turistica) && nzchar(TUR$categoria_turistica)) paste0(" Na categorização mais recente do MTur, é classificado como \"", tolower(TUR$categoria_turistica), "\".") else ""
+  paste0("No Mapa do Turismo Brasileiro de ", TUR$ano_mapa, ", ", reg, clu, ".", cat_t)
+} else ""
 ```
 
 ```{r}
@@ -22,9 +29,9 @@ Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da F
 ::: {.perfil-texto}
 **`r NOME`** integra o Pantanal Norte Mato-grossense, recorte de 13 municípios definido institucionalmente no convênio SUDECO–UNEMAT. Código IBGE: `r MUN_ID`.
 
-A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais.
+A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais. `r txt_tur`
 
-As comparações usam a **mediana dos 13 municípios** (PN-13) e a **mediana dos 141 municípios de Mato Grosso**. Verde indica situação mais favorável que a mediana do PN-13 e vermelho, menos favorável; cinza indica indicador de contexto, sem sentido de melhor ou pior.
+As comparações usam a **mediana dos 13 municípios** (PN-13) e a **mediana dos 141 municípios de Mato Grosso**. Verde indica situação mais favorável que a mediana do PN-13 e vermelho, menos favorável; cinza indica indicador de contexto, sem sentido de melhor ou pior. O selo [OST]{.selo-ost} marca dados complementares obtidos no Observatório do Sebrae.
 
 [Baixar a ficha do município em PDF](../arquivos/fichas/`r M$slug`.pdf){.btn .btn-sm .btn-primary} [Baixar os indicadores em CSV](../arquivos/municipios/`r M$slug`_indicadores.csv){.btn .btn-sm .btn-outline-primary}
 :::

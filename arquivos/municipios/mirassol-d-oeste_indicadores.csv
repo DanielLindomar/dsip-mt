@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,2.74
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,3.36
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,3.7
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,3.04
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,6.49
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,2.52
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,2.12
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,3.34
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,7.49
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,3.28
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,7.23
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,6.79
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,11.84
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,10.35
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,9.51
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,9.06
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,12.45
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,8.52
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,11.29
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,12
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,15.68
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,14.36
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,14.6
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,15.53
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,18.94
+5105622,Mirassol D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,16.64
 5105622,Mirassol D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,14315924.31
 5105622,Mirassol D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,26091070.79
 5105622,Mirassol D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,19379668.86
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,7897
 5105622,Mirassol D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,6070
 5105622,Mirassol D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,6235
+5105622,Mirassol D'Oeste,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,3115
+5105622,Mirassol D'Oeste,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,112.7
 5105622,Mirassol D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,24.93
 5105622,Mirassol D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,23.15
 5105622,Mirassol D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,24.33
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2019,24.32
 5105622,Mirassol D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2020,21.82
 5105622,Mirassol D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2021,18.53
+5105622,Mirassol D'Oeste,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,45.3
 5105622,Mirassol D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,49.28
 5105622,Mirassol D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,49.85
 5105622,Mirassol D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,59.01
@@ -324,6 +353,29 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,201966.62
 5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,262982.99
 5105622,Mirassol D'Oeste,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
+5105622,Mirassol D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,33
+5105622,Mirassol D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,32
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,5
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,8
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,10
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,10
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,4
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,9
+5105622,Mirassol D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,9
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,512
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,289
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,315
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,908
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,187
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,321
+5105622,Mirassol D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,210
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,19.13
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,10.34
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,11.2
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,33.9
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,6.98
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,11.67
+5105622,Mirassol D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,7.6
 5105622,Mirassol D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2000,6
 5105622,Mirassol D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2001,2
 5105622,Mirassol D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2002,3
@@ -420,6 +472,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,107977034
 5105622,Mirassol D'Oeste,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,111653862
 5105622,Mirassol D'Oeste,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,184175231
+5105622,Mirassol D'Oeste,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,8406
+5105622,Mirassol D'Oeste,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,8406
 5105622,Mirassol D'Oeste,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.59
 5105622,Mirassol D'Oeste,D3,gini,Índice de Gini,índice 0–1,1991,0.57
 5105622,Mirassol D'Oeste,D3,gini,Índice de Gini,índice 0–1,2000,0.59
@@ -490,6 +544,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D3,populacao,População,habitantes,2023,26785
 5105622,Mirassol D'Oeste,D3,populacao,População,habitantes,2024,27511
 5105622,Mirassol D'Oeste,D3,populacao,População,habitantes,2025,27637
+5105622,Mirassol D'Oeste,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,2.3
+5105622,Mirassol D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,14.5
+5105622,Mirassol D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,36.1
+5105622,Mirassol D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,17.9
+5105622,Mirassol D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,39.1
+5105622,Mirassol D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,33.6
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,91.3
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,70.8
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,83.6
@@ -513,6 +573,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,89.5
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,85.3
 5105622,Mirassol D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,97.1
+5105622,Mirassol D'Oeste,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,58.4
 5105622,Mirassol D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,58.9
 5105622,Mirassol D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,56.56
 5105622,Mirassol D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,29.33
@@ -667,7 +728,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2019,81.02
 5105622,Mirassol D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2020,81.16
 5105622,Mirassol D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2021,84.59
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2021,6
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2022,6
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2023,6
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2024,6
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2025,6
+5105622,Mirassol D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2026,3
+5105622,Mirassol D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,85.77
+5105622,Mirassol D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,85.86
+5105622,Mirassol D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,85.79
+5105622,Mirassol D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,86.44
+5105622,Mirassol D'Oeste,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,39.16
 5105622,Mirassol D'Oeste,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2878.7
+5105622,Mirassol D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,55.12
+5105622,Mirassol D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,59.23
+5105622,Mirassol D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,58.1
+5105622,Mirassol D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,51.17
 5105622,Mirassol D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2006,96.5
 5105622,Mirassol D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2007,66.7
 5105622,Mirassol D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2008,51.5

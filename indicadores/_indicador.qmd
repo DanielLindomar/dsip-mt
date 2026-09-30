@@ -24,6 +24,7 @@ div(class = "nav-mun",
 cat(sprintf("**Dimensão:** %s · %s  \n**Unidade:** %s  \n**Ano de referência:** %s  \n",
             R_$dim, DIMS[[R_$dim]], R_$unidade, ifelse(is.na(AR), "retrato único", AR)))
 if (!is.na(R_$nota) && nzchar(R_$nota)) cat(sprintf("**Nota:** %s\n", R_$nota))
+if (identical(R_$origem, "sebrae")) cat("\n**Origem:** dado complementar obtido via [Observatório Setorial Territorial do Sebrae](https://observatorio.sebrae.com.br/) (OST), coletado em 30/09/2026. Ver a seção de dados complementares em [Dados](../dados/index.qmd).\n")
 ```
 
 ```{r}
@@ -59,7 +60,7 @@ mapa_indicador(IND_ID, altura = 440)
 #| results: asis
 g <- series_pn13(IND_ID)
 if (nzchar(g)) {
-  cat("### Evolução no tempo\n\nLinhas finas: cada município do Pantanal Norte. Passe o cursor sobre os pontos para ver o valor.\n\n")
+  cat("### Evolução no tempo\n\nLinhas finas: cada município do Pantanal Norte. Passe o cursor (ou toque, no celular) sobre uma linha para ver o município e sobre um ponto para ver o ano e o valor.\n\n")
   cat("```{=html}\n", g, "\n```\n", sep = "")
 }
 ```

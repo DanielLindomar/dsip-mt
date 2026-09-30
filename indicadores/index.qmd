@@ -1,6 +1,6 @@
 ---
 title: "Indicadores"
-description: "Os 55 indicadores do observatório, com mapa dos 141 municípios de Mato Grosso e ranking do Pantanal Norte"
+description: "Os 72 indicadores do observatório, com mapa dos 141 municípios de Mato Grosso e ranking do Pantanal Norte"
 toc: false
 ---
 
@@ -17,6 +17,6 @@ tagList(lapply(names(DIMS), function(d) {
   tagList(h3(paste0(d, " · ", DIMS[[d]])),
     div(class = "lista-ind", lapply(seq_len(nrow(g)), function(j)
       a(class = "cartao cartao-ind", href = paste0(g$id[j], ".html"),
-        h4(g$rotulo[j]), p(paste0(g$unidade[j], " · ", ifelse(is.na(ano_ref(g$id[j])), "retrato único", ano_ref(g$id[j]))))))))
+        h4(g$rotulo[j], if (identical(g$origem[j], "sebrae")) span(class = "selo-ost", "OST")), p(paste0(g$unidade[j], " · ", ifelse(is.na(ano_ref(g$id[j])), "retrato único", ano_ref(g$id[j]))))))))
 }))
 ```

@@ -114,4 +114,4 @@ if (file.exists(f_est)) {
 
 ---
 
-Fontes: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN — IFDM © FIRJAN — e outras). Notas metodológicas e bases completas: https://daniellindomar.github.io/dsip-mt/
+Fontes: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN — IFDM © FIRJAN — e outras). Indicadores de turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação (Censo 2022) e ISDEL (© Sebrae) obtidos via Observatório Setorial Territorial do Sebrae em 30/09/2026. Notas metodológicas e bases completas: https://daniellindomar.github.io/dsip-mt/

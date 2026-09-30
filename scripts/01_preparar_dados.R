@@ -17,6 +17,7 @@ TRAT  <- file.path(DRIVE, "07_Entrega_Fase_I/02_Bases_Tratadas")
 REL   <- file.path(DRIVE, "07_Entrega_Fase_I/03_Relatorios")
 BRUT  <- file.path(DRIVE, "07_Entrega_Fase_I/01_Bases_Brutas")
 ECON  <- file.path(DRIVE, "06_Pesquisa/02_Revisao_FOFA/04_Entrega_Area_Economica")
+OST   <- file.path(DRIVE, "06_Pesquisa/01_Coleta_Dados/Sebrae_Observatorio")   # dados complementares (OST/Sebrae)
 
 stopifnot(dir.exists(TRAT))
 dir.create("dados_site", showWarnings = FALSE)
@@ -46,18 +47,25 @@ ind <- ler("dados_site/indicadores.csv", na.strings = "")
 
 # Valores que são retratos de um único ano, repetidos nas bases (ver NOTAS_D3)
 ANO_FIXO <- c(taxa_urbanizacao = 2022, cagr_pop_2010_2025 = 2025)
+# Anos parciais que não entram (coleta do OST em 30/09/2026)
+ANO_MAX <- c(aberturas_por_1000_hab = 2025, empresas_cadastur = 2025, leitos_hospedagem = 2025, leitos_por_1000_hab = 2025)
 
 ler_ind <- function(i) {
   r <- ind[i, ]
-  x <- ler(file.path(TRAT, "por_dimensao", r$arquivo))
+  x <- ler(if (identical(r$origem, "sebrae")) file.path(OST, "02_tratados", r$arquivo)
+           else file.path(TRAT, "por_dimensao", r$arquivo))
   if (!r$variavel %in% names(x)) stop("Variável ausente: ", r$variavel, " em ", r$arquivo)
   ano <- if (is.na(r$ano_col) || r$ano_col == "") NA_integer_ else suppressWarnings(as.integer(x[[r$ano_col]]))
   out <- tibble(id_municipio = as.integer(x$id_municipio), indicador = r$id,
                 ano = ano, valor = suppressWarnings(as.numeric(x[[r$variavel]])))
   if (r$id %in% names(ANO_FIXO)) out <- filter(out, ano == ANO_FIXO[[r$id]])
+  if (r$id %in% names(ANO_MAX)) out <- filter(out, ano <= ANO_MAX[[r$id]])
   distinct(out, id_municipio, indicador, ano, .keep_all = TRUE)
 }
 serie <- map_dfr(seq_len(nrow(ind)), ler_ind) |> filter(!is.na(valor))
+fora <- setdiff(unique(serie$id_municipio), mun$id_municipio)
+if (length(fora)) msg("Códigos fora dos 141 municípios do projeto (descartados): %s", paste(fora, collapse = ", "))
+serie <- filter(serie, id_municipio %in% mun$id_municipio)
 saveRDS(serie, "dados_site/serie.rds")
 msg("Série longa: %d linhas, %d indicadores", nrow(serie), n_distinct(serie$indicador))
 
@@ -83,11 +91,16 @@ msg("Últimos valores: %d linhas", nrow(ultimos))
 
 # ---- 4. Malha municipal simplificada -----------------------------------------
 geo <- st_read(file.path(BRUT, "dados_coletados/shapefiles/municipios_mt.gpkg"), quiet = TRUE) |>
-  st_transform(5880) |> st_simplify(dTolerance = 400, preserveTopology = TRUE) |>
+  st_transform(5880) |> st_simplify(dTolerance = 700, preserveTopology = TRUE) |>
   st_transform(4326) |>
   mutate(id_municipio = as.integer(code_muni)) |>
   select(id_municipio) |>
   left_join(select(mun, id_municipio, municipio, grupo, slug), by = "id_municipio")
+# Coordenadas com 3 casas decimais (~100 m): suficiente para mapas estaduais e reduz o peso das páginas
+st_geometry(geo) <- st_sfc(lapply(st_geometry(geo), function(g) {
+  st_multipolygon(lapply(unclass(st_cast(g, "MULTIPOLYGON")), function(pol) lapply(pol, function(anel) round(anel, 3))))
+}), crs = 4326)
+geo <- st_make_valid(geo)
 saveRDS(geo, "dados_site/geo_mt.rds")
 if (file.exists("arquivos/geo/mt_municipios.geojson")) file.remove("arquivos/geo/mt_municipios.geojson")
 st_write(geo, "arquivos/geo/mt_municipios.geojson", quiet = TRUE)
@@ -119,6 +132,23 @@ for (f in dics) {
 file.copy(file.path(TRAT, "CATALOGO_BASES_TRATADAS.csv"), "arquivos/dados", overwrite = TRUE)
 file.copy(file.path(BRUT, "FONTES_E_LICENCAS.csv"), "dados_site/fontes_licencas.csv", overwrite = TRUE)
 msg("Bases copiadas: %d CSV + %d dicionários", length(csvs), length(dics))
+
+# ---- 6b. Dados complementares do OST/Sebrae (sem o ISDEL, índice do Sebrae) --
+dir.create("arquivos/dados/sebrae", recursive = TRUE, showWarnings = FALSE)
+ost <- list.files(file.path(OST, "02_tratados"), "^sebrae_.*[.]csv$", full.names = TRUE)
+ost <- ost[basename(ost) != "sebrae_isdel.csv"]
+file.copy(ost, "arquivos/dados/sebrae", overwrite = TRUE)
+dic_ost <- ler(file.path(OST, "02_tratados", "dicionario_sebrae.csv")) |> filter(arquivo != "sebrae_isdel.csv")
+gravar(dic_ost, "arquivos/dados/sebrae/dicionario_sebrae.csv")
+file.copy(file.path(OST, "LEIA-ME.md"), "arquivos/dados/sebrae/LEIA-ME.md", overwrite = TRUE)
+file.copy(file.path(OST, "consultas.csv"), "dados_site/ost_consultas.csv", overwrite = TRUE)
+# Contexto turístico para os perfis (região turística e cluster do Mapa do Turismo; categorização)
+tm <- ler(file.path(OST, "02_tratados", "sebrae_turismo_mapa.csv")) |> group_by(id_municipio) |>
+  slice_max(ano, n = 1, with_ties = FALSE) |> ungroup() |>
+  transmute(id_municipio, ano_mapa = ano, regiao_turistica = trimws(gsub("[[:space:]]+", " ", regiao_turistica)), cluster_mtur)
+tc <- ler(file.path(OST, "02_tratados", "sebrae_turismo_categorizacao.csv")) |> select(id_municipio, categoria_turistica)
+gravar(left_join(tm, tc, by = "id_municipio"), "dados_site/turismo_info.csv")
+msg("OST/Sebrae: %d bases copiadas (ISDEL fora)", length(ost))
 
 # ---- 8. Páginas de município (13 arquivos gerados a partir de _perfil.qmd) --
 for (i in which(mun$pn13)) {
@@ -152,7 +182,7 @@ dir.create("arquivos/municipios", recursive = TRUE, showWarnings = FALSE)
 for (i in which(mun$pn13)) {
   m <- mun[i, ]
   x <- serie |>
-    filter(id_municipio == m$id_municipio, !grepl("^ifdm", indicador)) |>
+    filter(id_municipio == m$id_municipio, indicador %in% ind$id[ind$download == 1]) |>
     left_join(select(ind, indicador = id, dimensao = dim, rotulo, unidade), by = "indicador") |>
     transmute(id_municipio, municipio = m$municipio, dimensao, indicador, rotulo, unidade, ano, valor) |>
     arrange(dimensao, indicador, ano)

@@ -1,0 +1,14 @@
+---
+title: "Área agricultável coberta por sinal móvel"
+description: "D5 — %. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "cobertura_area_agricultavel"
+```
+
+{{< include _indicador.qmd >}}
+

@@ -132,3 +132,12 @@ abbr[title] { text-decoration: underline dotted #9ca3af; cursor: help; }
   .navbar, .nav-mun, #quarto-margin-sidebar, .quarto-secondary-nav, footer, .btn { display: none !important; }
   .panel-tabset .tab-content > .tab-pane { display: block !important; opacity: 1 !important; }
 }
+
+/* Dica dos gráficos e selo OST (v0.3) */
+#dica-grafico { position: fixed; z-index: 2000; display: none; pointer-events: none; background: #1f2937; color: #fff;
+  font-size: .8rem; padding: .3rem .55rem; border-radius: 5px; max-width: 280px; box-shadow: 0 2px 8px rgba(0,0,0,.2); }
+svg [data-tip] { cursor: pointer; }
+g.serie:hover path.linha { stroke-width: 3; stroke: #1E2761; }
+g.serie:hover circle.pt { fill: #1E2761; }
+.selo-ost { display: inline-block; font-size: .64rem; font-weight: 700; letter-spacing: .03em; color: #7a4b00; background: #fff1d6;
+  border: 1px solid #f3cf8a; border-radius: 6px; padding: 0 4px; margin-left: .3rem; vertical-align: 1px; cursor: help; }

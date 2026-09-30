@@ -1,0 +1,14 @@
+---
+title: "Empregos formais no turismo (Mapa do Turismo)"
+description: "D2 — empregos. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "empregos_turismo"
+```
+
+{{< include _indicador.qmd >}}
+

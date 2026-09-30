@@ -1,0 +1,14 @@
+---
+title: "Taxa de desocupação (Censo 2022)"
+description: "D3 — % da força de trabalho. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "taxa_desocupacao_pct"
+```
+
+{{< include _indicador.qmd >}}
+

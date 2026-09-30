@@ -66,6 +66,7 @@ esc <- function(x) { x <- gsub("&", "&amp;", x, fixed = TRUE); x <- gsub("<", "&
   x <- gsub(">", "&gt;", x, fixed = TRUE); gsub("\"", "&quot;", x, fixed = TRUE) }
 
 info_ind <- function(id) IND[IND$id == id, ]
+selo_ost <- function(r) if (identical(r$origem, "sebrae")) ' <span class="selo-ost" data-tip="Dado complementar obtido via Observatório Setorial Territorial do Sebrae (OST); fonte original na nota">OST</span>' else ""
 url_ind  <- function(id, prefixo = "../indicadores/") paste0(prefixo, id, ".html")
 
 # ---- Consultas -------------------------------------------------------------
@@ -115,11 +116,11 @@ svg_posicao <- function(vals, destaque, med_mt, fmt, w = 130, h = 26) {
   sx <- function(v) 6 + (v - r[1]) / diff(r) * (w - 12)
   nomes <- MUN$municipio[match(as.integer(names(vals)), MUN$id_municipio)]
   outros <- names(vals) != destaque
-  pts <- paste(sprintf('<circle cx="%.1f" cy="13" r="3.4" fill="#b8c4d6"><title>%s: %s</title></circle>',
+  pts <- paste(sprintf('<circle cx="%.1f" cy="13" r="3.4" fill="#b8c4d6" stroke="transparent" stroke-width="6" data-tip="%s: %s"/>',
                        sx(vals[outros]), esc(nomes[outros]), fmt_valor(vals[outros], fmt)), collapse = "")
-  mt <- if (is.finite(med_mt)) sprintf('<line x1="%.1f" x2="%.1f" y1="4" y2="22" stroke="#6b7280" stroke-dasharray="2,2"><title>Mediana MT: %s</title></line>',
+  mt <- if (is.finite(med_mt)) sprintf('<line x1="%.1f" x2="%.1f" y1="4" y2="22" stroke="#6b7280" stroke-dasharray="2,2" data-tip="Mediana MT: %s"/>',
                                        sx(med_mt), sx(med_mt), fmt_valor(med_mt, fmt)) else ""
-  eu <- sprintf('<circle cx="%.1f" cy="13" r="5.5" fill="%s" stroke="#fff" stroke-width="1.5"><title>%s: %s</title></circle>',
+  eu <- sprintf('<circle cx="%.1f" cy="13" r="5.5" fill="%s" stroke="#fff" stroke-width="1.5" data-tip="%s: %s"/>',
                 sx(vals[[destaque]]), COR[["mun"]], esc(nomes[!outros]), fmt_valor(vals[[destaque]], fmt))
   sprintf('<svg class="strip" viewBox="0 0 %d %d" width="%d" height="%d" role="img" aria-label="Posição entre os municípios do Pantanal Norte"><line x1="6" x2="%d" y1="13" y2="13" stroke="#e5e7eb" stroke-width="2"/>%s%s%s</svg>',
           w, h, w, h, w - 6, mt, pts, eu)
@@ -145,18 +146,18 @@ svg_linhas <- function(series, fmt, titulo = "", w = 680, h = 260) {
     ok <- is.finite(s$y); o <- order(s$x); x <- s$x[o]; y <- s$y[o]; ok <- ok[o]
     if (sum(ok) == 0) return("")
     seg <- paste0(ifelse(c(TRUE, !ok[-length(ok)]) & ok, "M", "L")[ok], sprintf("%.1f %.1f", sx(x[ok]), sy(y[ok])), collapse = " ")
-    pts <- paste(sprintf('<circle cx="%.1f" cy="%.1f" r="%s" fill="%s"><title>%s · %d: %s</title></circle>',
+    pts <- paste(sprintf('<circle class="pt" cx="%.1f" cy="%.1f" r="%s" fill="%s" stroke="transparent" stroke-width="9" data-tip="%s · %d: %s"/>',
                          sx(x[ok]), sy(y[ok]), if (s$larg >= 2.5) "3" else "2.2", s$cor, esc(s$nome), as.integer(x[ok]),
                          fmt_valor(y[ok], fmt)), collapse = "")
-    sprintf('<path d="%s" fill="none" stroke="%s" stroke-width="%s" %s/>%s', seg, s$cor, s$larg,
-            if (nzchar(s$dash)) sprintf('stroke-dasharray="%s"', s$dash) else "", pts)
+    sprintf('<g class="serie"><path class="linha" d="%s" fill="none" stroke="%s" stroke-width="%s" %s data-tip="%s"/>%s</g>', seg, s$cor, s$larg,
+            if (nzchar(s$dash)) sprintf('stroke-dasharray="%s"', s$dash) else "", esc(s$nome), pts)
   }, character(1))
   series_leg <- Filter(function(s) !isFALSE(s$leg), series)
   if (length(series_leg) < length(series)) series_leg <- c(list(list(nome = "Municípios do PN-13 (um por linha)", cor = "#cfd8e6", larg = 1.5, dash = "")), series_leg)
   leg <- paste(vapply(series_leg, function(s) sprintf('<span class="leg-item"><svg width="22" height="8"><line x1="0" x2="22" y1="4" y2="4" stroke="%s" stroke-width="%s" %s/></svg>%s</span>',
                                                   s$cor, s$larg, if (nzchar(s$dash)) sprintf('stroke-dasharray="%s"', s$dash) else "", esc(s$nome)), character(1)), collapse = "")
-  sprintf('<figure class="grafico-svg"><svg viewBox="0 0 %d %d" width="100%%" role="img" aria-label="%s"><title>%s</title>%s%s%s%s</svg><figcaption class="legenda-svg">%s</figcaption></figure>',
-          w, h, esc(titulo), esc(titulo), grade, zero, eixo_x, paste(linhas, collapse = ""), leg)
+  sprintf('<figure class="grafico-svg"><svg viewBox="0 0 %d %d" width="100%%" role="img" aria-label="%s">%s%s%s%s</svg><figcaption class="legenda-svg">%s</figcaption></figure>',
+          w, h, esc(titulo), grade, zero, eixo_x, paste(linhas, collapse = ""), leg)
 }
 
 serie_mun_medianas <- function(id, mun_id, nome_mun) {
@@ -201,7 +202,7 @@ tabela_dim <- function(dim, mun_id, nome_mun) {
     nota <- if (!is.na(r$nota) && nzchar(r$nota)) sprintf(' <span class="nota-i" title="%s">ⓘ</span>', esc(r$nota)) else ""
     tibble(
       id = id,
-      Indicador = sprintf('<a href="%s">%s</a>%s<div class="sub">%s</div>', url_ind(id), esc(r$rotulo), nota, esc(r$unidade)),
+      Indicador = sprintf('<a href="%s">%s</a>%s%s<div class="sub">%s</div>', url_ind(id), esc(r$rotulo), selo_ost(r), nota, esc(r$unidade)),
       Valor = sprintf('<b>%s</b><div class="sub">%s</div>', fmt_valor(s$valor, r$fmt), ifelse(is.na(s$ano), "", s$ano)),
       Posicao = sprintf('%s<div class="sub">%s</div>', svg_posicao(s$vals_pn, as.character(mun_id), s$med_mt, r$fmt),
                         ifelse(is.na(s$pos), "", sprintf("%dº maior de %d", s$pos, s$n_pn))),
@@ -306,15 +307,15 @@ ranking_pn13 <- function(id, prefixo = "../municipios/") {
   w <- 680; lh <- 24; pl <- 190; pr <- 110; h <- nrow(u) * lh + 44
   vv <- u$valor * e$f; lim <- range(c(0, vv, s$med_pn * e$f, s$med_mt * e$f), na.rm = TRUE)
   sx <- function(x) pl + (x - lim[1]) / diff(lim) * (w - pl - pr)
-  barras <- paste(sprintf('<a href="%s%s.html"><text x="%d" y="%.1f" text-anchor="end" font-size="12" fill="#1f2937">%s</text></a><rect x="%.1f" y="%.1f" width="%.1f" height="%d" fill="%s"><title>%s: %s (%s)</title></rect><text x="%.1f" y="%.1f" font-size="11" fill="#374151">%s</text>',
+  barras <- paste(sprintf('<a href="%s%s.html"><text x="%d" y="%.1f" text-anchor="end" font-size="12" fill="#1f2937">%s</text></a><rect x="%.1f" y="%.1f" width="%.1f" height="%d" fill="%s" data-tip="%s: %s (%s)"/><text x="%.1f" y="%.1f" font-size="11" fill="#374151">%s</text>',
                           prefixo, u$slug, pl - 8, (seq_len(nrow(u)) - 1) * lh + 17, esc(u$municipio),
                           pmin(sx(0), sx(vv)), (seq_len(nrow(u)) - 1) * lh + 5, abs(sx(vv) - sx(0)), lh - 8, COR[["pn"]],
                           esc(u$municipio), fmt_valor(u$valor, r$fmt), u$ano,
                           pmax(sx(0), sx(vv)) + 5, (seq_len(nrow(u)) - 1) * lh + 17, fmt_valor(u$valor, r$fmt)), collapse = "")
   ref <- function(v, cor, rot, dy) if (is.finite(v)) sprintf('<line x1="%.1f" x2="%.1f" y1="0" y2="%d" stroke="%s" stroke-dasharray="4,3" stroke-width="1.5"/><text x="%.1f" y="%d" font-size="11" fill="%s" text-anchor="middle">%s</text>',
                                                           sx(v), sx(v), h - 26 + dy, cor, sx(v), h - 14 + dy, cor, rot) else ""
-  svg <- sprintf('<svg viewBox="0 0 %d %d" width="100%%" role="img" aria-label="Ranking dos municípios do Pantanal Norte"><title>%s — Pantanal Norte</title>%s%s%s</svg>',
-                 w, h, esc(r$rotulo), barras, ref(s$med_pn * e$f, COR[["pn"]], "mediana PN-13", 0), ref(s$med_mt * e$f, "#6b7280", "mediana MT", 13))
+  svg <- sprintf('<svg viewBox="0 0 %d %d" width="100%%" role="img" aria-label="Ranking dos municípios do Pantanal Norte">%s%s%s</svg>',
+                 w, h, barras, ref(s$med_pn * e$f, COR[["pn"]], "mediana PN-13", 0), ref(s$med_mt * e$f, "#6b7280", "mediana MT", 13))
   tagList(HTML(svg), if (length(sem)) p(class = "nota-fonte", "Sem registro no ano de referência: ", paste(sem, collapse = ", "), "."))
 }
 
@@ -358,7 +359,7 @@ resumo_dimensao <- function(dim, prefixo = "../indicadores/") {
       left_join(select(MUN, id_municipio, municipio), by = "id_municipio")
     s <- resumo_ind(id, PN[1])
     mx <- u[which.max(u$valor), ]; mn <- u[which.min(u$valor), ]
-    tibble(Indicador = sprintf('<a href="%s%s.html">%s</a><div class="sub">%s</div>', prefixo, id, esc(r$rotulo), esc(r$unidade)),
+    tibble(Indicador = sprintf('<a href="%s%s.html">%s</a>%s<div class="sub">%s</div>', prefixo, id, esc(r$rotulo), selo_ost(r), esc(r$unidade)),
            Ano = as.character(ano_ref(id)),
            `Mediana PN-13` = fmt_valor(s$med_pn, r$fmt), `Mediana MT` = fmt_valor(s$med_mt, r$fmt),
            Maior = if (nrow(mx)) sprintf("%s<div class='sub'>%s</div>", fmt_valor(mx$valor, r$fmt), esc(mx$municipio)) else "—",

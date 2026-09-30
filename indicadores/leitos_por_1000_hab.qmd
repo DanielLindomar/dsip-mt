@@ -1,0 +1,14 @@
+---
+title: "Leitos de hospedagem por mil habitantes"
+description: "D2 — por 1.000 hab.. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "leitos_por_1000_hab"
+```
+
+{{< include _indicador.qmd >}}
+

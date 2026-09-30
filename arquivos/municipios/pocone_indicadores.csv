@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,1.46
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,2.72
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,1.87
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,1.71
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,4.03
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,2.36
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,1.4
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,1.99
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,4.3
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,2.46
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,5.63
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,5.34
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,9.08
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,6.3
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,6.51
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,7.78
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,9.04
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,8.13
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,7.32
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,10.96
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,14.08
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,11.59
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,11.63
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,11.12
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,15.86
+5106505,Poconé,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,18.4
 5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,81192074.95
 5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,65926856.67
 5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,79055592.92
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,4757
 5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,4545
 5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,4924
+5106505,Poconé,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,3174
+5106505,Poconé,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,101.7
 5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,16.63
 5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,20.12
 5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,18.19
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2019,9.33
 5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2020,8.99
 5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2021,9.1
+5106505,Poconé,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,52.4
 5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,31.57
 5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,30.45
 5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,31.1
@@ -324,6 +353,33 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,211593.97
 5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,190246
 5106505,Poconé,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,196706.989114516
+5106505,Poconé,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,271
+5106505,Poconé,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,299
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,28
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2018,8
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2019,9
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,41
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,33
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,38
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,34
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,38
+5106505,Poconé,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,40
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,2721
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,1456
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,1335
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,3292
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,1214
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,3639
+5106505,Poconé,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,6001
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,84.4
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2018,0
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2019,0
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,43.7
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,39.99
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,105.46
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,38.89
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,116.38
+5106505,Poconé,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,192.32
 5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2004,5
 5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2005,0
 5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2008,3
@@ -400,6 +456,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,181317148
 5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,37732449
 5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,15546420
+5106505,Poconé,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,14093
+5106505,Poconé,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,14093
 5106505,Poconé,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-0.12
 5106505,Poconé,D3,gini,Índice de Gini,índice 0–1,1991,0.62
 5106505,Poconé,D3,gini,Índice de Gini,índice 0–1,2000,0.57
@@ -471,6 +529,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D3,populacao,População,habitantes,2023,31217
 5106505,Poconé,D3,populacao,População,habitantes,2024,31269
 5106505,Poconé,D3,populacao,População,habitantes,2025,31203
+5106505,Poconé,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,3.6
+5106505,Poconé,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,54.9
+5106505,Poconé,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,42.6
+5106505,Poconé,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,18
+5106505,Poconé,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,12
+5106505,Poconé,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,32
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,84.5
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,64.7
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,48.4
@@ -494,6 +558,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,75
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,98.8
 5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,102.5
+5106505,Poconé,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,49.5
 5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,73.28
 5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,71.21
 5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,48.84
@@ -648,7 +713,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2019,11.78
 5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2020,12.71
 5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2021,14.38
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2021,4
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2022,4
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2023,4
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2024,4
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2025,4
+5106505,Poconé,D5,agencias_bancarias,Agências bancárias,agências,2026,2
+5106505,Poconé,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,74.47
+5106505,Poconé,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,74.06
+5106505,Poconé,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,73.91
+5106505,Poconé,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,74.3
+5106505,Poconé,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,10.1
 5106505,Poconé,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,3613.6
+5106505,Poconé,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,54.9
+5106505,Poconé,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,58.17
+5106505,Poconé,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,57.64
+5106505,Poconé,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,50.67
 5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2004,55.7
 5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2005,67
 5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2006,66.8

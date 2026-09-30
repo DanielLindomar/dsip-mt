@@ -11,17 +11,17 @@ source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
 ::: {.faixa-versao}
-Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download são cópias fiéis das bases entregues, exceto pelo IFDM (ver nota ao final).
+Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download são cópias fiéis das bases entregues, exceto pelo IFDM (ver nota ao final). A seção final traz os dados complementares obtidos no Observatório do Sebrae.
 :::
 
 ## Explorador de indicadores
 
-A tabela traz o último valor de `r nrow(IND) - 1` indicadores para os 141 municípios de Mato Grosso. Ela abre filtrada no Pantanal Norte; use as listas para mudar o grupo, a dimensão, o indicador ou o município, e o botão para baixar o recorte em CSV. Para ver um indicador em mapa, use a página [Indicadores](../indicadores/index.qmd).
+A tabela traz o último valor de `r sum(IND$download == 1)` indicadores para os 141 municípios de Mato Grosso. Ela abre filtrada no Pantanal Norte; use as listas para mudar o grupo, a dimensão, o indicador ou o município, e o botão para baixar o recorte em CSV. Para ver um indicador em mapa, use a página [Indicadores](../indicadores/index.qmd).
 
 ```{r}
 DEC <- c(int = 0, dec1 = 1, dec2 = 2, dec3 = 3, pct1 = 1, pct2 = 2, brl = 0, brl_mil = 0, usd = 0)
 ex <- ULT$ultimos |>
-  filter(!grepl("^ifdm", indicador)) |>
+  filter(indicador %in% IND$id[IND$download == 1]) |>
   left_join(select(IND, indicador = id, dim, rotulo, unidade, fmt), by = "indicador") |>
   left_join(select(MUN, id_municipio, municipio, grupo), by = "id_municipio") |>
   mutate(grupo = recode(grupo, pantanal_norte = "Pantanal Norte", polo_metropolitano = "Polo Metropolitano",
@@ -111,3 +111,23 @@ reactable(fl, compact = TRUE, searchable = TRUE, defaultPageSize = 15, wrap = TR
 - **Uso da terra:** MapBiomas — citar a coleção conforme orientação do portal.
 - **Crédito rural (SICOR):** cobre cerca de 23,5% do crédito rural total; rotular como "crédito com recursos públicos".
 :::
+
+## Dados complementares (Observatório Sebrae)
+
+Bases coletadas em 30/09/2026 na API pública do [Observatório Setorial Territorial do Sebrae](https://observatorio.sebrae.com.br/) (OST) para os 141 municípios de Mato Grosso. Cobrem temas que a Fase I não coletou ou que tinham dados antigos: turismo, conectividade, empresas ativas recentes, agências bancárias, homicídios e ocupação no Censo 2022. Os indicadores escolhidos aparecem nos perfis municipais e nas páginas de indicador com o selo [OST]{.selo-ost}.
+
+```{r}
+dic_o <- ler(file.path(RAIZ, "arquivos", "dados", "sebrae", "dicionario_sebrae.csv"))
+arqs <- list.files(file.path(RAIZ, "arquivos", "dados", "sebrae"), "^sebrae_.*[.]csv$")
+info <- tibble(Arquivo = arqs) |>
+  left_join(dic_o |> group_by(arquivo) |> summarise(Fonte = first(fonte_original), `Variáveis` = n(), .groups = "drop"),
+            by = c("Arquivo" = "arquivo")) |>
+  mutate(Linhas = sapply(Arquivo, function(f) nrow(data.table::fread(file.path(RAIZ, "arquivos", "dados", "sebrae", f)))))
+reactable(info, compact = TRUE, striped = TRUE, pagination = FALSE,
+          columns = list(Arquivo = colDef(minWidth = 230, cell = function(v) a(href = paste0("../arquivos/dados/sebrae/", v), download = NA, v)),
+                         Fonte = colDef(minWidth = 200)))
+```
+
+- [Dicionário das variáveis (CSV)](../arquivos/dados/sebrae/dicionario_sebrae.csv) · [Descrição da coleta, cobertura e ressalvas (LEIA-ME)](../arquivos/dados/sebrae/LEIA-ME.md)
+- **Ressalvas:** as compras públicas (PNCP) cobrem só 27 municípios de MT e 4 do Pantanal Norte e não devem ser usadas para comparação; o Mapa do Turismo vai até 2019; os anos de 2026 são parciais; a agricultura familiar (CAF) não foi coletada porque o cubo estava fora do ar.
+- **Uso e citação:** os dados vêm de fontes oficiais (ANATEL, MTur, Receita Federal, Banco Central, MJSP/Sinesp, IBGE). Cite a fonte original e "via Observatório Sebrae (OST)". O **ISDEL** é um índice do próprio Sebrae: aparece nos perfis com citação ("© Sebrae"), mas não é oferecido para download.

@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,1.28
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,4.71
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,2.08
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,1.67
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,18.58
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,1.89
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,4.81
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,2.46
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,14.92
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,1.98
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,2.76
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,4.37
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,19.1
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,5.49
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,6.48
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,11.96
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,19.89
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,24.97
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,12.05
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,10.13
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,27.32
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,11.85
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,27.35
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,16.49
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,32.18
+5105234,Lambari D'Oeste,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,23.38
 5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,23098156.66
 5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,38465593.02
 5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,27112564.72
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,1426
 5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,1424
 5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,1436
+5105234,Lambari D'Oeste,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,526
+5105234,Lambari D'Oeste,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,112.8
 5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,10.18
 5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,10.88
 5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,12.73
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2019,17.14
 5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2020,20.14
 5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2021,18.29
+5105234,Lambari D'Oeste,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,46.8
 5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,14.52
 5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,11.5
 5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,10.18
@@ -324,6 +353,19 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,222909.53
 5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,225986
 5105234,Lambari D'Oeste,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
+5105234,Lambari D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,3
+5105234,Lambari D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,2
+5105234,Lambari D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,3
+5105234,Lambari D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,1
+5105234,Lambari D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,2
+5105234,Lambari D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,2
+5105234,Lambari D'Oeste,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,1
+5105234,Lambari D'Oeste,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,165
+5105234,Lambari D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,26.67
+5105234,Lambari D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,0
+5105234,Lambari D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,0
+5105234,Lambari D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,0
+5105234,Lambari D'Oeste,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,0
 5105234,Lambari D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2000,0
 5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
 5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
@@ -372,6 +414,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,1353605
 5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,1802000
 5105234,Lambari D'Oeste,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2000,0
+5105234,Lambari D'Oeste,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,4903
+5105234,Lambari D'Oeste,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,4903
 5105234,Lambari D'Oeste,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-1.01
 5105234,Lambari D'Oeste,D3,gini,Índice de Gini,índice 0–1,1991,0.55
 5105234,Lambari D'Oeste,D3,gini,Índice de Gini,índice 0–1,2000,0.51
@@ -440,6 +484,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2023,4790
 5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2024,4724
 5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2025,4662
+5105234,Lambari D'Oeste,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,3.7
+5105234,Lambari D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,0
+5105234,Lambari D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,0
+5105234,Lambari D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,0
+5105234,Lambari D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,0
+5105234,Lambari D'Oeste,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,0
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,21.3
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,67.3
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,161.6
@@ -463,6 +513,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,48.5
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,80.1
 5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,125.3
+5105234,Lambari D'Oeste,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,56.3
 5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,85.12
 5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,65.33
 5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,35.53
@@ -617,7 +668,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2019,58.55
 5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2020,58.23
 5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2021,60.31
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2021,0
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2022,0
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2023,0
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2024,0
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2025,0
+5105234,Lambari D'Oeste,D5,agencias_bancarias,Agências bancárias,agências,2026,0
+5105234,Lambari D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,57.61
+5105234,Lambari D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,56.55
+5105234,Lambari D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,56.3
+5105234,Lambari D'Oeste,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,58.99
+5105234,Lambari D'Oeste,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,17.28
 5105234,Lambari D'Oeste,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2591.9
+5105234,Lambari D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,44.37
+5105234,Lambari D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,48.14
+5105234,Lambari D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,50.16
+5105234,Lambari D'Oeste,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,41.32
 5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2005,19.8
 5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2006,22.6
 5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2008,64.4

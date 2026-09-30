@@ -1,0 +1,14 @@
+---
+title: "Agências bancárias"
+description: "D5 — agências. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "agencias_bancarias"
+```
+
+{{< include _indicador.qmd >}}
+
