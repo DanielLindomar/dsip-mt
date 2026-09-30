@@ -1,0 +1,786 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,72453854.73
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,76123212.64
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,59684443.49
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,25204613.59
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,46825429.92
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,54815294.32
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,21037838.08
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,35908972.59
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,38379932.59
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,21549447.6
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,28754993.74
+5107800,Santo Antônio do Leverger,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,14285907.05
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,11105
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,13688
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,10697
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,9121
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,3228
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,3035
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,2769
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,3126
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,3811
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,3946
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,3473
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,3621
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,3323
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,3243
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,2501
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,2511
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,2553
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,2490
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,2581
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,2222
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,2617
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,1758
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,2548
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,3190
+5107800,Santo Antônio do Leverger,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,3303
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,15.58
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,12.24
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,10.92
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,10.58
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,12.67
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,14.55
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,12.05
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,11.92
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,12.87
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,13.55
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,14.74
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,14.95
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,15.58
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,16.3
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,15.94
+5107800,Santo Antônio do Leverger,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,16.12
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2006,241
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2007,235
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2008,218
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2009,216
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2010,234
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2011,272
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2012,228
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2013,230
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2014,245
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2015,261
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2016,268
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2017,275
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2018,256
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2019,271
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2020,271
+5107800,Santo Antônio do Leverger,D1,numero_empresas,Empresas formais,empresas,2021,277
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2006,7.11448176236909
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2007,8.86116442738324
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2008,7.84570978745736
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2009,8.99645210339584
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2010,4.26144543622229
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2011,5.68903617785142
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2012,6.28949744207042
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2013,5.88960838729571
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2014,9.03638544582167
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2015,8.48267622461171
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2016,8.57814336075206
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2017,10.1204819277108
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2018,10.1123595505618
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2019,4.27542754275428
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2020,9.55292319449752
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2021,5.00568828213879
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2022,10.8320251177394
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2023,17.115987460815
+5107800,Santo Antônio do Leverger,D1,perc_superior,Empregados formais com ensino superior,%,2024,16.5607023917651
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,63.2
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,67.9
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,73.1
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,69.7
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,60.8
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,50.5
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,55.2
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,53
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,51.3
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,59.3
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,57.8
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,62.7
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,80.5
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,71.7
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,75.4
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,69.2
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,75.4
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,63.4
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,55.7
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,72.9
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,75.4
+5107800,Santo Antônio do Leverger,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,65.4
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2002,347986.6
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2003,447589.16
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2004,540201.66
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2005,482424.59
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2006,346430.61
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2007,415814.45
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2008,542686.94
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2009,524456.77
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2010,449603.94
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2011,585330.19
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2012,608648.09
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2013,686994.53
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2014,903000.71
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2015,792961.67
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2016,829389.11
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2017,751937.82
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2018,737976.51
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2019,614879.99
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2020,644536.47
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2021,974454.19
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2022,879244.26
+5107800,Santo Antônio do Leverger,D1,pib_real,PIB real,R$ mil de 2024,2023,774058.28
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,22530.7
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,28972.05
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,34944.15
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,31196.61
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,22395.15
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,21660.39
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,27183.27
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,25693.54
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,24351.61
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,31307.78
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,32167.86
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,35591.87
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,47451.43
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,41177.83
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,45605.9
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,40883.97
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,44908.21
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,36978.58
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,37916.15
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,56693.87
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,57670.48
+5107800,Santo Antônio do Leverger,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,50771.23
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,411000
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,425000
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,409191
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,387621
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,412535
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,435424
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,411175
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,409452
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,438777
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,462649
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,458011
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,471703
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,476909
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,490032
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,515738
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,542667
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,586963
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,549536
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,537652
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,524842
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,525760
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,522351
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,570434
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,593385
+5107800,Santo Antônio do Leverger,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,549713
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1526.84
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1550.37
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1560.96
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1475.83
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,1906.54
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,1951.46
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,1988.23
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2182.44
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,1896.82
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2058.89
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2202.92
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2343.91
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2701.76
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2656.11
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2741.37
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,2826.66
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,2919.44
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,2616.89
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,2759.03
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2282.99
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3209.5
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,2312.18
+5107800,Santo Antônio do Leverger,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,2289.11
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-185
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,230
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,-298
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,30
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,-58
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,-175
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,-147
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,-483
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-22
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,15
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,-27
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,-24
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,44
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,11
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,147
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,59
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,83
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,-57
+5107800,Santo Antônio do Leverger,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,30
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,24.63
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,18.63
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,15.35
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,19.15
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,30.56
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,30.68
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,25.57
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,27.69
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,31.69
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,24.62
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,24.01
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,23.38
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,17.47
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,22.34
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,20.98
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,23.14
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,21.9
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,26.43
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,25.78
+5107800,Santo Antônio do Leverger,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,15.78
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,41.12
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,55.82
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,47.74
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,54.36
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,36.93
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,42.36
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,51.99
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,47.53
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,41.15
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,48.92
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,56.54
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,54.92
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,62.26
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,54.16
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,55.13
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,49.44
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,49.86
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,42.52
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,50.55
+5107800,Santo Antônio do Leverger,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,65.09
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2002,11.9
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2003,8.1
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2004,19.45
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2005,6.44
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2006,6.25
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2007,4.14
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2008,4.55
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2009,6.76
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2010,7.36
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2011,8.09
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2012,5.15
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2013,4.51
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2014,6.2
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2015,6.68
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2016,6
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2017,9.04
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2018,7.93
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2019,9.72
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2020,7.82
+5107800,Santo Antônio do Leverger,D1,sh_ind_va,Participação da indústria no VAB,%,2021,7.22
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,22.35
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,17.45
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,17.45
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,20.05
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,26.26
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,22.82
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,17.88
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,18.02
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,19.79
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,18.37
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,14.3
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,17.18
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,14.07
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,16.82
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,17.89
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,18.38
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,20.31
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,21.33
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,15.85
+5107800,Santo Antônio do Leverger,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,11.91
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,100617.16
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,397776.02
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,498181.39
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,434607.24
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,200739.08
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,279516.49
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,507437.83
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,406535.43
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,224518.14
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,323863.73
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,347892.21
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,339950.16
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,375098.08
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,334761.87
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,466123.63
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,363991.84
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,465413.03
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,499802.04
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,462549.04
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,1275346.66
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,1322633.64
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,700088.84
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,767084.01
+5107800,Santo Antônio do Leverger,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,34447.8881907313
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2000,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2001,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2002,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2008,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2011,4
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2012,8
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2014,1
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2015,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2017,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2018,7
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2019,11
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2020,8
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2021,7
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2022,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2023,0
+5107800,Santo Antônio do Leverger,D2,n_destinos_exp,Países de destino das exportações,países,2024,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,1125911
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,17853873
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,15783753
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,6524237
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,4687149
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,2581474
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,4790416
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,4548019
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,4035318
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,5398907
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,15501497
+5107800,Santo Antônio do Leverger,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,15589000
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,537810
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,704108
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,787812
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,1139043
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,688310
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,769309
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,791060
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,940933
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,1243940
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1628784
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1212081
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,2341003
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,18936508
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,17011308
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,7497563
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,5286769
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,3048040
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,5104607
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,24025761
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,46818204
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,46752860
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,30557729
+5107800,Santo Antônio do Leverger,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,15913000
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2000,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2001,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2002,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2008,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2011,2608710
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2012,1860292
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2014,44562
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2015,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2017,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2018,3976948
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2019,6506911
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2020,3969401
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2021,1010677
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,0
+5107800,Santo Antônio do Leverger,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,0
+5107800,Santo Antônio do Leverger,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-0.61
+5107800,Santo Antônio do Leverger,D3,gini,Índice de Gini,índice 0–1,1991,0.49
+5107800,Santo Antônio do Leverger,D3,gini,Índice de Gini,índice 0–1,2000,0.62
+5107800,Santo Antônio do Leverger,D3,gini,Índice de Gini,índice 0–1,2010,0.49
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,2.7
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,3.8
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,3.3
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,3.8
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,3.9
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,3.7
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,4.3
+5107800,Santo Antônio do Leverger,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4.5
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,3.2
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,3.4
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,3.7
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,3.9
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,4.1
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,4.8
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,5.3
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,5.3
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,4.6
+5107800,Santo Antônio do Leverger,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.3
+5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,1970,0.328
+5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,1980,0.543
+5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,1991,0.52
+5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,2000,0.534
+5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,2010,0.656
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0.92
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0.88
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.12
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,10.34
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,10.78
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,9.81
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,8.89
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,8.22
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,9.03
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,8.15
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,8.24
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,9.22
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,12.99
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,13.97
+5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,13.35
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2000,15435
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2001,15436
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2002,15445
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2003,15449
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2004,15459
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2005,15464
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2006,15469
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2007,19197
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2008,19964
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2009,20412
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2010,18463
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2011,18696
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2012,18921
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2013,19302
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2014,19030
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2015,19257
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2016,18186
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2017,18392
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2018,16433
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2019,16628
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2020,16999
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2021,17188
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2022,15246
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2023,15246
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2024,16795
+5107800,Santo Antônio do Leverger,D3,populacao,População,habitantes,2025,16839
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,77.7
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,45.3
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,103.6
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,71.2
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,58.2
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,25.9
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,38.8
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,93.8
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,50.1
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,49
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,75.8
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,74.9
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,79.3
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,82.9
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,68.3
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,93.5
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,115.5
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,119.6
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,66.9
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,60.1
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,76.5
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,29.1
+5107800,Santo Antônio do Leverger,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,85.3
+5107800,Santo Antônio do Leverger,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,78.8
+5107800,Santo Antônio do Leverger,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,65.12
+5107800,Santo Antônio do Leverger,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,42.34
+5107800,Santo Antônio do Leverger,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,59.12
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,28.1
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,27.6
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,25.5
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,28.8
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,28.3
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,21.3
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,16.6
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,14.5
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,18.5
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,19.1
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,17.8
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,16.9
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,12.4
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,13.5
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,13.1
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,12.8
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,15.5
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,12.6
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,15.9
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,10.3
+5107800,Santo Antônio do Leverger,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,8.7
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,313.07
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,313.94
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,262.28
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,227.16
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,212.68
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,226.93
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,485.4
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,469.46
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,476.31
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,802.95
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1429.26
+5107800,Santo Antônio do Leverger,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1431.61
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,36.19
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,59.01
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,43.73
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,17.51
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,65.91
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,30.14
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,7.11
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,78
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,16.77
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,16.24
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,16.34
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,10.93
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,29.4
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,16.66
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,44.89
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,11.99
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,29.5
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,148.26
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,25.68
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,7
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,1079.97
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,3555.74
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,138.4
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,138.4
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,133.8
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,133.8
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,76
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,76
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,48.3
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,48.3
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,54.6000000000001
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,54.6000000000001
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,31.3
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,42.7000000000001
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,50.5999999999997
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,42.7000000000003
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,70.6000000000001
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,75.3999999999996
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,42.5
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,46.2000000000001
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,32.0999999999999
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,29.2000000000003
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,18.8
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,33.0999999999999
+5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,57.1000000000001
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,23.56
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,25.03
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,26.49
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,27.91
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,29.33
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,30.14
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,30.95
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,31.46
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,31.97
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,32.55
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,33.13
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,33.46
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,33.92
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,34.45
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,34.91
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,35.66
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,36.46
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,36.91
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,37.4
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,37.74
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,38.05
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,38.25
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,38.6
+5107800,Santo Antônio do Leverger,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,39.21
+5107800,Santo Antônio do Leverger,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1
+5107800,Santo Antônio do Leverger,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,3.66
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,75.8
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,74.33
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,72.86
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,71.44
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,70.02
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,69.22
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,68.41
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,67.9
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,67.38
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,66.8
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,66.23
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,65.89
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,65.44
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,64.9
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,64.45
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,63.7
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,62.9
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,62.45
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,61.96
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,61.62
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,61.31
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,61.11
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,60.76
+5107800,Santo Antônio do Leverger,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,60.15
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2000,23.09
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2001,23.85
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2002,24.92
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2003,25.99
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2004,26.57
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2005,27.93
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2006,29.01
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2007,29.39
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2008,29.18
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2009,29.26
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2010,29.07
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2011,30.14
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2012,30.47
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2013,30.83
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2014,31.04
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2015,31.12
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2016,31.13
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2017,31.07
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2018,31.65
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2019,31.76
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2020,32.72
+5107800,Santo Antônio do Leverger,D4,taxa_antropizacao,Taxa de antropização,%,2021,34.23
+5107800,Santo Antônio do Leverger,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2191.7
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2005,72.8
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2006,72.7
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2012,59.1
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2020,67.7
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2021,67.6
+5107800,Santo Antônio do Leverger,D5,idx_atend_agua_total,População atendida com água,%,2022,90.1
+5107800,Santo Antônio do Leverger,D5,idx_coleta_esgoto,Esgoto coletado,%,2005,7.5
+5107800,Santo Antônio do Leverger,D5,idx_coleta_esgoto,Esgoto coletado,%,2006,7.5
+5107800,Santo Antônio do Leverger,D5,idx_coleta_esgoto,Esgoto coletado,%,2012,3.2
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2005,0
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,0
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2012,27.8
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,29.8
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,40.5
+5107800,Santo Antônio do Leverger,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,40.4
+5107800,Santo Antônio do Leverger,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,98.58
+5107800,Santo Antônio do Leverger,D5,perc_pavimentado,Malha viária pavimentada,%,,98.1
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,3.26
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,2.88
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,4.81
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,3.26
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,3.55
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,7.09
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,8.57
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,6.74
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,12.27
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1998,11.22
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1999,17.89
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2000,15.39
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,16.69
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,17.78
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,9.95
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,6.39
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,9.91
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,10.69
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,10.18
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,15.14
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,10.86
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,0
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,7.94
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,13.72
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,10.09
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,10.97
+5107800,Santo Antônio do Leverger,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,9.96
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,26.61
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,55.1
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,65.29
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,59.78
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,49.69
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,37.93
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,45.8
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,37.3
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,36.96
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1998,33.34
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,36.91
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,34.74
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,26.21
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,31.76
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,28.14
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,33.96
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,34.82
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,34.23
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,37.69
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,29.99
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,33.25
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,100
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,28.7
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,26.72
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,21.68
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,24.45
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,54.71
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,100.04
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,96.68
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,93.44
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,106.22
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,104.84
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,203.68
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,195.48
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,194.95
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,94.58
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1998,86.35
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1999,80.67
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2000,83.01
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,82.49
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,78.97
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,83.98
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,91.53
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,85.56
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,85.18
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,84.58
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,62.36
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,82.5
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,100
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,88.16
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,84
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,88.97
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,85.23
+5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,84.12
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2013,2640
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,3426.27
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,3752.88
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,3953.33
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,3768.95
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,4036.25
+5107800,Santo Antônio do Leverger,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,5247.72
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2013,23.66
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,22.86
+5107800,Santo Antônio do Leverger,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,33.34
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2013,35.75
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,0
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,40.64
+5107800,Santo Antônio do Leverger,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,32.81
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,2037.25
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,2116.18
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,2068.05
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,2292.63
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,2434.36
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,2084.09
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,3286.64
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,3001.37
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,3375.86
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,4186.5
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,4581.31
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,4965.8
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,5269.29
+5107800,Santo Antônio do Leverger,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,5491.89

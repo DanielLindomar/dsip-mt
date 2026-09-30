@@ -1,0 +1,790 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,23098156.66
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,38465593.02
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,27112564.72
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,19200289.23
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,25240992.67
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,38908080.09
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,11769427.76
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,17025824.61
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,37848418.17
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,22134299.38
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,21551835.99
+5105234,Lambari D'Oeste,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,12521209.23
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,299
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,391
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,424
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,548
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,619
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,812
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,1639
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,1121
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,1001
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,1038
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,1130
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,1128
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,1200
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,1156
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,1196
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,1167
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,1139
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,1129
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,1228
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,1143
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,1140
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,1260
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,1426
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,1424
+5105234,Lambari D'Oeste,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,1436
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,10.18
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,10.88
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,12.73
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,13.44
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,13.44
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,13.29
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,12.25
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,11.16
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,12.09
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,12.14
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,12.18
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,12.74
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,11.39
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,12.74
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,14.06
+5105234,Lambari D'Oeste,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,14.41
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2006,36
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2007,53
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2008,64
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2009,68
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2010,73
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2011,73
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2012,68
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2013,63
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2014,69
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2015,70
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2016,71
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2017,75
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2018,69
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2019,78
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2020,87
+5105234,Lambari D'Oeste,D1,numero_empresas,Empresas formais,empresas,2021,90
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2006,4.33190970103722
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2007,5.44157002676182
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2008,5.99400599400599
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2009,6.74373795761079
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2010,5.84070796460177
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2011,6.47163120567376
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2012,8.5
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2013,7.35294117647059
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2014,7.19063545150502
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2015,10.7969151670951
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2016,10.1843722563652
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2017,11.6031886625332
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2018,9.69055374592834
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2019,10.2362204724409
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2020,9.82456140350877
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2021,11.6666666666667
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2022,11.5007012622721
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2023,14.8174157303371
+5105234,Lambari D'Oeste,D1,perc_superior,Empregados formais com ensino superior,%,2024,13.7186629526462
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,119.8
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,123.1
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,120.3
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,114.5
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,176
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,106.5
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,92.7
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,91.7
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,152.8
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,115.3
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,107.3
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,106.4
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,101.5
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,103.8
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,80.4
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,98.3
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,78.5
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,102.6
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,71.9
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,59.9
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,81.6
+5105234,Lambari D'Oeste,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,79.5
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2002,184893.57
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2003,219844.11
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2004,222858.52
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2005,189694.85
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2006,229233.35
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2007,222566.72
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2008,229508.66
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2009,224703.31
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2010,393972.71
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2011,334598.95
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2012,331620.16
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2013,341230.08
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2014,341631.44
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2015,343614.53
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2016,283729.46
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2017,341807.19
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2018,283037.17
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2019,366230.48
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2020,302510.41
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2021,291071.19
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2022,298617.02
+5105234,Lambari D'Oeste,D1,pib_real,PIB real,R$ mil de 2024,2023,295814.22
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,42680.87
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,52544
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,57497.05
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,51213.52
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,64846.77
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,45701.59
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,45664.27
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,44407.77
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,72541.46
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,60924.78
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,59751.37
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,60426.79
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,59851.33
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,59582.9
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,48658.8
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,58061.35
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,46713.51
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,59831.81
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,48902.44
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,46601.2
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,62341.76
+5105234,Lambari D'Oeste,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,61756.63
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,96000
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,115024
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,112419
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,141636
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,147503
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,152205
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,139965
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,121704
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,113456
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,125421
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,136214
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,137228
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,134034
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,125852
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,136430
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,142010
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,149114
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,143711
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,155106
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,163754
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,161266
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,157282
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,186920
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,177888
+5105234,Lambari D'Oeste,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,159272
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1856.67
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1897.51
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1856.76
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,2041.74
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,2278.09
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,2316.05
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,2423.03
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2646.81
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,2427.21
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2533.42
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2762.87
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2923.37
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2980.09
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2967.93
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,3103.58
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,3167.27
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,3118.62
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,3114.05
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,2909.58
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2768.71
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,2882.94
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,2652.99
+5105234,Lambari D'Oeste,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,2847.81
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-1581
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,-150
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,-87
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,-29
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,-225
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,29
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,4
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,47
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-71
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,17
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,-44
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,-259
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,-19
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,7
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,125
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,60
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,0
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,21
+5105234,Lambari D'Oeste,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,383
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,16.1
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,12.58
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,10.79
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,13.13
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,12.34
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,17.23
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,19.03
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,19.04
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,12.65
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,15.62
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,15.89
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,15.57
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,15.8
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,16
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,20.79
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,19.42
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,24.94
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,17.98
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,19.7
+5105234,Lambari D'Oeste,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,18.67
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,51.19
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,56.95
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,57.01
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,52.51
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,52.52
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,50.48
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,51.89
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,56.24
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,55.57
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,59.44
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,58.13
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,65.58
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,57.32
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,53.23
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,37.83
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,38.71
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,49.6
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,53.12
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,48.38
+5105234,Lambari D'Oeste,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,51.8
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2002,18.19
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2003,18.97
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2004,22.02
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2005,23.11
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2006,20.48
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2007,18.47
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2008,16.63
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2009,12.04
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2010,14.67
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2011,5.81
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2012,9.85
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2013,3.35
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2014,10.62
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2015,15.43
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2016,24.35
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2017,25.64
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2018,10.12
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2019,17.14
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2020,20.14
+5105234,Lambari D'Oeste,D1,sh_ind_va,Participação da indústria no VAB,%,2021,18.29
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,14.52
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,11.5
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,10.18
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,11.25
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,14.66
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,13.82
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,12.45
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,12.69
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,17.11
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,19.13
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,16.13
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,15.5
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,16.27
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,15.33
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,17.03
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,16.23
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,15.34
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,11.76
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,11.78
+5105234,Lambari D'Oeste,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,11.24
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,155756.87
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,175638.76
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,199094.76
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,168699.04
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,280906.46
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,218781.03
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,206329.14
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,226657.4
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,201959.16
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,198321.85
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,200585.79
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,248479.03
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,230360.72
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,216458.13
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,114911.6
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,138687.45
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,147772.11
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,223633.8
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,175543.43
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,194842.82
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,188591.65
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,222909.53
+5105234,Lambari D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,225986
+5105234,Lambari D'Oeste,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
+5105234,Lambari D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2000,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,0
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,3003047
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,3072818
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,642985
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,442129
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,667719
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,703254
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,69735
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,79417
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,178189
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,362498
+5105234,Lambari D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,282000
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,492703
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,396061
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,376136
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,947323
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,564908
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,844936
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,1160875
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,1213804
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,981011
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1360097
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1547463
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,1291267
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,4271078
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,4572290
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,1917157
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,1472319
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,4377890
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,3056347
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,2473706
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,738925
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,3965790
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,1353605
+5105234,Lambari D'Oeste,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,1802000
+5105234,Lambari D'Oeste,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2000,0
+5105234,Lambari D'Oeste,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-1.01
+5105234,Lambari D'Oeste,D3,gini,Índice de Gini,índice 0–1,1991,0.55
+5105234,Lambari D'Oeste,D3,gini,Índice de Gini,índice 0–1,2000,0.51
+5105234,Lambari D'Oeste,D3,gini,Índice de Gini,índice 0–1,2010,0.48
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,2.9
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.2
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,4.1
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,3.3
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,3.9
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,4.1
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.3
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4.4
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,4.7
+5105234,Lambari D'Oeste,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4.5
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,2.7
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,3.3
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,4
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,4
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,4.1
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,4.7
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,4.7
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,5.4
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,5.1
+5105234,Lambari D'Oeste,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.4
+5105234,Lambari D'Oeste,D3,idhm,IDHM,índice 0–1,2000,0.472
+5105234,Lambari D'Oeste,D3,idhm,IDHM,índice 0–1,2010,0.627
+5105234,Lambari D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0
+5105234,Lambari D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0
+5105234,Lambari D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0
+5105234,Lambari D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,7.92
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,8.11
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,7.94
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,8.33
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,8.41
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,8.15
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,7.84
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,7.47
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,7.43
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,13.67
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,13.07
+5105234,Lambari D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,12.32
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2000,4690
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2001,4456
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2002,4332
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2003,4184
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2004,3876
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2005,3704
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2006,3535
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2007,4870
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2008,5026
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2009,5060
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2010,5431
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2011,5492
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2012,5550
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2013,5647
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2014,5708
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2015,5767
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2016,5831
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2017,5887
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2018,6059
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2019,6121
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2020,6186
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2021,6246
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2022,4790
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2023,4790
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2024,4724
+5105234,Lambari D'Oeste,D3,populacao,População,habitantes,2025,4662
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,21.3
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,67.3
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,161.6
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,23.9
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,180.6
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,108
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,84.9
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,123.2
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,119.4
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,98.8
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,55.2
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,109.2
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,90.1
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,70.8
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,87.6
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,104
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,0
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,17
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,33
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,16.3
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,48.5
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,80.1
+5105234,Lambari D'Oeste,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,125.3
+5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,85.12
+5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,65.33
+5105234,Lambari D'Oeste,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,35.53
+5105234,Lambari D'Oeste,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,61.86
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,14.5
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,8.9
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,18.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,14.8
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,21.4
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,28.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,41.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,35.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,25.4
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,9
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,18.9
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,13.6
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,19
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,15.6
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,21.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,19.1
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,8.1
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,8.1
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,4.1
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,4.3
+5105234,Lambari D'Oeste,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,9.2
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,243.18
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,284.2
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,275.43
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,284.94
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,280.89
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,246.05
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,470.75
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,454.41
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,462.34
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,930.6
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1430.93
+5105234,Lambari D'Oeste,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1502.62
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,51.98
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,73.45
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,58.76
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,27.69
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,33.9
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,20.34
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,11.87
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,20.91
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,3.96
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,15.26
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,14.13
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,8.48
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,17.52
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,10.74
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,14.69
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,8.48
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,4.52
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,14.13
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,9.04
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.22
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,279.11
+5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,719.25
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,12.6
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,30.5000000000001
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,8.6
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,3.89999999999996
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,24.1000000000001
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,4.19999999999982
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,1.60000000000018
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,1.8
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,1
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,0.799999999999955
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,1.20000000000005
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,0.699999999999818
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,0
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,0.5
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,2.10000000000014
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,1.39999999999986
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,1.10000000000014
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,0.5
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,0.5
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,0.399999999999864
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,0.700000000000046
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,0.600000000000136
+5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,2.29999999999995
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,61
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,61.71
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,63.43
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,63.92
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,64.14
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,65.5
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,65.74
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,65.83
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,65.93
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,65.99
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,66.03
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,66.1
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,66.14
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,66.14
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,66.17
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,66.29
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,66.37
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,66.43
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,66.46
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,66.48
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,66.51
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,66.55
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,66.58
+5105234,Lambari D'Oeste,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,66.71
+5105234,Lambari D'Oeste,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,3.7
+5105234,Lambari D'Oeste,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,0
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,28.97
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,28.26
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,26.53
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,26.05
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,25.83
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,24.46
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,24.23
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,24.14
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,24.04
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,23.98
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,23.93
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,23.87
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,23.83
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,23.83
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,23.8
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,23.68
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,23.6
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,23.54
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,23.51
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,23.48
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,23.46
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,23.42
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,23.39
+5105234,Lambari D'Oeste,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,23.26
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2000,56.41
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2001,56.44
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2002,58.37
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2003,58.76
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2004,57.81
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2005,58.45
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2006,58.55
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2007,59.22
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2008,59.55
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2009,59.73
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2010,59.73
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2011,60.5
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2012,60.34
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2013,60.49
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2014,60.84
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2015,59.79
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2016,59.19
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2017,59.31
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2018,58.98
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2019,58.55
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2020,58.23
+5105234,Lambari D'Oeste,D4,taxa_antropizacao,Taxa de antropização,%,2021,60.31
+5105234,Lambari D'Oeste,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2591.9
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2005,19.8
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2006,22.6
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2008,64.4
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2009,64
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2010,100
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2011,98.9
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2012,97.9
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2013,53.3
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2014,53.3
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2015,53.3
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2020,100
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2021,99
+5105234,Lambari D'Oeste,D5,idx_atend_agua_total,População atendida com água,%,2022,100
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2005,16.4
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,11
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2008,35
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,35
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2010,31.5
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2011,27.5
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2012,20.5
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2013,58.3
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2014,38.1
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2015,38.1
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,65.6
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,65.6
+5105234,Lambari D'Oeste,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,65.6
+5105234,Lambari D'Oeste,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,99.23
+5105234,Lambari D'Oeste,D5,perc_pavimentado,Malha viária pavimentada,%,,24.5
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,0.57
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,2.98
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,1.86
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,1.18
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,1.04
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1998,2.15
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,2.86
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,3.87
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,9.22
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,5.9
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,6.29
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,6.11
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,3.74
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,3.94
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,4.48
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,3.76
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,8.82
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2012,5.96
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,7.2
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,8.82
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,5.2
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,2.01
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,9.29
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,7.67
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,7.97
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,4.53
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,5.06
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,7.14
+5105234,Lambari D'Oeste,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,6.65
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,68.83
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,47.17
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,49.62
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,45.7
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,46
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1998,39.17
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,38.94
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,38.05
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,42.83
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,42
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,48.83
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,46.51
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,44.92
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,41.36
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,26.33
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,38.97
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,40.31
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,38.5
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,32.59
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,31.48
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,29.36
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,31.59
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,30.42
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,28.62
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,28.49
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,24.52
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,26.77
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,53.38
+5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,51.56
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,99.3
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,178.65
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,199.82
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,206.51
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,99.69
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1998,98.14
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,96.21
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,95.37
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,90.45
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,92.39
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,92.73
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,90.23
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,90.04
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,92.23
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,91.47
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,90.7
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,84.43
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2012,84.06
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,87.95
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,87.18
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,86.56
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,88.08
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,85.92
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,87.01
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,87.19
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,91.32
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,90.36
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,87.27
+5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,88.33
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2013,4544.05
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,5150.11
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,4631.34
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,5416.64
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,4988.65
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,5011.28
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,4948.11
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,5021.17
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,5585.4
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,9561.78
+5105234,Lambari D'Oeste,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,9290.7
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2013,28.52
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,25.86
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,24.11
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,26
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,26.98
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,24.62
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,26.31
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,21.33
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,21.64
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,24.4
+5105234,Lambari D'Oeste,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,24.06
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2013,26.75
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,31.64
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,27.33
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,24.42
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,26.98
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,29.71
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,29.53
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,29.19
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,29.08
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,25.02
+5105234,Lambari D'Oeste,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,23.73
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,2957.91
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,3494.26
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,4027
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,4202.97
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,5055.03
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,4465.27
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,5095.19
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,5126.75
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,4780.23
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,5248.5
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2012,5270.89
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,5234.08
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,5346.68
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,5275.28
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,5486.67
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,5338.01
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,5693.96
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,5835.9
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,6032.72
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,6623.17
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,10284.86
+5105234,Lambari D'Oeste,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,10486.1

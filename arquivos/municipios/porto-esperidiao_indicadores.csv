@@ -1,0 +1,846 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,59875587.65
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,71487595.7
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,69368287.1
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,54848225.37
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,84270881.42
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,97870765.78
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,72468352.73
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,69529501.26
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,89458344.97
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,102487449.93
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,69282986.64
+5106828,Porto Esperidião,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,91668928.46
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,961
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,534
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,479
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,690
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,1034
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,872
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,1048
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,990
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,1285
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,1492
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,1414
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,1224
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,1343
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,1246
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,1340
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,1433
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,1389
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,1537
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,1605
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,1643
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,1700
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,1604
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,1856
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,1682
+5106828,Porto Esperidião,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,1670
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,10.06
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,13.64
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,11.85
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,14.21
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,11.69
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,12.24
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,8.04
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,9.1
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,11.67
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,11.69
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,12.4
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,8.96
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,9.8
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,10.15
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,11.08
+5106828,Porto Esperidião,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,13.06
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2006,111
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2007,131
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2008,117
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2009,140
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2010,129
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2011,136
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2012,90
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2013,103
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2014,133
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2015,134
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2016,143
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2017,104
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2018,117
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2019,122
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2020,134
+5106828,Porto Esperidião,D1,numero_empresas,Empresas formais,empresas,2021,159
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2006,6.96564885496183
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2007,7.37373737373737
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2008,3.50194552529183
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2009,7.9088471849866
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2010,4.5968882602546
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2011,6.61764705882353
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2012,7.22263588979896
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2013,10.9951845906902
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2014,10.7462686567164
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2015,9.6301465457083
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2016,9.07127429805616
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2017,10.0195185426155
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2018,11.8380062305296
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2019,11.9902617163725
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2020,14.7647058823529
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2021,13.2793017456359
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2022,15.0323275862069
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2023,16.9441141498216
+5106828,Porto Esperidião,D1,perc_superior,Empregados formais com ensino superior,%,2024,16.5269461077844
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,49.2
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,54.3
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,48.4
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,48.7
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,60.1
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,62.2
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,60.1
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,64.9
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,61.1
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,52.2
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,48
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,45.6
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,44
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,46.4
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,45.8
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,43.4
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,46.8
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,44.6
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,39
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,38.7
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,38.4
+5106828,Porto Esperidião,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,42.5
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2002,180604.08
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2003,241817.51
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2004,247833.85
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2005,236977.61
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2006,244363.55
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2007,256502.66
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2008,292157.95
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2009,309562.53
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2010,319972.52
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2011,306729.21
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2012,298829.98
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2013,292795.95
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2014,295549.53
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2015,305400.21
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2016,319888.21
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2017,297377.19
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2018,332427.21
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2019,312800.72
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2020,321147.9
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2021,366669.52
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2022,299359.08
+5106828,Porto Esperidião,D1,pib_real,PIB real,R$ mil de 2024,2023,336941.3
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,17546.29
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,23184.82
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,23121
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,21783.04
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,22138.4
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,26702.33
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,29597.6
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,31427.68
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,29006.67
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,27605.91
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,26709.87
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,25872.22
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,25943.59
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,26639.94
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,27731.97
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,25629.34
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,27853.14
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,26029.84
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,26547.74
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,30114.13
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,29337.42
+5106828,Porto Esperidião,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,33020.5
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,284511
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,338859
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,410628
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,493669
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,496594
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,514515
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,495563
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,465265
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,435804
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,445110
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,489942
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,525133
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,497843
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,524010
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,574404
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,582443
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,585925
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,555932
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,547359
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,553108
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,531943
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,562410
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,631541
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,663778
+5106828,Porto Esperidião,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,599543
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1570.24
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1521.05
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1663.04
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1959.15
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,1902.45
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,2057.19
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,2094.86
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2172.01
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,2170.93
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2276.3
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2580.66
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2659.93
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2679.51
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2606.29
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2817.76
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,3161.4
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,3207.13
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,3143.63
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,3026.82
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2977.04
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3243.17
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3003.31
+5106828,Porto Esperidião,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3009.1
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-62
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,119
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,33
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,-33
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,-7
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,1
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,40
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,24
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-57
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,85
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,47
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,41
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,30
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,39
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,45
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,-31
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,23
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,-64
+5106828,Porto Esperidião,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,4
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,33.93
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,26.43
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,26.97
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,30.76
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,31.94
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,31.21
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,27.61
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,26.76
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,28.44
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,30.75
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,33.23
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,36.09
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,36.06
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,35.75
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,36.57
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,38.85
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,35.46
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,36.98
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,35.89
+5106828,Porto Esperidião,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,28.79
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,45.84
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,50.42
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,51.29
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,45.71
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,28.06
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,32.96
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,36.42
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,32.23
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,33.72
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,42.1
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,36.16
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,33.41
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,33.86
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,32.59
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,34.42
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,26.52
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,21.67
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,22.36
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,31.27
+5106828,Porto Esperidião,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,38.16
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2002,2.12
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2003,1.57
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2004,1.3
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2005,0.88
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2006,15.71
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2007,10.71
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2008,11.85
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2009,14.41
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2010,16.42
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2011,4.86
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2012,5.69
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2013,5.92
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2014,5.21
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2015,5.95
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2016,7.01
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2017,9.47
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2018,19.27
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2019,17.2
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2020,11.35
+5106828,Porto Esperidião,D1,sh_ind_va,Participação da indústria no VAB,%,2021,15.46
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,18.11
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,21.58
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,20.44
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,22.64
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,24.29
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,25.13
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,24.13
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,26.59
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,21.42
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,22.29
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,24.92
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,24.58
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,24.87
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,25.71
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,22
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,25.16
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,23.6
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,23.45
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,21.48
+5106828,Porto Esperidião,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,17.59
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,30800.29
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,48550
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,48038.9
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,36184.31
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,27297.44
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,46520.56
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,36081.39
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,38847.12
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,47019.52
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,49772.6
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,46754.45
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,54621.02
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,71898.32
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,50326.29
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,53153.74
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,37354.97
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,45178.81
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,68095.93
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,84094.32
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,86354.8
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,131323.19
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,163691.31
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,83980.99
+5106828,Porto Esperidião,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,55785.4276189442
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2005,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2006,2
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2007,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2008,4
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2009,4
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2010,4
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2012,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2013,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2014,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2015,2
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2016,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2017,3
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2018,4
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2019,4
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2020,2
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2021,3
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2022,2
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2023,1
+5106828,Porto Esperidião,D2,n_destinos_exp,Países de destino das exportações,países,2024,2
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,0
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,3748124
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,1611068
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,2238651
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,2670114
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,2304888
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,2206025
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,505899
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,395935
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,849657
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,800429
+5106828,Porto Esperidião,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,886000
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,1183181
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,1546523
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,1936952
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,1900285
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,1472599
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,1462992
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,1469462
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,3034509
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,2154248
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1834985
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1814199
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,2411605
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,7653658
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,4550285
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,12374519
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,3763878
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,3612388
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,3679382
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,4702705
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,1569929
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,1247323
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,14484198
+5106828,Porto Esperidião,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,5337000
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2005,751706
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2006,39404085
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2007,73166321
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2008,68558326
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2009,79084895
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2010,40624190
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2012,112789
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2013,166697
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2014,278449
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2015,1203457
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2016,2494153
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2017,9649180
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2018,22496502
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2019,19688795
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2020,9921061
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2021,17188742
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,6696765
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,87029
+5106828,Porto Esperidião,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,54476
+5106828,Porto Esperidião,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-0.59
+5106828,Porto Esperidião,D3,gini,Índice de Gini,índice 0–1,1991,0.59
+5106828,Porto Esperidião,D3,gini,Índice de Gini,índice 0–1,2000,0.63
+5106828,Porto Esperidião,D3,gini,Índice de Gini,índice 0–1,2010,0.59
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,3.3
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.3
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,4.4
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,4.5
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,4
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,4.6
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.6
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4.5
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,4.6
+5106828,Porto Esperidião,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4.6
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,3.6
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,4.3
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,4.8
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,5.3
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,5
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,5.5
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,5.3
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,5.6
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,5.4
+5106828,Porto Esperidião,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.2
+5106828,Porto Esperidião,D3,idhm,IDHM,índice 0–1,1991,0.556
+5106828,Porto Esperidião,D3,idhm,IDHM,índice 0–1,2000,0.478
+5106828,Porto Esperidião,D3,idhm,IDHM,índice 0–1,2010,0.652
+5106828,Porto Esperidião,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0
+5106828,Porto Esperidião,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0
+5106828,Porto Esperidião,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0.33
+5106828,Porto Esperidião,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0.39
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,9.45
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,9.34
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,8.17
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,6.72
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,5.27
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,4.52
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,4.04
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,4.29
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,4.58
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,7.73
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,9.67
+5106828,Porto Esperidião,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,11.2
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2000,9996
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2001,10217
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2002,10293
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2003,10430
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2004,10719
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2005,10879
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2006,11038
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2007,9606
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2008,9871
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2009,9850
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2010,11031
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2011,11111
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2012,11188
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2013,11317
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2014,11392
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2015,11464
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2016,11535
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2017,11603
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2018,11935
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2019,12017
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2020,12097
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2021,12176
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2022,10204
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2023,10204
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2024,10167
+5106828,Porto Esperidião,D3,populacao,População,habitantes,2025,10088
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,80
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,68.5
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,106.9
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,38.4
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,102.6
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,55.2
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,45.3
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,62.5
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,101.3
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,142.1
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,72.5
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,90
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,98.3
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,114.9
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,61.4
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,96
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,78
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,86.2
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,92.2
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,74.9
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,148.8
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,90.3
+5106828,Porto Esperidião,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,58.8
+5106828,Porto Esperidião,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,74.63
+5106828,Porto Esperidião,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,65.08
+5106828,Porto Esperidião,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,49.22
+5106828,Porto Esperidião,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,52.26
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,22.9
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,24.7
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,25.3
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,17.7
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,20.8
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,19.6
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,21.9
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,15.6
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,8.4
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,10.4
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,10.4
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,17.5
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,24.9
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,24.3
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,23.3
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,16.8
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,15.4
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,19.2
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,16.9
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,18.8
+5106828,Porto Esperidião,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,12.5
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,293.39
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,280.64
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,223.31
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,172.55
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,130.24
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,110.36
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,374.54
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,370.13
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,356.12
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,603.66
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1142.41
+5106828,Porto Esperidião,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1333.15
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,46.52
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,67.36
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,35.66
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,34.28
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,45.14
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,27.91
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,11.2
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,66.5
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,8.96
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,12.06
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,12.06
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,16.19
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,21.36
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,15.16
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,14.99
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,14.64
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,31.35
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,17.23
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,11.37
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.2
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,203.46
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,350.42
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,32.2
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,32.4
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,52.7000000000001
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,19.4
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,13.9
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,9.59999999999997
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,4.69999999999999
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,11.2
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,13.2
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,18.5
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,14.1
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,8
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,7.60000000000002
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,2.39999999999998
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,11.1
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,7.99999999999994
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,3.10000000000008
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,3.7999999999999
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,10.6000000000001
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,9.39999999999998
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,5.39999999999998
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,3.29999999999995
+5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,6.2000000000001
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,11.37
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,11.93
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,12.49
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,13.39
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,13.73
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,13.97
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,14.13
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,14.21
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,14.41
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,14.63
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,14.95
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,15.2
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,15.33
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,15.46
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,15.51
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,15.7
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,15.83
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,15.89
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,15.95
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,16.14
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,16.3
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,16.39
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,16.45
+5106828,Porto Esperidião,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,16.55
+5106828,Porto Esperidião,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1.2
+5106828,Porto Esperidião,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,9.61
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,9.06
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,8.51
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,7.95
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,7.04
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,6.71
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,6.47
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,6.3
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,6.22
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,6.03
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,5.8
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,5.48
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,5.24
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,5.1
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,4.97
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,4.93
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,4.74
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,4.6
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,4.55
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,4.48
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,4.3
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,4.14
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,4.04
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,3.99
+5106828,Porto Esperidião,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,3.88
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2000,60.35
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2001,61.32
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2002,61.73
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2003,63.68
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2004,64.12
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2005,64.03
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2006,64.72
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2007,65.67
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2008,66.83
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2009,68.32
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2010,69.09
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2011,68.31
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2012,67.06
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2013,67.76
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2014,68.54
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2015,68.22
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2016,66.96
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2017,66.24
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2018,67.44
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2019,69
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2020,69.07
+5106828,Porto Esperidião,D4,taxa_antropizacao,Taxa de antropização,%,2021,62.64
+5106828,Porto Esperidião,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2100.4
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2007,63.5
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2009,70.9
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2013,38.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2014,52.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2015,50
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2016,49.2
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2017,48.4
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2018,49.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2019,38.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2020,38.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2021,38.1
+5106828,Porto Esperidião,D5,idx_atend_agua_total,População atendida com água,%,2022,40.3
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2014,5.4
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2015,23.7
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2016,39.3
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2017,32.4
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2018,31.9
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2019,42.6
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2020,46.8
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2021,49.4
+5106828,Porto Esperidião,D5,idx_coleta_esgoto,Esgoto coletado,%,2022,45
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2007,18.3
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,0
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2013,42.1
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2014,37.3
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2015,38.6
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2016,31.3
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2017,30.9
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2018,26.4
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2019,22.1
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,29.9
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,27.6
+5106828,Porto Esperidião,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,32.9
+5106828,Porto Esperidião,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,97.56
+5106828,Porto Esperidião,D5,perc_pavimentado,Malha viária pavimentada,%,,37.5
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,0.24
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,0.42
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,0.47
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,0.42
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,0.21
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,5.12
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,4.4
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,2.49
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,3.44
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2000,6.16
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,4.11
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,3.92
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,3.57
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,4.6
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,5.1
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,3.81
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,2.86
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,4.99
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,4.27
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,6.71
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,10.52
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2012,10.54
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,14.12
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,8.2
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,5.18
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,7.87
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,7.22
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,7.17
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,6.21
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,6.95
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,8.04
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,6.54
+5106828,Porto Esperidião,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,7.76
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,57.77
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,64.5
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,60.35
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,58.54
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,53.04
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,42.62
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,45.01
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,44.15
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,39.96
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,37.96
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,31.09
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,30.27
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,26.88
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,26.22
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,32.48
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,34.01
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,34.31
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,28
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,26.74
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,25.15
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,34.85
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,33.03
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,25.46
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,23.92
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,23.97
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,22.77
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,22.39
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,22.06
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,21.57
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,16.9
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,18.37
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,41.34
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,40.98
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,128.49
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.56
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,102.83
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,101.15
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,98.65
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,188.63
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,194.5
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,204.92
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,108.28
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2000,93.32
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,94.67
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,87.75
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,84.45
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,90.84
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,88.43
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,94.32
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,89.61
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,92.03
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,88.78
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,83.45
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,85.25
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2012,86.18
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,78.18
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,80.03
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,85.73
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,80.99
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,80.63
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,81.98
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,87.85
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,87.85
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,85.38
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,88
+5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,86.35
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2013,3612.94
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,4351.83
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,3719.2
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,4282.88
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,4554.72
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,4373.58
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,4428.01
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,4998.8
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,5923.66
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,8137.17
+5106828,Porto Esperidião,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,7104.71
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2013,38.87
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,31.79
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,38.04
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,35.35
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,32.19
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,29.04
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,31.93
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,22.93
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,24.64
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,25.42
+5106828,Porto Esperidião,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,29.03
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2013,26.18
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,22.37
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,22.54
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,23.27
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,21.86
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,22.4
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,22.17
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,28.48
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,24.82
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,23.1
+5106828,Porto Esperidião,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,24.66
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,2836.02
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,2976.68
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,3110.37
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,2868.42
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,2951.8
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,3778.15
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,3881.97
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,3819.14
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,3646.69
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,4000.34
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2012,4064.66
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,4455.97
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,4725.83
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,4522.22
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,5129.52
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,4916.99
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,4999.09
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,5235.27
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,5965.85
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,6656
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,8311.92
+5106828,Porto Esperidião,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,8258.09

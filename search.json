@@ -1,0 +1,1500 @@
+[
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre o projeto",
+    "section": "",
+    "text": "O Projeto Desenvolvimento Sustentável e Inclusivo do Pantanal Norte Mato-grossense (DSIP-MT) realiza um estudo de análise diagnóstica de ordenamento territorial e desenvolvimento regional sustentável e inclusivo do Pantanal Norte Mato-grossense. É executado pela Universidade do Estado de Mato Grosso (UNEMAT) com recursos da Superintendência do Desenvolvimento do Centro-Oeste (SUDECO), no âmbito do Convênio 984799/2025, com vigência de fevereiro de 2026 a agosto de 2027.\n\nCoordenação geral: Prof. Dr. Ademir Machado de Oliveira (UNEMAT)\nResponsável técnico e manutenção deste site: Prof. Dr. Lindomar Pegorini Daniel (UNEMAT)"
+  },
+  {
+    "objectID": "sobre.html#o-projeto",
+    "href": "sobre.html#o-projeto",
+    "title": "Sobre o projeto",
+    "section": "",
+    "text": "O Projeto Desenvolvimento Sustentável e Inclusivo do Pantanal Norte Mato-grossense (DSIP-MT) realiza um estudo de análise diagnóstica de ordenamento territorial e desenvolvimento regional sustentável e inclusivo do Pantanal Norte Mato-grossense. É executado pela Universidade do Estado de Mato Grosso (UNEMAT) com recursos da Superintendência do Desenvolvimento do Centro-Oeste (SUDECO), no âmbito do Convênio 984799/2025, com vigência de fevereiro de 2026 a agosto de 2027.\n\nCoordenação geral: Prof. Dr. Ademir Machado de Oliveira (UNEMAT)\nResponsável técnico e manutenção deste site: Prof. Dr. Lindomar Pegorini Daniel (UNEMAT)"
+  },
+  {
+    "objectID": "sobre.html#o-recorte",
+    "href": "sobre.html#o-recorte",
+    "title": "Sobre o projeto",
+    "section": "O recorte",
+    "text": "O recorte\nO estudo cobre 13 municípios, definidos institucionalmente no convênio: Barão de Melgaço, Cáceres, Curvelândia, Glória D’Oeste, Itiquira, Juscimeira, Lambari D’Oeste, Mirassol D’Oeste, Nossa Senhora do Livramento, Poconé, Porto Esperidião, Rondonópolis e Santo Antônio do Leverger. Para comparação, os indicadores também são calculados para o Polo Metropolitano (Cuiabá e Várzea Grande), para os demais 126 municípios de Mato Grosso e para o estado."
+  },
+  {
+    "objectID": "sobre.html#as-seis-dimensões",
+    "href": "sobre.html#as-seis-dimensões",
+    "title": "Sobre o projeto",
+    "section": "As seis dimensões",
+    "text": "As seis dimensões\n\n\n\nDimensão\nTema\n\n\n\n\nD1 · PESM\nPerfil econômico-produtivo setorial municipal\n\n\nD2 · AEISM\nÁreas de especial interesse socioeconômico municipal\n\n\nD3 · PSDM\nPerfil sociodemográfico municipal\n\n\nD4 · PAM\nPerfil ambiental municipal\n\n\nD5 · PIM\nPerfil da infraestrutura municipal\n\n\nD6 · PGPM\nPerfil da gestão pública municipal"
+  },
+  {
+    "objectID": "sobre.html#etapas",
+    "href": "sobre.html#etapas",
+    "title": "Sobre o projeto",
+    "section": "Etapas",
+    "text": "Etapas\n\nFase I (concluída em julho de 2026): coleta e tratamento de bases públicas e Relatórios Parciais I das seis dimensões.\nRevisão de literatura (em andamento): matriz FOFA (forças, oportunidades, fraquezas e ameaças) por área-chave. A área econômica foi concluída; as demais estão em execução.\nPesquisa de campo e Parciais II: verificação das hipóteses nos municípios.\nRelatórios gerais e relatórios executivos municipais (13), com diretrizes para o desenvolvimento.\nPainéis e website para divulgação dos resultados."
+  },
+  {
+    "objectID": "sobre.html#sobre-este-site",
+    "href": "sobre.html#sobre-este-site",
+    "title": "Sobre o projeto",
+    "section": "Sobre este site",
+    "text": "Sobre este site\nEste site reúne, num só lugar, os resultados que a equipe do projeto já produziu: indicadores por município, relatórios, bases de dados e a revisão de literatura. É uma versão preliminar, atualizada à medida que as etapas são concluídas.\n\nOs números vêm das bases tratadas da Fase I, congeladas em 08/07/2026, e dos pacotes entregues da revisão de literatura.\nOs documentos da Biblioteca são as versões de referência para citação.\nO site é gerado com Quarto e R a partir dos arquivos oficiais do projeto e publicado no GitHub Pages.\nNão são publicados textos integrais de artigos de terceiros, microdados com informação pessoal nem bases cuja redistribuição depende de autorização (IFDM/FIRJAN)."
+  },
+  {
+    "objectID": "revisao/estudos.html",
+    "href": "revisao/estudos.html",
+    "title": "Área econômica — estudos do corpus",
+    "section": "",
+    "text": "Corpus validado pela coordenação em 24/08/2026; arquivo BibTeX regerado em 23/09/2026 com uma entrada por estudo distinto, conforme deliberação de 21/09/2026.\nO corpus da revisão sistemática da área econômica tem 236 registros, correspondentes a 225 estudos distintos, selecionados entre 1.378 registros recuperados no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026). A tabela traz um estudo por linha; quando o mesmo estudo entrou no corpus por dois registros (versão em outra língua ou em outra base), a linha corresponde ao registro principal.\nEstudos distintos\n225\n236 registros no corpus\n\n\nCom DOI\n213\n94,7%\n\n\nCitam município do recorte\n30\npelo nome\n\n\nPeríodo de publicação\n2011 – 2026\nano da publicação"
+  },
+  {
+    "objectID": "revisao/estudos.html#arquivos",
+    "href": "revisao/estudos.html#arquivos",
+    "title": "Área econômica — estudos do corpus",
+    "section": "Arquivos",
+    "text": "Arquivos\n\nCorpus em BibTeX, sem resumos — 225 entradas, para gerenciadores de referências (Zotero, Mendeley, JabRef) e ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave do arquivo original não são publicados, por serem textos de terceiros; o campo note traz a chave interna do registro no projeto.\nTabela dos estudos em CSV."
+  },
+  {
+    "objectID": "revisao/estudos.html#estudos",
+    "href": "revisao/estudos.html#estudos",
+    "title": "Área econômica — estudos do corpus",
+    "section": "Estudos",
+    "text": "Estudos\nUse a busca para localizar autor, título ou periódico, e os filtros de ano e de recorte geográfico. O título leva ao DOI ou ao endereço do estudo, quando disponível.\n\n\n\n\n\n\n\nFonte: arquivo BibTeX do corpus da área econômica (pacote de entrega, pasta 04_Corpus_Bibliografico) e análise geográfica do corpus. Os 12 estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref; título e autoria permitem a busca textual. O recorte geográfico é identificado pelo nome de municípios e territórios no título, no resumo ou nas evidências extraídas do estudo."
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html",
+    "href": "municipios/santo-antonio-do-leverger.html",
+    "title": "Santo Antônio do Leverger",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#indicadores-chave",
+    "href": "municipios/santo-antonio-do-leverger.html#indicadores-chave",
+    "title": "Santo Antônio do Leverger",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n16.839\nhabitantes · 2025\n3,4% do total do Pantanal Norte\n\n\nPIB real\nR$ 774,1 mi\nR$ mil de 2024 · 2023\n2,8% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 50,8 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n3.303\nvínculos em 31/12 · 2024\n2,6% do total do Pantanal Norte\n\n\nRebanho bovino\n549.713\ncabeças · 2024\n10,9% do total do Pantanal Norte\n\n\nExportações\nUS$ 0\nUS$ correntes (FOB) · 2024\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n39,2%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n10,0%\n% da receita corrente · 2022\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,594\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/santo-antonio-do-leverger.html#d1-perfil-econômico-produtivo",
+    "title": "Santo Antônio do Leverger",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/santo-antonio-do-leverger.html#d2-áreas-de-especial-interesse",
+    "title": "Santo Antônio do Leverger",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d3-perfil-sociodemográfico",
+    "href": "municipios/santo-antonio-do-leverger.html#d3-perfil-sociodemográfico",
+    "title": "Santo Antônio do Leverger",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d4-perfil-ambiental",
+    "href": "municipios/santo-antonio-do-leverger.html#d4-perfil-ambiental",
+    "title": "Santo Antônio do Leverger",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d5-infraestrutura",
+    "href": "municipios/santo-antonio-do-leverger.html#d5-infraestrutura",
+    "title": "Santo Antônio do Leverger",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#d6-gestão-pública",
+    "href": "municipios/santo-antonio-do-leverger.html#d6-gestão-pública",
+    "title": "Santo Antônio do Leverger",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/santo-antonio-do-leverger.html#revisão-de-literatura-área-econômica",
+    "title": "Santo Antônio do Leverger",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Santo Antônio do Leverger. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 25 itens\nREGIONAL: 8 itens\nNÃO AVALIADO: 7 itens\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Santo Antônio do Leverger (4):\n\nSilva et al. (2024). Implementação de tecnologias sociais e educação ambiental em comunidades do Alto Pantanal Mato-grossense\nDavid et al. (2022). Estudo comparativo sobre o conhecimento e uso da biodiversidade de plantas no Distrito de Mimoso (Santo Antônio de Leverger), Mato Grosso, Brasil - Reserva da Biosfera do Pantanal\nLongo et al. (2019). PANTANAL MATO-GROSSENSE: ASPECTOS SOCIOECONÔMICOS DA APICULTURA E SEU AVANÇO EM SEIS MUNICÍPIOS NA BAIXADA CUIABANA\nSouza e Amaral (2015). Política territorial e os agricultores tradicionais do território da baixada cuiabana, Mato Grosso\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/santo-antonio-do-leverger.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Santo Antônio do Leverger",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\n4 propostas com “Pantanal” no objeto tiveram Santo Antônio do Leverger como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar."
+  },
+  {
+    "objectID": "municipios/santo-antonio-do-leverger.html#baixar-os-dados-do-município",
+    "href": "municipios/santo-antonio-do-leverger.html#baixar-os-dados-do-município",
+    "title": "Santo Antônio do Leverger",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html",
+    "href": "municipios/porto-esperidiao.html",
+    "title": "Porto Esperidião",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#indicadores-chave",
+    "href": "municipios/porto-esperidiao.html#indicadores-chave",
+    "title": "Porto Esperidião",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n10.088\nhabitantes · 2025\n2,0% do total do Pantanal Norte\n\n\nPIB real\nR$ 336,9 mi\nR$ mil de 2024 · 2023\n1,2% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 33,0 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n1.670\nvínculos em 31/12 · 2024\n1,3% do total do Pantanal Norte\n\n\nRebanho bovino\n599.543\ncabeças · 2024\n11,9% do total do Pantanal Norte\n\n\nExportações\nUS$ 54,5 mil\nUS$ correntes (FOB) · 2024\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n16,6%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n7,8%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,561\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/porto-esperidiao.html#d1-perfil-econômico-produtivo",
+    "title": "Porto Esperidião",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/porto-esperidiao.html#d2-áreas-de-especial-interesse",
+    "title": "Porto Esperidião",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d3-perfil-sociodemográfico",
+    "href": "municipios/porto-esperidiao.html#d3-perfil-sociodemográfico",
+    "title": "Porto Esperidião",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d4-perfil-ambiental",
+    "href": "municipios/porto-esperidiao.html#d4-perfil-ambiental",
+    "title": "Porto Esperidião",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d5-infraestrutura",
+    "href": "municipios/porto-esperidiao.html#d5-infraestrutura",
+    "title": "Porto Esperidião",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#d6-gestão-pública",
+    "href": "municipios/porto-esperidiao.html#d6-gestão-pública",
+    "title": "Porto Esperidião",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/porto-esperidiao.html#revisão-de-literatura-área-econômica",
+    "title": "Porto Esperidião",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Porto Esperidião. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nNÃO AVALIADO: 17 itens\nINFERIDO: 12 itens\nREGIONAL: 10 itens\nDOCUMENTADO: 1 item\n\n\n\n\n\n\n\nNenhum dos 225 estudos do corpus econômico cita Porto Esperidião. O município é prioridade para a pesquisa de campo.\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/porto-esperidiao.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Porto Esperidião",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Porto Esperidião como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/porto-esperidiao.html#baixar-os-dados-do-município",
+    "href": "municipios/porto-esperidiao.html#baixar-os-dados-do-município",
+    "title": "Porto Esperidião",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html",
+    "href": "municipios/nossa-senhora-do-livramento.html",
+    "title": "Nossa Senhora do Livramento",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#indicadores-chave",
+    "href": "municipios/nossa-senhora-do-livramento.html#indicadores-chave",
+    "title": "Nossa Senhora do Livramento",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n11.658\nhabitantes · 2025\n2,3% do total do Pantanal Norte\n\n\nPIB real\nR$ 451,3 mi\nR$ mil de 2024 · 2023\n1,7% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 34,9 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n2.839\nvínculos em 31/12 · 2024\n2,2% do total do Pantanal Norte\n\n\nRebanho bovino\n233.803\ncabeças · 2024\n4,6% do total do Pantanal Norte\n\n\nExportações\nUS$ 3,4 mi\nUS$ correntes (FOB) · 2024\n0,1% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n40,6%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n7,8%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,570\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/nossa-senhora-do-livramento.html#d1-perfil-econômico-produtivo",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/nossa-senhora-do-livramento.html#d2-áreas-de-especial-interesse",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d3-perfil-sociodemográfico",
+    "href": "municipios/nossa-senhora-do-livramento.html#d3-perfil-sociodemográfico",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d4-perfil-ambiental",
+    "href": "municipios/nossa-senhora-do-livramento.html#d4-perfil-ambiental",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d5-infraestrutura",
+    "href": "municipios/nossa-senhora-do-livramento.html#d5-infraestrutura",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#d6-gestão-pública",
+    "href": "municipios/nossa-senhora-do-livramento.html#d6-gestão-pública",
+    "title": "Nossa Senhora do Livramento",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/nossa-senhora-do-livramento.html#revisão-de-literatura-área-econômica",
+    "title": "Nossa Senhora do Livramento",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Nossa Senhora do Livramento. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 19 itens\nREGIONAL: 15 itens\nNÃO AVALIADO: 5 itens\nINFERIDO: 1 item\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Nossa Senhora do Livramento (2):\n\nCurvo et al. (2020). Avaliação da piscicultura na microrregião do Alto Pantanal – Mato Grosso, Brasil\nLongo et al. (2019). PANTANAL MATO-GROSSENSE: ASPECTOS SOCIOECONÔMICOS DA APICULTURA E SEU AVANÇO EM SEIS MUNICÍPIOS NA BAIXADA CUIABANA\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/nossa-senhora-do-livramento.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Nossa Senhora do Livramento",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\n1 propostas com “Pantanal” no objeto tiveram Nossa Senhora do Livramento como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar."
+  },
+  {
+    "objectID": "municipios/nossa-senhora-do-livramento.html#baixar-os-dados-do-município",
+    "href": "municipios/nossa-senhora-do-livramento.html#baixar-os-dados-do-município",
+    "title": "Nossa Senhora do Livramento",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html",
+    "href": "municipios/lambari-d-oeste.html",
+    "title": "Lambari D’Oeste",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#indicadores-chave",
+    "href": "municipios/lambari-d-oeste.html#indicadores-chave",
+    "title": "Lambari D’Oeste",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n4.662\nhabitantes · 2025\n0,9% do total do Pantanal Norte\n\n\nPIB real\nR$ 295,8 mi\nR$ mil de 2024 · 2023\n1,1% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 61,8 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n1.436\nvínculos em 31/12 · 2024\n1,1% do total do Pantanal Norte\n\n\nRebanho bovino\n159.272\ncabeças · 2024\n3,2% do total do Pantanal Norte\n\n\nExportações\nUS$ 0\nUS$ correntes (FOB) · 2000\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n66,7%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n6,6%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,676\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/lambari-d-oeste.html#d1-perfil-econômico-produtivo",
+    "title": "Lambari D’Oeste",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/lambari-d-oeste.html#d2-áreas-de-especial-interesse",
+    "title": "Lambari D’Oeste",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d3-perfil-sociodemográfico",
+    "href": "municipios/lambari-d-oeste.html#d3-perfil-sociodemográfico",
+    "title": "Lambari D’Oeste",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d4-perfil-ambiental",
+    "href": "municipios/lambari-d-oeste.html#d4-perfil-ambiental",
+    "title": "Lambari D’Oeste",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d5-infraestrutura",
+    "href": "municipios/lambari-d-oeste.html#d5-infraestrutura",
+    "title": "Lambari D’Oeste",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#d6-gestão-pública",
+    "href": "municipios/lambari-d-oeste.html#d6-gestão-pública",
+    "title": "Lambari D’Oeste",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/lambari-d-oeste.html#revisão-de-literatura-área-econômica",
+    "title": "Lambari D’Oeste",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Lambari D’Oeste. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 15 itens\nREGIONAL: 15 itens\nNÃO AVALIADO: 8 itens\nCONTRAINDICADO: 1 item\nINFERIDO: 1 item\n\n\n\n\n\n\n\nNenhum dos 225 estudos do corpus econômico cita Lambari D’Oeste. O município é prioridade para a pesquisa de campo.\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/lambari-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Lambari D’Oeste",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Lambari D’Oeste como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/lambari-d-oeste.html#baixar-os-dados-do-município",
+    "href": "municipios/lambari-d-oeste.html#baixar-os-dados-do-município",
+    "title": "Lambari D’Oeste",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/itiquira.html",
+    "href": "municipios/itiquira.html",
+    "title": "Itiquira",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/itiquira.html#indicadores-chave",
+    "href": "municipios/itiquira.html#indicadores-chave",
+    "title": "Itiquira",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n12.587\nhabitantes · 2025\n2,5% do total do Pantanal Norte\n\n\nPIB real\nR$ 2,1 bi\nR$ mil de 2024 · 2023\n7,8% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 174,3 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n4.694\nvínculos em 31/12 · 2024\n3,7% do total do Pantanal Norte\n\n\nRebanho bovino\n374.428\ncabeças · 2024\n7,4% do total do Pantanal Norte\n\n\nExportações\nUS$ 102,9 mi\nUS$ correntes (FOB) · 2024\n3,1% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n61,9%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n15,2%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,694\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/itiquira.html#d1-perfil-econômico-produtivo",
+    "title": "Itiquira",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/itiquira.html#d2-áreas-de-especial-interesse",
+    "title": "Itiquira",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d3-perfil-sociodemográfico",
+    "href": "municipios/itiquira.html#d3-perfil-sociodemográfico",
+    "title": "Itiquira",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d4-perfil-ambiental",
+    "href": "municipios/itiquira.html#d4-perfil-ambiental",
+    "title": "Itiquira",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d5-infraestrutura",
+    "href": "municipios/itiquira.html#d5-infraestrutura",
+    "title": "Itiquira",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/itiquira.html#d6-gestão-pública",
+    "href": "municipios/itiquira.html#d6-gestão-pública",
+    "title": "Itiquira",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/itiquira.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/itiquira.html#revisão-de-literatura-área-econômica",
+    "title": "Itiquira",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Itiquira. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 25 itens\nREGIONAL: 10 itens\nNÃO AVALIADO: 5 itens\n\n\n\n\n\n\n\nNenhum dos 225 estudos do corpus econômico cita Itiquira. O município é prioridade para a pesquisa de campo.\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/itiquira.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/itiquira.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Itiquira",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Itiquira como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/itiquira.html#baixar-os-dados-do-município",
+    "href": "municipios/itiquira.html#baixar-os-dados-do-município",
+    "title": "Itiquira",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html",
+    "href": "municipios/gloria-d-oeste.html",
+    "title": "Glória D’Oeste",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#indicadores-chave",
+    "href": "municipios/gloria-d-oeste.html#indicadores-chave",
+    "title": "Glória D’Oeste",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n2.878\nhabitantes · 2025\n0,6% do total do Pantanal Norte\n\n\nPIB real\nR$ 119,9 mi\nR$ mil de 2024 · 2023\n0,4% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 41,3 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n415\nvínculos em 31/12 · 2024\n0,3% do total do Pantanal Norte\n\n\nRebanho bovino\n104.908\ncabeças · 2024\n2,1% do total do Pantanal Norte\n\n\nExportações\nUS$ 306,1 mil\nUS$ correntes (FOB) · 2015\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n33,7%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n5,5%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,656\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/gloria-d-oeste.html#d1-perfil-econômico-produtivo",
+    "title": "Glória D’Oeste",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/gloria-d-oeste.html#d2-áreas-de-especial-interesse",
+    "title": "Glória D’Oeste",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d3-perfil-sociodemográfico",
+    "href": "municipios/gloria-d-oeste.html#d3-perfil-sociodemográfico",
+    "title": "Glória D’Oeste",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d4-perfil-ambiental",
+    "href": "municipios/gloria-d-oeste.html#d4-perfil-ambiental",
+    "title": "Glória D’Oeste",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d5-infraestrutura",
+    "href": "municipios/gloria-d-oeste.html#d5-infraestrutura",
+    "title": "Glória D’Oeste",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#d6-gestão-pública",
+    "href": "municipios/gloria-d-oeste.html#d6-gestão-pública",
+    "title": "Glória D’Oeste",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/gloria-d-oeste.html#revisão-de-literatura-área-econômica",
+    "title": "Glória D’Oeste",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Glória D’Oeste. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nNÃO AVALIADO: 23 itens\nINFERIDO: 14 itens\nCONTRAINDICADO: 3 itens\n\n\n\n\n\n\n\nNenhum dos 225 estudos do corpus econômico cita Glória D’Oeste. O município é prioridade para a pesquisa de campo.\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/gloria-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Glória D’Oeste",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Glória D’Oeste como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/gloria-d-oeste.html#baixar-os-dados-do-município",
+    "href": "municipios/gloria-d-oeste.html#baixar-os-dados-do-município",
+    "title": "Glória D’Oeste",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/caceres.html",
+    "href": "municipios/caceres.html",
+    "title": "Cáceres",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/caceres.html#indicadores-chave",
+    "href": "municipios/caceres.html#indicadores-chave",
+    "title": "Cáceres",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n91.767\nhabitantes · 2025\n18,5% do total do Pantanal Norte\n\n\nPIB real\nR$ 2,9 bi\nR$ mil de 2024 · 2023\n10,7% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 32,4 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n16.860\nvínculos em 31/12 · 2024\n13,1% do total do Pantanal Norte\n\n\nRebanho bovino\n1.365.224\ncabeças · 2024\n27,1% do total do Pantanal Norte\n\n\nExportações\nUS$ 11,2 mi\nUS$ correntes (FOB) · 2024\n0,3% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n24,1%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n19,8%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,655\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/caceres.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/caceres.html#d1-perfil-econômico-produtivo",
+    "title": "Cáceres",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/caceres.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/caceres.html#d2-áreas-de-especial-interesse",
+    "title": "Cáceres",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/caceres.html#d3-perfil-sociodemográfico",
+    "href": "municipios/caceres.html#d3-perfil-sociodemográfico",
+    "title": "Cáceres",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/caceres.html#d4-perfil-ambiental",
+    "href": "municipios/caceres.html#d4-perfil-ambiental",
+    "title": "Cáceres",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/caceres.html#d5-infraestrutura",
+    "href": "municipios/caceres.html#d5-infraestrutura",
+    "title": "Cáceres",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/caceres.html#d6-gestão-pública",
+    "href": "municipios/caceres.html#d6-gestão-pública",
+    "title": "Cáceres",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/caceres.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/caceres.html#revisão-de-literatura-área-econômica",
+    "title": "Cáceres",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Cáceres. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 32 itens\nREGIONAL: 5 itens\nNÃO AVALIADO: 2 itens\nINFERIDO: 1 item\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Cáceres (18):\n\nCarvalho Junior et al. (2026). QUANTIFICAÇÃO DOS SERVIÇOS ECOSSISTÊMICOS DA ESTAÇÃO ECOLÓGICA DE TAIAMÃ: SUBSÍDIOS À CONSERVAÇÃO NO PANTANAL\nAmaral e Rossetto (2024). Territórios da reforma agrária no Pantanal brasileiro: o caso dos assentamentos rurais do município de Cáceres – MT\nBedin e Souza (2024). TURISMO NO CORREDOR FLUVIAL DO RIO PARAGUAI ENTRE CÁCERES E A ESTAÇÃO ECOLÓGICA DA ILHA DE TAIAMÃ EM MATO GROSSO\nFerreira et al. (2024). CARACTERIZAÇÃO DA PISCICULTURA NO PANTANAL MATO-GROSSENSE DO MUNICÍPIO DE CÁCERES: PROCESSOS PRODUTIVOS E PRODUTIVIDADE\nLoiola e Fabrini (2024). Expansão da produção de soja na microrregião do Alto pantanal/MT: conflitos e perspectivas sustentáveis\nSilva et al. (2024). Implementação de tecnologias sociais e educação ambiental em comunidades do Alto Pantanal Mato-grossense\nCunha et al. (2023). Relato de uma experiência de formação: Mulheres cervejeiras do Pantanal mato-grossense\nFonseca et al. (2021). IMPACTOS DA PANDEMIA DE COVID -19 NO TURISMO DO PANTANAL DE MATO GROSSO\nCurvo et al. (2020). Avaliação da piscicultura na microrregião do Alto Pantanal – Mato Grosso, Brasil\nFarias e Girard (2019). Considerações acerca da relação entre o ciclo hidroclimático e a produção bovina na bacia do Alto Paraguai\nLeandro e Rocha (2019). Expansão agropecuária e degradação ambiental na bacia hidrográfica do rio Sepotuba - Alto Paraguai, Mato Grosso - Brasil\nLeandro et al. (2019). EVOLUÇÃO ESPAÇO-TEMPORAL DO USO E OCUPAÇÃO DA TERRA NO CORREDOR FLUVIAL DO RIO PARAGUAI, PANTANAL SUPERIOR - BRASIL\nMiranda et al. (2018). COBERTURA VEGETAL E USO DA TERRA NO ASSENTAMENTO PAIOL-BRASIL: SUBSÍDIOS PARA A CONSERVAÇÃO DO PANTANAL\nMiranda et al. (2018). DISTRIBUIÇÃO DE QUEIMADAS E MUDANÇAS NA COBERTURA VEGETAL E USO DA TERRA NO BIOMA PANTANAL, CÁCERES-BRASIL\nSantos et al. (2017). Conservação da agrobiodiversidade e soberania alimentar em assentamento rural no Pantanal de Cáceres, Mato Grosso\nArruda et al. (2014). CARACTERÍSTICAS SOCIOECONÔMICAS DOS RIBEIRINHOS NO RIO PARAGUAI, MUNICÍPIO DE CÁCERES, PANTANAL MATO-GROSSENSE – BRASIL\nNeves et al. (2013). ANÁLISE CLIMÁTICA APLICADA À CULTURA DO TOMATE NA REGIÃO SUDOESTE DE MATO GROSSO: subsídios ao desenvolvimento da agricultura familiar regional\nRosseto (2012). SUSTENTABILIDADE AMBIENTAL DO PANTANAL MATO-GROSSENSE: INTERFACES ENTRE CULTURA, ECONOMIA E GLOBALIZAÇÃO\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/caceres.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/caceres.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Cáceres",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\n5 propostas com “Pantanal” no objeto tiveram Cáceres como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar."
+  },
+  {
+    "objectID": "municipios/caceres.html#baixar-os-dados-do-município",
+    "href": "municipios/caceres.html#baixar-os-dados-do-município",
+    "title": "Cáceres",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Observatório DSIP-MT",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Os resultados são atualizados à medida que as etapas do estudo são concluídas.\nEste site reúne os resultados do Projeto DSIP-MT (Convênio 984799/2025 SUDECO–UNEMAT): indicadores dos 13 municípios do Pantanal Norte, os Relatórios Parciais I das seis dimensões, as bases de dados tratadas e a revisão de literatura. Em vez de relatórios e planilhas avulsos, cada resultado tem uma página, com a fonte e o ano de cada número."
+  },
+  {
+    "objectID": "index.html#o-pantanal-norte-em-números",
+    "href": "index.html#o-pantanal-norte-em-números",
+    "title": "Observatório DSIP-MT",
+    "section": "O Pantanal Norte em números",
+    "text": "O Pantanal Norte em números\n\n\n\n\nMunicípios no recorte\n13\ndefinição institucional do convênio\n\n\nPopulação\n496.756\nhabitantes · 2025\n\n\nPIB real\nR$ 27,2 bi\nreais de 2024 · 2023\n\n\nEmpregos formais\n128.538\nvínculos em 31/12 · 2024\n\n\nExportações\nUS$ 3,3 bi\nUS$ correntes (FOB) · 2024\n\n\nRebanho bovino\n5.029.870\ncabeças · 2024"
+  },
+  {
+    "objectID": "index.html#o-que-há-no-site",
+    "href": "index.html#o-que-há-no-site",
+    "title": "Observatório DSIP-MT",
+    "section": "O que há no site",
+    "text": "O que há no site\n\n  MunicípiosPerfil de cada um dos 13 municípios: indicadores das seis dimensões, comparação com o Pantanal Norte e Mato Grosso, FOFA municipal e projetos do Banco de Ideias.\n  DimensõesPrincipais resultados, figuras e ressalvas dos seis Relatórios Parciais I (D1 a D6).\n  Revisão de literaturaMatriz FOFA da área econômica, estudos do corpus e situação das demais áreas.\n  DadosExplorador de indicadores para os 141 municípios de MT e download das bases tratadas com dicionários.\n  BibliotecaRelatórios, síntese executiva e notas metodológicas em PDF.\n  SobreO projeto, o recorte, as dimensões e como este site é feito."
+  },
+  {
+    "objectID": "index.html#novidades",
+    "href": "index.html#novidades",
+    "title": "Observatório DSIP-MT",
+    "section": "Novidades",
+    "text": "Novidades\n\n30/09/2026 — Primeira versão do site: 13 perfis municipais, seis dimensões, revisão de literatura da área econômica, explorador de dados e biblioteca."
+  },
+  {
+    "objectID": "dimensoes/d5.html",
+    "href": "dimensoes/d5.html",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d5.html#principais-resultados",
+    "href": "dimensoes/d5.html#principais-resultados",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nO abastecimento de água atendia, em 2022, 76,1% da população em média simples, patamar próximo da média estadual (76,5%), mas com forte desigualdade interna, de 100% em Lambari D’Oeste e Rondonópolis a cerca de 40% em Porto Esperidião. A coleta de esgoto é a maior carência do recorte: apenas 5 dos 13 municípios reportaram coleta ao SNIS em 2022 e, mesmo entre esses, a cobertura média é de 49,8%. As perdas de distribuição de água (36,1% em média simples) superam a média estadual (29,1%). A energia elétrica apresenta o quadro mais favorável, com acesso domiciliar de 98,5% em média simples, e o perfil de consumo é marcadamente rural (25,3% do consumo no setor rural, ante 0,6% no Polo Metropolitano). A malha rodoviária é comparativamente bem pavimentada (82,5% em média simples, ante 66,1% no Resto de Mato Grosso), mas a densidade por habitante é menor (21,1 km por mil habitantes, ante 25,4), com mínimo em Barão de Melgaço.\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d5.html#documentos",
+    "href": "dimensoes/d5.html#documentos",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Infraestrutura (PIM) (PDF, 25 páginas)\nNotas metodológicas — PIM (PDF, 13 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d5.html#figuras-do-relatório",
+    "href": "dimensoes/d5.html#figuras-do-relatório",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 3.1: Atendimento de água, 2022, por município do Pantanal Norte (% da população)\nFigura 3.2: Coleta de esgoto, 2022, por município do Pantanal Norte (% da população; somente municípios que reportam)\nFigura 4.1: Composição do consumo de energia por setor, 2023, por município do Pantanal Norte (% do consumo)\nFigura 5.1: Proporção da malha pavimentada por município do Pantanal Norte (%)\nFigura 6.1: Posicionamento relativo de infraestrutura - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)"
+  },
+  {
+    "objectID": "dimensoes/d5.html#ressalvas-metodológicas",
+    "href": "dimensoes/d5.html#ressalvas-metodológicas",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nO SNIS tem adesão voluntária. A ausência de dado, sobretudo em esgoto, é tratada como achado (município sem sistema informado), e os agregados consideram apenas quem reporta.\nO saneamento é um corte transversal de 2022. Não há série comparável entre todos os municípios, portanto não se infere tendência longitudinal.\nO índice de atendimento urbano de água está vazio para o recorte em 2022. Usa-se o índice de atendimento total.\nO consumo de energia cobre apenas 2023 e o acesso domiciliar é um retrato da ANEEL (ano-fonte 2026). Nenhum dos dois forma série.\nRondonópolis responde por cerca de 62% do consumo de energia do recorte e distorce a média ponderada. Reportam-se média simples, média ponderada e valores sem Rondonópolis.\nA malha rodoviária vem do OpenStreetMap, colaborativo e estático, e pode estar subestimada em áreas remotas. Os valores devem ser lidos como ordem de grandeza. Um município sem segmento mapeado consta com 0 km.\nEm energia e rodovias, a ausência de dado foi convertida em zero, o que pode confundir “infraestrutura inexistente” com “dado faltante”.\nO painel repete os retratos de energia e rodovias em todos os anos. A análise longitudinal fica restrita às colunas de saneamento."
+  },
+  {
+    "objectID": "dimensoes/d5.html#dados-desta-dimensão",
+    "href": "dimensoes/d5.html#dados-desta-dimensão",
+    "title": "D5 · Infraestrutura (PIM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd5_energia.csv — 141 linhas; 27 KB\nd5_painel_pim.csv — 3.807 linhas; 1996-2022; 525 KB\nd5_rodovias.csv — 141 linhas; 15 KB\nd5_saneamento.csv — 2.390 linhas; 1996-2022; 193 KB\ndicionario_D5.csv — dicionário de variáveis da dimensão\n\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "dimensoes/d3.html",
+    "href": "dimensoes/d3.html",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d3.html#principais-resultados",
+    "href": "dimensoes/d3.html#principais-resultados",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nEm 2025, o recorte somava 496.756 habitantes (12,8% da população estadual), com crescimento de 1,0% ao ano entre 2010 e 2025, abaixo da média estadual (1,7% ao ano) e com 6 dos 13 municípios em declínio populacional. O Pantanal Norte é a região de maior dependência relativa de transferências de renda do estado: em 2024, a taxa do Programa Bolsa Família era, em média, de 11,27 famílias por 100 habitantes, ante 8,22 em Mato Grosso, e a transferência per capita média (R$ 1.361) situou-se 24% acima da estadual. Na educação, o IDEB de 2023 (5,38 nos anos iniciais e 4,45 nos anos finais) é inferior à média estadual (5,69 e 4,74). Em saúde, a mortalidade por causas externas atingiu, em média, 104 óbitos por 100 mil habitantes em 2022, ante 84 no estado, e o pré-natal adequado alcançou apenas 66% das gestantes, déficit de 9 pontos percentuais frente ao estado. Segundo o Censo 2010, referência mais recente disponível, a taxa de pobreza do recorte (39%) superava a estadual (35%).\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d3.html#documentos",
+    "href": "dimensoes/d3.html#documentos",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Perfil sociodemográfico (PSDM) (PDF, 30 páginas)\nNotas metodológicas — PSDM (PDF, 17 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d3.html#figuras-do-relatório",
+    "href": "dimensoes/d3.html#figuras-do-relatório",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 1.2: População residente - Pantanal Norte, 2025 (habitantes)\nFigura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)\nFigura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)\nFigura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte\nFigura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo\nFigura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte\nFigura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)\nFigura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)"
+  },
+  {
+    "objectID": "dimensoes/d3.html#ressalvas-metodológicas",
+    "href": "dimensoes/d3.html#ressalvas-metodológicas",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nIDHM, índice de Gini e taxa de pobreza têm o Censo 2010 como último ano, defasagem de 15 anos. Servem como retrato, não como série anual. A versão congelada do IDHM não traz os subíndices de educação, longevidade e renda.\nBolsa Família e BPC são medidos em famílias ou benefícios, não em pessoas. Por 100 habitantes, os valores podem superar 100. O Bolsa Família de 2012 é truncado e o de 2025 é parcial; o BPC só existe na fonte a partir de 2019.\nO pré-natal adequado considera apenas gestantes com sete ou mais consultas (critério estrito do Ministério da Saúde), o que faz o déficit parecer maior do que em definições menos restritivas.\nA taxa de mortalidade infantil bruta é instável em municípios pequenos e fica sem valor quando há menos de 30 nascidos vivos. Para tendência, usa-se a versão suavizada.\nA composição por cor/raça e a urbanização são retrato do Censo 2022, replicado nos anos do painel. Não indicam evolução.\nO IDEB é bienal (sem 2025) e o SAEB tem dados efetivos apenas de 2011 a 2021. A proporção de docentes com ensino superior só existe até 2020. Os registros de saúde (CNES e ANS) cobrem quatro anos de referência.\nOs registros de mortalidade e nascimentos (SIM e SINASC) usam o município de residência, o que difere de estatísticas por local de ocorrência, como hospitais em polos.\nRondonópolis responde por cerca de 53% da população do recorte. Por isso as médias são reportadas de forma simples e ponderada, com os extremos municipais."
+  },
+  {
+    "objectID": "dimensoes/d3.html#dados-desta-dimensão",
+    "href": "dimensoes/d3.html#dados-desta-dimensão",
+    "title": "D3 · Perfil sociodemográfico (PSDM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd3_assistencia_social.csv — 1.692 linhas; 2013-2024; 168 KB\nd3_demografico.csv — 3.645 linhas; 2000-2025; 420 KB\nd3_educacao_infraestrutura.csv — 2.538 linhas; 2007-2024; 308 KB\nd3_educacao_qualidade.csv — 1.410 linhas; 2005-2023; 208 KB\nd3_idhm.csv — 512 linhas; 1970-2010; 44 KB\nd3_painel_psdm.csv — 3.645 linhas; 2000-2025; 545 KB\nd3_saude_infraestrutura.csv — 564 linhas; 2010-2023; 45 KB\nd3_saude_mortalidade.csv — 3.218 linhas; 2000-2022; 300 KB\ndicionario_D3.csv — dicionário de variáveis da dimensão\n\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "dimensoes/d1.html",
+    "href": "dimensoes/d1.html",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d1.html#principais-resultados",
+    "href": "dimensoes/d1.html#principais-resultados",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nEm 2023, os 13 municípios geraram um Produto Interno Bruto (PIB) real de R$ 27,2 bilhões a preços de 2024, o equivalente a 9,6% do total estadual. O PIB per capita do recorte (R$ 57.404) corresponde a 74% da média de Mato Grosso, gargalo de competitividade que motiva o diagnóstico. A heterogeneidade interna é acentuada: Rondonópolis responde, sozinho, por 63,3% do PIB regional, e a razão entre o maior e o menor PIB municipal alcança 144 vezes. O mercado de trabalho formal registrou 128.538 vínculos em 2024 (10,6% do estado), com remuneração média real (R$ 3.183) equivalente a 91% da média estadual. As exportações somaram USD 3,29 bilhões em 2024 (13,4% das exportações estaduais), pauta concentrada em commodities agropecuárias e originada, em 90,4%, em Rondonópolis. A estrutura empresarial, com 13.554 empresas formais em 2021 (11,4% do estado), é dominada por micro e pequenas empresas, com limitada capacidade de geração de emprego qualificado.\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d1.html#documentos",
+    "href": "dimensoes/d1.html#documentos",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Perfil econômico-produtivo setorial (PESM) (PDF, 59 páginas)\nNotas metodológicas — PESM (PDF, 23 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d1.html#figuras-do-relatório",
+    "href": "dimensoes/d1.html#figuras-do-relatório",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)\nFigura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)\nFigura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)\nFigura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)\nFigura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021\nFigura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)\nFigura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)\nFigura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)\nFigura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)\nFigura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)\nFigura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)\nFigura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)\nFigura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)\nFigura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)\nFigura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)\nFigura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)\nFigura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)\nFigura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)\nFigura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)\nFigura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)\nFigura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)\nFigura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)\nFigura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021\nFigura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)"
+  },
+  {
+    "objectID": "dimensoes/d1.html#ressalvas-metodológicas",
+    "href": "dimensoes/d1.html#ressalvas-metodológicas",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nO PIB municipal do IBGE está disponível apenas a preços correntes. Os valores reais resultam de deflação com índice nacional, o que pode introduzir ruído em municípios especializados.\nO Valor Adicionado Bruto setorial do IBGE está disponível somente até 2021. Participações setoriais, HHI, quociente locacional e tipologia não são calculados para 2022 e 2023.\nA RAIS cobre apenas o emprego formal. Indicadores como PIB por trabalhador e VBP por trabalhador agropecuário tendem a ser superestimados em economias com informalidade elevada e servem para comparação relativa entre municípios, não como estimativa absoluta.\nAs estimativas populacionais intercensitárias (2011–2021) podem desviar o PIB per capita em 5% a 15% nos municípios com menos de 10.000 habitantes.\nAs exportações (Comex Stat) estão em dólares correntes, sem deflação. Comparações ao longo do tempo sofrem efeito do câmbio e devem usar variações relativas ou participações.\nO crédito rural (SICOR) começa em 2013 e o número de empresas (CEMPRE) está disponível até 2021 na base congelada. Séries mais longas dependem de novas coletas.\nA raça/cor na RAIS tem cerca de 75% de valores ausentes, o que inviabiliza o cálculo de diferenciais salariais por raça/cor."
+  },
+  {
+    "objectID": "dimensoes/d1.html#dados-desta-dimensão",
+    "href": "dimensoes/d1.html#dados-desta-dimensão",
+    "title": "D1 · Perfil econômico-produtivo setorial (PESM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd1_agropecuaria.csv — 3.525 linhas; 2000-2024; 664 KB\nd1_comex.csv — 2.080 linhas; 2000-2025; 254 KB\nd1_credito_rural.csv — 1.832 linhas; 2013-2025; 271 KB\nd1_emprego_rais.csv — 3.500 linhas; 2000-2024; 1,7 MB\nd1_empresas.csv — 2.256 linhas; 2006-2021; 230 KB\nd1_mercado_trabalho.csv — 2.678 linhas; 2007-2025; 517 KB\nd1_painel_pesm.csv — 3.102 linhas; 2002-2023; 2,0 MB\nd1_pib_vab.csv — 3.102 linhas; 2002-2023; 997 KB\nd1_sistema_bancario.csv — 2.051 linhas; 2000-2024; 326 KB\ndicionario_D1.csv — dicionário de variáveis da dimensão\n\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "biblioteca/index.html",
+    "href": "biblioteca/index.html",
+    "title": "Biblioteca",
+    "section": "",
+    "text": "Documentos entregues pelo projeto, em versão congelada. Os PDFs são as versões de referência para citação."
+  },
+  {
+    "objectID": "biblioteca/index.html#síntese",
+    "href": "biblioteca/index.html#síntese",
+    "title": "Biblioteca",
+    "section": "Síntese",
+    "text": "Síntese\n\n\n\n\nSíntese executiva dos Relatórios Parciais I\nPrincipais resultados das seis dimensões da Fase I.\nPDF · 3 págs. · 0,0 MB"
+  },
+  {
+    "objectID": "biblioteca/index.html#relatórios-parciais-i-fase-i-julho-de-2026",
+    "href": "biblioteca/index.html#relatórios-parciais-i-fase-i-julho-de-2026",
+    "title": "Biblioteca",
+    "section": "Relatórios Parciais I (Fase I, julho de 2026)",
+    "text": "Relatórios Parciais I (Fase I, julho de 2026)\n\n\n\n\nD1 · Perfil econômico-produtivo setorial (PESM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 59 págs. · 3,0 MB\n\n\nD2 · Áreas de especial interesse (AEISM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 28 págs. · 1,0 MB\n\n\nD3 · Perfil sociodemográfico (PSDM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 30 págs. · 1,3 MB\n\n\nD4 · Perfil ambiental (PAM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 28 págs. · 1,2 MB\n\n\nD5 · Infraestrutura (PIM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 25 págs. · 1,0 MB\n\n\nD6 · Gestão pública (PGPM)\nRelatório Parcial I — diagnóstico com as bases da Fase I.\nPDF · 27 págs. · 1,2 MB"
+  },
+  {
+    "objectID": "biblioteca/index.html#notas-metodológicas",
+    "href": "biblioteca/index.html#notas-metodológicas",
+    "title": "Biblioteca",
+    "section": "Notas metodológicas",
+    "text": "Notas metodológicas\nFontes, tratamentos, deflatores, construção de cada variável, correções e limitações.\n\n\n\n\nNotas D1 · PESM\nNota metodológica da dimensão.\nPDF · 23 págs. · 0,1 MB\n\n\nNotas D2 · AEISM\nNota metodológica da dimensão.\nPDF · 11 págs. · 0,1 MB\n\n\nNotas D3 · PSDM\nNota metodológica da dimensão.\nPDF · 17 págs. · 0,1 MB\n\n\nNotas D4 · PAM\nNota metodológica da dimensão.\nPDF · 13 págs. · 0,1 MB\n\n\nNotas D5 · PIM\nNota metodológica da dimensão.\nPDF · 13 págs. · 0,1 MB\n\n\nNotas D6 · PGPM\nNota metodológica da dimensão.\nPDF · 11 págs. · 0,1 MB"
+  },
+  {
+    "objectID": "biblioteca/index.html#revisão-de-literatura",
+    "href": "biblioteca/index.html#revisão-de-literatura",
+    "title": "Biblioteca",
+    "section": "Revisão de literatura",
+    "text": "Revisão de literatura\n\n\n\n\nRevisão de literatura — área econômica (RSE Parcial)\nRevisão sistemática e complementar, matriz FOFA, FOFA municipal e interpretação dos resultados.\nPDF · 22 págs. · 0,3 MB\n\n\n\n\nAs demais áreas (Infraestrutura, Setor Público, Sociodemográfica e Ambiental) entram aqui quando forem concluídas. Veja a situação das áreas."
+  },
+  {
+    "objectID": "biblioteca/index.html#como-citar",
+    "href": "biblioteca/index.html#como-citar",
+    "title": "Biblioteca",
+    "section": "Como citar",
+    "text": "Como citar\n\nUNIVERSIDADE DO ESTADO DE MATO GROSSO. Projeto Desenvolvimento Sustentável e Inclusivo do Pantanal Norte Mato-grossense (DSIP-MT). Título do relatório. Convênio 984799/2025 SUDECO–UNEMAT. Versão de 08/07/2026. Disponível em: https://daniellindomar.github.io/dsip-mt/. Acesso em: dia mês ano."
+  },
+  {
+    "objectID": "dados/index.html",
+    "href": "dados/index.html",
+    "title": "Dados",
+    "section": "",
+    "text": "Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download são cópias fiéis das bases entregues, exceto pelo IFDM (ver nota ao final)."
+  },
+  {
+    "objectID": "dados/index.html#explorador-de-indicadores",
+    "href": "dados/index.html#explorador-de-indicadores",
+    "title": "Dados",
+    "section": "Explorador de indicadores",
+    "text": "Explorador de indicadores\nA tabela traz o último valor de 54 indicadores para os 141 municípios de Mato Grosso. Use os filtros de cada coluna e o botão para baixar o recorte filtrado em CSV.\n\n\nBaixar recorte filtrado (CSV)"
+  },
+  {
+    "objectID": "dados/index.html#bases-tratadas",
+    "href": "dados/index.html#bases-tratadas",
+    "title": "Dados",
+    "section": "Bases tratadas",
+    "text": "Bases tratadas\nCada base tem uma linha por município e ano (ou por município, nas bases de retrato único). A chave id_municipio é o código IBGE de 7 dígitos.\n\n\n\n\n\n\nAlém das bases por dimensão:\n\nPainel dos 141 municípios e painel do Pantanal Norte\nTabela de municípios e grupos\nDicionários de variáveis: D1 · D2 · D3 · D4 · D5 · D6 · Painel\nMalha municipal de MT simplificada (GeoJSON) — IBGE, simplificada para uso na web\nCatálogo das bases\n\nTodos os arquivos estão em UTF-8, separados por vírgula. Valores monetários reais estão em reais de 2024 (deflatores descritos nas notas metodológicas)."
+  },
+  {
+    "objectID": "dados/index.html#fontes-e-licenças",
+    "href": "dados/index.html#fontes-e-licenças",
+    "title": "Dados",
+    "section": "Fontes e licenças",
+    "text": "Fontes e licenças\n\n\n\n\n\n\n\n\n\n\n\n\nNotaNotas sobre uso e atribuição\n\n\n\n\nIFDM (FIRJAN): os valores aparecem nos perfis com citação da fonte, mas a base não é oferecida para download, porque a redistribuição depende de autorização da FIRJAN. Os dados estão em firjan.com.br/ifdm.\nRodovias: dados de © OpenStreetMap contributors, sob licença ODbL.\nUso da terra: MapBiomas — citar a coleção conforme orientação do portal.\nCrédito rural (SICOR): cobre cerca de 23,5% do crédito rural total; rotular como “crédito com recursos públicos”."
+  },
+  {
+    "objectID": "dimensoes/d2.html",
+    "href": "dimensoes/d2.html",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d2.html#principais-resultados",
+    "href": "dimensoes/d2.html#principais-resultados",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nA balança comercial do recorte foi superavitária em USD 2.326,4 milhões em 2024, mas apenas 7 dos 13 municípios registraram exportação nesse ano e, sem Rondonópolis, o Pantanal Norte exporta apenas USD 317,3 milhões. A Zona de Processamento de Exportação (ZPE) de Cáceres revela-se mais potencial que realidade, pois Cáceres é apenas o 5º exportador do recorte (USD 11,2 milhões). A bioeconomia é a vocação mais distintiva: o valor da produção bioeconômica alcançou R$ 228,4 milhões em 2024 e, em média por município (R$ 17,6 milhões), o recorte supera o Resto de Mato Grosso (R$ 15,0 milhões) e o Polo Metropolitano (R$ 12,5 milhões), com destaque para a aquicultura (R$ 68,2 milhões, 13,5% da produção estadual). O território reúne ainda cerca de 497.664 hectares de áreas protegidas (2019) e um ativo coletivo subaproveitado, a Indicação de Procedência “Pantanal” para o mel, concedida pelo INPI em 2015 e abrangente dos 13 municípios.\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d2.html#documentos",
+    "href": "dimensoes/d2.html#documentos",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Áreas de especial interesse (AEISM) (PDF, 28 páginas)\nNotas metodológicas — AEISM (PDF, 11 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d2.html#figuras-do-relatório",
+    "href": "dimensoes/d2.html#figuras-do-relatório",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)\nFigura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)\nFigura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)\nFigura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)\nFigura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)"
+  },
+  {
+    "objectID": "dimensoes/d2.html#ressalvas-metodológicas",
+    "href": "dimensoes/d2.html#ressalvas-metodológicas",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nAs exportações concentram-se em Rondonópolis (cerca de 90% do recorte). Totais e médias são reportados com e sem esse município.\nAs exportações estão em dólares FOB correntes, sem deflação. Comparações temporais exigem citar o ano e usar participações ou variações relativas.\nA ZPE de Cáceres é captada apenas pelo comércio exterior do município. A atividade operacional da zona não é medida nas bases atuais.\nA cobertura da bioeconomia varia por componente: extrativismo desde 2002, silvicultura desde 2005 e aquicultura desde 2013. Comparações temporais ficam restritas à janela comum, a partir de 2013.\nUnidades de conservação e terras indígenas constam como retrato de 2019, em hectares absolutos e não em percentual do território. Unidades criadas ou extintas depois de 2019 não estão refletidas.\nA Indicação Geográfica tem um único registro (Indicação de Procedência “Pantanal”), de natureza qualitativa, sem série municipal.\nTurismo e regime de loja franca (free shop) não foram coletados. Permanecem como pendências da agenda de campo de maio a setembro de 2026, sem estimativa de valores.\nOs produtos exportados são identificados por código SH4, sem a descrição oficial correspondente."
+  },
+  {
+    "objectID": "dimensoes/d2.html#dados-desta-dimensão",
+    "href": "dimensoes/d2.html#dados-desta-dimensão",
+    "title": "D2 · Áreas de especial interesse (AEISM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd2_bioeconomia.csv — 3.500 linhas; 2000-2024; 342 KB\nd2_comercio_exterior.csv — 1.985 linhas; 2000-2024; 214 KB\nd2_ig_ativos.csv — 141 linhas; 13 KB\nd2_painel_aeism.csv — 3.525 linhas; 2000-2024; 555 KB\ndicionario_D2.csv — dicionário de variáveis da dimensão\n\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "dimensoes/d4.html",
+    "href": "dimensoes/d4.html",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d4.html#principais-resultados",
+    "href": "dimensoes/d4.html#principais-resultados",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nEm termos médios, o Pantanal Norte encontra-se mais preservado que o estado: o desmatamento acumulado até 2023, ponderado pela área (PRODES), era de 33,6% do território, ante 40,9% em Mato Grosso, com 55,5% de vegetação natural remanescente. A média, contudo, oculta um gradiente interno extremo, que vai de Barão de Melgaço (12,1% desmatado, planície pantaneira) a Mirassol D’Oeste (88,0% desmatado, Cerrado). A marca mais distintiva é o déficit de proteção: apenas 5,3% do território estava sob Unidade de Conservação ou Terra Indígena em 2019, ante 20,7% no estado, e 7 dos 13 municípios não possuem nenhuma Unidade de Conservação. A pressão de fogo é elevada, com densidade de 3.711 focos de calor por mil quilômetros quadrados em 2024, cerca de 2,2 vezes a do Resto de Mato Grosso (1.698), concentrada em Cáceres e Barão de Melgaço. A vegetação natural recuou 3,4 pontos percentuais entre 2000 e 2021 (MapBiomas), perda menor que a estadual (9,4 pontos).\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d4.html#documentos",
+    "href": "dimensoes/d4.html#documentos",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Perfil ambiental (PAM) (PDF, 28 páginas)\nNotas metodológicas — PAM (PDF, 13 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d4.html#figuras-do-relatório",
+    "href": "dimensoes/d4.html#figuras-do-relatório",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)\nFigura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)\nFigura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)\nFigura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)\nFigura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)\nFigura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)\nFigura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)"
+  },
+  {
+    "objectID": "dimensoes/d4.html#ressalvas-metodológicas",
+    "href": "dimensoes/d4.html#ressalvas-metodológicas",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nOs focos de calor têm quebra de série de satélite entre 2022, 2023 e 2024. O número absoluto de focos não é comparável no tempo; usa-se a densidade por mil km². O ano de 2025 é parcial e foi excluído.\nAs fontes têm cortes finais distintos: PRODES até 2023 e MapBiomas até 2021. No painel, o uso da terra fica sem valor em 2022 e 2023. O ano de cada indicador deve ser citado.\nO recorte abrange mais de um bioma (Cerrado, Pantanal e Amazônia). Tratá-lo como bloco ecológico único distorce a leitura; desmatamento e uso da terra são lidos por bioma e pelo gradiente oeste-leste.\nA média simples é influenciada por municípios pequenos. Reportam-se a média simples e a média ponderada por área.\nUnidades de conservação, terras indígenas e CAR são retratos estáticos (2019 e 2024) e não captam mudanças recentes de proteção ou cadastro.\nA conformidade do CAR é autodeclarada e não foi verificada em campo. Sem a área de reserva legal exigida na base, não é possível calcular o déficit de Reserva Legal.\nA ausência de unidade de conservação, terra indígena ou CAR está codificada como zero, e esse zero representa ausência real, não dado faltante.\nA média do risco de fogo inclui o valor sentinela −999 do INPE (sem dado). Apenas valores não negativos, na escala de 0 a 1, têm interpretação."
+  },
+  {
+    "objectID": "dimensoes/d4.html#dados-desta-dimensão",
+    "href": "dimensoes/d4.html#dados-desta-dimensão",
+    "title": "D4 · Perfil ambiental (PAM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd4_areas_protegidas.csv — 141 linhas; 15 KB\nd4_car.csv — 141 linhas; 15 KB\nd4_desmatamento.csv — 3.384 linhas; 2000-2023; 397 KB\nd4_painel_pam.csv — 3.384 linhas; 2000-2023; 662 KB\nd4_queimadas.csv — 3.076 linhas; 2003-2024; 236 KB\nd4_uso_terra.csv — 3.102 linhas; 2000-2021; 524 KB\ndicionario_D4.csv — dicionário de variáveis da dimensão\n\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "dimensoes/d6.html",
+    "href": "dimensoes/d6.html",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "",
+    "text": "Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I."
+  },
+  {
+    "objectID": "dimensoes/d6.html#principais-resultados",
+    "href": "dimensoes/d6.html#principais-resultados",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "Principais resultados",
+    "text": "Principais resultados\nA marca fiscal do recorte é a fragilidade da arrecadação própria: em 2023, a autonomia fiscal média era de 11,7% em média simples, o que equivale a dizer que cerca de 88 de cada cem reais arrecadados provinham de fora do município, ante 25,0% no Polo Metropolitano. As transferências correntes respondiam, em média, por 78,2% da receita municipal, das quais o Fundo de Participação dos Municípios (FPM) representava 43,3%. Os casos extremos são Curvelândia (autonomia de 5,3% e dependência de FPM de 71,1%) e Glória D’Oeste (autonomia de 5,5%). O desenvolvimento institucional é inferior à média estadual: o IFDM geral médio de 2023 (0,632) fica abaixo do estado (0,649) e do Polo Metropolitano (0,722), com o componente de saúde (0,554) como elo mais frágil. A amplitude interna repete-se, com Rondonópolis na 5ª posição estadual e Poconé na 133ª.\nFonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026)."
+  },
+  {
+    "objectID": "dimensoes/d6.html#documentos",
+    "href": "dimensoes/d6.html#documentos",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "Documentos",
+    "text": "Documentos\n\nRelatório Parcial I — Gestão pública (PGPM) (PDF, 27 páginas)\nNotas metodológicas — PGPM (PDF, 11 páginas)"
+  },
+  {
+    "objectID": "dimensoes/d6.html#figuras-do-relatório",
+    "href": "dimensoes/d6.html#figuras-do-relatório",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "Figuras do relatório",
+    "text": "Figuras do relatório\nFiguras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.\n\nFigura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso\nFigura 1.2: Autonomia fiscal por município do Pantanal Norte, 2023 (% da receita própria na receita total)\nFigura 3.1: Autonomia fiscal, 2023, por município do Pantanal Norte (%)\nFigura 3.2: Dependência do Fundo de Participação dos Municípios, 2023, por município do Pantanal Norte (%)\nFigura 3.3: Evolução da autonomia fiscal média do Pantanal Norte, 2002 a 2023 (%, média simples)\nFigura 4.1: Despesa pública per capita, 2023, por município do Pantanal Norte (R$ de 2024 por habitante)\nFigura 5.1: Componentes do IFDM no Pantanal Norte e na média de Mato Grosso, 2023\nFigura 5.2: IFDM geral, 2023, por município do Pantanal Norte\nFigura 6.1: Posicionamento relativo de gestão pública - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)"
+  },
+  {
+    "objectID": "dimensoes/d6.html#ressalvas-metodológicas",
+    "href": "dimensoes/d6.html#ressalvas-metodológicas",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "Ressalvas metodológicas",
+    "text": "Ressalvas metodológicas\nSíntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.\n\nA declaração ao Siconfi é facultativa. Em 2023, 138 dos 141 municípios de MT declararam; Santo Antônio do Leverger não declarou, e o recorte tem n = 12 nesse ano, sem imputação.\nRondonópolis responde por cerca de 53% da população do recorte. As médias ponderadas refletem principalmente esse município; reportam-se média simples e ponderada, com e sem Rondonópolis.\nValores reais existem apenas a partir de 2002 (limite do deflator INPC), e a despesa por função apenas a partir de 2013.\nO IFDM é um índice entre 0 e 1. Por isso é agregado por média simples, nunca ponderada por população.\nFinanças e IFDM têm cortes de ano distintos (finanças desde 1989, 2002 ou 2013 conforme o indicador; IFDM de 2013 a 2023). O ano de cada indicador deve ser citado em tabelas e figuras.\nAutonomia fiscal e dependência são razões da receita corrente. Não medem capacidade de investimento nem qualidade do gasto.\nA despesa por função reflete a execução, não os pisos legais. Os percentuais de saúde e educação não indicam, por si, o cumprimento dos mínimos constitucionais (15% e 25%)."
+  },
+  {
+    "objectID": "dimensoes/d6.html#dados-desta-dimensão",
+    "href": "dimensoes/d6.html#dados-desta-dimensão",
+    "title": "D6 · Gestão pública (PGPM)",
+    "section": "Dados desta dimensão",
+    "text": "Dados desta dimensão\nBases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.\n\nd6_financas.csv — 4.407 linhas; 1989-2023; 700 KB\nd6_painel_pgpm.csv — 3.384 linhas; 2000-2023; 502 KB\ndicionario_D6.csv — dicionário de variáveis da dimensão\n\nA base d6_ifdm.csv, citada nas notas metodológicas, não é distribuída neste site.\nVeja os indicadores de cada município em Municípios."
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html",
+    "href": "municipios/barao-de-melgaco.html",
+    "title": "Barão de Melgaço",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#indicadores-chave",
+    "href": "municipios/barao-de-melgaco.html#indicadores-chave",
+    "title": "Barão de Melgaço",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n7.137\nhabitantes · 2025\n1,4% do total do Pantanal Norte\n\n\nPIB real\nR$ 149,5 mi\nR$ mil de 2024 · 2023\n0,5% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 20,6 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n605\nvínculos em 31/12 · 2024\n0,5% do total do Pantanal Norte\n\n\nRebanho bovino\n231.068\ncabeças · 2024\n4,6% do total do Pantanal Norte\n\n\nExportações\n—\nUS$ correntes (FOB)\nMediana PN-13: US$ 1,8 mi · MT: US$ 28,1 mi\n\n\nTerritório desmatado (acumulado)\n12,1%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n6,5%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,582\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/barao-de-melgaco.html#d1-perfil-econômico-produtivo",
+    "title": "Barão de Melgaço",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/barao-de-melgaco.html#d2-áreas-de-especial-interesse",
+    "title": "Barão de Melgaço",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d3-perfil-sociodemográfico",
+    "href": "municipios/barao-de-melgaco.html#d3-perfil-sociodemográfico",
+    "title": "Barão de Melgaço",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d4-perfil-ambiental",
+    "href": "municipios/barao-de-melgaco.html#d4-perfil-ambiental",
+    "title": "Barão de Melgaço",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d5-infraestrutura",
+    "href": "municipios/barao-de-melgaco.html#d5-infraestrutura",
+    "title": "Barão de Melgaço",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#d6-gestão-pública",
+    "href": "municipios/barao-de-melgaco.html#d6-gestão-pública",
+    "title": "Barão de Melgaço",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/barao-de-melgaco.html#revisão-de-literatura-área-econômica",
+    "title": "Barão de Melgaço",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Barão de Melgaço. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 25 itens\nREGIONAL: 8 itens\nNÃO AVALIADO: 7 itens\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Barão de Melgaço (4):\n\nFonseca et al. (2021). IMPACTOS DA PANDEMIA DE COVID -19 NO TURISMO DO PANTANAL DE MATO GROSSO\nCurvo et al. (2020). Avaliação da piscicultura na microrregião do Alto Pantanal – Mato Grosso, Brasil\nLongo et al. (2019). PANTANAL MATO-GROSSENSE: ASPECTOS SOCIOECONÔMICOS DA APICULTURA E SEU AVANÇO EM SEIS MUNICÍPIOS NA BAIXADA CUIABANA\nScheuer et al. (2018). Desenvolvimento Humano dos Municípios de Mato Grosso e Mato Grosso do Sul Contidos no Bioma Pantanal\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/barao-de-melgaco.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Barão de Melgaço",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\n1 propostas com “Pantanal” no objeto tiveram Barão de Melgaço como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar."
+  },
+  {
+    "objectID": "municipios/barao-de-melgaco.html#baixar-os-dados-do-município",
+    "href": "municipios/barao-de-melgaco.html#baixar-os-dados-do-município",
+    "title": "Barão de Melgaço",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/curvelandia.html",
+    "href": "municipios/curvelandia.html",
+    "title": "Curvelândia",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/curvelandia.html#indicadores-chave",
+    "href": "municipios/curvelandia.html#indicadores-chave",
+    "title": "Curvelândia",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n4.970\nhabitantes · 2025\n1,0% do total do Pantanal Norte\n\n\nPIB real\nR$ 141,3 mi\nR$ mil de 2024 · 2023\n0,5% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 28,8 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n590\nvínculos em 31/12 · 2024\n0,5% do total do Pantanal Norte\n\n\nRebanho bovino\n63.435\ncabeças · 2024\n1,3% do total do Pantanal Norte\n\n\nExportações\nUS$ 0\nUS$ correntes (FOB) · 2024\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n83,3%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n5,3%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,558\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/curvelandia.html#d1-perfil-econômico-produtivo",
+    "title": "Curvelândia",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/curvelandia.html#d2-áreas-de-especial-interesse",
+    "title": "Curvelândia",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d3-perfil-sociodemográfico",
+    "href": "municipios/curvelandia.html#d3-perfil-sociodemográfico",
+    "title": "Curvelândia",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d4-perfil-ambiental",
+    "href": "municipios/curvelandia.html#d4-perfil-ambiental",
+    "title": "Curvelândia",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d5-infraestrutura",
+    "href": "municipios/curvelandia.html#d5-infraestrutura",
+    "title": "Curvelândia",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/curvelandia.html#d6-gestão-pública",
+    "href": "municipios/curvelandia.html#d6-gestão-pública",
+    "title": "Curvelândia",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/curvelandia.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/curvelandia.html#revisão-de-literatura-área-econômica",
+    "title": "Curvelândia",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Curvelândia. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nREGIONAL: 23 itens\nNÃO AVALIADO: 10 itens\nCONTRAINDICADO: 3 itens\nDOCUMENTADO: 2 itens\nINFERIDO: 2 itens\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Curvelândia (1):\n\nCurvo et al. (2020). Avaliação da piscicultura na microrregião do Alto Pantanal – Mato Grosso, Brasil\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/curvelandia.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/curvelandia.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Curvelândia",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Curvelândia como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/curvelandia.html#baixar-os-dados-do-município",
+    "href": "municipios/curvelandia.html#baixar-os-dados-do-município",
+    "title": "Curvelândia",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/index.html",
+    "href": "municipios/index.html",
+    "title": "Municípios do Pantanal Norte",
+    "section": "",
+    "text": "O recorte do projeto tem 13 municípios, definidos institucionalmente no convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal da revisão de literatura e os projetos do Banco de Ideias. Clique no mapa ou em um cartão.\nBarão de Melgaço\n7.137 habitantes (2025)\nPIB per capita: R$ 20,6 mil (2023)\n\n\nCurvelândia\n4.970 habitantes (2025)\nPIB per capita: R$ 28,8 mil (2023)\n\n\nCáceres\n91.767 habitantes (2025)\nPIB per capita: R$ 32,4 mil (2023)\n\n\nGlória D'Oeste\n2.878 habitantes (2025)\nPIB per capita: R$ 41,3 mil (2023)\n\n\nItiquira\n12.587 habitantes (2025)\nPIB per capita: R$ 174,3 mil (2023)\n\n\nJuscimeira\n11.622 habitantes (2025)\nPIB per capita: R$ 50,3 mil (2023)\n\n\nLambari D'Oeste\n4.662 habitantes (2025)\nPIB per capita: R$ 61,8 mil (2023)\n\n\nMirassol D'Oeste\n27.637 habitantes (2025)\nPIB per capita: R$ 45,2 mil (2023)\n\n\nNossa Senhora do Livramento\n11.658 habitantes (2025)\nPIB per capita: R$ 34,9 mil (2023)\n\n\nPoconé\n31.203 habitantes (2025)\nPIB per capita: R$ 28,7 mil (2023)\n\n\nPorto Esperidião\n10.088 habitantes (2025)\nPIB per capita: R$ 33,0 mil (2023)\n\n\nRondonópolis\n263.708 habitantes (2025)\nPIB per capita: R$ 70,4 mil (2023)\n\n\nSanto Antônio do Leverger\n16.839 habitantes (2025)\nPIB per capita: R$ 50,8 mil (2023)"
+  },
+  {
+    "objectID": "municipios/index.html#os-13-municípios-lado-a-lado",
+    "href": "municipios/index.html#os-13-municípios-lado-a-lado",
+    "title": "Municípios do Pantanal Norte",
+    "section": "Os 13 municípios lado a lado",
+    "text": "Os 13 municípios lado a lado\nÚltimo valor disponível de cada indicador-chave. Clique no cabeçalho para ordenar.\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/juscimeira.html",
+    "href": "municipios/juscimeira.html",
+    "title": "Juscimeira",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/juscimeira.html#indicadores-chave",
+    "href": "municipios/juscimeira.html#indicadores-chave",
+    "title": "Juscimeira",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n11.622\nhabitantes · 2025\n2,3% do total do Pantanal Norte\n\n\nPIB real\nR$ 577,7 mi\nR$ mil de 2024 · 2023\n2,1% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 50,3 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n2.011\nvínculos em 31/12 · 2024\n1,6% do total do Pantanal Norte\n\n\nRebanho bovino\n178.540\ncabeças · 2024\n3,5% do total do Pantanal Norte\n\n\nExportações\nUS$ 0\nUS$ correntes (FOB) · 2024\n0,0% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n80,5%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n16,4%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,653\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/juscimeira.html#d1-perfil-econômico-produtivo",
+    "title": "Juscimeira",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/juscimeira.html#d2-áreas-de-especial-interesse",
+    "title": "Juscimeira",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d3-perfil-sociodemográfico",
+    "href": "municipios/juscimeira.html#d3-perfil-sociodemográfico",
+    "title": "Juscimeira",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d4-perfil-ambiental",
+    "href": "municipios/juscimeira.html#d4-perfil-ambiental",
+    "title": "Juscimeira",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d5-infraestrutura",
+    "href": "municipios/juscimeira.html#d5-infraestrutura",
+    "title": "Juscimeira",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/juscimeira.html#d6-gestão-pública",
+    "href": "municipios/juscimeira.html#d6-gestão-pública",
+    "title": "Juscimeira",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/juscimeira.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/juscimeira.html#revisão-de-literatura-área-econômica",
+    "title": "Juscimeira",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Juscimeira. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nREGIONAL: 18 itens\nNÃO AVALIADO: 13 itens\nINFERIDO: 6 itens\nDOCUMENTADO: 2 itens\nCONTRAINDICADO: 1 item\n\n\n\n\n\n\n\nNenhum dos 225 estudos do corpus econômico cita Juscimeira. O município é prioridade para a pesquisa de campo.\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/juscimeira.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/juscimeira.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Juscimeira",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Juscimeira como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/juscimeira.html#baixar-os-dados-do-município",
+    "href": "municipios/juscimeira.html#baixar-os-dados-do-município",
+    "title": "Juscimeira",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html",
+    "href": "municipios/mirassol-d-oeste.html",
+    "title": "Mirassol D’Oeste",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#indicadores-chave",
+    "href": "municipios/mirassol-d-oeste.html#indicadores-chave",
+    "title": "Mirassol D’Oeste",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n27.637\nhabitantes · 2025\n5,6% do total do Pantanal Norte\n\n\nPIB real\nR$ 1,2 bi\nR$ mil de 2024 · 2023\n4,4% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 45,2 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n6.235\nvínculos em 31/12 · 2024\n4,9% do total do Pantanal Norte\n\n\nRebanho bovino\n180.151\ncabeças · 2024\n3,6% do total do Pantanal Norte\n\n\nExportações\nUS$ 184,2 mi\nUS$ correntes (FOB) · 2024\n5,6% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n88,0%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n16,5%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,675\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/mirassol-d-oeste.html#d1-perfil-econômico-produtivo",
+    "title": "Mirassol D’Oeste",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/mirassol-d-oeste.html#d2-áreas-de-especial-interesse",
+    "title": "Mirassol D’Oeste",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d3-perfil-sociodemográfico",
+    "href": "municipios/mirassol-d-oeste.html#d3-perfil-sociodemográfico",
+    "title": "Mirassol D’Oeste",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d4-perfil-ambiental",
+    "href": "municipios/mirassol-d-oeste.html#d4-perfil-ambiental",
+    "title": "Mirassol D’Oeste",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d5-infraestrutura",
+    "href": "municipios/mirassol-d-oeste.html#d5-infraestrutura",
+    "title": "Mirassol D’Oeste",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#d6-gestão-pública",
+    "href": "municipios/mirassol-d-oeste.html#d6-gestão-pública",
+    "title": "Mirassol D’Oeste",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/mirassol-d-oeste.html#revisão-de-literatura-área-econômica",
+    "title": "Mirassol D’Oeste",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Mirassol D’Oeste. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nNÃO AVALIADO: 19 itens\nREGIONAL: 12 itens\nINFERIDO: 5 itens\nCONTRAINDICADO: 3 itens\nDOCUMENTADO: 1 item\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Mirassol D’Oeste (2):\n\nCunha et al. (2023). Relato de uma experiência de formação: Mulheres cervejeiras do Pantanal mato-grossense\nNeves et al. (2013). ANÁLISE CLIMÁTICA APLICADA À CULTURA DO TOMATE NA REGIÃO SUDOESTE DE MATO GROSSO: subsídios ao desenvolvimento da agricultura familiar regional\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/mirassol-d-oeste.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Mirassol D’Oeste",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Mirassol D’Oeste como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/mirassol-d-oeste.html#baixar-os-dados-do-município",
+    "href": "municipios/mirassol-d-oeste.html#baixar-os-dados-do-município",
+    "title": "Mirassol D’Oeste",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/pocone.html",
+    "href": "municipios/pocone.html",
+    "title": "Poconé",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/pocone.html#indicadores-chave",
+    "href": "municipios/pocone.html#indicadores-chave",
+    "title": "Poconé",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n31.203\nhabitantes · 2025\n6,3% do total do Pantanal Norte\n\n\nPIB real\nR$ 897,0 mi\nR$ mil de 2024 · 2023\n3,3% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 28,7 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n4.924\nvínculos em 31/12 · 2024\n3,8% do total do Pantanal Norte\n\n\nRebanho bovino\n605.788\ncabeças · 2024\n12,0% do total do Pantanal Norte\n\n\nExportações\nUS$ 15,5 mi\nUS$ correntes (FOB) · 2024\n0,5% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n19,2%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n9,2%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,555\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/pocone.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/pocone.html#d1-perfil-econômico-produtivo",
+    "title": "Poconé",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/pocone.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/pocone.html#d2-áreas-de-especial-interesse",
+    "title": "Poconé",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/pocone.html#d3-perfil-sociodemográfico",
+    "href": "municipios/pocone.html#d3-perfil-sociodemográfico",
+    "title": "Poconé",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/pocone.html#d4-perfil-ambiental",
+    "href": "municipios/pocone.html#d4-perfil-ambiental",
+    "title": "Poconé",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/pocone.html#d5-infraestrutura",
+    "href": "municipios/pocone.html#d5-infraestrutura",
+    "title": "Poconé",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/pocone.html#d6-gestão-pública",
+    "href": "municipios/pocone.html#d6-gestão-pública",
+    "title": "Poconé",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/pocone.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/pocone.html#revisão-de-literatura-área-econômica",
+    "title": "Poconé",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Poconé. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nDOCUMENTADO: 32 itens\nREGIONAL: 4 itens\nNÃO AVALIADO: 3 itens\nINFERIDO: 1 item\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Poconé (12):\n\nRibeiro et al. (2025). TOURISM AND POSSIBLE TRANSIENCE IN PANTANAL LODGES\nLoiola e Fabrini (2024). Expansão da produção de soja na microrregião do Alto pantanal/MT: conflitos e perspectivas sustentáveis\nOliveira e Pasa (2024). CADEIA PRODUTIVA SUSTENTÁVEL DE Dipteryx alata Vogel. NO PANTANAL E CERRADO MATO-GROSSENSE\nSilva et al. (2024). Implementação de tecnologias sociais e educação ambiental em comunidades do Alto Pantanal Mato-grossense\nFonseca et al. (2021). IMPACTOS DA PANDEMIA DE COVID -19 NO TURISMO DO PANTANAL DE MATO GROSSO\nCurvo et al. (2020). Avaliação da piscicultura na microrregião do Alto Pantanal – Mato Grosso, Brasil\nLongo et al. (2019). PANTANAL MATO-GROSSENSE: ASPECTOS SOCIOECONÔMICOS DA APICULTURA E SEU AVANÇO EM SEIS MUNICÍPIOS NA BAIXADA CUIABANA\nLacerda (2017). MUDANÇAS EM DESEJOS E OPORTUNIDADES NO STATUS DE PECUARISTA PANTANEIRO\nMelo et al. (2017). Aspectos socioeconômico dos agricultores familiares extrativistas do cumbaru no município de Poconé - Pantanal Mato-Grossense\nMelo et al. (2017). CADEIA PRODUTIVA DO CUMBARU (Dipteryx alata Vogel) EM POCONÉ, MATO GROSSO\nRabelo et al. (2017). Percepção dos atores sociais do turismo sobre o pulso de inundação do Pantanal (MT)\nTocantins et al. (2011). ABORDAGEM SOCIOECONÔMICA DOS PESCADORES FILIADOS À COLÔNIA Z11: MUNICÍPIO DE POCONÉ, PANTANAL DE MATO GROSSO, BRASIL\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/pocone.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/pocone.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Poconé",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\n7 propostas com “Pantanal” no objeto tiveram Poconé como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar."
+  },
+  {
+    "objectID": "municipios/pocone.html#baixar-os-dados-do-município",
+    "href": "municipios/pocone.html#baixar-os-dados-do-município",
+    "title": "Poconé",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html",
+    "href": "municipios/rondonopolis.html",
+    "title": "Rondonópolis",
+    "section": "",
+    "text": "Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere."
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#indicadores-chave",
+    "href": "municipios/rondonopolis.html#indicadores-chave",
+    "title": "Rondonópolis",
+    "section": "Indicadores-chave",
+    "text": "Indicadores-chave\n\n\n\n\nPopulação\n263.708\nhabitantes · 2025\n53,1% do total do Pantanal Norte\n\n\nPIB real\nR$ 17,2 bi\nR$ mil de 2024 · 2023\n63,3% do total do Pantanal Norte\n\n\nPIB per capita real\nR$ 70,4 mil\nR$ de 2024 por habitante · 2023\nMediana PN-13: R$ 41,3 mil · MT: R$ 61,8 mil\n\n\nEmpregos formais\n82.956\nvínculos em 31/12 · 2024\n64,5% do total do Pantanal Norte\n\n\nRebanho bovino\n383.997\ncabeças · 2024\n7,6% do total do Pantanal Norte\n\n\nExportações\nUS$ 3,0 bi\nUS$ correntes (FOB) · 2024\n90,4% do total do Pantanal Norte\n\n\nTerritório desmatado (acumulado)\n81,8%\n% · 2023\nMediana PN-13: 40,6% · MT: 51,5%\n\n\nAutonomia fiscal\n23,4%\n% da receita corrente · 2023\nMediana PN-13: 9,2% · MT: 10,8%\n\n\nIFDM geral\n0,783\níndice 0–1 · 2023\nMediana PN-13: 0,653 · MT: 0,650"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d1-perfil-econômico-produtivo",
+    "href": "municipios/rondonopolis.html#d1-perfil-econômico-produtivo",
+    "title": "Rondonópolis",
+    "section": "D1 · Perfil econômico-produtivo",
+    "text": "D1 · Perfil econômico-produtivo"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d2-áreas-de-especial-interesse",
+    "href": "municipios/rondonopolis.html#d2-áreas-de-especial-interesse",
+    "title": "Rondonópolis",
+    "section": "D2 · Áreas de especial interesse",
+    "text": "D2 · Áreas de especial interesse"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d3-perfil-sociodemográfico",
+    "href": "municipios/rondonopolis.html#d3-perfil-sociodemográfico",
+    "title": "Rondonópolis",
+    "section": "D3 · Perfil sociodemográfico",
+    "text": "D3 · Perfil sociodemográfico"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d4-perfil-ambiental",
+    "href": "municipios/rondonopolis.html#d4-perfil-ambiental",
+    "title": "Rondonópolis",
+    "section": "D4 · Perfil ambiental",
+    "text": "D4 · Perfil ambiental"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d5-infraestrutura",
+    "href": "municipios/rondonopolis.html#d5-infraestrutura",
+    "title": "Rondonópolis",
+    "section": "D5 · Infraestrutura",
+    "text": "D5 · Infraestrutura"
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#d6-gestão-pública",
+    "href": "municipios/rondonopolis.html#d6-gestão-pública",
+    "title": "Rondonópolis",
+    "section": "D6 · Gestão pública",
+    "text": "D6 · Gestão pública\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, \nComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). \nMedianas calculadas no ano de referência de cada indicador. Detalhes em \nDados\n e nas notas metodológicas da \nBiblioteca\n."
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#revisão-de-literatura-área-econômica",
+    "href": "municipios/rondonopolis.html#revisão-de-literatura-área-econômica",
+    "title": "Rondonópolis",
+    "section": "Revisão de literatura (área econômica)",
+    "text": "Revisão de literatura (área econômica)\nA FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para Rondonópolis. Os status vêm da revisão complementar (ago/2026); nenhum município havia sido visitado em campo até 21/09/2026, por isso os itens INFERIDO são hipóteses a verificar no campo.\n\nREGIONAL: 16 itens\nDOCUMENTADO: 12 itens\nNÃO AVALIADO: 6 itens\nCONTRAINDICADO: 5 itens\nINFERIDO: 1 item\n\n\n\n\n\n\n\nEstudos do corpus econômico que citam Rondonópolis (1):\n\nSantos et al. (2025). Public Policies and Biodiversity Conservation in Conflict in a Brazilian Agribusiness City\n\nMais detalhes em Revisão de literatura — área econômica."
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#projetos-no-banco-de-ideias-transferegov",
+    "href": "municipios/rondonopolis.html#projetos-no-banco-de-ideias-transferegov",
+    "title": "Rondonópolis",
+    "section": "Projetos no Banco de Ideias TransfereGov",
+    "text": "Projetos no Banco de Ideias TransfereGov\nNenhuma proposta com “Pantanal” no objeto teve Rondonópolis como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais)."
+  },
+  {
+    "objectID": "municipios/rondonopolis.html#baixar-os-dados-do-município",
+    "href": "municipios/rondonopolis.html#baixar-os-dados-do-município",
+    "title": "Rondonópolis",
+    "section": "Baixar os dados do município",
+    "text": "Baixar os dados do município\n\nIndicadores desta página em CSV (todos os anos disponíveis)\nBases completas e dicionários de variáveis"
+  },
+  {
+    "objectID": "revisao/economica.html",
+    "href": "revisao/economica.html",
+    "title": "Área econômica — matriz FOFA",
+    "section": "",
+    "text": "Pacote da área econômica regerado em 23/09/2026, conforme deliberação da coordenação de 21/09/2026, e reverificado em 24/09/2026 (397 arquivos). Matriz FOFA validada pela coordenação em 24/08/2026. Relatório: RSE da área econômica, v1 (PDF).\nEsta página apresenta a matriz FOFA (forças, oportunidades, fraquezas e ameaças) da área-chave econômica dos 13 municípios do Pantanal Norte. A matriz resulta da revisão sistemática; a revisão documental complementar e a FOFA municipal aparecem nas seções finais, separadas da matriz validada."
+  },
+  {
+    "objectID": "revisao/economica.html#seleção-dos-estudos",
+    "href": "revisao/economica.html#seleção-dos-estudos",
+    "title": "Área econômica — matriz FOFA",
+    "section": "Seleção dos estudos",
+    "text": "Seleção dos estudos\n\n\n\n\nRegistros recuperados\n1.378\nCAPES 447 · SciELO 122 · Scopus 809\n\n\nRegistros triados\n839\n1.038 únicos, menos 199 fora de 2011–2026\n\n\nRegistros incluídos\n236\napós triagem por título e por resumo\n\n\nEstudos distintos\n225\n11 registros repetem estudo já incluído\n\n\n\n\n\n\n\n\n\n\n\nFonte: planilha de triagem e fluxo PRISMA do pacote da área econômica (Anexo B). Buscas em 20/08/2026; triagem concluída em 22/08/2026. A triagem por título e por resumo foi feita por dois avaliadores independentes, com desempate por um terceiro. Os 236 registros incluídos correspondem a 225 estudos distintos: 11 registros são versões do mesmo estudo em outra língua ou outra base, mantidas no corpus por deliberação da coordenação de 21/09/2026."
+  },
+  {
+    "objectID": "revisao/economica.html#os-40-itens-da-matriz",
+    "href": "revisao/economica.html#os-40-itens-da-matriz",
+    "title": "Área econômica — matriz FOFA",
+    "section": "Os 40 itens da matriz",
+    "text": "Os 40 itens da matriz\nCada item é uma proposição verificável. As colunas da tabela têm o seguinte significado:\n\nLastro: número de estudos distintos do corpus que sustentam o item, obtido pelo mapeamento das 840 evidências extraídas contra os 40 itens por dois mapeadores independentes (adotou-se a interseção).\nConvergência: em quantas de três execuções independentes da síntese o item apareceu (3/3, 2/3 ou 1/3).\nConfiança: critério composto de lastro e convergência. Lastro de 10 ou mais estudos vale 2 pontos, de 5 a 9 vale 1, de 4 ou menos vale 0; convergência 3/3 vale 2, 2/3 vale 1, 1/3 vale 0. Alta: 3 ou mais pontos; média: 2; baixa: 1 ou menos.\nAncoragem: território em que a evidência das citações exibidas foi produzida (Mato Grosso; Mato Grosso em parte; Pantanal Sul, em Mato Grosso do Sul, e outros territórios). A ancoragem é independente da confiança.\nVerificável: se o item pode ser verificado em campo.\n\nClique em uma linha para ver a proposição completa, a ressalva, o modo de verificação em campo e as citações exibidas (196 no total, de 114 obras), com autor, ano e link para o DOI.\n\n\n\n\n\n\nDistribuição: confiança alta em 30 itens, média em 8 e baixa em 2; convergência 3/3 em 35, 2/3 em 4 e 1/3 em 1; ancoragem em Mato Grosso em 19 itens, em parte em Mato Grosso em 10 e predominantemente no Pantanal Sul ou em outros territórios em 11; 34 itens verificáveis em campo.\n\nFonte: Matriz FOFA em formato integrado e planilha dos quadros FOFA (Anexo A) do pacote da área econômica. As citações exibidas são trechos curtos dos estudos, reproduzidos com indicação de autor e fonte para fins de estudo e crítica (Lei 9.610/1998, art. 46, III). As citações foram conferidas contra o texto original: 132 no PDF, 56 no resumo indexado e 8 no PDF com variação decorrente da extração de texto. Dados em CSV: itens · citações."
+  },
+  {
+    "objectID": "revisao/economica.html#ancoragem-por-município",
+    "href": "revisao/economica.html#ancoragem-por-município",
+    "title": "Área econômica — matriz FOFA",
+    "section": "Ancoragem por município",
+    "text": "Ancoragem por município\nA tabela conta, para cada município do recorte, quantos dos 225 estudos do corpus o citam pelo nome (no título, no resumo ou nas evidências extraídas do estudo) e em quantos dos 40 itens as citações exibidas mencionam o município.\n\n\n\n\n\n\nNenhum estudo do corpus cita Glória D’Oeste, Itiquira, Juscimeira, Lambari D’Oeste e Porto Esperidião (linhas destacadas). Esses municípios dependem da revisão complementar e da pesquisa de campo para qualquer afirmação municipal. Ao todo, 30 dos 225 estudos citam ao menos um município do recorte.\nRecorte geográfico dos 225 estudos distintos do corpus:\n\n\n\n\n\n\n\nFonte: análise geográfica do corpus (identificação lexical dos municípios e territórios citados em cada registro), consolidada por estudo distinto. A classificação de cada estudo segue a do registro principal do estudo."
+  },
+  {
+    "objectID": "revisao/economica.html#matriz-complementar-revisão-documental",
+    "href": "revisao/economica.html#matriz-complementar-revisão-documental",
+    "title": "Área econômica — matriz FOFA",
+    "section": "Matriz complementar (revisão documental)",
+    "text": "Matriz complementar (revisão documental)\n\n\n\n\n\n\nAvisoAdvertência de uso\n\n\n\nA matriz complementar não é um mapa da economia do Pantanal mato-grossense. É o mapa do que um acervo determinado registra sobre ela, e esse acervo tem dono, data e recorte: sete dos treze municípios concentram quase toda a base, e são exatamente os visitados pelo programa Pró-Pantanal do SEBRAE-MT entre 2019 e 2022. Usada como diagnóstico regional, converteria silêncio documental em ausência de economia nos outros seis.\n\n\nA matriz complementar reúne 69 itens extraídos do acervo curado pela coordenação (87 documentos triados e 86 lidos). Ela não altera os 40 itens da matriz validada: 27 itens correspondem a um item da matriz validada e 42 são itens novos. A coluna “Fontes” conta observações independentes e não documentos: relatórios municipais que repetem o mesmo parágrafo com outro topônimo contam como uma observação. A rodada 1 varreu todo o acervo; a rodada 2 tratou lacunas temáticas indicadas pela auditoria de completude.\n\n\n\n\n\n\n\nFonte: Matriz complementar (Anexo D da revisão complementar). Os documentos do acervo e as evidências extraídas deles não são publicados neste site. Dados em CSV: matriz complementar."
+  },
+  {
+    "objectID": "revisao/economica.html#fofa-municipal",
+    "href": "revisao/economica.html#fofa-municipal",
+    "title": "Área econômica — matriz FOFA",
+    "section": "FOFA municipal",
+    "text": "FOFA municipal\nA FOFA municipal cruza os 40 itens da matriz validada com cada um dos 13 municípios e atribui a cada par um status de evidência. Nenhum município do recorte havia sido visitado em campo até 21/09/2026; por isso nenhum status resulta de verificação em campo.\n\n\n\n\n\n\n\n\nStatus\nO que significa\nComo usar\n\n\n\n\nDOCUMENTADO\nFonte direta nomeia o município ao tratar do item\nAchado. Pode ser afirmado.\n\n\nREGIONAL\nFonte de escala supramunicipal cobre o município, sem nomeá-lo neste ponto\nAchado com ressalva de escala.\n\n\nINFERIDO hipótese de campo\nSimilaridade estrutural com município documentado, segundo a tipologia municipal; a base de cada par nomeia o município de referência e o critério\nHipótese. Verificar em campo. Não conta como evidência em nenhuma contagem de lastro.\n\n\nCONTRAINDICADO\nIndicador municipal da Fase I refuta o item\nAchado negativo.\n\n\nNÃO AVALIADO\nSem base para afirmar ou negar\nLacuna declarada.\n\n\n\n\n\n\n\n\n\nNos 520 pares município × item: 191 documentados, 144 regionais, 44 inferidos, 16 contraindicados e 125 não avaliados. A base factual soma documentado, regional e contraindicado, isto é, o que se apoia em fonte ou em dado, e não em similaridade. O item a item de cada município está na página do município (link na tabela).\n\nFonte: Matriz cruzada municipal (Anexo B da revisão complementar) e tipologia municipal do pacote da área econômica. Dados em CSV: FOFA municipal."
+  },
+  {
+    "objectID": "revisao/index.html",
+    "href": "revisao/index.html",
+    "title": "Revisão de literatura — situação das áreas",
+    "section": "",
+    "text": "Situação registrada em 30/09/2026. A área econômica é a única concluída; as demais áreas estão em execução e seus resultados serão publicados quando os pacotes forem validados pela coordenação."
+  },
+  {
+    "objectID": "revisao/index.html#método",
+    "href": "revisao/index.html#método",
+    "title": "Revisão de literatura — situação das áreas",
+    "section": "Método",
+    "text": "Método\nA revisão de literatura do Projeto DSIP-MT é feita por área-chave: econômica, infraestrutura, setor público, sociodemográfica e ambiental. Em cada área, o produto é uma matriz FOFA, que organiza o que a literatura afirma sobre os 13 municípios do Pantanal Norte em quatro dimensões: forças e fraquezas (condições internas ao território) e oportunidades e ameaças (condições externas).\nCada área combina duas revisões, mantidas separadas porque têm pesos probatórios diferentes:\n\nRevisão sistemática. Busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026), triagem por título e por resumo com dois avaliadores independentes e desempate, e extração das evidências dos estudos incluídos. Na área econômica, 1.378 registros recuperados resultaram em 236 registros incluídos, correspondentes a 225 estudos distintos.\nRevisão documental complementar. Leitura do acervo de documentos reunido pela coordenação (relatórios técnicos, planos de manejo, diagnósticos municipais). Na área econômica, 87 documentos foram triados e 86 lidos, com 1.837 evidências extraídas.\n\nAs duas revisões são cruzadas com os 13 municípios na FOFA municipal, que indica, para cada item da matriz e cada município, se há fonte que o documente, se há só fonte regional, se o item é uma hipótese a verificar em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Nenhum município do recorte havia sido visitado em campo até 21/09/2026."
+  },
+  {
+    "objectID": "revisao/index.html#situação-das-cinco-áreas",
+    "href": "revisao/index.html#situação-das-cinco-áreas",
+    "title": "Revisão de literatura — situação das áreas",
+    "section": "Situação das cinco áreas",
+    "text": "Situação das cinco áreas\n\n\n\n\n\n\n\nFonte: registros de execução da revisão (LEIA-ME do pacote da área econômica; registro de execução da área de infraestrutura; registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental), situação em 30/09/2026. As datas do calendário das três áreas da Fase B são previsões do documento de preparação e podem ser alteradas pela coordenação."
+  },
+  {
+    "objectID": "revisao/index.html#área-econômica",
+    "href": "revisao/index.html#área-econômica",
+    "title": "Revisão de literatura — situação das áreas",
+    "section": "Área econômica",
+    "text": "Área econômica\n\n  Matriz FOFAOs 40 itens validados em 24/08/2026, com citações, ressalvas, ancoragem por município, matriz complementar e FOFA municipal.\n  Estudos do corpusOs 225 estudos distintos da revisão sistemática, com busca, filtro por ano e arquivo BibTeX.\n  Relatório (RSE, PDF)Relatório da revisão bibliográfica/sistemática da área econômica: método, resultados, diagnóstico municipal e prioridades de campo.\n\nOs relatórios das demais áreas serão incluídos nesta seção quando os respectivos pacotes forem validados."
+  }
+]

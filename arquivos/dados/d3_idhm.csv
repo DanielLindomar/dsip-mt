@@ -1,0 +1,513 @@
+id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,idhm,classifica_idhm,var_idhm_2000_2010,gini,taxa_pobreza_pct,taxa_ext_pobreza_pct
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1970,0.317,Muito Baixo,0.128,,,
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1980,0.441,Muito Baixo,0.128,,,
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1991,0.486,Muito Baixo,0.128,0.52,83.19,35.29
+5100102,Acorizal,resto_mt,Demais MT,FALSE,2000,0.5,Baixo,0.128,0.57,70.47,21.63
+5100102,Acorizal,resto_mt,Demais MT,FALSE,2010,0.628,Médio,0.128,0.5,58.87,14.91
+5100201,Água Boa,resto_mt,Demais MT,FALSE,1980,0.644,Médio,0.126,,,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,1991,0.627,Médio,0.126,0.59,64.23,12.2
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2000,0.603,Médio,0.126,0.67,45.96,7.66
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2010,0.729,Alto,0.126,0.49,20.78,1.45
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,1980,0.653,Médio,0.129,,,
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,1991,0.594,Baixo,0.129,0.55,68.34,16.29
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2000,0.585,Baixo,0.129,0.59,47.9,4.71
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2010,0.714,Alto,0.129,0.48,25.2,1.86
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1970,0.428,Muito Baixo,0.121,,,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1980,0.61,Médio,0.121,,,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1991,0.652,Médio,0.121,0.61,66.76,11.88
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2000,0.583,Baixo,0.121,0.57,51.77,5.97
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2010,0.704,Alto,0.121,0.47,22.84,3.66
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.155,0.56,79.53,28.85
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2000,0.496,Muito Baixo,0.155,0.55,63.7,16.43
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2010,0.651,Médio,0.155,0.57,52.8,25.18
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1970,0.386,Muito Baixo,0.075,,,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1980,0.584,Baixo,0.075,,,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1991,0.619,Médio,0.075,0.54,64.19,12.34
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2000,0.626,Médio,0.075,0.7,47.76,4.75
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2010,0.701,Alto,0.075,0.46,24.34,2.15
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,1970,0.368,Muito Baixo,0.131,,,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,1980,0.526,Baixo,0.131,,,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,1991,0.513,Baixo,0.131,0.54,80.22,26.14
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2000,0.507,Baixo,0.131,0.53,69.77,18.53
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2010,0.638,Médio,0.131,0.47,47.59,12.45
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,1991,0.639,Médio,0.071,0.47,56.91,8.05
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2000,0.634,Médio,0.071,0.71,39.01,3.33
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2010,0.705,Alto,0.071,0.46,16.83,1.15
+5100805,Apiacás,resto_mt,Demais MT,FALSE,1991,0.715,Alto,0.174,0.58,65.98,19.81
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2000,0.501,Baixo,0.174,0.53,53.31,9.48
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2010,0.675,Médio,0.174,0.46,31.29,6.82
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,1991,0.588,Baixo,0.135,0.61,78.58,14.41
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2000,0.552,Baixo,0.135,0.52,56.96,7.93
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2010,0.687,Médio,0.135,0.43,32.83,3.77
+5101209,Araguainha,resto_mt,Demais MT,FALSE,1970,0.301,Muito Baixo,0.128,,,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,1980,0.501,Baixo,0.128,,,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,1991,0.631,Médio,0.128,0.64,69.99,20.46
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2000,0.573,Baixo,0.128,0.36,35.59,10.11
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2010,0.701,Alto,0.128,0.4,31.87,1.32
+5101258,Araputanga,resto_mt,Demais MT,FALSE,1980,0.521,Baixo,0.121,,,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,1991,0.651,Médio,0.121,0.58,64.22,11.53
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2000,0.604,Médio,0.121,0.59,51.57,3.71
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2010,0.725,Alto,0.121,0.5,29.03,3.56
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1970,0.386,Muito Baixo,0.117,,,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1980,0.502,Baixo,0.117,,,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1991,0.563,Baixo,0.117,0.52,71.31,14.84
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2000,0.587,Baixo,0.117,0.59,62.65,15.82
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2010,0.704,Alto,0.117,0.46,31.72,2.51
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1970,0.493,Muito Baixo,0.147,,,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1980,0.643,Médio,0.147,,,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1991,0.663,Médio,0.147,0.64,57.55,12.72
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2000,0.528,Baixo,0.147,0.52,31.91,6.33
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2010,0.675,Médio,0.147,0.56,37.22,14.66
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1970,0.333,Muito Baixo,0.154,,,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1980,0.468,Muito Baixo,0.154,,,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1991,0.439,Muito Baixo,0.154,0.48,87.46,38.33
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2000,0.446,Muito Baixo,0.154,0.56,73.87,25
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2010,0.6,Médio,0.154,0.5,59.24,13.62
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1970,0.35,Muito Baixo,0.143,,,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1980,0.511,Baixo,0.143,,,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1991,0.579,Baixo,0.143,0.61,70.95,14.83
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2000,0.55,Baixo,0.143,0.55,56.99,9.38
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2010,0.693,Médio,0.143,0.51,34.71,6.96
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,1970,0.362,Muito Baixo,0.117,,,
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,1980,0.662,Médio,0.117,,,
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,1991,0.736,Alto,0.117,0.6,58.96,10.81
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2000,0.631,Médio,0.117,0.59,44.68,5.22
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2010,0.748,Alto,0.117,0.55,27.08,4.09
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.232,0.55,76.91,23.81
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2000,0.429,Muito Baixo,0.232,0.55,59.66,10.64
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2010,0.661,Médio,0.232,0.48,37.92,3.91
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,1991,0.693,Médio,0.179,0.52,47.73,9.03
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2000,0.517,Baixo,0.179,0.59,44.96,9.07
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2010,0.696,Médio,0.179,0.53,33.23,9.04
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1970,0.352,Muito Baixo,0.122,,,
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1980,0.57,Baixo,0.122,,,
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1991,0.58,Baixo,0.122,0.55,71.49,18.42
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2000,0.586,Baixo,0.122,0.61,58.23,11.33
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2010,0.708,Alto,0.122,0.53,37.01,4.69
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,1991,0.501,Baixo,0.095,0.61,80.28,29.29
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2000,0.443,Muito Baixo,0.095,0.6,67.78,23.36
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2010,0.538,Baixo,0.095,0.69,66.27,37.82
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,1991,0.766,Alto,0.139,0.56,44.84,9.08
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2000,0.595,Baixo,0.139,0.68,50.11,12.35
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2010,0.734,Alto,0.139,0.45,13.98,0.73
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,1991,0.765,Alto,0.112,0.64,57.23,11.17
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2000,0.638,Médio,0.112,0.63,44.65,2.8
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2010,0.75,Alto,0.112,0.51,17.25,1.51
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.108,0.48,52.14,3.86
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2000,0.636,Médio,0.108,0.87,80.02,41.87
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2010,0.744,Alto,0.108,0.62,14.82,0.46
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.181,0.54,55.55,18.44
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2000,0.486,Muito Baixo,0.181,0.52,55.87,16.72
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2010,0.667,Médio,0.181,0.52,51.83,14.85
+5102702,Canarana,resto_mt,Demais MT,FALSE,1980,0.558,Baixo,0.128,,,
+5102702,Canarana,resto_mt,Demais MT,FALSE,1991,0.756,Alto,0.128,0.61,56.95,15.39
+5102702,Canarana,resto_mt,Demais MT,FALSE,2000,0.565,Baixo,0.128,0.61,42.54,5.59
+5102702,Canarana,resto_mt,Demais MT,FALSE,2010,0.693,Médio,0.128,0.53,24.94,5.08
+5102793,Carlinda,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.181,0.48,89.86,29.9
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2000,0.484,Muito Baixo,0.181,0.52,69.03,17.29
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2010,0.665,Médio,0.181,0.52,40.43,9.26
+5102850,Castanheira,resto_mt,Demais MT,FALSE,1991,0.602,Médio,0.176,0.54,68.72,22.86
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2000,0.489,Muito Baixo,0.176,0.53,56.23,12.88
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2010,0.665,Médio,0.176,0.55,41.73,5.54
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1970,0.371,Muito Baixo,0.166,,,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1980,0.481,Muito Baixo,0.166,,,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1991,0.599,Baixo,0.166,0.6,76.26,22.69
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2000,0.522,Baixo,0.166,0.62,61.35,19.52
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2010,0.688,Médio,0.166,0.53,38.08,9.09
+5103056,Cláudia,resto_mt,Demais MT,FALSE,1991,0.729,Alto,0.136,0.44,35.91,1.71
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2000,0.563,Baixo,0.136,0.63,50.23,10.76
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2010,0.699,Médio,0.136,0.57,30.76,5.32
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,1991,0.557,Baixo,0.16,0.48,66.61,15.07
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2000,0.5,Baixo,0.16,0.57,57.65,7.21
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2010,0.66,Médio,0.16,0.48,33.59,3.84
+5103205,Colíder,resto_mt,Demais MT,FALSE,1980,0.586,Baixo,0.138,,,
+5103205,Colíder,resto_mt,Demais MT,FALSE,1991,0.577,Baixo,0.138,0.59,75.1,25.92
+5103205,Colíder,resto_mt,Demais MT,FALSE,2000,0.575,Baixo,0.138,0.63,51.56,10.07
+5103205,Colíder,resto_mt,Demais MT,FALSE,2010,0.713,Alto,0.138,0.56,26.31,3.91
+5103254,Colniza,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.207,0.58,78.68,23.57
+5103254,Colniza,resto_mt,Demais MT,FALSE,2000,0.404,Muito Baixo,0.207,0.57,58.45,19.27
+5103254,Colniza,resto_mt,Demais MT,FALSE,2010,0.611,Médio,0.207,0.58,51.48,22.95
+5103304,Comodoro,resto_mt,Demais MT,FALSE,1991,0.643,Médio,0.168,0.59,68.77,19.45
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2000,0.521,Baixo,0.168,0.64,54.95,17.48
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2010,0.689,Médio,0.168,0.54,36.93,8.44
+5103353,Confresa,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.217,0.57,86.89,43.25
+5103353,Confresa,resto_mt,Demais MT,FALSE,2000,0.451,Muito Baixo,0.217,0.62,63.2,24.01
+5103353,Confresa,resto_mt,Demais MT,FALSE,2010,0.668,Médio,0.217,0.58,48.55,14.24
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.262,0.34,78.21,11.37
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2000,0.456,Muito Baixo,0.262,0.57,70.75,26.95
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2010,0.718,Alto,0.262,0.5,28.35,4
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.131,0.45,70.48,13.51
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2000,0.47,Muito Baixo,0.131,0.62,66.62,25.34
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2010,0.601,Médio,0.131,0.57,52.37,21.39
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1970,0.538,Baixo,0.093,,,
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1980,0.724,Alto,0.093,,,
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1991,0.784,Alto,0.093,0.59,44.32,5.53
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2000,0.692,Médio,0.093,0.63,34.61,3.37
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2010,0.785,Alto,0.093,0.59,17.21,1.33
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,1991,,Muito Baixo,0.16,0.48,83.54,35.16
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2000,0.53,Baixo,0.16,0.53,63.76,12.29
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2010,0.69,Médio,0.16,0.47,40.5,2.92
+5103452,Denise,resto_mt,Demais MT,FALSE,1991,0.527,Baixo,0.119,0.45,79.15,11.95
+5103452,Denise,resto_mt,Demais MT,FALSE,2000,0.564,Baixo,0.119,0.55,52.87,4.26
+5103452,Denise,resto_mt,Demais MT,FALSE,2010,0.683,Médio,0.119,0.42,27.39,1.85
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1970,0.456,Muito Baixo,0.082,,,
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1980,0.623,Médio,0.082,,,
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1991,0.772,Alto,0.082,0.66,58.57,10.34
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2000,0.636,Médio,0.082,0.65,48.97,9.1
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2010,0.718,Alto,0.082,0.47,23.28,2.98
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,1970,0.339,Muito Baixo,0.135,,,
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,1980,0.545,Baixo,0.135,,,
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,1991,0.592,Baixo,0.135,0.49,71.74,15.12
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2000,0.555,Baixo,0.135,0.52,53.52,11.2
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2010,0.69,Médio,0.135,0.51,35.79,7.43
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.177,0.68,47.46,12.75
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2000,0.515,Baixo,0.177,0.61,35.84,5.59
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2010,0.692,Médio,0.177,0.46,18.26,5.96
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,1991,0.527,Baixo,0.103,0.57,74.8,24.86
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2000,0.576,Baixo,0.103,0.59,54.88,11.28
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2010,0.679,Médio,0.103,0.42,32.9,2.27
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.105,0.43,85.65,36.1
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2000,0.51,Baixo,0.105,0.57,46.9,5.01
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2010,0.615,Médio,0.105,0.67,50.51,34.95
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1970,0.352,Muito Baixo,0.184,,,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1980,0.519,Baixo,0.184,,,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1991,0.485,Muito Baixo,0.184,0.55,87.73,36.86
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2000,0.486,Muito Baixo,0.184,0.61,71.53,24.27
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2010,0.67,Médio,0.184,0.59,54.26,15.13
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,1991,,Muito Baixo,0.136,0.4,52.47,5.73
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2000,0.574,Baixo,0.136,0.68,54.75,10.98
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,0.71,Alto,0.136,0.48,32.46,2.51
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,1991,0.65,Médio,0.173,0.66,69.72,26.73
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2000,0.53,Baixo,0.173,0.63,53.54,8.13
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2010,0.703,Alto,0.173,0.48,30.4,3.46
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1970,0.378,Muito Baixo,0.117,,,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1980,0.61,Médio,0.117,,,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1991,0.624,Médio,0.117,0.5,63.54,7.39
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2000,0.588,Baixo,0.117,0.61,59.81,10.33
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2010,0.705,Alto,0.117,0.48,33.1,6.27
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,1991,0.633,Médio,0.144,0.63,74.7,20.53
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2000,0.517,Baixo,0.144,0.43,39.3,15.22
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2010,0.661,Médio,0.144,0.46,45.96,3.24
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.124,0.74,68.93,4.87
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2000,0.603,Médio,0.124,0.42,19.05,6.64
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2010,0.727,Alto,0.124,0.48,15.99,2
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.204,0.45,62.94,6.28
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2000,0.506,Baixo,0.204,0.69,46.31,18.52
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2010,0.71,Alto,0.204,0.51,29.39,5.38
+5104559,Itaúba,resto_mt,Demais MT,FALSE,1991,0.63,Médio,0.179,0.56,61.47,11.85
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2000,0.511,Baixo,0.179,0.75,76.96,17.07
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2010,0.69,Médio,0.179,0.58,32.93,3.53
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1970,0.375,Muito Baixo,0.152,,,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1980,0.682,Médio,0.152,,,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1991,0.575,Baixo,0.152,0.48,70.38,18.5
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2000,0.541,Baixo,0.152,0.6,56.32,3.11
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2010,0.693,Médio,0.152,0.47,28.41,2.99
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1970,0.299,Muito Baixo,0.101,,,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1980,0.624,Médio,0.101,,,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1991,0.679,Médio,0.101,0.53,52.33,10.73
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2000,0.634,Médio,0.101,0.54,44.27,4.12
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2010,0.735,Alto,0.101,0.51,23.71,3.2
+5104906,Jangada,resto_mt,Demais MT,FALSE,1991,0.436,Muito Baixo,0.134,0.63,82.78,45.18
+5104906,Jangada,resto_mt,Demais MT,FALSE,2000,0.496,Muito Baixo,0.134,0.55,69.73,23.06
+5104906,Jangada,resto_mt,Demais MT,FALSE,2010,0.63,Médio,0.134,0.56,63.34,25.4
+5105002,Jauru,resto_mt,Demais MT,FALSE,1980,0.433,Muito Baixo,0.173,,,
+5105002,Jauru,resto_mt,Demais MT,FALSE,1991,0.465,Muito Baixo,0.173,0.48,83.62,27.95
+5105002,Jauru,resto_mt,Demais MT,FALSE,2000,0.5,Baixo,0.173,0.56,67.3,18.48
+5105002,Jauru,resto_mt,Demais MT,FALSE,2010,0.673,Médio,0.173,0.52,42.08,9.92
+5105101,Juara,resto_mt,Demais MT,FALSE,1991,0.616,Médio,0.11,0.55,73.39,17.56
+5105101,Juara,resto_mt,Demais MT,FALSE,2000,0.572,Baixo,0.11,0.61,45.78,4.46
+5105101,Juara,resto_mt,Demais MT,FALSE,2010,0.682,Médio,0.11,0.49,28.13,3.01
+5105150,Juína,resto_mt,Demais MT,FALSE,1991,0.708,Alto,0.156,0.57,56.42,11.19
+5105150,Juína,resto_mt,Demais MT,FALSE,2000,0.56,Baixo,0.156,0.6,40.8,6.32
+5105150,Juína,resto_mt,Demais MT,FALSE,2010,0.716,Alto,0.156,0.58,29.94,4.3
+5105176,Juruena,resto_mt,Demais MT,FALSE,1991,0.754,Alto,0.122,0.57,49.7,13.31
+5105176,Juruena,resto_mt,Demais MT,FALSE,2000,0.54,Baixo,0.122,0.49,43.17,5.95
+5105176,Juruena,resto_mt,Demais MT,FALSE,2010,0.662,Médio,0.122,0.44,36.48,5.57
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,1980,0.47,Muito Baixo,0.146,,,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,1991,0.643,Médio,0.146,0.61,64.03,12.75
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2000,0.568,Baixo,0.146,0.6,60.62,12.67
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2010,0.714,Alto,0.146,0.43,28.28,3.33
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,1991,,Muito Baixo,0.155,0.55,85.12,42.04
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2000,0.472,Muito Baixo,0.155,0.51,65.33,11.49
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,0.627,Médio,0.155,0.48,35.53,3.44
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,1991,0.774,Alto,0.11,0.61,42.1,5.57
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2000,0.658,Médio,0.11,0.53,26.01,0.57
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2010,0.768,Alto,0.11,0.46,11.36,1.45
+5105309,Luciara,resto_mt,Demais MT,FALSE,1970,0.342,Muito Baixo,0.142,,,
+5105309,Luciara,resto_mt,Demais MT,FALSE,1980,0.457,Muito Baixo,0.142,,,
+5105309,Luciara,resto_mt,Demais MT,FALSE,1991,0.581,Baixo,0.142,0.61,75.93,28.72
+5105309,Luciara,resto_mt,Demais MT,FALSE,2000,0.534,Baixo,0.142,0.56,71.64,26.67
+5105309,Luciara,resto_mt,Demais MT,FALSE,2010,0.676,Médio,0.142,0.43,46.17,6.9
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1970,0.391,Muito Baixo,0.143,,,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1980,0.491,Muito Baixo,0.143,,,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1991,0.574,Baixo,0.143,0.64,75.75,24.99
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2000,0.502,Baixo,0.143,0.7,67.08,21.11
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2010,0.645,Médio,0.143,0.59,50.57,15.1
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,1991,0.68,Médio,0.128,0.5,52.76,6.54
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2000,0.573,Baixo,0.128,0.57,33.06,5.08
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2010,0.701,Alto,0.128,0.55,33.87,5.62
+5105606,Matupá,resto_mt,Demais MT,FALSE,1991,0.732,Alto,0.152,0.62,55.16,7.05
+5105606,Matupá,resto_mt,Demais MT,FALSE,2000,0.564,Baixo,0.152,0.62,51.94,11.33
+5105606,Matupá,resto_mt,Demais MT,FALSE,2010,0.716,Alto,0.152,0.55,35.62,7.25
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,1980,0.508,Baixo,0.122,,,
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,1991,0.69,Médio,0.122,0.57,58.9,8.4
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2000,0.582,Baixo,0.122,0.59,56.56,8.51
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,0.704,Alto,0.122,0.55,29.33,2.79
+5105903,Nobres,resto_mt,Demais MT,FALSE,1970,0.389,Muito Baixo,0.161,,,
+5105903,Nobres,resto_mt,Demais MT,FALSE,1980,0.695,Médio,0.161,,,
+5105903,Nobres,resto_mt,Demais MT,FALSE,1991,0.626,Médio,0.161,0.63,71.43,26.14
+5105903,Nobres,resto_mt,Demais MT,FALSE,2000,0.538,Baixo,0.161,0.53,59.98,11.08
+5105903,Nobres,resto_mt,Demais MT,FALSE,2010,0.699,Médio,0.161,0.46,33.42,3.82
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1970,0.473,Muito Baixo,0.135,,,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1980,0.548,Baixo,0.135,,,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1991,0.549,Baixo,0.135,0.45,71.52,14.56
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2000,0.567,Baixo,0.135,0.47,60.23,12.21
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2010,0.702,Alto,0.135,0.43,36.78,7.6
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1970,0.348,Muito Baixo,0.174,,,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1980,0.46,Muito Baixo,0.174,,,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1991,0.467,Muito Baixo,0.174,0.56,87.52,34.97
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2000,0.464,Muito Baixo,0.174,0.59,74.43,22.4
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2010,0.638,Médio,0.174,0.47,53.55,13.7
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.216,0.62,75.65,22.42
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2000,0.434,Muito Baixo,0.216,0.66,70.49,34.25
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2010,0.65,Médio,0.216,0.62,42.82,15.75
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.132,0.62,88.29,48.92
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2000,0.463,Muito Baixo,0.132,0.5,66.5,20.7
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2010,0.595,Baixo,0.132,0.55,53.9,16.24
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.172,0.52,87.03,33.27
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2000,0.464,Muito Baixo,0.172,0.6,49.69,15.17
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2010,0.636,Médio,0.172,0.51,42.79,12.9
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.217,0.62,63.69,15.11
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2000,0.497,Muito Baixo,0.217,0.5,56.37,11.35
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2010,0.714,Alto,0.217,0.64,33.94,2.89
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,1980,0.451,Muito Baixo,0.135,,,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,1991,0.527,Baixo,0.135,0.54,79.4,27.87
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2000,0.516,Baixo,0.135,0.55,66.1,18.65
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2010,0.651,Médio,0.135,0.64,46.24,18.13
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,1991,0.564,Baixo,0.202,0.57,76.17,27.2
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2000,0.484,Muito Baixo,0.202,0.56,55.77,9.84
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2010,0.686,Médio,0.202,0.55,36.85,6.22
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,1991,0.749,Alto,0.118,0.53,54.68,6.08
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2000,0.64,Médio,0.118,0.56,29.6,1.64
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2010,0.758,Alto,0.118,0.51,14.31,0.62
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,1991,0.617,Médio,0.158,0.52,64.61,5.42
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2000,0.524,Baixo,0.158,0.49,50.34,5.94
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2010,0.682,Médio,0.158,0.56,35.67,3.78
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.154,0.7,57.96,13.52
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2000,0.515,Baixo,0.154,0.55,33.86,7.7
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2010,0.669,Médio,0.154,0.5,32.51,6.26
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,1980,0.544,Baixo,0.117,,,
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,1991,0.633,Médio,0.117,0.56,65.06,16.97
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2000,0.587,Baixo,0.117,0.58,51.87,6.11
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2010,0.704,Alto,0.117,0.53,28.16,2.64
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.182,0.68,76.48,28.43
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2000,0.492,Muito Baixo,0.182,0.62,65.07,16.36
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2010,0.674,Médio,0.182,0.52,44.64,7.22
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,1991,0.483,Muito Baixo,0.14,0.5,82.68,27.47
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2000,0.524,Baixo,0.14,0.44,58.54,9.4
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2010,0.664,Médio,0.14,0.49,37.42,14.74
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,1991,0.575,Baixo,0.138,0.54,69.08,19.79
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2000,0.511,Baixo,0.138,0.65,57.87,10.25
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2010,0.649,Médio,0.138,0.48,39.29,5.2
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,1991,0.707,Alto,0.156,0.66,72.57,26.77
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2000,0.516,Baixo,0.156,0.6,52.54,9.39
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2010,0.672,Médio,0.156,0.53,39.64,6.63
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,1980,0.478,Muito Baixo,0.123,,,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,1991,0.571,Baixo,0.123,0.58,70.5,18.84
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2000,0.544,Baixo,0.123,0.61,53.33,9.04
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2010,0.667,Médio,0.123,0.5,34.87,8.27
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.28,0.57,89.25,38.28
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2000,0.373,Muito Baixo,0.28,0.46,84.27,33.49
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2010,0.653,Médio,0.28,0.51,48.87,5.75
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,1980,0.49,Muito Baixo,0.114,,,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,1991,0.636,Médio,0.114,0.59,68.58,10.48
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2000,0.565,Baixo,0.114,0.48,48.29,4.59
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2010,0.679,Médio,0.114,0.43,30.58,3.99
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,1991,0.7,Alto,0.147,0.62,50.61,7.65
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2000,0.502,Baixo,0.147,0.64,48.24,16.58
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2010,0.649,Médio,0.147,0.67,47.44,14.18
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.164,0.47,91.56,32.02
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2000,0.492,Muito Baixo,0.164,0.58,66.31,21.95
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2010,0.656,Médio,0.164,0.44,49.1,6.3
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1970,0.393,Muito Baixo,0.124,,,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1980,0.501,Baixo,0.124,,,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1991,0.61,Médio,0.124,0.62,73.28,16.88
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2000,0.528,Baixo,0.124,0.57,71.21,19.99
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2010,0.652,Médio,0.124,0.52,48.84,9.42
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.127,0.49,69.56,7.52
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2000,0.607,Médio,0.127,0.53,54.86,2.44
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2010,0.734,Alto,0.127,0.48,29.75,3.38
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1970,0.314,Muito Baixo,0.123,,,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1980,0.489,Muito Baixo,0.123,,,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1991,0.528,Baixo,0.123,0.51,74.24,20.82
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2000,0.563,Baixo,0.123,0.4,53.32,6.79
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2010,0.686,Médio,0.123,0.49,33.45,1.35
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,1980,0.565,Baixo,0.155,,,
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,1991,0.654,Médio,0.155,0.57,57.87,8.16
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2000,0.548,Baixo,0.155,0.59,51.18,6.83
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2010,0.703,Alto,0.155,0.49,26.47,2.46
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,1991,0.488,Muito Baixo,0.154,0.5,85.09,33.52
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2000,0.519,Baixo,0.154,0.66,63.65,17.06
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2010,0.673,Médio,0.154,0.52,44.93,10.75
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1970,0.457,Muito Baixo,0.1,,,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1980,0.59,Baixo,0.1,,,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1991,0.564,Baixo,0.1,0.47,70.42,13.9
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2000,0.585,Baixo,0.1,0.48,42.04,4.36
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2010,0.685,Médio,0.1,0.5,25.24,3.79
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,1991,0.556,Baixo,0.174,0.59,74.63,24.42
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2000,0.478,Muito Baixo,0.174,0.63,65.08,17.95
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2010,0.652,Médio,0.174,0.59,49.22,7.78
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.195,0.44,89.89,38.29
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2000,0.404,Muito Baixo,0.195,0.44,71.74,15.76
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2010,0.599,Baixo,0.195,0.51,61.92,20.61
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,1970,0.344,Muito Baixo,0.124,,,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,1980,0.543,Baixo,0.124,,,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,1991,0.565,Baixo,0.124,0.54,71.83,19.1
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2000,0.554,Baixo,0.124,0.61,63.1,17.25
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2010,0.678,Médio,0.124,0.49,43.15,8.2
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,1991,0.769,Alto,0.115,0.61,46.28,7.94
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2000,0.637,Médio,0.115,0.55,27.76,1.65
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2010,0.752,Alto,0.115,0.51,10.91,1.11
+5107065,Querência,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.151,0.62,63.31,32.66
+5107065,Querência,resto_mt,Demais MT,FALSE,2000,0.541,Baixo,0.151,0.65,54.83,17.36
+5107065,Querência,resto_mt,Demais MT,FALSE,2010,0.692,Médio,0.151,0.5,28.83,9.22
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,1980,0.53,Baixo,0.148,,,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,1991,0.594,Baixo,0.148,0.55,71.91,16.5
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2000,0.571,Baixo,0.148,0.48,55.92,8.67
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2010,0.719,Alto,0.148,0.54,29.21,2.53
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,1991,0.446,Muito Baixo,0.128,0.51,80.78,30.4
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2000,0.548,Baixo,0.128,0.47,67.13,13.74
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2010,0.676,Médio,0.128,0.4,34.9,5.86
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,1991,0.556,Baixo,0.178,0.62,73.93,24.01
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2000,0.492,Muito Baixo,0.178,0.63,62.22,14.88
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2010,0.67,Médio,0.178,0.54,40.26,14.18
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.119,0.52,74.5,18.21
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2000,0.573,Baixo,0.119,0.6,54.31,13.08
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2010,0.692,Médio,0.119,0.47,28.72,1.95
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,1980,0.4,Muito Baixo,0.168,,,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,1991,0.537,Baixo,0.168,0.65,75.96,25.8
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2000,0.539,Baixo,0.168,0.55,61.68,13.4
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2010,0.707,Alto,0.168,0.5,27.68,3.21
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.136,0.44,35.35,2.95
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2000,0.579,Baixo,0.136,0.66,58.68,12.04
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2010,0.715,Alto,0.136,0.48,24.46,0.69
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.159,0.49,62.67,10.02
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2000,0.53,Baixo,0.159,0.58,68.04,22.11
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2010,0.689,Médio,0.159,0.43,30.31,4.98
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.146,0.52,79.11,26.23
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2000,0.515,Baixo,0.146,0.44,59.41,8.73
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2010,0.661,Médio,0.146,0.43,40.61,9.03
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,1980,0.671,Médio,0.12,,,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,1991,0.687,Médio,0.12,0.57,51.38,2.65
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2000,0.562,Baixo,0.12,0.58,48.02,7.16
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2010,0.682,Médio,0.12,0.48,28.4,3.85
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.16,0.62,61.69,15.9
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2000,0.497,Muito Baixo,0.16,0.56,55.67,16.68
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2010,0.657,Médio,0.16,0.62,41.18,6.66
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.097,0.46,53.6,12.84
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2000,0.563,Baixo,0.097,0.48,47.99,9.43
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2010,0.66,Médio,0.097,0.38,27.37,4.14
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.237,0.41,91.77,26.76
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2000,0.403,Muito Baixo,0.237,0.44,61.75,24.57
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2010,0.64,Médio,0.237,0.52,56.03,13.96
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1970,0.389,Muito Baixo,0.117,,,
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1980,0.634,Médio,0.117,,,
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1991,0.753,Alto,0.117,0.58,55.39,9.18
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2000,0.638,Médio,0.117,0.58,42.72,4.47
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2010,0.755,Alto,0.117,0.52,18.98,1.35
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1970,0.337,Muito Baixo,0.116,,,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1980,0.463,Muito Baixo,0.116,,,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1991,0.509,Baixo,0.116,0.54,78.85,28.27
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2000,0.534,Baixo,0.116,0.57,68.78,18.27
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2010,0.65,Médio,0.116,0.49,42.09,7.75
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.175,0.48,35.94,15.12
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2000,0.509,Baixo,0.175,0.58,99,26
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2010,0.684,Médio,0.175,0.55,34.18,7.89
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,1980,0.458,Muito Baixo,0.159,,,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,1991,0.48,Muito Baixo,0.159,0.45,81.42,17.68
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2000,0.507,Baixo,0.159,0.53,60.78,15.72
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2010,0.666,Médio,0.159,0.48,39.96,3.79
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.139,0.49,85.41,11.66
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2000,0.596,Baixo,0.139,0.85,89.16,69.47
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2010,0.735,Alto,0.139,0.5,20.1,2.41
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,1980,0.454,Muito Baixo,0.128,,,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,1991,0.453,Muito Baixo,0.128,0.56,88.56,41.71
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2000,0.481,Muito Baixo,0.128,0.61,75.51,30.51
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2010,0.609,Médio,0.128,0.57,65.64,18.24
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.126,0.3,70.34,3.15
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2000,0.529,Baixo,0.126,0.61,67.65,18.37
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2010,0.655,Médio,0.126,0.47,34.41,14.53
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1970,0.328,Muito Baixo,0.122,,,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1980,0.543,Baixo,0.122,,,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1991,0.52,Baixo,0.122,0.49,78.8,24.48
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2000,0.534,Baixo,0.122,0.62,65.12,18.89
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2010,0.656,Médio,0.122,0.49,42.34,8.16
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,1980,0.585,Baixo,0.099,,,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,1991,0.574,Baixo,0.099,0.62,67.23,24.24
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2000,0.569,Baixo,0.099,0.63,59.18,20.59
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2010,0.668,Médio,0.099,0.61,49.97,21.51
+5107875,Sapezal,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.131,0.41,36.42,4.67
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2000,0.601,Médio,0.131,0.47,21.03,0.62
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2010,0.732,Alto,0.131,0.47,13.47,2.35
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.166,0.64,89.15,52.82
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2000,0.498,Muito Baixo,0.166,0.74,91.2,39.17
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2010,0.664,Médio,0.166,0.44,40.65,6.24
+5107909,Sinop,resto_mt,Demais MT,FALSE,1980,0.718,Alto,0.128,,,
+5107909,Sinop,resto_mt,Demais MT,FALSE,1991,0.752,Alto,0.128,0.56,40.87,2.15
+5107909,Sinop,resto_mt,Demais MT,FALSE,2000,0.626,Médio,0.128,0.55,30.44,1.19
+5107909,Sinop,resto_mt,Demais MT,FALSE,2010,0.754,Alto,0.128,0.49,15.19,0.82
+5107925,Sorriso,resto_mt,Demais MT,FALSE,1991,0.763,Alto,0.08,0.55,44.82,5.58
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2000,0.664,Médio,0.08,0.62,29.97,1.88
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2010,0.744,Alto,0.08,0.54,18.27,1.77
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.185,0.44,68.84,16.26
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2000,0.51,Baixo,0.185,0.75,61.07,18.86
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2010,0.695,Médio,0.185,0.44,28.05,5.54
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,1980,0.455,Muito Baixo,0.108,,,
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,1991,0.7,Alto,0.108,0.58,55.97,10.08
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2000,0.621,Médio,0.108,0.59,38.78,4.59
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2010,0.729,Alto,0.108,0.55,21.97,2.25
+5108006,Tapurah,resto_mt,Demais MT,FALSE,1991,0.731,Alto,0.09,0.51,55.57,4.58
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2000,0.624,Médio,0.09,0.66,30.1,3.91
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2010,0.714,Alto,0.09,0.49,18.65,2.91
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,1991,0.612,Médio,0.177,0.57,70.02,23.87
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2000,0.521,Baixo,0.177,0.56,60.83,16.66
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2010,0.698,Médio,0.177,0.51,32.75,5.95
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1970,0.36,Muito Baixo,0.067,,,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1980,0.529,Baixo,0.067,,,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1991,0.537,Baixo,0.067,0.51,75.04,15.67
+5108105,Tesouro,resto_mt,Demais MT,FALSE,2000,0.588,Baixo,0.067,0.6,54.63,6.03
+5108105,Tesouro,resto_mt,Demais MT,FALSE,2010,0.655,Médio,0.067,0.5,46.66,10.62
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1970,0.376,Muito Baixo,0.123,,,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1980,0.601,Médio,0.123,,,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1991,0.621,Médio,0.123,0.56,65.84,10.39
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2000,0.593,Baixo,0.123,0.55,54.8,9.5
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2010,0.716,Alto,0.123,0.53,36.79,5.84
+5108303,União do Sul,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.14,0.67,58.28,10.14
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2000,0.525,Baixo,0.14,0.47,27.14,1.94
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2010,0.665,Médio,0.14,0.45,37.84,5.15
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.182,0.46,83.86,24.26
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2000,0.474,Muito Baixo,0.182,0.46,67,9.76
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2010,0.656,Médio,0.182,0.43,37.56,4.75
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1970,0.435,Muito Baixo,0.114,,,
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1980,0.622,Médio,0.114,,,
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1991,0.678,Médio,0.114,0.49,58.91,9.24
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2000,0.62,Médio,0.114,0.54,45.56,4.31
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2010,0.734,Alto,0.114,0.46,23.21,2.01
+5108501,Vera,resto_mt,Demais MT,FALSE,1991,0.716,Alto,0.117,0.6,55.84,10.56
+5108501,Vera,resto_mt,Demais MT,FALSE,2000,0.563,Baixo,0.117,0.45,33.42,3.21
+5108501,Vera,resto_mt,Demais MT,FALSE,2010,0.68,Médio,0.117,0.42,31.09,3.95
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,1991,0.693,Médio,0.203,0.72,69.57,33.35
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2000,0.485,Muito Baixo,0.203,0.57,60.39,11.66
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2010,0.688,Médio,0.203,0.56,33.88,3.06
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.172,0.56,72.67,28.97
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2000,0.516,Baixo,0.172,0.57,59.58,18.97
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2010,0.688,Médio,0.172,0.51,38.97,5.42
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.147,0.62,59.76,12.68
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2000,0.557,Baixo,0.147,0.47,37.91,9.32
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2010,0.704,Alto,0.147,0.43,29.22,4.08
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.188,0.56,58.36,4.48
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2000,0.475,Muito Baixo,0.188,0.55,51.91,5.75
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2010,0.663,Médio,0.188,0.49,26.93,2.39
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,1991,,Muito Baixo,0.196,0.38,73.01,10.22
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2000,0.495,Muito Baixo,0.196,0.58,63.15,16.4
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2010,0.691,Médio,0.196,0.51,33.41,4.9
