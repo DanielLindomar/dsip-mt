@@ -1,0 +1,900 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,171423202.88
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,125807700.22
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,137119446.75
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,78178053.97
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,131436155.66
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,109156982.2
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,98143343.76
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,77396907.5
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,72254261.5
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,58694540.69
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,58675241.35
+5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,55842057.53
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,19915
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,21301
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,23658
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,28927
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,33571
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,31949
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,33256
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,35268
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,38834
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,41066
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,43319
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,48760
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,50943
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,55826
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,58069
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,57159
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,54483
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,56238
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,58773
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,60300
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,61176
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,66276
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,75909
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,80131
+5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,82956
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,26.33
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,27.53
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,28.87
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,29.59
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,31.17
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,31.01
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,31.52
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,32.71
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,30.66
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,32.11
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,30.74
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,31.26
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,29.7
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,33.06
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,35.3
+5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,36.86
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2006,4471
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2007,4756
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2008,5170
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2009,5382
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2010,6093
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2011,6169
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2012,6376
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2013,6805
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2014,6492
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2015,6915
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2016,6729
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2017,6949
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2018,6797
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2019,7686
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2020,8332
+5107602,Rondonópolis,D1,numero_empresas,Empresas formais,empresas,2021,8833
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2006,10.3019004089488
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2007,10.2274016105251
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2008,10.1380233815728
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2009,11.0334583353626
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2010,11.4037720168979
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2011,11.708367514356
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2012,12.875174214318
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2013,12.9366245118762
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2014,13.0603247860304
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2015,13.6356479294599
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2016,14.2558229172402
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2017,15.0023116042534
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2018,15.8167866197063
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2019,16.0646766169154
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2020,16.609454688113
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2021,16.564065423381
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2022,15.0351078264764
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2023,21.2402191411564
+5107602,Rondonópolis,D1,perc_superior,Empregados formais com ensino superior,%,2024,22.0514489608949
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,117.7
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,126.7
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,121.8
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,123.8
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,131.3
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,135.8
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,140.5
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,141.4
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,132.4
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,123.2
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,106.8
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,115.5
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,115
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,117.6
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,115.7
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,113.9
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,118
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,119.7
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,107.5
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,110.3
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,92.8
+5107602,Rondonópolis,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,90.7
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2002,6534756.89
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2003,8565722.95
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2004,9530215.47
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2005,9238941.05
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2006,8214812.21
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2007,10072864.89
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2008,12396456.32
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2009,12465776.14
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2010,12285334.05
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2011,12950081.79
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2012,12031623.06
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2013,13644512.69
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2014,14352290.96
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2015,14537559.8
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2016,15323475.52
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2017,14959720.75
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2018,16073186.82
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2019,16241240.42
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2020,17268036.37
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2021,20550882.39
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2022,17369556.07
+5107602,Rondonópolis,D1,pib_real,PIB real,R$ mil de 2024,2023,17244181.45
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,41942.42
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,54079.6
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,58173.49
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,55379.38
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,48375.35
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,58297.79
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,69217.59
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,68530.18
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,62848.3
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,65092.14
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,59471.51
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,65592.62
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,67789.67
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,67516.07
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,70002.49
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,67290.35
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,70232.44
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,69857.5
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,73156.63
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,85766.98
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,70921.91
+5107602,Rondonópolis,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,70409.99
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,293374
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,293374
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,310952
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,319369
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,310484
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,298862
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,287518
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,288209
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,304678
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,303872
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,317736
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,298003
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,281142
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,307448
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,328397
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,355349
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,362455
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,344617
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,345545
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,382487
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,385212
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,365747
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,383643
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,396077
+5107602,Rondonópolis,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,383997
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,2029.48
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,2084.14
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,2246.89
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,2413.91
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,2496.03
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,2512.8
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,2575.8
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2713.76
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,2813.58
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2810.13
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2936.83
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,3135.19
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,3217.34
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,3150.53
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,3206.05
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,3320.61
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,3275.25
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,3077.59
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,2985.79
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2957.48
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3406.08
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3042.13
+5107602,Rondonópolis,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3061.55
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,1441
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,718
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,287
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,1217
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,1034
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,1324
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,1491
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,603
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-2126
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,-2011
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,1097
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,1539
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,761
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,2899
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,6465
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,5548
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,3657
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,2093
+5107602,Rondonópolis,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,2826
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,16.67
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,12.59
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,11.33
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,12.71
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,15.61
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,13.32
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,12.03
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,12.31
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,13.75
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,13.17
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,14.95
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,14.59
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,14.12
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,13.9
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,14.4
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,15.5
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,14.61
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,14.86
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,14.55
+5107602,Rondonópolis,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,11.66
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,6.14
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,6.74
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,7.38
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,6.18
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,2.7
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,2.69
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,2.72
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,2.75
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,2.35
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,2.99
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,3.94
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,3.51
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,3.89
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,3.28
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,3.41
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,2.76
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,2.94
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,2.76
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,3.22
+5107602,Rondonópolis,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,4.05
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2002,26.27
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2003,28.99
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2004,36.48
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2005,35.08
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2006,29.65
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2007,32.73
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2008,32.43
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2009,32.24
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2010,33.54
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2011,34
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2012,27.17
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2013,31.37
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2014,29.93
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2015,31.05
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2016,31.12
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2017,26.44
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2018,28.7
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2019,28.53
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2020,33.03
+5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2021,28.59
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,50.92
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,51.68
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,44.81
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,46.02
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,52.05
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,51.27
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,52.82
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,52.7
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,50.36
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,49.85
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,53.95
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,50.53
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,52.07
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,51.78
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,51.08
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,55.29
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,53.75
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,53.84
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,49.2
+5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,55.7
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,1027522.35
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,1360756.51
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,1933137.15
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,1554102.07
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,739544.66
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,781113.19
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,890139.85
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,951667.43
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,954928.22
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,1062894.59
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,1173043.3
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,1181518.32
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,1435242.98
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,1423537.87
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,1415199.55
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,1098087.88
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,1451500.95
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,1595820.28
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,1509186.96
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,2504141.72
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,2864216.97
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,2138816.61
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,1799125.01
+5107602,Rondonópolis,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,15961.4512027377
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2000,26
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2001,36
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2002,33
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2003,43
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2004,53
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2005,52
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2006,56
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2007,52
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2008,61
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2009,62
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2010,55
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2011,63
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2012,70
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2013,65
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2014,69
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2015,65
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2016,63
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2017,54
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2018,60
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2019,67
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2020,64
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2021,61
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2022,67
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2023,68
+5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2024,67
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,2874231
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,7254885
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,6533864
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,7012375
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,4320153
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,3453141
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,3903996
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,5247909
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,2353744
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,3106354
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,4500840
+5107602,Rondonópolis,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,5579000
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,1169302
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,1559097
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,426485
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,826088
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,825423
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,1556873
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,4501451
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,5276282
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,7010696
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,7356605
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,8661086
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,13224808
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,16995110
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,16351164
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,20077071
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,21196201
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,9599509
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,11110344
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,11553261
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,12307375
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,13038213
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,76763628
+5107602,Rondonópolis,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,45339000
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2000,114050323
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2001,177240280
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2002,190590665
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2003,234956396
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2004,351698918
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2005,945526866
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2006,671136700
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2007,642739974
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2008,846031157
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2009,1118441116
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2010,1122783672
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2011,1084317451
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2012,1216572642
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2013,1047066526
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2014,1312557367
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2015,1280628191
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2016,964739598
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2017,1021069527
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2018,1335950553
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2019,1569423264
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2020,1777581396
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2021,2169920129
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,2971665812
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,3002536503
+5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,2975952437
+5107602,Rondonópolis,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,2.02
+5107602,Rondonópolis,D3,gini,Índice de Gini,índice 0–1,1991,0.58
+5107602,Rondonópolis,D3,gini,Índice de Gini,índice 0–1,2000,0.58
+5107602,Rondonópolis,D3,gini,Índice de Gini,índice 0–1,2010,0.52
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,3.1
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.8
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,4.5
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,4.6
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,4.5
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,4.7
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.8
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4.7
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,5.1
+5107602,Rondonópolis,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4.9
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,4.2
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,4.5
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,5.2
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,5.4
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,5.4
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,5.8
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,6
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,6
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,5.9
+5107602,Rondonópolis,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.6
+5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,1970,0.389
+5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,1980,0.634
+5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,1991,0.753
+5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,2000,0.638
+5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,2010,0.755
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.37
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.33
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.25
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,2.16
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,4.27
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,4.66
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,4.23
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,3.94
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,3.73
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,3.95
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,4.05
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,4.18
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,4.18
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,5.84
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,6.05
+5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,5.07
+5107602,Rondonópolis,D3,populacao,População,habitantes,2000,150227
+5107602,Rondonópolis,D3,populacao,População,habitantes,2001,153281
+5107602,Rondonópolis,D3,populacao,População,habitantes,2002,155803
+5107602,Rondonópolis,D3,populacao,População,habitantes,2003,158391
+5107602,Rondonópolis,D3,populacao,População,habitantes,2004,163824
+5107602,Rondonópolis,D3,populacao,População,habitantes,2005,166830
+5107602,Rondonópolis,D3,populacao,População,habitantes,2006,169814
+5107602,Rondonópolis,D3,populacao,População,habitantes,2007,172783
+5107602,Rondonópolis,D3,populacao,População,habitantes,2008,179094
+5107602,Rondonópolis,D3,populacao,População,habitantes,2009,181902
+5107602,Rondonópolis,D3,populacao,População,habitantes,2010,195476
+5107602,Rondonópolis,D3,populacao,População,habitantes,2011,198950
+5107602,Rondonópolis,D3,populacao,População,habitantes,2012,202309
+5107602,Rondonópolis,D3,populacao,População,habitantes,2013,208019
+5107602,Rondonópolis,D3,populacao,População,habitantes,2014,211718
+5107602,Rondonópolis,D3,populacao,População,habitantes,2015,215320
+5107602,Rondonópolis,D3,populacao,População,habitantes,2016,218899
+5107602,Rondonópolis,D3,populacao,População,habitantes,2017,222316
+5107602,Rondonópolis,D3,populacao,População,habitantes,2018,228857
+5107602,Rondonópolis,D3,populacao,População,habitantes,2019,232491
+5107602,Rondonópolis,D3,populacao,População,habitantes,2020,236042
+5107602,Rondonópolis,D3,populacao,População,habitantes,2021,239613
+5107602,Rondonópolis,D3,populacao,População,habitantes,2022,244911
+5107602,Rondonópolis,D3,populacao,População,habitantes,2023,244911
+5107602,Rondonópolis,D3,populacao,População,habitantes,2024,259167
+5107602,Rondonópolis,D3,populacao,População,habitantes,2025,263708
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,96.5
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,107
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,107.2
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,102.9
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,88.5
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,110.9
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,107.8
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,103.6
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,107.2
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,119.8
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,121.8
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,102
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,122.1
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,139.4
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,125.2
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,117.5
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,101.9
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,93.1
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,79.1
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,70.1
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,86
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,77.6
+5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,93.1
+5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,55.39
+5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,42.72
+5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,18.98
+5107602,Rondonópolis,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,96.56
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,19.4
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,17.6
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,17.1
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,14.5
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,13.2
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,10.8
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,10
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,10.8
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,12.4
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,13.1
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,11.8
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,11.6
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,11
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,10
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,9.5
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,9.7
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,10.2
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,8.4
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,8
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,8.1
+5107602,Rondonópolis,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,9.2
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,117.24
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,125.47
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,106.43
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,91.83
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,82
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,83.45
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,576.54
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,573.2
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,544.74
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,709.26
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1024.4
+5107602,Rondonópolis,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,985.13
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,26.11
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,18.25
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,27.59
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,8.49
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,36.93
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,16.98
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,2.97
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,32.9
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,7
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,6.37
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,5.94
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,2.55
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,6.16
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,6.16
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,14.43
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,4.03
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,8.07
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,40.97
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,7.64
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.61
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,146.03
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,581.8
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,38.5
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,38.5
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,27
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,27
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,15.4000000000001
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,15.4000000000001
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,10.5999999999999
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,10.5999999999999
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,2.90000000000009
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,2.90000000000009
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,1.5
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,1.5
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,3.09999999999991
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,3.80000000000018
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,8.39999999999991
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,3.09999999999973
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,2.60000000000018
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,3
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,1.5
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,2.59999999999991
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,2
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,1.30000000000018
+5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,0.400000000000091
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,77.07
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,77.89
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,78.71
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,79.28
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,79.85
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,80.18
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,80.51
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,80.73
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,80.96
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,81.02
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,81.08
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,81.11
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,81.14
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,81.21
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,81.29
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,81.47
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,81.53
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,81.59
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,81.65
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,81.69
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,81.74
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,81.78
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,81.81
+5107602,Rondonópolis,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,81.82
+5107602,Rondonópolis,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1.3
+5107602,Rondonópolis,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,3.39
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,22.62
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,21.8
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,20.98
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,20.41
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,19.84
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,19.51
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,19.18
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,18.96
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,18.73
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,18.67
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,18.61
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,18.58
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,18.54
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,18.48
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,18.4
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,18.22
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,18.15
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,18.1
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,18.04
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,18
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,17.95
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,17.91
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,17.88
+5107602,Rondonópolis,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,17.87
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2000,74.19
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2001,74.32
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2002,74.52
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2003,74.82
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2004,75.08
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2005,75.14
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2006,74.93
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2007,74.8
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2008,74.6
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2009,74.43
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2010,74.34
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2011,74.23
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2012,74.17
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2013,74.56
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2014,74.6
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2015,74.78
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2016,74.8
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2017,74.86
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2018,74.88
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2019,74.99
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2020,75.09
+5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2021,75.76
+5107602,Rondonópolis,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,3903.5
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2001,97.9
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2002,96.3
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2003,94.7
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2004,99.5
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2005,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2006,96.2
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2007,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2008,99.8
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2009,99.5
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2010,97.6
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2011,96.9
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2012,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2013,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2014,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2015,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2016,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2017,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2018,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2019,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2020,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2021,100
+5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2022,100
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,1997,34.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2000,52.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2001,37.8
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2002,36.8
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2003,33.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2004,35.1
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2005,32
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2006,47.6
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2007,42.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2008,41.3
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2009,28.4
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2010,27.3
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2011,40.5
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2012,39.6
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2013,37.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2014,39.9
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2015,42.6
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2016,42.3
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2017,76.2
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2018,95.5
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2019,92
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2020,84.8
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2021,90.1
+5107602,Rondonópolis,D5,idx_coleta_esgoto,Esgoto coletado,%,2022,79.8
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,1999,47.4
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2000,57.6
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2001,64.8
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2002,60
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2003,56.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2004,57.2
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2005,58.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,62.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2007,52.7
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2008,48.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,49.5
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2010,51.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2011,44.4
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2012,40.7
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2013,32.3
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2014,40.7
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2015,43.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2016,45
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2017,50.8
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2018,62.3
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2019,60.6
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,39
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,50.1
+5107602,Rondonópolis,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,62.3
+5107602,Rondonópolis,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,99.75
+5107602,Rondonópolis,D5,perc_pavimentado,Malha viária pavimentada,%,,76.5
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,6.45
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,5.5
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,6.56
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,4.47
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,6.49
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,9.15
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,12.81
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,9.78
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,11.37
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1998,10.15
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1999,7.07
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2000,8.33
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,9.7
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,11.13
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,11.29
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,12.45
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,11.87
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,13.92
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,14.04
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,13.67
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,12.72
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,12.84
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,13.31
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2012,16.62
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,18.82
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,19.89
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,22.78
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,20.07
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,20.45
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,19.88
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,19.11
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,19.6
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,20.8
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,21.61
+5107602,Rondonópolis,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,23.37
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,20.41
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,23.08
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,22.26
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,22.69
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,21.88
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,15.42
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,14.85
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,14.08
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,15.11
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1998,14.66
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,20.33
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,19.01
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,18.86
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,20.71
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,17.62
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,15.34
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,15.37
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,11.17
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,15.31
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,10.4
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,13.89
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,12.79
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,13.67
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,12.36
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,10.78
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,9.63
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,9.2
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,8.95
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,7.89
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,7.5
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,6.94
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,5.6
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,6.43
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,14.85
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,13.62
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,131.28
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,89.09
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,85.18
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,93.49
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,90.95
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,168.19
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,165.35
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,173.24
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,89.31
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1998,69.2
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1999,70.4
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2000,71.17
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,72
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,66
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,69.75
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,66.82
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,67.05
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,64.55
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,60.78
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,65.84
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,67.63
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,64.57
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,63.54
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2012,59.75
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,61.51
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,58.65
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,58.24
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,60.87
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,60.36
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,59.49
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,62.72
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,64.16
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,63.18
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,59.72
+5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,58.36
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,4279.33
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,4344.15
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,4092.79
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,4553.46
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,5003.86
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,5267.23
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,5943.64
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,5595.72
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,6510.42
+5107602,Rondonópolis,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,6925.72
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,25.79
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,24.47
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,28.82
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,26.81
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,28.54
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,27.3
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,24.67
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,25.92
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,26.58
+5107602,Rondonópolis,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,29.73
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,50.81
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,46.4
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,35.47
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,52.02
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,53.79
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,54.09
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,46.93
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,47.3
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,43.07
+5107602,Rondonópolis,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,44.72
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,2144.72
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,2328.24
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,2684.78
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,3069.51
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,3161.72
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,3396.77
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,3824.07
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,3899.88
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,3873.17
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,3945.23
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2012,4129.85
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,4077.39
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,4408.67
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,4280
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,4696.72
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,4965.14
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,5243.28
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,5572.32
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,6118.22
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,6350.73
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,6596.34
+5107602,Rondonópolis,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,7061.11

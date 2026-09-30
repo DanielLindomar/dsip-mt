@@ -1,0 +1,12 @@
+---
+title: "Glória D'Oeste"
+description: "Perfil do município de Glória D'Oeste (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5103957L
+```
+
+{{< include _perfil.qmd >}}
+

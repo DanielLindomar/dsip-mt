@@ -1,0 +1,142 @@
+id_municipio,municipio,grupo,pantanal_norte,slug,pn13
+5101605,Barão de Melgaço,pantanal_norte,TRUE,barao-de-melgaco,TRUE
+5103437,Curvelândia,pantanal_norte,TRUE,curvelandia,TRUE
+5102504,Cáceres,pantanal_norte,TRUE,caceres,TRUE
+5103957,Glória D'Oeste,pantanal_norte,TRUE,gloria-d-oeste,TRUE
+5104609,Itiquira,pantanal_norte,TRUE,itiquira,TRUE
+5105200,Juscimeira,pantanal_norte,TRUE,juscimeira,TRUE
+5105234,Lambari D'Oeste,pantanal_norte,TRUE,lambari-d-oeste,TRUE
+5105622,Mirassol D'Oeste,pantanal_norte,TRUE,mirassol-d-oeste,TRUE
+5106109,Nossa Senhora do Livramento,pantanal_norte,TRUE,nossa-senhora-do-livramento,TRUE
+5106505,Poconé,pantanal_norte,TRUE,pocone,TRUE
+5106828,Porto Esperidião,pantanal_norte,TRUE,porto-esperidiao,TRUE
+5107602,Rondonópolis,pantanal_norte,TRUE,rondonopolis,TRUE
+5107800,Santo Antônio do Leverger,pantanal_norte,TRUE,santo-antonio-do-leverger,TRUE
+5103403,Cuiabá,polo_metropolitano,FALSE,cuiaba,FALSE
+5108402,Várzea Grande,polo_metropolitano,FALSE,varzea-grande,FALSE
+5100102,Acorizal,resto_mt,FALSE,acorizal,FALSE
+5100250,Alta Floresta,resto_mt,FALSE,alta-floresta,FALSE
+5100300,Alto Araguaia,resto_mt,FALSE,alto-araguaia,FALSE
+5100359,Alto Boa Vista,resto_mt,FALSE,alto-boa-vista,FALSE
+5100409,Alto Garças,resto_mt,FALSE,alto-garcas,FALSE
+5100508,Alto Paraguai,resto_mt,FALSE,alto-paraguai,FALSE
+5100607,Alto Taquari,resto_mt,FALSE,alto-taquari,FALSE
+5100805,Apiacás,resto_mt,FALSE,apiacas,FALSE
+5101001,Araguaiana,resto_mt,FALSE,araguaiana,FALSE
+5101209,Araguainha,resto_mt,FALSE,araguainha,FALSE
+5101258,Araputanga,resto_mt,FALSE,araputanga,FALSE
+5101308,Arenápolis,resto_mt,FALSE,arenapolis,FALSE
+5101407,Aripuanã,resto_mt,FALSE,aripuana,FALSE
+5101704,Barra do Bugres,resto_mt,FALSE,barra-do-bugres,FALSE
+5101803,Barra do Garças,resto_mt,FALSE,barra-do-garcas,FALSE
+5101852,Bom Jesus do Araguaia,resto_mt,FALSE,bom-jesus-do-araguaia,FALSE
+5101902,Brasnorte,resto_mt,FALSE,brasnorte,FALSE
+5102603,Campinápolis,resto_mt,FALSE,campinapolis,FALSE
+5102637,Campo Novo do Parecis,resto_mt,FALSE,campo-novo-do-parecis,FALSE
+5102678,Campo Verde,resto_mt,FALSE,campo-verde,FALSE
+5102686,Campos de Júlio,resto_mt,FALSE,campos-de-julio,FALSE
+5102694,Canabrava do Norte,resto_mt,FALSE,canabrava-do-norte,FALSE
+5102702,Canarana,resto_mt,FALSE,canarana,FALSE
+5102793,Carlinda,resto_mt,FALSE,carlinda,FALSE
+5102850,Castanheira,resto_mt,FALSE,castanheira,FALSE
+5103007,Chapada dos Guimarães,resto_mt,FALSE,chapada-dos-guimaraes,FALSE
+5103056,Cláudia,resto_mt,FALSE,claudia,FALSE
+5103106,Cocalinho,resto_mt,FALSE,cocalinho,FALSE
+5103254,Colniza,resto_mt,FALSE,colniza,FALSE
+5103205,Colíder,resto_mt,FALSE,colider,FALSE
+5103304,Comodoro,resto_mt,FALSE,comodoro,FALSE
+5103353,Confresa,resto_mt,FALSE,confresa,FALSE
+5103361,Conquista D'Oeste,resto_mt,FALSE,conquista-d-oeste,FALSE
+5103379,Cotriguaçu,resto_mt,FALSE,cotriguacu,FALSE
+5103452,Denise,resto_mt,FALSE,denise,FALSE
+5103502,Diamantino,resto_mt,FALSE,diamantino,FALSE
+5103601,Dom Aquino,resto_mt,FALSE,dom-aquino,FALSE
+5103700,Feliz Natal,resto_mt,FALSE,feliz-natal,FALSE
+5103809,Figueirópolis D'Oeste,resto_mt,FALSE,figueiropolis-d-oeste,FALSE
+5103858,Gaúcha do Norte,resto_mt,FALSE,gaucha-do-norte,FALSE
+5103908,General Carneiro,resto_mt,FALSE,general-carneiro,FALSE
+5104104,Guarantã do Norte,resto_mt,FALSE,guaranta-do-norte,FALSE
+5104203,Guiratinga,resto_mt,FALSE,guiratinga,FALSE
+5104500,Indiavaí,resto_mt,FALSE,indiavai,FALSE
+5104526,Ipiranga do Norte,resto_mt,FALSE,ipiranga-do-norte,FALSE
+5104542,Itanhangá,resto_mt,FALSE,itanhanga,FALSE
+5104559,Itaúba,resto_mt,FALSE,itauba,FALSE
+5104807,Jaciara,resto_mt,FALSE,jaciara,FALSE
+5104906,Jangada,resto_mt,FALSE,jangada,FALSE
+5105002,Jauru,resto_mt,FALSE,jauru,FALSE
+5105101,Juara,resto_mt,FALSE,juara,FALSE
+5105176,Juruena,resto_mt,FALSE,juruena,FALSE
+5105150,Juína,resto_mt,FALSE,juina,FALSE
+5105259,Lucas do Rio Verde,resto_mt,FALSE,lucas-do-rio-verde,FALSE
+5105309,Luciara,resto_mt,FALSE,luciara,FALSE
+5105580,Marcelândia,resto_mt,FALSE,marcelandia,FALSE
+5105606,Matupá,resto_mt,FALSE,matupa,FALSE
+5105903,Nobres,resto_mt,FALSE,nobres,FALSE
+5106000,Nortelândia,resto_mt,FALSE,nortelandia,FALSE
+5106158,Nova Bandeirantes,resto_mt,FALSE,nova-bandeirantes,FALSE
+5106208,Nova Brasilândia,resto_mt,FALSE,nova-brasilandia,FALSE
+5106216,Nova Canaã do Norte,resto_mt,FALSE,nova-canaa-do-norte,FALSE
+5108808,Nova Guarita,resto_mt,FALSE,nova-guarita,FALSE
+5106182,Nova Lacerda,resto_mt,FALSE,nova-lacerda,FALSE
+5108857,Nova Marilândia,resto_mt,FALSE,nova-marilandia,FALSE
+5108907,Nova Maringá,resto_mt,FALSE,nova-maringa,FALSE
+5108956,Nova Monte Verde,resto_mt,FALSE,nova-monte-verde,FALSE
+5106224,Nova Mutum,resto_mt,FALSE,nova-mutum,FALSE
+5106174,Nova Nazaré,resto_mt,FALSE,nova-nazare,FALSE
+5106232,Nova Olímpia,resto_mt,FALSE,nova-olimpia,FALSE
+5106190,Nova Santa Helena,resto_mt,FALSE,nova-santa-helena,FALSE
+5106240,Nova Ubiratã,resto_mt,FALSE,nova-ubirata,FALSE
+5106257,Nova Xavantina,resto_mt,FALSE,nova-xavantina,FALSE
+5106273,Novo Horizonte do Norte,resto_mt,FALSE,novo-horizonte-do-norte,FALSE
+5106265,Novo Mundo,resto_mt,FALSE,novo-mundo,FALSE
+5106315,Novo Santo Antônio,resto_mt,FALSE,novo-santo-antonio,FALSE
+5106281,Novo São Joaquim,resto_mt,FALSE,novo-sao-joaquim,FALSE
+5106307,Paranatinga,resto_mt,FALSE,paranatinga,FALSE
+5106299,Paranaíta,resto_mt,FALSE,paranaita,FALSE
+5106372,Pedra Preta,resto_mt,FALSE,pedra-preta,FALSE
+5106422,Peixoto de Azevedo,resto_mt,FALSE,peixoto-de-azevedo,FALSE
+5106455,Planalto da Serra,resto_mt,FALSE,planalto-da-serra,FALSE
+5106653,Pontal do Araguaia,resto_mt,FALSE,pontal-do-araguaia,FALSE
+5106703,Ponte Branca,resto_mt,FALSE,ponte-branca,FALSE
+5106752,Pontes e Lacerda,resto_mt,FALSE,pontes-e-lacerda,FALSE
+5106778,Porto Alegre do Norte,resto_mt,FALSE,porto-alegre-do-norte,FALSE
+5106851,Porto Estrela,resto_mt,FALSE,porto-estrela,FALSE
+5106802,Porto dos Gaúchos,resto_mt,FALSE,porto-dos-gauchos,FALSE
+5107008,Poxoréu,resto_mt,FALSE,poxoreu,FALSE
+5107040,Primavera do Leste,resto_mt,FALSE,primavera-do-leste,FALSE
+5107065,Querência,resto_mt,FALSE,querencia,FALSE
+5107156,Reserva do Cabaçal,resto_mt,FALSE,reserva-do-cabacal,FALSE
+5107180,Ribeirão Cascalheira,resto_mt,FALSE,ribeirao-cascalheira,FALSE
+5107198,Ribeirãozinho,resto_mt,FALSE,ribeiraozinho,FALSE
+5107206,Rio Branco,resto_mt,FALSE,rio-branco,FALSE
+5107578,Rondolândia,resto_mt,FALSE,rondolandia,FALSE
+5107701,Rosário Oeste,resto_mt,FALSE,rosario-oeste,FALSE
+5107750,Salto do Céu,resto_mt,FALSE,salto-do-ceu,FALSE
+5107248,Santa Carmem,resto_mt,FALSE,santa-carmem,FALSE
+5107743,Santa Cruz do Xingu,resto_mt,FALSE,santa-cruz-do-xingu,FALSE
+5107768,Santa Rita do Trivelato,resto_mt,FALSE,santa-rita-do-trivelato,FALSE
+5107776,Santa Terezinha,resto_mt,FALSE,santa-terezinha,FALSE
+5107263,Santo Afonso,resto_mt,FALSE,santo-afonso,FALSE
+5107792,Santo Antônio do Leste,resto_mt,FALSE,santo-antonio-do-leste,FALSE
+5107875,Sapezal,resto_mt,FALSE,sapezal,FALSE
+5107883,Serra Nova Dourada,resto_mt,FALSE,serra-nova-dourada,FALSE
+5107909,Sinop,resto_mt,FALSE,sinop,FALSE
+5107925,Sorriso,resto_mt,FALSE,sorriso,FALSE
+5107859,São Félix do Araguaia,resto_mt,FALSE,sao-felix-do-araguaia,FALSE
+5107297,São José do Povo,resto_mt,FALSE,sao-jose-do-povo,FALSE
+5107305,São José do Rio Claro,resto_mt,FALSE,sao-jose-do-rio-claro,FALSE
+5107354,São José do Xingu,resto_mt,FALSE,sao-jose-do-xingu,FALSE
+5107107,São José dos Quatro Marcos,resto_mt,FALSE,sao-jose-dos-quatro-marcos,FALSE
+5107404,São Pedro da Cipa,resto_mt,FALSE,sao-pedro-da-cipa,FALSE
+5107941,Tabaporã,resto_mt,FALSE,tabapora,FALSE
+5107958,Tangará da Serra,resto_mt,FALSE,tangara-da-serra,FALSE
+5108006,Tapurah,resto_mt,FALSE,tapurah,FALSE
+5108055,Terra Nova do Norte,resto_mt,FALSE,terra-nova-do-norte,FALSE
+5108105,Tesouro,resto_mt,FALSE,tesouro,FALSE
+5108204,Torixoréu,resto_mt,FALSE,torixoreu,FALSE
+5108303,União do Sul,resto_mt,FALSE,uniao-do-sul,FALSE
+5108352,Vale de São Domingos,resto_mt,FALSE,vale-de-sao-domingos,FALSE
+5108501,Vera,resto_mt,FALSE,vera,FALSE
+5105507,Vila Bela da Santíssima Trindade,resto_mt,FALSE,vila-bela-da-santissima-trindade,FALSE
+5108600,Vila Rica,resto_mt,FALSE,vila-rica,FALSE
+5100201,Água Boa,resto_mt,FALSE,agua-boa,FALSE

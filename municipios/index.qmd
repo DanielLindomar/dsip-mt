@@ -1,0 +1,61 @@
+---
+title: "Municípios do Pantanal Norte"
+description: "Perfis dos 13 municípios do recorte do Projeto DSIP-MT"
+toc: false
+---
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+m13 <- MUN[MUN$pn13, ] |> arrange(municipio)
+```
+
+O recorte do projeto tem 13 municípios, definidos institucionalmente no convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal da revisão de literatura e os projetos do Banco de Ideias. Clique no mapa ou em um cartão.
+
+```{r}
+mapa_municipio(NULL, altura = 420)
+```
+
+```{r}
+cartao <- function(i) {
+  m <- m13[i, ]
+  p <- ultimo("populacao", m$id_municipio)
+  pib <- ultimo("pib_real_pc", m$id_municipio)
+  a(class = "cartao", href = paste0(m$slug, ".html"),
+    h4(m$municipio),
+    p(sprintf("%s habitantes (%s)", fmt_valor(p$valor, "int"), p$ano)),
+    p(sprintf("PIB per capita: %s (%s)", fmt_valor(pib$valor, "brl"), pib$ano)))
+}
+div(class = "cartoes", lapply(seq_len(nrow(m13)), cartao))
+```
+
+## Os 13 municípios lado a lado
+
+Último valor disponível de cada indicador-chave. Clique no cabeçalho para ordenar.
+
+```{r}
+ids <- IND$id[IND$kpi == 1]
+tab <- m13 |> select(id_municipio, Município = municipio, slug)
+for (id in ids) {
+  r <- info_ind(id)
+  v <- sapply(tab$id_municipio, function(x) ultimo(id, x)$valor)
+  tab[[r$rotulo]] <- v
+}
+cols <- lapply(ids, function(id) {
+  r <- info_ind(id)
+  colDef(name = paste0(r$rotulo, " (", ULT$ano_ref$ano_ref[ULT$ano_ref$indicador == id], ")"),
+         align = "right", minWidth = 110,
+         cell = function(v) fmt_valor(v, r$fmt))
+})
+names(cols) <- sapply(ids, function(id) info_ind(id)$rotulo)
+cols$id_municipio <- colDef(show = FALSE)
+cols$slug <- colDef(show = FALSE)
+cols$Município <- colDef(minWidth = 170, sticky = "left",
+  cell = function(v, i) a(href = paste0(tab$slug[i], ".html"), v))
+reactable(tab, columns = cols, compact = TRUE, striped = TRUE, highlight = TRUE,
+          defaultSorted = "Município", pagination = FALSE)
+```
+
+```{r}
+fonte_rodape()
+```

@@ -1,0 +1,103 @@
+---
+title: "D1 · Perfil econômico-produtivo setorial (PESM)"
+---
+
+::: {.faixa-versao}
+Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+:::
+
+## Principais resultados
+
+Em 2023, os 13 municípios geraram um Produto Interno Bruto (PIB) real de R\$ 27,2 bilhões a preços de 2024, o equivalente a 9,6% do total estadual. O PIB *per capita* do recorte (R\$ 57.404) corresponde a 74% da média de Mato Grosso, gargalo de competitividade que motiva o diagnóstico. A heterogeneidade interna é acentuada: Rondonópolis responde, sozinho, por 63,3% do PIB regional, e a razão entre o maior e o menor PIB municipal alcança 144 vezes. O mercado de trabalho formal registrou 128.538 vínculos em 2024 (10,6% do estado), com remuneração média real (R\$ 3.183) equivalente a 91% da média estadual. As exportações somaram USD 3,29 bilhões em 2024 (13,4% das exportações estaduais), pauta concentrada em *commodities* agropecuárias e originada, em 90,4%, em Rondonópolis. A estrutura empresarial, com 13.554 empresas formais em 2021 (11,4% do estado), é dominada por micro e pequenas empresas, com limitada capacidade de geração de emprego qualificado.
+
+Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Documentos
+
+- [Relatório Parcial I — Perfil econômico-produtivo setorial (PESM) (PDF, 59 páginas)](../arquivos/relatorios/D1_PESM_Parcial_I_v2_20260614.pdf)
+- [Notas metodológicas — PESM (PDF, 23 páginas)](../arquivos/relatorios/NOTAS_D1_PESM.pdf)
+
+## Figuras do relatório
+
+Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+
+```{r}
+#| results: asis
+dim_id <- "D1"
+fig <- utils::read.csv("figuras/figuras.csv", fileEncoding = "UTF-8", colClasses = "character",
+                     na.strings = character(0))
+fig <- fig[fig$dim == dim_id, ]
+fig <- fig[order(as.integer(fig$ordem)), ]
+
+esc_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  gsub("\"", "&quot;", x, fixed = TRUE)
+}
+
+itens <- vapply(seq_len(nrow(fig)), function(i) {
+  rotulo <- esc_html(paste0("Figura ", fig$numero[i], ": ", fig$legenda[i]))
+  arq <- paste0("figuras/", fig$arquivo[i])
+  fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
+    paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
+  } else ""
+  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+         '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
+         "</figcaption></figure>")
+}, character(1))
+
+cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
+    "\n</div>\n```\n", sep = "")
+```
+
+## Ressalvas metodológicas
+
+Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+
+- O PIB municipal do IBGE está disponível apenas a preços correntes. Os valores reais resultam de deflação com índice nacional, o que pode introduzir ruído em municípios especializados.
+- O Valor Adicionado Bruto setorial do IBGE está disponível somente até 2021. Participações setoriais, HHI, quociente locacional e tipologia não são calculados para 2022 e 2023.
+- A RAIS cobre apenas o emprego formal. Indicadores como PIB por trabalhador e VBP por trabalhador agropecuário tendem a ser superestimados em economias com informalidade elevada e servem para comparação relativa entre municípios, não como estimativa absoluta.
+- As estimativas populacionais intercensitárias (2011–2021) podem desviar o PIB per capita em 5% a 15% nos municípios com menos de 10.000 habitantes.
+- As exportações (Comex Stat) estão em dólares correntes, sem deflação. Comparações ao longo do tempo sofrem efeito do câmbio e devem usar variações relativas ou participações.
+- O crédito rural (SICOR) começa em 2013 e o número de empresas (CEMPRE) está disponível até 2021 na base congelada. Séries mais longas dependem de novas coletas.
+- A raça/cor na RAIS tem cerca de 75% de valores ausentes, o que inviabiliza o cálculo de diferenciais salariais por raça/cor.
+
+## Dados desta dimensão
+
+Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+
+```{r}
+#| results: asis
+dim_pref <- "d1_"
+dir_dados <- "../arquivos/dados"
+arqs <- sort(list.files(dir_dados, pattern = paste0("^", dim_pref, ".*\\.csv$")))
+
+cat_path <- file.path(dir_dados, "CATALOGO_BASES_TRATADAS.csv")
+cat_df <- if (file.exists(cat_path)) {
+  utils::read.csv(cat_path, fileEncoding = "UTF-8", stringsAsFactors = FALSE)
+} else NULL
+
+fmt_int <- function(x) format(x, big.mark = ".", decimal.mark = ",", scientific = FALSE, trim = TRUE)
+linhas <- vapply(arqs, function(a) {
+  info <- if (!is.null(cat_df)) cat_df[cat_df$arquivo == a, , drop = FALSE] else NULL
+  tam <- file.size(file.path(dir_dados, a)) / 1024^2
+  partes <- character(0)
+  if (!is.null(info) && nrow(info) == 1) {
+    partes <- c(partes, paste0(fmt_int(info$n_linhas), " linhas"))
+    if (nzchar(info$anos_min_max)) partes <- c(partes, info$anos_min_max)
+  }
+  partes <- c(partes, if (tam < 1) paste0(round(tam * 1024), " KB") else
+    paste0(format(round(tam, 1), nsmall = 1, decimal.mark = ","), " MB"))
+  paste0("- [", a, "](", dir_dados, "/", a, ") — ", paste(partes, collapse = "; "))
+}, character(1))
+
+dic <- paste0("dicionarios/dicionario_D1.csv")
+if (file.exists(file.path(dir_dados, dic))) {
+  linhas <- c(linhas, paste0("- [dicionario_D1.csv](", dir_dados, "/", dic,
+                             ") — dicionário de variáveis da dimensão"))
+}
+cat(paste(linhas, collapse = "\n"), "\n", sep = "")
+```
+
+Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).

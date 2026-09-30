@@ -1,0 +1,762 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,14953186.23
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,16682648.44
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,11293359.68
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,8228538.41
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,4119683.46
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,14960533.61
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,3780682.04
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,2350327.76
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,13232815.19
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,5866804.25
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,2442976.3
+5101605,Barão de Melgaço,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,1939601.14
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,119
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,161
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,199
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,306
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,320
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,357
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,392
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,401
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,402
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,492
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,513
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,523
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,433
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,521
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,476
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,538
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,460
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,469
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,487
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,472
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,439
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,526
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,624
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,645
+5101605,Barão de Melgaço,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,605
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,10.87
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,7.35
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,7.27
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,8.41
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,9.88
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,8.97
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,6.86
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,7.14
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,6.36
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,7.97
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,6.97
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,7.88
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,6.54
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,7.59
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,8.94
+5101605,Barão de Melgaço,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,9.06
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2006,66
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2007,56
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2008,57
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2009,66
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2010,75
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2011,68
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2012,52
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2013,54
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2014,48
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2015,60
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2016,55
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2017,62
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2018,56
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2019,65
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2020,73
+5101605,Barão de Melgaço,D1,numero_empresas,Empresas formais,empresas,2021,74
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2006,5.10204081632653
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2007,5.98503740648379
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2008,6.21890547263682
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2009,4.47154471544715
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2010,3.50877192982456
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2011,9.94263862332696
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2012,11.7782909930716
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2013,13.0518234165067
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2014,14.2857142857143
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2015,13.7546468401487
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2016,11.9565217391304
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2017,13.2196162046908
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2018,19.917864476386
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2019,18.6440677966102
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2020,19.5899772209567
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2021,18.2509505703422
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2022,16.9871794871795
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2023,25.4263565891473
+5101605,Barão de Melgaço,D1,perc_superior,Empregados formais com ensino superior,%,2024,25.4545454545455
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,37.1
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,33.2
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,31
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,32.6
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,37.6
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,30.4
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,29.8
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,31.4
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,37.4
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,35.3
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,32.1
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,30.6
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,29.4
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,31.1
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,29.5
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,28.4
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,26.8
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,26.5
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,25.2
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,23.3
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,24
+5101605,Barão de Melgaço,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,26.5
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2002,95611.93
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2003,99240.56
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2004,97108.45
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2005,92101.21
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2006,84066.53
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2007,99352.77
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2008,115290.43
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2009,119411.76
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2010,134849.87
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2011,141294.53
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2012,135231.91
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2013,131219.28
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2014,130636.78
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2015,134280.78
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2016,140794.86
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2017,132117.11
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2018,136387.58
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2019,132543.19
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2020,139915.41
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2021,148041.71
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2022,133316.26
+5101605,Barão de Melgaço,D1,pib_real,PIB real,R$ mil de 2024,2023,149517.74
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,13235.32
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,14152.95
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,14789.6
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,14575.29
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,13840.4
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,13040.12
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,14701.65
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,15209.75
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,17764.45
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,18628.14
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,17845.32
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,17345.57
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,17314.36
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,17842.24
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,17853.77
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,16783.18
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,15927.55
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,15476.78
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,17138.11
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,18131.27
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,18380.84
+5101605,Barão de Melgaço,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,20614.61
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,139520
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,129529
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,136114
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,155828
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,153520
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,148390
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,150251
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,153144
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,178203
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,173587
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,170086
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,168300
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,163719
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,149286
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,144095
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,160867
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,171073
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,177091
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,182903
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,198177
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,179127
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,191578
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,206764
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,222413
+5101605,Barão de Melgaço,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,231068
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1290.78
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1223.61
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1174.36
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1234.42
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,1707.98
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,1803.12
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,1843.73
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,1739.33
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,1835.53
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,1936.97
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2046.05
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2089.07
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2228.95
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2396.74
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2411.76
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,2714.95
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,2635.67
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,3006.51
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,3130.27
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2896.3
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3456.89
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3128.14
+5101605,Barão de Melgaço,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3427.4
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-4
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,-6
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,-16
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,36
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,-16
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,-55
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,10
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,11
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-21
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,-7
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,-7
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,-5
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,-19
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,39
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,-13
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,19
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,4
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,-40
+5101605,Barão de Melgaço,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,5
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,40.73
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,38.6
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,39.14
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,41.79
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,48.22
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,50.24
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,46.81
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,45.75
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,42.6
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,40.74
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,43.63
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,47.89
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,47.87
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,47.69
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,49.13
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,52.73
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,55.94
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,56.46
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,53.11
+5101605,Barão de Melgaço,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,45.95
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,37.98
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,45.02
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,44.22
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,39.33
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,28.78
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,29.12
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,35.87
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,35.92
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,37.09
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,41.77
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,37.87
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,34.19
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,33.17
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,30.08
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,29.01
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,24.59
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,22.24
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,22.65
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,26.92
+5101605,Barão de Melgaço,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,36.58
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2002,4.3
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2003,1.08
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2004,0.76
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2005,0.69
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2006,1.23
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2007,0.95
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2008,0.87
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2009,0.86
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2010,2.31
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2011,2.08
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2012,1.75
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2013,1.59
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2014,1.77
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2015,1.93
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2016,2.41
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2017,3.25
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2018,3.2
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2019,2.82
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2020,2.88
+5101605,Barão de Melgaço,D1,sh_ind_va,Participação da indústria no VAB,%,2021,2.59
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,17
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,15.3
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,15.88
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,18.19
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,21.78
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,19.69
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,16.45
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,17.46
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,18
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,15.42
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,16.75
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,16.33
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,17.19
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,20.3
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,19.44
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,19.43
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,18.62
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,18.07
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,17.08
+5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,14.89
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,22168.08
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,23020.35
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,11022.36
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,12171.29
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,11580.84
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,12342.99
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,10967.76
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,9251.55
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,9222.66
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,9336.9
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,10476.49
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,7772.62
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,10153.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,9048.18
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,5908.84
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,8746.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,3275.07
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,4772.87
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,6309.67
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,8080.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,6287.88
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,9174.62
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,10512
+5101605,Barão de Melgaço,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,77413.3611742157
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,0
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,20988
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,25148
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,5899
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,30342
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,1397
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,50805
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,48181
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,37982
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,39115
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,47146
+5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,325000
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,194305
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,216890
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,313940
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,374982
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,359237
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,498095
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,457982
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,484581
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,561209
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,593611
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,470711
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,193226
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,211630
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,281347
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,178443
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,179163
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,156453
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,155090
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,148346
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,126607
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,119517
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,123627
+5101605,Barão de Melgaço,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,489000
+5101605,Barão de Melgaço,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-0.41
+5101605,Barão de Melgaço,D3,gini,Índice de Gini,índice 0–1,1991,0.48
+5101605,Barão de Melgaço,D3,gini,Índice de Gini,índice 0–1,2000,0.56
+5101605,Barão de Melgaço,D3,gini,Índice de Gini,índice 0–1,2010,0.5
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,3.3
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.1
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,3.9
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,3.4
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,4
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,3.8
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.1
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,3.7
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,4
+5101605,Barão de Melgaço,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,3.3
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,3.9
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,4
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,4
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,4.1
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,4.7
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,5.5
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,4.7
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,5.1
+5101605,Barão de Melgaço,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5
+5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,1970,0.333
+5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,1980,0.468
+5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,1991,0.439
+5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,2000,0.446
+5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,2010,0.6
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.05
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.06
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0.98
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.1
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,13.39
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,13.6
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,12.56
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,9.57
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,9.83
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,9.4
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,10.05
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,10.55
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,11.13
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,16.75
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,17.25
+5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,20.45
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2000,7682
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2001,7405
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2002,7224
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2003,7012
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2004,6566
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2005,6319
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2006,6074
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2007,7619
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2008,7842
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2009,7851
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2010,7591
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2011,7585
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2012,7578
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2013,7565
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2014,7545
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2015,7526
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2016,7886
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2017,7872
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2018,8563
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2019,8564
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2020,8164
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2021,8165
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2022,7253
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2023,7253
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2024,7204
+5101605,Barão de Melgaço,D3,populacao,População,habitantes,2025,7137
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,13
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,40.5
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,13.8
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,28.5
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,0
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,31.7
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,32.9
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,26.3
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,25.5
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,50.9
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,79
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,39.6
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,13.2
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,52.9
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,39.8
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,39.9
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,50.7
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,50.8
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,35
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,46.7
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,24.5
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,73.5
+5101605,Barão de Melgaço,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,41.4
+5101605,Barão de Melgaço,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,87.46
+5101605,Barão de Melgaço,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,73.87
+5101605,Barão de Melgaço,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,59.24
+5101605,Barão de Melgaço,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,45.72
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,32
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,29.4
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,25.3
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,18.8
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,29.6
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,26.9
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,26.6
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,15.5
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,5.2
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,11.2
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,5.5
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,5.5
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,0
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,0
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,11.6
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,15.8
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,15.1
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,4.9
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,5.4
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,5.5
+5101605,Barão de Melgaço,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,6.2
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,595.09
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,594.03
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,481.94
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,322.96
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,310.41
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,296.12
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,493.43
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,529.87
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,529.89
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,965.28
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1624.7
+5101605,Barão de Melgaço,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1974.18
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,27.95
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,58.78
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,117.66
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,15.9
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,54.59
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,59.83
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,10.04
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,122.2
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,23.67
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,20
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,34.5
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,10.92
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,43.59
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,30.13
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,87.43
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,16.77
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,60.44
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,326.41
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,28.21
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.46
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,3749.34
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,6352.69
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,19.7
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,19.7
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,19.6999999999999
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,19.7
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,30.1
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,30.1
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,24.6
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,24.6
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,34.1999999999999
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,34.2000000000001
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,15.1
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,9.19999999999993
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,9.20000000000005
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,18.8
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,34.8
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,34.8000000000002
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,80.3999999999999
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,42.3000000000001
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,30.4000000000001
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,21.1999999999999
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,7
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,94.3
+5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,35
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,6.12
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,6.29
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,6.46
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,6.63
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,6.81
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,7.07
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,7.33
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,7.55
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,7.76
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,8.06
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,8.36
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,8.49
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,8.57
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,8.65
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,8.82
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,9.12
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,9.42
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,10.13
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,10.5
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,10.76
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,10.95
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,11.01
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,11.83
+5101605,Barão de Melgaço,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,12.14
+5101605,Barão de Melgaço,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1
+5101605,Barão de Melgaço,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,6.76
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,92.08
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,91.91
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,91.74
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,91.57
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,91.39
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,91.13
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,90.87
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,90.65
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,90.44
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,90.14
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,89.84
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,89.71
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,89.63
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,89.55
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,89.38
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,89.08
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,88.78
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,88.07
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,87.71
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,87.44
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,87.25
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,87.19
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,86.37
+5101605,Barão de Melgaço,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,86.06
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2000,4.32
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2001,4.36
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2002,4.55
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2003,4.5
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2004,4.7
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2005,5.42
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2006,5.73
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2007,6.12
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2008,6.18
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2009,6.6
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2010,6.77
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2011,7.03
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2012,7.1
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2013,7.07
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2014,7.38
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2015,7.23
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2016,7.59
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2017,8.03
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2018,8.24
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2019,8.48
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2020,8.78
+5101605,Barão de Melgaço,D4,taxa_antropizacao,Taxa de antropização,%,2021,9.3
+5101605,Barão de Melgaço,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,1513
+5101605,Barão de Melgaço,D5,idx_atend_agua_total,População atendida com água,%,2006,93.4
+5101605,Barão de Melgaço,D5,idx_atend_agua_total,População atendida com água,%,2020,100
+5101605,Barão de Melgaço,D5,idx_atend_agua_total,População atendida com água,%,2022,45
+5101605,Barão de Melgaço,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,20
+5101605,Barão de Melgaço,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,0
+5101605,Barão de Melgaço,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,5
+5101605,Barão de Melgaço,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,93.7
+5101605,Barão de Melgaço,D5,perc_pavimentado,Malha viária pavimentada,%,,97.1
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,0.98
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,0.6
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,1
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,0.71
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,0.09
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,1.77
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,1.12
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,1.83
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,3.42
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,0.75
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,2.07
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,2.84
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,3.89
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,2.62
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,4.52
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,2.74
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,4.33
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,3.4
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,5.45
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,2.93
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,2.74
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,11.95
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,1.89
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,8.76
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,8.12
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,2.89
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,5.03
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,6.34
+5101605,Barão de Melgaço,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,6.51
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,46.84
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,66.46
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,49.96
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,66.85
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,36.8
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,44.35
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,30.79
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,38.53
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,49.44
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,46.31
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,57.39
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,54.05
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,48.05
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,49.75
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,48.62
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,52.96
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,50.02
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,46.44
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,47.69
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,27.91
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,35.37
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,34.69
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,37.95
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,31.34
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,32.84
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,28.51
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,27.78
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,59.2
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,58.79
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,135.11
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,97.45
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,111.29
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,106.05
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,114.36
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,217.03
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,247.41
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,219.46
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,120.22
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,94.74
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,93.27
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,90.93
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,90.64
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,93.15
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,89.75
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,92.19
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,92.47
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,90.32
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,86.18
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,94.61
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,94.66
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,84.42
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,96.37
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,82.79
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,90.71
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,93.42
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,91.26
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,86.6
+5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,84.86
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,2932.46
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,2935.84
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,2705.93
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,3037.09
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,2847.8
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,3768.85
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,3348.1
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,6024.36
+5101605,Barão de Melgaço,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,5914.55
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,19.95
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,23.37
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,22.51
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,23.01
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,38.42
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,36.07
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,27.79
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,31.35
+5101605,Barão de Melgaço,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,31.03
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,29.06
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,26.29
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,30.39
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,26.25
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,33
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,33.29
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,31.45
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,32.33
+5101605,Barão de Melgaço,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,29.09
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,1783.14
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,1775.25
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,2135.97
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,2414.39
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,2685.73
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,2131
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,2590.5
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,2769.23
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,3211.93
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,4561.08
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,3628.52
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,3570.14
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,3307.79
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,3874.54
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,3618.55
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,3954.06
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,4881.41
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,6123.95
+5101605,Barão de Melgaço,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,6073.71

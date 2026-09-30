@@ -1,0 +1,12 @@
+---
+title: "Curvelândia"
+description: "Perfil do município de Curvelândia (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5103437L
+```
+
+{{< include _perfil.qmd >}}
+

@@ -1,0 +1,12 @@
+---
+title: "Poconé"
+description: "Perfil do município de Poconé (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5106505L
+```
+
+{{< include _perfil.qmd >}}
+

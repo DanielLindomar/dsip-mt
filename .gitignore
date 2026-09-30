@@ -1,0 +1,11 @@
+_site/
+.quarto/
+/.claude/
+*_files/
+.Rhistory
+.RData
+__pycache__/
+/_freeze/
+
+/.quarto/
+**/*.quarto_ipynb

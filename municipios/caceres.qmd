@@ -1,0 +1,12 @@
+---
+title: "Cáceres"
+description: "Perfil do município de Cáceres (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5102504L
+```
+
+{{< include _perfil.qmd >}}
+

@@ -1,0 +1,104 @@
+---
+title: "D5 · Infraestrutura (PIM)"
+---
+
+::: {.faixa-versao}
+Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+:::
+
+## Principais resultados
+
+O abastecimento de água atendia, em 2022, 76,1% da população em média simples, patamar próximo da média estadual (76,5%), mas com forte desigualdade interna, de 100% em Lambari D'Oeste e Rondonópolis a cerca de 40% em Porto Esperidião. A coleta de esgoto é a maior carência do recorte: apenas 5 dos 13 municípios reportaram coleta ao SNIS em 2022 e, mesmo entre esses, a cobertura média é de 49,8%. As perdas de distribuição de água (36,1% em média simples) superam a média estadual (29,1%). A energia elétrica apresenta o quadro mais favorável, com acesso domiciliar de 98,5% em média simples, e o perfil de consumo é marcadamente rural (25,3% do consumo no setor rural, ante 0,6% no Polo Metropolitano). A malha rodoviária é comparativamente bem pavimentada (82,5% em média simples, ante 66,1% no Resto de Mato Grosso), mas a densidade por habitante é menor (21,1 km por mil habitantes, ante 25,4), com mínimo em Barão de Melgaço.
+
+Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Documentos
+
+- [Relatório Parcial I — Infraestrutura (PIM) (PDF, 25 páginas)](../arquivos/relatorios/D5_PIM_Parcial_I_v1_20260614.pdf)
+- [Notas metodológicas — PIM (PDF, 13 páginas)](../arquivos/relatorios/NOTAS_D5_PIM.pdf)
+
+## Figuras do relatório
+
+Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+
+```{r}
+#| results: asis
+dim_id <- "D5"
+fig <- utils::read.csv("figuras/figuras.csv", fileEncoding = "UTF-8", colClasses = "character",
+                     na.strings = character(0))
+fig <- fig[fig$dim == dim_id, ]
+fig <- fig[order(as.integer(fig$ordem)), ]
+
+esc_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  gsub("\"", "&quot;", x, fixed = TRUE)
+}
+
+itens <- vapply(seq_len(nrow(fig)), function(i) {
+  rotulo <- esc_html(paste0("Figura ", fig$numero[i], ": ", fig$legenda[i]))
+  arq <- paste0("figuras/", fig$arquivo[i])
+  fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
+    paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
+  } else ""
+  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+         '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
+         "</figcaption></figure>")
+}, character(1))
+
+cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
+    "\n</div>\n```\n", sep = "")
+```
+
+## Ressalvas metodológicas
+
+Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+
+- O SNIS tem adesão voluntária. A ausência de dado, sobretudo em esgoto, é tratada como achado (município sem sistema informado), e os agregados consideram apenas quem reporta.
+- O saneamento é um corte transversal de 2022. Não há série comparável entre todos os municípios, portanto não se infere tendência longitudinal.
+- O índice de atendimento urbano de água está vazio para o recorte em 2022. Usa-se o índice de atendimento total.
+- O consumo de energia cobre apenas 2023 e o acesso domiciliar é um retrato da ANEEL (ano-fonte 2026). Nenhum dos dois forma série.
+- Rondonópolis responde por cerca de 62% do consumo de energia do recorte e distorce a média ponderada. Reportam-se média simples, média ponderada e valores sem Rondonópolis.
+- A malha rodoviária vem do OpenStreetMap, colaborativo e estático, e pode estar subestimada em áreas remotas. Os valores devem ser lidos como ordem de grandeza. Um município sem segmento mapeado consta com 0 km.
+- Em energia e rodovias, a ausência de dado foi convertida em zero, o que pode confundir “infraestrutura inexistente” com “dado faltante”.
+- O painel repete os retratos de energia e rodovias em todos os anos. A análise longitudinal fica restrita às colunas de saneamento.
+
+## Dados desta dimensão
+
+Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+
+```{r}
+#| results: asis
+dim_pref <- "d5_"
+dir_dados <- "../arquivos/dados"
+arqs <- sort(list.files(dir_dados, pattern = paste0("^", dim_pref, ".*\\.csv$")))
+
+cat_path <- file.path(dir_dados, "CATALOGO_BASES_TRATADAS.csv")
+cat_df <- if (file.exists(cat_path)) {
+  utils::read.csv(cat_path, fileEncoding = "UTF-8", stringsAsFactors = FALSE)
+} else NULL
+
+fmt_int <- function(x) format(x, big.mark = ".", decimal.mark = ",", scientific = FALSE, trim = TRUE)
+linhas <- vapply(arqs, function(a) {
+  info <- if (!is.null(cat_df)) cat_df[cat_df$arquivo == a, , drop = FALSE] else NULL
+  tam <- file.size(file.path(dir_dados, a)) / 1024^2
+  partes <- character(0)
+  if (!is.null(info) && nrow(info) == 1) {
+    partes <- c(partes, paste0(fmt_int(info$n_linhas), " linhas"))
+    if (nzchar(info$anos_min_max)) partes <- c(partes, info$anos_min_max)
+  }
+  partes <- c(partes, if (tam < 1) paste0(round(tam * 1024), " KB") else
+    paste0(format(round(tam, 1), nsmall = 1, decimal.mark = ","), " MB"))
+  paste0("- [", a, "](", dir_dados, "/", a, ") — ", paste(partes, collapse = "; "))
+}, character(1))
+
+dic <- paste0("dicionarios/dicionario_D5.csv")
+if (file.exists(file.path(dir_dados, dic))) {
+  linhas <- c(linhas, paste0("- [dicionario_D5.csv](", dir_dados, "/", dic,
+                             ") — dicionário de variáveis da dimensão"))
+}
+cat(paste(linhas, collapse = "\n"), "\n", sep = "")
+```
+
+Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).

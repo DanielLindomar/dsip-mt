@@ -1,0 +1,12 @@
+---
+title: "Nossa Senhora do Livramento"
+description: "Perfil do município de Nossa Senhora do Livramento (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5106109L
+```
+
+{{< include _perfil.qmd >}}
+

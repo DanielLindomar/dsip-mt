@@ -1,0 +1,104 @@
+---
+title: "D2 · Áreas de especial interesse (AEISM)"
+---
+
+::: {.faixa-versao}
+Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+:::
+
+## Principais resultados
+
+A balança comercial do recorte foi superavitária em USD 2.326,4 milhões em 2024, mas apenas 7 dos 13 municípios registraram exportação nesse ano e, sem Rondonópolis, o Pantanal Norte exporta apenas USD 317,3 milhões. A Zona de Processamento de Exportação (ZPE) de Cáceres revela-se mais potencial que realidade, pois Cáceres é apenas o 5º exportador do recorte (USD 11,2 milhões). A bioeconomia é a vocação mais distintiva: o valor da produção bioeconômica alcançou R\$ 228,4 milhões em 2024 e, em média por município (R\$ 17,6 milhões), o recorte supera o Resto de Mato Grosso (R\$ 15,0 milhões) e o Polo Metropolitano (R\$ 12,5 milhões), com destaque para a aquicultura (R\$ 68,2 milhões, 13,5% da produção estadual). O território reúne ainda cerca de 497.664 hectares de áreas protegidas (2019) e um ativo coletivo subaproveitado, a Indicação de Procedência "Pantanal" para o mel, concedida pelo INPI em 2015 e abrangente dos 13 municípios.
+
+Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Documentos
+
+- [Relatório Parcial I — Áreas de especial interesse (AEISM) (PDF, 28 páginas)](../arquivos/relatorios/D2_AEISM_Parcial_I_v1_20260614.pdf)
+- [Notas metodológicas — AEISM (PDF, 11 páginas)](../arquivos/relatorios/NOTAS_D2_AEISM.pdf)
+
+## Figuras do relatório
+
+Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+
+```{r}
+#| results: asis
+dim_id <- "D2"
+fig <- utils::read.csv("figuras/figuras.csv", fileEncoding = "UTF-8", colClasses = "character",
+                     na.strings = character(0))
+fig <- fig[fig$dim == dim_id, ]
+fig <- fig[order(as.integer(fig$ordem)), ]
+
+esc_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  gsub("\"", "&quot;", x, fixed = TRUE)
+}
+
+itens <- vapply(seq_len(nrow(fig)), function(i) {
+  rotulo <- esc_html(paste0("Figura ", fig$numero[i], ": ", fig$legenda[i]))
+  arq <- paste0("figuras/", fig$arquivo[i])
+  fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
+    paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
+  } else ""
+  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+         '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
+         "</figcaption></figure>")
+}, character(1))
+
+cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
+    "\n</div>\n```\n", sep = "")
+```
+
+## Ressalvas metodológicas
+
+Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+
+- As exportações concentram-se em Rondonópolis (cerca de 90% do recorte). Totais e médias são reportados com e sem esse município.
+- As exportações estão em dólares FOB correntes, sem deflação. Comparações temporais exigem citar o ano e usar participações ou variações relativas.
+- A ZPE de Cáceres é captada apenas pelo comércio exterior do município. A atividade operacional da zona não é medida nas bases atuais.
+- A cobertura da bioeconomia varia por componente: extrativismo desde 2002, silvicultura desde 2005 e aquicultura desde 2013. Comparações temporais ficam restritas à janela comum, a partir de 2013.
+- Unidades de conservação e terras indígenas constam como retrato de 2019, em hectares absolutos e não em percentual do território. Unidades criadas ou extintas depois de 2019 não estão refletidas.
+- A Indicação Geográfica tem um único registro (Indicação de Procedência “Pantanal”), de natureza qualitativa, sem série municipal.
+- Turismo e regime de loja franca (free shop) não foram coletados. Permanecem como pendências da agenda de campo de maio a setembro de 2026, sem estimativa de valores.
+- Os produtos exportados são identificados por código SH4, sem a descrição oficial correspondente.
+
+## Dados desta dimensão
+
+Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+
+```{r}
+#| results: asis
+dim_pref <- "d2_"
+dir_dados <- "../arquivos/dados"
+arqs <- sort(list.files(dir_dados, pattern = paste0("^", dim_pref, ".*\\.csv$")))
+
+cat_path <- file.path(dir_dados, "CATALOGO_BASES_TRATADAS.csv")
+cat_df <- if (file.exists(cat_path)) {
+  utils::read.csv(cat_path, fileEncoding = "UTF-8", stringsAsFactors = FALSE)
+} else NULL
+
+fmt_int <- function(x) format(x, big.mark = ".", decimal.mark = ",", scientific = FALSE, trim = TRUE)
+linhas <- vapply(arqs, function(a) {
+  info <- if (!is.null(cat_df)) cat_df[cat_df$arquivo == a, , drop = FALSE] else NULL
+  tam <- file.size(file.path(dir_dados, a)) / 1024^2
+  partes <- character(0)
+  if (!is.null(info) && nrow(info) == 1) {
+    partes <- c(partes, paste0(fmt_int(info$n_linhas), " linhas"))
+    if (nzchar(info$anos_min_max)) partes <- c(partes, info$anos_min_max)
+  }
+  partes <- c(partes, if (tam < 1) paste0(round(tam * 1024), " KB") else
+    paste0(format(round(tam, 1), nsmall = 1, decimal.mark = ","), " MB"))
+  paste0("- [", a, "](", dir_dados, "/", a, ") — ", paste(partes, collapse = "; "))
+}, character(1))
+
+dic <- paste0("dicionarios/dicionario_D2.csv")
+if (file.exists(file.path(dir_dados, dic))) {
+  linhas <- c(linhas, paste0("- [dicionario_D2.csv](", dir_dados, "/", dic,
+                             ") — dicionário de variáveis da dimensão"))
+}
+cat(paste(linhas, collapse = "\n"), "\n", sep = "")
+```
+
+Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).

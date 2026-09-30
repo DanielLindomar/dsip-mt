@@ -1,0 +1,104 @@
+---
+title: "D4 · Perfil ambiental (PAM)"
+---
+
+::: {.faixa-versao}
+Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+:::
+
+## Principais resultados
+
+Em termos médios, o Pantanal Norte encontra-se mais preservado que o estado: o desmatamento acumulado até 2023, ponderado pela área (PRODES), era de 33,6% do território, ante 40,9% em Mato Grosso, com 55,5% de vegetação natural remanescente. A média, contudo, oculta um gradiente interno extremo, que vai de Barão de Melgaço (12,1% desmatado, planície pantaneira) a Mirassol D'Oeste (88,0% desmatado, Cerrado). A marca mais distintiva é o déficit de proteção: apenas 5,3% do território estava sob Unidade de Conservação ou Terra Indígena em 2019, ante 20,7% no estado, e 7 dos 13 municípios não possuem nenhuma Unidade de Conservação. A pressão de fogo é elevada, com densidade de 3.711 focos de calor por mil quilômetros quadrados em 2024, cerca de 2,2 vezes a do Resto de Mato Grosso (1.698), concentrada em Cáceres e Barão de Melgaço. A vegetação natural recuou 3,4 pontos percentuais entre 2000 e 2021 (MapBiomas), perda menor que a estadual (9,4 pontos).
+
+Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Documentos
+
+- [Relatório Parcial I — Perfil ambiental (PAM) (PDF, 28 páginas)](../arquivos/relatorios/D4_PAM_Parcial_I_v1_20260614.pdf)
+- [Notas metodológicas — PAM (PDF, 13 páginas)](../arquivos/relatorios/NOTAS_D4_PAM.pdf)
+
+## Figuras do relatório
+
+Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+
+```{r}
+#| results: asis
+dim_id <- "D4"
+fig <- utils::read.csv("figuras/figuras.csv", fileEncoding = "UTF-8", colClasses = "character",
+                     na.strings = character(0))
+fig <- fig[fig$dim == dim_id, ]
+fig <- fig[order(as.integer(fig$ordem)), ]
+
+esc_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  gsub("\"", "&quot;", x, fixed = TRUE)
+}
+
+itens <- vapply(seq_len(nrow(fig)), function(i) {
+  rotulo <- esc_html(paste0("Figura ", fig$numero[i], ": ", fig$legenda[i]))
+  arq <- paste0("figuras/", fig$arquivo[i])
+  fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
+    paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
+  } else ""
+  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+         '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
+         "</figcaption></figure>")
+}, character(1))
+
+cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
+    "\n</div>\n```\n", sep = "")
+```
+
+## Ressalvas metodológicas
+
+Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+
+- Os focos de calor têm quebra de série de satélite entre 2022, 2023 e 2024. O número absoluto de focos não é comparável no tempo; usa-se a densidade por mil km². O ano de 2025 é parcial e foi excluído.
+- As fontes têm cortes finais distintos: PRODES até 2023 e MapBiomas até 2021. No painel, o uso da terra fica sem valor em 2022 e 2023. O ano de cada indicador deve ser citado.
+- O recorte abrange mais de um bioma (Cerrado, Pantanal e Amazônia). Tratá-lo como bloco ecológico único distorce a leitura; desmatamento e uso da terra são lidos por bioma e pelo gradiente oeste-leste.
+- A média simples é influenciada por municípios pequenos. Reportam-se a média simples e a média ponderada por área.
+- Unidades de conservação, terras indígenas e CAR são retratos estáticos (2019 e 2024) e não captam mudanças recentes de proteção ou cadastro.
+- A conformidade do CAR é autodeclarada e não foi verificada em campo. Sem a área de reserva legal exigida na base, não é possível calcular o déficit de Reserva Legal.
+- A ausência de unidade de conservação, terra indígena ou CAR está codificada como zero, e esse zero representa ausência real, não dado faltante.
+- A média do risco de fogo inclui o valor sentinela −999 do INPE (sem dado). Apenas valores não negativos, na escala de 0 a 1, têm interpretação.
+
+## Dados desta dimensão
+
+Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+
+```{r}
+#| results: asis
+dim_pref <- "d4_"
+dir_dados <- "../arquivos/dados"
+arqs <- sort(list.files(dir_dados, pattern = paste0("^", dim_pref, ".*\\.csv$")))
+
+cat_path <- file.path(dir_dados, "CATALOGO_BASES_TRATADAS.csv")
+cat_df <- if (file.exists(cat_path)) {
+  utils::read.csv(cat_path, fileEncoding = "UTF-8", stringsAsFactors = FALSE)
+} else NULL
+
+fmt_int <- function(x) format(x, big.mark = ".", decimal.mark = ",", scientific = FALSE, trim = TRUE)
+linhas <- vapply(arqs, function(a) {
+  info <- if (!is.null(cat_df)) cat_df[cat_df$arquivo == a, , drop = FALSE] else NULL
+  tam <- file.size(file.path(dir_dados, a)) / 1024^2
+  partes <- character(0)
+  if (!is.null(info) && nrow(info) == 1) {
+    partes <- c(partes, paste0(fmt_int(info$n_linhas), " linhas"))
+    if (nzchar(info$anos_min_max)) partes <- c(partes, info$anos_min_max)
+  }
+  partes <- c(partes, if (tam < 1) paste0(round(tam * 1024), " KB") else
+    paste0(format(round(tam, 1), nsmall = 1, decimal.mark = ","), " MB"))
+  paste0("- [", a, "](", dir_dados, "/", a, ") — ", paste(partes, collapse = "; "))
+}, character(1))
+
+dic <- paste0("dicionarios/dicionario_D4.csv")
+if (file.exists(file.path(dir_dados, dic))) {
+  linhas <- c(linhas, paste0("- [dicionario_D4.csv](", dir_dados, "/", dic,
+                             ") — dicionário de variáveis da dimensão"))
+}
+cat(paste(linhas, collapse = "\n"), "\n", sep = "")
+```
+
+Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).

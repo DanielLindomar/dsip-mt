@@ -1,0 +1,12 @@
+---
+title: "Juscimeira"
+description: "Perfil do município de Juscimeira (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5105200L
+```
+
+{{< include _perfil.qmd >}}
+

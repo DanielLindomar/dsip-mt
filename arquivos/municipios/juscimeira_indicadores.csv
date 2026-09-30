@@ -1,0 +1,816 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,44162802.13
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,41188161.78
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,46672232.07
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,24970398.02
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,29776620.92
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,31807730.53
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,20964285.76
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,35850970.62
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,45587095.09
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,40104898.34
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,52602281.42
+5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,52405175.95
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,522
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,593
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,780
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,929
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,984
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,882
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,1104
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,1126
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,1110
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,1127
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,1285
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,1335
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,1383
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,1406
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,1438
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,1402
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,1416
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,1404
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,1584
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,1430
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,1440
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,1573
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,1742
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,1880
+5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,2011
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,14.9
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,14.45
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,18.57
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,16.85
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,18.55
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,19.59
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,19.5
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,18.66
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,16.82
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,17.38
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,17.48
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,16.04
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,16.94
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,16.58
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,18.43
+5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,17.26
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2006,192
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2007,171
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2008,226
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2009,205
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2010,212
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2011,223
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2012,221
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2013,210
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2014,188
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2015,193
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2016,193
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2017,176
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2018,191
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2019,186
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2020,206
+5105200,Juscimeira,D1,numero_empresas,Empresas formais,empresas,2021,192
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2006,8.15217391304348
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2007,7.54884547069272
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2008,8.37837837837838
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2009,11.0913930789707
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2010,10.6614785992218
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2011,12.434456928839
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2012,9.9060014461316
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2013,10.0284495021337
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2014,10.6397774687065
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2015,13.9087018544936
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2016,16.0310734463277
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2017,17.4501424501425
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2018,16.3510101010101
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2019,19.4405594405594
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2020,19.7222222222222
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2021,19.7075651621106
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2022,18.886337543054
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2023,21.6489361702128
+5105200,Juscimeira,D1,perc_superior,Empregados formais com ensino superior,%,2024,22.2277473893585
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,64.7
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,63.2
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,66.4
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,56.1
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,72.9
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,74.9
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,61.2
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,64.8
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,58.6
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,73.2
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,78
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,77.1
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,67.4
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,66.1
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,73.6
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,70.2
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,74.7
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,69.3
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,73.7
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,72.6
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,69.2
+5105200,Juscimeira,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,64.8
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2002,283320.03
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2003,334517.75
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2004,401053.26
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2005,320177.37
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2006,346410.04
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2007,380267.55
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2008,367152.26
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2009,382277.7
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2010,317941.15
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2011,440007.59
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2012,492263.84
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2013,492648.46
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2014,444367.42
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2015,421605.58
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2016,491677.47
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2017,455021.72
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2018,501212.29
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2019,453948.5
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2020,560623.49
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2021,628128.33
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2022,607378.93
+5105200,Juscimeira,D1,pib_real,PIB real,R$ mil de 2024,2023,577693.22
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,23037.88
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,26964.2
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,31741.45
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,25088.33
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,26880.57
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,32144.34
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,30173.59
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,31416.63
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,27816.38
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,38658.19
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,43428.66
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,43783.19
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,39750.19
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,37958.56
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,44540.04
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,41474.95
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,44453.42
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,40455.27
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,50163.16
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,56466.06
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,52907.56
+5105200,Juscimeira,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,50321.7
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,152347
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,137160
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,164598
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,157099
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,154622
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,150660
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,135886
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,142449
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,143810
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,151119
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,154874
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,152156
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,146950
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,164742
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,173320
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,182918
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,184747
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,180973
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,175535
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,175382
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,183507
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,170825
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,186920
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,199668
+5105200,Juscimeira,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,178540
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1472.98
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1640.98
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1784.38
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1853.71
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,2437.79
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,2357.81
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,2110.85
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2417.26
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,2522.66
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2546.59
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2480.9
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2636.45
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2753.48
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2720.38
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2736.65
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,3005.92
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,2904.5
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,2944.62
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,3014.47
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2814.02
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3350.6
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3030.31
+5105200,Juscimeira,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3151.94
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,164
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,-135
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,-46
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,29
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,26
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,-8
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,-59
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,-66
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-19
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,-66
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,30
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,-20
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,287
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,61
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,192
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,40
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,156
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,41
+5105200,Juscimeira,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,62
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,25.24
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,20.4
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,17.9
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,24.55
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,24.48
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,23.74
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,25.14
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,24.99
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,30.05
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,21.55
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,18.36
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,20.14
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,22.76
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,24.51
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,21.73
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,24.02
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,23.2
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,25.23
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,21.12
+5105200,Juscimeira,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,16.77
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,40.14
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,49.83
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,55.51
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,44.02
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,28.2
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,36.26
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,43.76
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,44.71
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,31.77
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,41.89
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,45.34
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,44.12
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,39.84
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,36.05
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,33.69
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,26
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,28.65
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,30.04
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,40.92
+5105200,Juscimeira,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,50.09
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2002,5.41
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2003,3.41
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2004,2.85
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2005,2.22
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2006,16.22
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2007,11.16
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2008,3.08
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2009,4.21
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2010,8.92
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2011,14.01
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2012,17.41
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2013,16.49
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2014,15.9
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2015,16.43
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2016,24.43
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2017,25.8
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2018,26.52
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2019,21.32
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2020,18.62
+5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2021,17.85
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,29.21
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,26.36
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,23.74
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,29.21
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,31.1
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,28.84
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,28.02
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,26.09
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,29.26
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,22.54
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,18.89
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,19.25
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,21.5
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,23.01
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,20.15
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,24.17
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,21.63
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,23.41
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,19.34
+5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,15.29
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,276946.24
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,428426.02
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,667883.18
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,394299.92
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,332548.69
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,441102.88
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,507129.78
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,554609.88
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,347775.41
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,554207.93
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,605406.31
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,617826.65
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,605135.86
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,552840.03
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,529407.51
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,432564.5
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,545669.57
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,579240.1
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,733895.35
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,1139002.55
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,1144730.83
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,769359.05
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,767843
+5105200,Juscimeira,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,21.3429581219181
+5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2005,2
+5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2006,2
+5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2007,1
+5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2023,1
+5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2024,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,282407
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,1654562
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,1875126
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,6415106
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,956502
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,3675248
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,4263644
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,2739969
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,8116675
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,2249092
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,3974904
+5105200,Juscimeira,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,6748000
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,2362893
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,2495812
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,2129463
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,2173769
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,2961651
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,2920768
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,2657277
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,2448778
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,1878062
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1441328
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1017913
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,7779191
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,10242191
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,9881743
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,7089061
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,1752624
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,4403034
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,4978931
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,3415769
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,8593179
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,2659796
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,7603026
+5105200,Juscimeira,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,11785000
+5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2005,396771
+5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2006,505814
+5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2007,6376
+5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,1316
+5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,0
+5105200,Juscimeira,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.11
+5105200,Juscimeira,D3,gini,Índice de Gini,índice 0–1,1991,0.61
+5105200,Juscimeira,D3,gini,Índice de Gini,índice 0–1,2000,0.6
+5105200,Juscimeira,D3,gini,Índice de Gini,índice 0–1,2010,0.43
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,3.6
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.7
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,4.1
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,4.6
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,4.2
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,4.7
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.6
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4.5
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,4.8
+5105200,Juscimeira,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,4.5
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,3.5
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,4
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,4.9
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,4.7
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,5
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,6
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,5.8
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,5.8
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,6
+5105200,Juscimeira,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.5
+5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,1980,0.47
+5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,1991,0.643
+5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,2000,0.568
+5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,2010,0.714
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0.96
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0.9
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.88
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0.87
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,8.1
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,7.78
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,7.25
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,7.1
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,6.71
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,5.95
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,5.36
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,5.1
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,5.39
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,5.98
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,6.26
+5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,6.2
+5105200,Juscimeira,D3,populacao,População,habitantes,2000,12063
+5105200,Juscimeira,D3,populacao,População,habitantes,2001,12197
+5105200,Juscimeira,D3,populacao,População,habitantes,2002,12298
+5105200,Juscimeira,D3,populacao,População,habitantes,2003,12406
+5105200,Juscimeira,D3,populacao,População,habitantes,2004,12635
+5105200,Juscimeira,D3,populacao,População,habitantes,2005,12762
+5105200,Juscimeira,D3,populacao,População,habitantes,2006,12887
+5105200,Juscimeira,D3,populacao,População,habitantes,2007,11830
+5105200,Juscimeira,D3,populacao,População,habitantes,2008,12168
+5105200,Juscimeira,D3,populacao,População,habitantes,2009,12168
+5105200,Juscimeira,D3,populacao,População,habitantes,2010,11430
+5105200,Juscimeira,D3,populacao,População,habitantes,2011,11382
+5105200,Juscimeira,D3,populacao,População,habitantes,2012,11335
+5105200,Juscimeira,D3,populacao,População,habitantes,2013,11252
+5105200,Juscimeira,D3,populacao,População,habitantes,2014,11179
+5105200,Juscimeira,D3,populacao,População,habitantes,2015,11107
+5105200,Juscimeira,D3,populacao,População,habitantes,2016,11039
+5105200,Juscimeira,D3,populacao,População,habitantes,2017,10971
+5105200,Juscimeira,D3,populacao,População,habitantes,2018,11275
+5105200,Juscimeira,D3,populacao,População,habitantes,2019,11221
+5105200,Juscimeira,D3,populacao,População,habitantes,2020,11176
+5105200,Juscimeira,D3,populacao,População,habitantes,2021,11124
+5105200,Juscimeira,D3,populacao,População,habitantes,2022,11480
+5105200,Juscimeira,D3,populacao,População,habitantes,2023,11480
+5105200,Juscimeira,D3,populacao,População,habitantes,2024,11620
+5105200,Juscimeira,D3,populacao,População,habitantes,2025,11622
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,116.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,57.4
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,73.2
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,64.5
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,134.5
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,117.5
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,38.8
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,109.9
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,115.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,115.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,105
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,105.4
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,114.7
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,124.4
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,152.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,117
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,126.8
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,164.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,62.1
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,98
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,98.4
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,116.9
+5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,78.4
+5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,64.03
+5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,60.62
+5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,28.28
+5105200,Juscimeira,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,68.41
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,28.5
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,27.7
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,25.6
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,17.3
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,24.4
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,24.5
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,24.7
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,23.4
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,23.8
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,16.3
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,12.7
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,10.7
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,17.1
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,11.2
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,9
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,2.4
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,5
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,7.5
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,4.9
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,5.3
+5105200,Juscimeira,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,11.1
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,238.64
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,235.12
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,209.73
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,208.91
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,200.7
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,164.03
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,471.39
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,448.42
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,430.06
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,531.92
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,847.32
+5105200,Juscimeira,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,894.12
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,22.63
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,36.36
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,21.89
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,9.65
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,20.78
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,13.36
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,6.68
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,27.09
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,14.1
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,8.16
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,7.05
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,7.42
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,10.76
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,14.1
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,12.62
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,4.08
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,8.16
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,59.74
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,19.29
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,11.13
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,51.58
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,1090.54
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,30.9000000000001
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,30.8999999999999
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,42.3000000000002
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,42.2999999999997
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,7.90000000000009
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,7.90000000000009
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,4.19999999999982
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,4.20000000000027
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,3.40000000000009
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,3.39999999999964
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,1.80000000000018
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,1.80000000000018
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,3.29999999999973
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,0.900000000000091
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,2.30000000000018
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,0.699999999999818
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,1.69999999999982
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,1.60000000000036
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,0.199999999999818
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,1
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,0.900000000000091
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,0.400000000000091
+5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,0.699999999999818
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,73.28
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,74.43
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,75.58
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,77.15
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,78.72
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,79.01
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,79.3
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,79.46
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,79.61
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,79.74
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,79.87
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,79.93
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,80
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,80.12
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,80.16
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,80.24
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,80.27
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,80.33
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,80.39
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,80.4
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,80.43
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,80.47
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,80.48
+5105200,Juscimeira,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,80.51
+5105200,Juscimeira,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1.1
+5105200,Juscimeira,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,0.01
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,26.51
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,25.37
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,24.22
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,22.65
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,21.08
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,20.79
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,20.49
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,20.34
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,20.18
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,20.06
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,19.93
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,19.86
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,19.8
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,19.67
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,19.64
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,19.55
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,19.53
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,19.47
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,19.41
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,19.4
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,19.36
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,19.33
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,19.31
+5105200,Juscimeira,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,19.29
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2000,60.51
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2001,61.07
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2002,62.18
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2003,62.78
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2004,64.1
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2005,64.54
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2006,64.87
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2007,64.84
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2008,65.17
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2009,64.93
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2010,64.64
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2011,64.5
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2012,64.29
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2013,64.21
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2014,64.11
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2015,64.23
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2016,64.31
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2017,64.28
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2018,64.45
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2019,64.61
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2020,64.87
+5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2021,65.93
+5105200,Juscimeira,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,1750
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2004,81.5
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2005,80.7
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2006,80.7
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2007,93
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2009,72.3
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2012,74.4
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2013,74.9
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2014,82.7
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2015,82.2
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2016,82.7
+5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2022,68.2
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2012,3.6
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2013,3.1
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2014,1.4
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2015,1.5
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2016,1.5
+5105200,Juscimeira,D5,idx_coleta_esgoto,Esgoto coletado,%,2022,18.5
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2004,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2005,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2007,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2012,38.9
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2013,31.8
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2014,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2015,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2016,0
+5105200,Juscimeira,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,83
+5105200,Juscimeira,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,99.09
+5105200,Juscimeira,D5,perc_pavimentado,Malha viária pavimentada,%,,71.1
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,0.02
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,0.31
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,1.5
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,0.2
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,0.25
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,1.07
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,2.64
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,1.87
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,0.91
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1998,1.33
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1999,2.39
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2000,2.62
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,1.23
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,1.59
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,3.64
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,3.9
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,4.62
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,10.08
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,8.44
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,5.72
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,12.83
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,11.31
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2012,5.4
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,9.05
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,11.33
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,8.87
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,12.46
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,14.46
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,17.15
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,9.48
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,10.73
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,16.17
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,11.71
+5105200,Juscimeira,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,16.36
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,10.65
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,34.12
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,46.74
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,72.26
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,61.57
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,43.62
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,54.47
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,39.5
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,40.5
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1998,28.67
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,41.23
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,44.57
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,48.12
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,53.5
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,50.58
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,43
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,41.35
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,40.57
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,46.17
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,42.27
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,37.53
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,41.41
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,40.4
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,30.68
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,30.56
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,29.22
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,28.83
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,26.28
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,24.62
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,25.15
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,20.84
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,23.41
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,49.84
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,43.32
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,177.8
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.82
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,101.57
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,98.59
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,101.39
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,213.2
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,201.61
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,226.63
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,128.54
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1998,94.83
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1999,83
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2000,91.57
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,95.02
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,93.6
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,93.26
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,92.92
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,88.32
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,85.42
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,89.55
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,89.24
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,78.88
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,82.25
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2012,87.97
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,86.37
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,84.21
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,86.19
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,83.39
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,77.41
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,76.99
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,81.01
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,83.05
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,77.73
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,82.18
+5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,77.41
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2013,0
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,3527.17
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,3434.65
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,3743.41
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,3889.73
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,4316.94
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,4551.39
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,4834.35
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,5168.58
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,6055.91
+5105200,Juscimeira,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,6403.27
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2013,2.40001828e+17
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,38.56
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,26.2
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,39.74
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,39.34
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,39.8
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,42.76
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,37.33
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,35.72
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,41.71
+5105200,Juscimeira,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,40.89
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2013,0
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,33.27
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,31.56
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,33.45
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,29.64
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,29.98
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,30.92
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,33.67
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,31.15
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,28.49
+5105200,Juscimeira,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,29.34
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,1620.76
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,1537.24
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,1751.07
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,2005.45
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,2086.05
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,2546.71
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,2607.99
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,3144.52
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,3286.93
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2012,3279.62
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,3719.55
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,3839.54
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,3828.23
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,4234.14
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,4420.04
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,4742.86
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,4809.06
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,5236.63
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,5669.34
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,6127.59
+5105200,Juscimeira,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,6945.22

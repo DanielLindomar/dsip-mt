@@ -1,0 +1,757 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,12955078.66
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,10330243.29
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,7781144.5
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,6536739.5
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,9834592.64
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,7676529.31
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,3339003.89
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,9283991.21
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,12197086.31
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,8573114.66
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,8870427.25
+5103437,Curvelândia,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,10694742.96
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,6
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,162
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,203
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,219
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,217
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,257
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,230
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,209
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,256
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,294
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,395
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,461
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,396
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,406
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,440
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,392
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,433
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,459
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,499
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,396
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,471
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,535
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,598
+5103437,Curvelândia,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,590
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,12.68
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,14.48
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,14.42
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,16.07
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,17.26
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,15.94
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,17.89
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,17.34
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,18.46
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,20.97
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,18.5
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,14.06
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,14.06
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,15.52
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,16.03
+5103437,Curvelândia,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,15.95
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2006,63
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2007,70
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2008,72
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2009,81
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2010,84
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2011,78
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2012,88
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2013,86
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2014,92
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2015,105
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2016,93
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2017,71
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2018,73
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2019,81
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2020,84
+5103437,Curvelândia,D1,numero_empresas,Empresas formais,empresas,2021,84
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2006,11.6731517509728
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2007,13.4782608695652
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2008,9.09090909090909
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2009,9.375
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2010,12.2448979591837
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2011,14.6835443037975
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2012,19.9566160520607
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2013,17.6767676767677
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2014,16.5024630541872
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2015,17.0454545454545
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2016,17.8571428571429
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2017,18.2448036951501
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2018,19.1721132897603
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2019,18.436873747495
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2020,18.4343434343434
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2021,23.1422505307856
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2022,20.7476635514019
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2023,28.7625418060201
+5103437,Curvelândia,D1,perc_superior,Empregados formais com ensino superior,%,2024,21.3559322033898
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,35.3
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,31.8
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,30.8
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,34
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,38.3
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,31.7
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,35.3
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,37.2
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,46.3
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,43.5
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,44.6
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,48.2
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,49.2
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,67.7
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,58.8
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,54.8
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,50.7
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,57.1
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,43.4
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,35.9
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,39.9
+5103437,Curvelândia,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,37.1
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2002,58442.68
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2003,63860.17
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2004,71122.12
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2005,74569.28
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2006,70064.58
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2007,65751.9
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2008,86880.26
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2009,90942.28
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2010,106970.61
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2011,112545.88
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2012,122186.4
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2013,135840.74
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2014,144649.11
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2015,194629.35
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2016,178928.63
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2017,163439.15
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2018,156626.88
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2019,173775.47
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2020,154931.24
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2021,147139.81
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2022,149372.54
+5103437,Curvelândia,D1,pib_real,PIB real,R$ mil de 2024,2023,141318.36
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,12568.32
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,13561.3
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,14722.04
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,15218.23
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,14106.01
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,13599.16
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,17396.92
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,18047.7
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,21983.27
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,23001.41
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,24844.74
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,27381.72
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,29022.68
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,38879.22
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,35586.45
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,32370.59
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,30166.98
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,33296.7
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,29561.38
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,27936.18
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,30465.55
+5103437,Curvelândia,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,28822.83
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,33904
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,37650
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,51321
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,51483
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,50206
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,49302
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,49628
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,43998
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,45930
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,49691
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,49219
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,47060
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,46248
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,54162
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,57885
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,61133
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,60909
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,64311
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,61752
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,64994
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,59927
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,70091
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,65354
+5103437,Curvelândia,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,63435
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1288.06
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1518.51
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1686.28
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1710.36
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,1849.8
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,1754
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,1678.63
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,1780.45
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,1852.7
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2117.61
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2457.88
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2458.71
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2522.59
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2540.51
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2721.33
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,2801.38
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,2908.94
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,2834.55
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,2897.56
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2623.03
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,2922
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3072.77
+5103437,Curvelândia,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3107.09
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-4
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,24
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,36
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,-2
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,23
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,-1
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,60
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,-19
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,13
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,-18
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,18
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,6
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,17
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,5
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,10
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,6
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,41
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,35
+5103437,Curvelândia,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,47
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,52.43
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,47.97
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,44.4
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,42.96
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,49.45
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,50.77
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,44.68
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,43.6
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,37.94
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,36.36
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,34.23
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,32.99
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,31.58
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,24.08
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,27.72
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,29.8
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,31.87
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,27.85
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,31.23
+5103437,Curvelândia,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,29.61
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,21.09
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,27.75
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,26.44
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,26.27
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,19.68
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,18.85
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,25.92
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,24.61
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,28.74
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,29.61
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,39.8
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,39.87
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,35.11
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,48.09
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,46.92
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,43.41
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,40.48
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,44.32
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,40.75
+5103437,Curvelândia,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,45.66
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2002,5.83
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2003,4.35
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2004,9.92
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2005,7.36
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2006,8.6
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2007,6.64
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2008,4.78
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2009,6.02
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2010,10.01
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2011,9.47
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2012,7.18
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2013,7.83
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2014,13.52
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2015,11.29
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2016,11.21
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2017,10.53
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2018,10.74
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2019,10.95
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2020,9.21
+5103437,Curvelândia,D1,sh_ind_va,Participação da indústria no VAB,%,2021,7.22
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,20.65
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,19.93
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,19.24
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,23.42
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,22.27
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,23.73
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,24.62
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,25.77
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,23.3
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,24.56
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,18.79
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,19.31
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,19.79
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,16.54
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,14.15
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,16.27
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,16.92
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,16.88
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,18.8
+5103437,Curvelândia,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,17.52
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,10445.68
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,16068.88
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,16997.72
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,21307.09
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,26337.24
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,16415.41
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,30400.53
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,32071.3
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,29994.64
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,32217.39
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,56196.76
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,93504.44
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,69164.18
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,122285.78
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,110475.5
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,96224.78
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,87414.94
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,101361.52
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,84481.2
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,81016.97
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,87752.38
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,52794.41
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,62728.99
+5103437,Curvelândia,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
+5103437,Curvelândia,D2,n_destinos_exp,Países de destino das exportações,países,2022,0
+5103437,Curvelândia,D2,n_destinos_exp,Países de destino das exportações,países,2023,0
+5103437,Curvelândia,D2,n_destinos_exp,Países de destino das exportações,países,2024,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,14278260
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,1145600
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,1117531
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,665106
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,1719392
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,391132
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,374356
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,280210
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,247460
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,260764
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,216870
+5103437,Curvelândia,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,116000
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,218594
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,207460
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,272476
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,434190
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,351011
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,646741
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,710240
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,1571358
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,1237312
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1322606
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1317991
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,15064168
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,2095311
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,3459474
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,1417222
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,2407149
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,1148253
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,775451
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,697355
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,627282
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,591065
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,526984
+5103437,Curvelândia,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,4e+05
+5103437,Curvelândia,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,0
+5103437,Curvelândia,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,0
+5103437,Curvelândia,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,0
+5103437,Curvelândia,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.14
+5103437,Curvelândia,D3,gini,Índice de Gini,índice 0–1,1991,0.48
+5103437,Curvelândia,D3,gini,Índice de Gini,índice 0–1,2000,0.53
+5103437,Curvelândia,D3,gini,Índice de Gini,índice 0–1,2010,0.47
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,2.9
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,2.9
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,4.4
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,4.3
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,3.8
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,4.2
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,4.8
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,4.1
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,5
+5103437,Curvelândia,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,3.6
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,4.4
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,4.6
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,4.7
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,3.9
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,4.8
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,5.5
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,6
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,5.4
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,5.3
+5103437,Curvelândia,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,5.1
+5103437,Curvelândia,D3,idhm,IDHM,índice 0–1,2000,0.53
+5103437,Curvelândia,D3,idhm,IDHM,índice 0–1,2010,0.69
+5103437,Curvelândia,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0
+5103437,Curvelândia,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0
+5103437,Curvelândia,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0
+5103437,Curvelândia,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,10.3
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,10.05
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,9.39
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,9.94
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,7.13
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,6.47
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,6.23
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,6.43
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,7.18
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,10.63
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,11.46
+5103437,Curvelândia,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,10.99
+5103437,Curvelândia,D3,populacao,População,habitantes,2001,4591
+5103437,Curvelândia,D3,populacao,População,habitantes,2002,4650
+5103437,Curvelândia,D3,populacao,População,habitantes,2003,4709
+5103437,Curvelândia,D3,populacao,População,habitantes,2004,4831
+5103437,Curvelândia,D3,populacao,População,habitantes,2005,4900
+5103437,Curvelândia,D3,populacao,População,habitantes,2006,4967
+5103437,Curvelândia,D3,populacao,População,habitantes,2007,4835
+5103437,Curvelândia,D3,populacao,População,habitantes,2008,4994
+5103437,Curvelândia,D3,populacao,População,habitantes,2009,5039
+5103437,Curvelândia,D3,populacao,População,habitantes,2010,4866
+5103437,Curvelândia,D3,populacao,População,habitantes,2011,4893
+5103437,Curvelândia,D3,populacao,População,habitantes,2012,4918
+5103437,Curvelândia,D3,populacao,População,habitantes,2013,4961
+5103437,Curvelândia,D3,populacao,População,habitantes,2014,4984
+5103437,Curvelândia,D3,populacao,População,habitantes,2015,5006
+5103437,Curvelândia,D3,populacao,População,habitantes,2016,5028
+5103437,Curvelândia,D3,populacao,População,habitantes,2017,5049
+5103437,Curvelândia,D3,populacao,População,habitantes,2018,5192
+5103437,Curvelândia,D3,populacao,População,habitantes,2019,5219
+5103437,Curvelândia,D3,populacao,População,habitantes,2020,5241
+5103437,Curvelândia,D3,populacao,População,habitantes,2021,5267
+5103437,Curvelândia,D3,populacao,População,habitantes,2022,4903
+5103437,Curvelândia,D3,populacao,População,habitantes,2023,4903
+5103437,Curvelândia,D3,populacao,População,habitantes,2024,4967
+5103437,Curvelândia,D3,populacao,População,habitantes,2025,4970
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,108.9
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,43
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,42.5
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,82.8
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,40.8
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,60.4
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,103.4
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,120.1
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,99.2
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,123.3
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,81.7
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,244
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,141.1
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,80.3
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,79.9
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,79.6
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,39.6
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,38.5
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,115
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,76.3
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,75.9
+5103437,Curvelândia,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,204
+5103437,Curvelândia,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,83.54
+5103437,Curvelândia,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,63.76
+5103437,Curvelândia,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,40.5
+5103437,Curvelândia,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,62.88
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,0
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,7.4
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,10.2
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,14.1
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,14
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,8.7
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,13.8
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,10
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,11
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,0
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,0
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,5.6
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,5.2
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,10.4
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,5.1
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,10.4
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,5.1
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,5
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,10.4
+5103437,Curvelândia,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,16.6
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,390.44
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,420.99
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,366.34
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,335.82
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,218.14
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,188
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,377.76
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,374.65
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,379.91
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,626.78
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1100.89
+5103437,Curvelândia,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1158.97
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,50.17
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,55.74
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,33.45
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,22.3
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,55.74
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,13.94
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,8.36
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,13.94
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,5.57
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,11.15
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,44.59
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,69.68
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,738.59
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,2.79999999999999
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,1.19999999999997
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,0.599999999999998
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,0.600000000000001
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,2.20000000000005
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,0.599999999999966
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,0.100000000000023
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,0.0999999999999659
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,0.300000000000011
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,0.100000000000023
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,0
+5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,0
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,80.88
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,81.66
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,82
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,82.16
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,82.33
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,82.95
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,82.95
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,82.95
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,83.11
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,83.11
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,83.11
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,83.11
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,83.11
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,83.14
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,83.17
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,83.25
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,83.28
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,83.28
+5103437,Curvelândia,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,83.28
+5103437,Curvelândia,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1.9
+5103437,Curvelândia,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,0
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,11.54
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,10.76
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,10.42
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,10.26
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,10.09
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,9.48
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,9.48
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,9.48
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,9.31
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,9.31
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,9.31
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,9.31
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,9.31
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,9.28
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,9.25
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,9.17
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,9.14
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,9.14
+5103437,Curvelândia,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,9.14
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2000,72.66
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2001,74.01
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2002,76.91
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2003,77.61
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2004,76.66
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2005,74.96
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2006,75.03
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2007,76.89
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2008,77.85
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2009,78.12
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2010,78.19
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2011,78.52
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2012,77.93
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2013,77.56
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2014,76.66
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2015,75.51
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2016,74.66
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2017,74.57
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2018,74.94
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2019,74.82
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2020,74.86
+5103437,Curvelândia,D4,taxa_antropizacao,Taxa de antropização,%,2021,79.87
+5103437,Curvelândia,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2193.1
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2006,72.5
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2007,93.1
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2009,56.2
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2010,58.6
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2011,51.7
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2020,59.5
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2021,59.5
+5103437,Curvelândia,D5,idx_atend_agua_total,População atendida com água,%,2022,63.9
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2007,5
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,0
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2010,8.6
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2011,0
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,20
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,16.7
+5103437,Curvelândia,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,16.7
+5103437,Curvelândia,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,100
+5103437,Curvelândia,D5,perc_pavimentado,Malha viária pavimentada,%,,100
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,0.76
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,2.36
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,4.09
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,2.88
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,2.02
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,1.73
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,1.92
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,2.08
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,2.66
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,3.14
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2011,2.63
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2012,2.48
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,3
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,2.66
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2015,2.75
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,0.33
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,3.22
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,3.48
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,3.09
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,3.52
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,3.6
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,5.5
+5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,5.29
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,53.59
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,54.36
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,47.54
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,46.57
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,55.46
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,54.9
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,56.28
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,55.05
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,37.88
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,54.51
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,56.08
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,53.07
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,44.7
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,41.05
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,39.83
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,54.23
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,40.67
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,40.38
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,41.32
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,34.39
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,38.1
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,76.61
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,71.08
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,98.31
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,95.79
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,94.15
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,95.74
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,95.92
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,95.85
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,95.88
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,95.14
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,95.86
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,93.03
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2011,92.22
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2012,90.3
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,91.45
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,88.1
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2015,90.35
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,89.63
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,87.42
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,91.1
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,91.15
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,91
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,91.86
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,87.65
+5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,87.31
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2013,3722.41
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,3955.74
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2015,3874.87
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,3943.84
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,3629.62
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,3958.09
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,3958.36
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,4209.62
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,3823.49
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,7128.45
+5103437,Curvelândia,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,6333.09
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2013,31.01
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,30.6
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2015,32.47
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,31.5
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,29.79
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,30.24
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,32.57
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,27.8
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,28.94
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,26.02
+5103437,Curvelândia,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,28.41
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2013,28.3
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,27.06
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2015,26.76
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,31.12
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,26.1
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,24.9
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,27.36
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,29
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,32.67
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,23.9
+5103437,Curvelândia,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,25.3
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,2595.01
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,2794.51
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,2914.17
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,2797.1
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,3048.14
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,3753.14
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,3904.23
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,3576.35
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,3814.49
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2011,4234.13
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2012,4315.91
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,4343.13
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,4603.66
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2015,4427.64
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,3706.52
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,4654.65
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,4708.88
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,4719.07
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,5076.67
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,5518.63
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,7104.14
+5103437,Curvelândia,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,7431.5

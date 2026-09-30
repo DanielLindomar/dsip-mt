@@ -1,0 +1,106 @@
+arquivo,variavel,descricao,unidade,fonte_original
+d4_areas_protegidas.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_areas_protegidas.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_areas_protegidas.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_areas_protegidas.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_areas_protegidas.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_areas_protegidas.csv,ano_referencia_areas,Ano de referencia do retrato (snapshot) das areas protegidas; fixo em 2019.,ano,ICMBio/CNUC (UC) e FUNAI (TI) via geobr
+d4_areas_protegidas.csv,area_municipio_km2,"Area territorial do municipio, em km2; serve como denominador unico de todos os indicadores territoriais da dimensao (soma das areas do PRODES no ultimo ano disponivel).",km2,INPE/PRODES (denominador territorial do projeto)
+d4_areas_protegidas.csv,n_ucs,Numero de Unidades de Conservacao (UC) distintas com parte de sua area dentro do municipio.,contagem,ICMBio/CNUC via geobr
+d4_areas_protegidas.csv,area_uc_ha,"Area de Unidades de Conservacao dentro do municipio, em hectares (soma das intersecoes UC x municipio).",ha (hectares),ICMBio/CNUC via geobr
+d4_areas_protegidas.csv,area_uc_pi_ha,"Area de UC de Protecao Integral dentro do municipio, em hectares.",ha (hectares),ICMBio/CNUC via geobr
+d4_areas_protegidas.csv,area_uc_us_ha,"Area de UC de Uso Sustentavel dentro do municipio, em hectares.",ha (hectares),ICMBio/CNUC via geobr
+d4_areas_protegidas.csv,perc_territorio_uc,Percentual do territorio do municipio coberto por Unidades de Conservacao.,%,ICMBio/CNUC via geobr
+d4_areas_protegidas.csv,n_tis,Numero de Terras Indigenas (TI) distintas com parte de sua area dentro do municipio.,contagem,FUNAI via geobr
+d4_areas_protegidas.csv,area_ti_ha,"Area de Terras Indigenas dentro do municipio, em hectares (soma das intersecoes TI x municipio).",ha (hectares),FUNAI via geobr
+d4_areas_protegidas.csv,perc_territorio_ti,Percentual do territorio do municipio coberto por Terras Indigenas.,%,FUNAI via geobr
+d4_areas_protegidas.csv,perc_territorio_protegido,"Percentual do territorio do municipio sob alguma protecao (UC + TI somadas), limitado ao maximo de 100% para evitar dupla contagem onde UC e TI se sobrepoem.",%,ICMBio/CNUC (UC) e FUNAI (TI) via geobr
+d4_car.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_car.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_car.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_car.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_car.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_car.csv,ano_referencia_car,Ano de referencia do retrato (snapshot) do Cadastro Ambiental Rural; fixo em 2024.,ano,SFB/SICAR (shapefiles processados)
+d4_car.csv,area_municipio_km2,"Area territorial do municipio, em km2; serve como denominador unico de todos os indicadores territoriais da dimensao (soma das areas do PRODES no ultimo ano disponivel).",km2,INPE/PRODES (denominador territorial do projeto)
+d4_car.csv,n_imoveis_car,Numero de imoveis rurais distintos com Cadastro Ambiental Rural (CAR) valido no municipio.,contagem,SFB/SICAR (shapefiles processados)
+d4_car.csv,n_imoveis_conformes,Numero de imoveis cujo CAR declara situacao 'em conformidade com a Lei' (Lei 12.651/2012).,contagem,SFB/SICAR (shapefiles processados)
+d4_car.csv,perc_imoveis_conformes,"Percentual dos imoveis com CAR que declaram conformidade legal (conformidade autodeclarada, nao verificada em campo).",%,SFB/SICAR (shapefiles processados)
+d4_car.csv,area_reserva_legal_ha,"Area total declarada como Reserva Legal nos imoveis do municipio, em hectares.",ha (hectares),SFB/SICAR (shapefiles processados)
+d4_car.csv,perc_arl_sobre_municipio,Percentual do territorio do municipio correspondente a area declarada de Reserva Legal.,%,SFB/SICAR (shapefiles processados)
+d4_car.csv,area_consolidada_ha,"Area total declarada como area rural consolidada (uso anterior a 2008) nos imoveis do municipio, em hectares.",ha (hectares),SFB/SICAR (shapefiles processados)
+d4_desmatamento.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_desmatamento.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_desmatamento.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_desmatamento.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_desmatamento.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_desmatamento.csv,ano,Ano de referencia da observacao.,ano,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,area_municipio_km2,"Area territorial do municipio, em km2; serve como denominador unico de todos os indicadores territoriais da dimensao (soma das areas do PRODES no ultimo ano disponivel).",km2,INPE/PRODES (denominador territorial do projeto)
+d4_desmatamento.csv,area_desmatada_acum_km2,"Area total ja desmatada acumulada no municipio ate aquele ano, em km2 (soma sobre os biomas). E um estoque acumulado, nao o desmatamento do ano.",km2,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,perc_desmatado_acum,Percentual do territorio do municipio ja desmatado de forma acumulada ate o ano (area desmatada acumulada dividida pela area do municipio).,%,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,incremento_desmat_km2,"Desmatamento novo ocorrido apenas naquele ano, em km2 (diferenca em relacao ao ano anterior). Fica vazio (NA) em 2000, primeiro ano da serie, por nao haver ano anterior de comparacao.",km2,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,veg_natural_km2,"Area de vegetacao natural remanescente no municipio no ano, em km2 (soma sobre os biomas).",km2,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,perc_veg_natural_remanescente,Percentual do territorio do municipio ainda coberto por vegetacao natural (area de vegetacao natural dividida pela area do municipio).,%,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,desmat_amazonia_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Amazonia; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,desmat_cerrado_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Cerrado; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_desmatamento.csv,desmat_pantanal_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Pantanal; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_painel_pam.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_painel_pam.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_painel_pam.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_painel_pam.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_painel_pam.csv,ano,Ano de referencia da observacao.,ano,INPE/PRODES via Base dos Dados (grid ancora do painel)
+d4_painel_pam.csv,area_municipio_km2,"Area territorial do municipio, em km2; serve como denominador unico de todos os indicadores territoriais da dimensao (soma das areas do PRODES no ultimo ano disponivel).",km2,INPE/PRODES (denominador territorial do projeto)
+d4_painel_pam.csv,area_desmatada_acum_km2,"Area total ja desmatada acumulada no municipio ate aquele ano, em km2 (soma sobre os biomas). E um estoque acumulado, nao o desmatamento do ano.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,perc_desmatado_acum,Percentual do territorio do municipio ja desmatado de forma acumulada ate o ano (area desmatada acumulada dividida pela area do municipio).,%,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,incremento_desmat_km2,"Desmatamento novo ocorrido apenas naquele ano, em km2 (diferenca em relacao ao ano anterior). Fica vazio (NA) em 2000, primeiro ano da serie, por nao haver ano anterior de comparacao.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,perc_veg_natural_remanescente,Percentual do territorio do municipio ainda coberto por vegetacao natural (area de vegetacao natural dividida pela area do municipio).,%,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,desmat_amazonia_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Amazonia; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,desmat_cerrado_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Cerrado; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,desmat_pantanal_km2,"Area desmatada acumulada, em km2, na porcao do municipio pertencente ao bioma Pantanal; vale 0 quando o municipio nao possui esse bioma.",km2,INPE/PRODES via Base dos Dados
+d4_painel_pam.csv,n_focos,Numero de focos de calor (queimadas) detectados por satelite no municipio no ano. ATENCAO: ha quebra de serie de satelite (2022->2023->2024); os valores absolutos NAO devem ser comparados ao longo do tempo.,contagem,INPE/Programa Queimadas via Base dos Dados
+d4_painel_pam.csv,densidade_focos_por_1000km2,"Densidade de focos de calor: numero de focos por 1.000 km2 de territorio (n de focos dividido pela area do municipio, x1.000). E o indicador recomendado para comparar, por atenuar a quebra de serie.",focos por 1.000 km2,INPE/Programa Queimadas via Base dos Dados
+d4_painel_pam.csv,frp_medio,"Potencia radiativa do fogo (FRP) media dos focos no municipio no ano, em megawatts; mede a intensidade energetica media do fogo (valores baixos indicam limpeza, altos indicam incendio florestal). Vazio (NA) quando nao ha focos com medida.",MW (megawatts),INPE/Programa Queimadas via Base dos Dados
+d4_painel_pam.csv,risco_fogo_medio,"Risco de fogo médio anual do INPE na escala 0 a 1 (0 = risco mínimo, 1 = máximo). Atenção: a média inclui o valor-sentinela -999 (sem dado) não filtrado, por isso há municípios-ano com valores negativos — considerar apenas valores entre 0 e 1 na análise.",índice 0-1 (contém sentinela -999),INPE/Programa Queimadas via Base dos Dados
+d4_painel_pam.csv,perc_natural,Percentual da area mapeada do municipio coberta por vegetacao/formacoes naturais.,%,MapBiomas (estatisticas municipais)
+d4_painel_pam.csv,perc_agropecuaria,Percentual da area mapeada do municipio ocupada por uso agropecuario.,%,MapBiomas (estatisticas municipais)
+d4_painel_pam.csv,perc_urbano,Percentual da area mapeada do municipio ocupado por areas nao vegetadas de origem antropica (urbano/mineracao/nao vegetado).,%,MapBiomas (estatisticas municipais)
+d4_painel_pam.csv,perc_agua,Percentual da area mapeada do municipio ocupado por corpos d'agua.,%,MapBiomas (estatisticas municipais)
+d4_painel_pam.csv,taxa_antropizacao,"Grau de antropizacao do territorio: soma dos percentuais agropecuario e urbano/nao vegetado; quanto maior, mais transformado pela acao humana.",%,MapBiomas (estatisticas municipais)
+d4_painel_pam.csv,n_ucs,Numero de Unidades de Conservacao (UC) distintas com parte de sua area dentro do municipio.,contagem,ICMBio/CNUC via geobr
+d4_painel_pam.csv,perc_territorio_uc,Percentual do territorio do municipio coberto por Unidades de Conservacao.,%,ICMBio/CNUC via geobr
+d4_painel_pam.csv,n_tis,Numero de Terras Indigenas (TI) distintas com parte de sua area dentro do municipio.,contagem,FUNAI via geobr
+d4_painel_pam.csv,perc_territorio_ti,Percentual do territorio do municipio coberto por Terras Indigenas.,%,FUNAI via geobr
+d4_painel_pam.csv,perc_territorio_protegido,"Percentual do territorio do municipio sob alguma protecao (UC + TI somadas), limitado ao maximo de 100% para evitar dupla contagem onde UC e TI se sobrepoem.",%,ICMBio/CNUC (UC) e FUNAI (TI) via geobr
+d4_painel_pam.csv,n_imoveis_car,Numero de imoveis rurais distintos com Cadastro Ambiental Rural (CAR) valido no municipio.,contagem,SFB/SICAR (shapefiles processados)
+d4_painel_pam.csv,perc_imoveis_conformes,"Percentual dos imoveis com CAR que declaram conformidade legal (conformidade autodeclarada, nao verificada em campo).",%,SFB/SICAR (shapefiles processados)
+d4_painel_pam.csv,area_reserva_legal_ha,"Area total declarada como Reserva Legal nos imoveis do municipio, em hectares.",ha (hectares),SFB/SICAR (shapefiles processados)
+d4_painel_pam.csv,perc_arl_sobre_municipio,Percentual do territorio do municipio correspondente a area declarada de Reserva Legal.,%,SFB/SICAR (shapefiles processados)
+d4_painel_pam.csv,flag_estatico_areas_protegidas,"Marca (verdadeiro) que os indicadores de areas protegidas (UC/TI, retrato de 2019) foram replicados em todos os anos do painel e NAO devem ser lidos como serie temporal.",booleano (verdadeiro/falso),DSIP-MT (construcao do painel)
+d4_painel_pam.csv,flag_estatico_car,Marca (verdadeiro) que os indicadores de CAR (retrato de 2024) foram replicados em todos os anos do painel e NAO devem ser lidos como serie temporal.,booleano (verdadeiro/falso),DSIP-MT (construcao do painel)
+d4_queimadas.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_queimadas.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_queimadas.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_queimadas.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_queimadas.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_queimadas.csv,ano,Ano de referencia da observacao.,ano,INPE/Programa Queimadas via Base dos Dados
+d4_queimadas.csv,n_focos,Numero de focos de calor (queimadas) detectados por satelite no municipio no ano. ATENCAO: ha quebra de serie de satelite (2022->2023->2024); os valores absolutos NAO devem ser comparados ao longo do tempo.,contagem,INPE/Programa Queimadas via Base dos Dados
+d4_queimadas.csv,densidade_focos_por_1000km2,"Densidade de focos de calor: numero de focos por 1.000 km2 de territorio (n de focos dividido pela area do municipio, x1.000). E o indicador recomendado para comparar, por atenuar a quebra de serie.",focos por 1.000 km2,INPE/Programa Queimadas via Base dos Dados
+d4_queimadas.csv,frp_medio,"Potencia radiativa do fogo (FRP) media dos focos no municipio no ano, em megawatts; mede a intensidade energetica media do fogo (valores baixos indicam limpeza, altos indicam incendio florestal). Vazio (NA) quando nao ha focos com medida.",MW (megawatts),INPE/Programa Queimadas via Base dos Dados
+d4_queimadas.csv,risco_fogo_medio,"Risco de fogo médio anual do INPE na escala 0 a 1 (0 = risco mínimo, 1 = máximo). Atenção: a média inclui o valor-sentinela -999 (sem dado) não filtrado, por isso há municípios-ano com valores negativos — considerar apenas valores entre 0 e 1 na análise.",índice 0-1 (contém sentinela -999),INPE/Programa Queimadas via Base dos Dados
+d4_queimadas.csv,area_municipio_km2,"Area territorial do municipio, em km2; serve como denominador unico de todos os indicadores territoriais da dimensao (soma das areas do PRODES no ultimo ano disponivel).",km2,INPE/PRODES (denominador territorial do projeto)
+d4_uso_terra.csv,id_municipio,"Codigo do municipio no IBGE, com 7 digitos; e a chave que liga esta base as demais.",codigo IBGE,IBGE (malha municipal)
+d4_uso_terra.csv,municipio,Nome do municipio.,texto,IBGE (malha municipal)
+d4_uso_terra.csv,grupo,"Grupo de analise do projeto ao qual o municipio pertence: pantanal_norte (os 13 municipios do recorte), polo_metropolitano (Cuiaba e Varzea Grande) ou resto_mt (demais municipios de MT).",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_uso_terra.csv,subgrupo,"Rotulo do subgrupo de analise correspondente ao grupo do municipio: 'Pantanal-13', 'Polo Metropolitano' ou 'Demais MT'.",texto,Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_uso_terra.csv,pantanal_norte,Indica se o municipio faz parte do recorte dos 13 municipios do Pantanal Norte do convenio (verdadeiro) ou nao (falso).,booleano (verdadeiro/falso),Definicao institucional do convenio SUDECO/UNEMAT (DSIP-MT)
+d4_uso_terra.csv,ano,Ano de referencia da observacao.,ano,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,area_total_mapbiomas_km2,"Area total do municipio efetivamente mapeada pelo MapBiomas no ano, em km2 (soma das quatro macro-categorias de uso); serve de denominador para os percentuais de uso da terra.",km2,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,area_natural_km2,"Area coberta por vegetacao e formacoes naturais (florestas, savanas, campos, areas alagadas etc.), em km2.",km2,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,area_agropecuaria_km2,"Area de uso agropecuario (pastagem, agricultura, silvicultura, mosaico de usos etc.), em km2.",km2,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,area_urbano_km2,"Area nao vegetada de origem antropica (area urbanizada, mineracao, praia/duna, outras areas nao vegetadas), em km2.",km2,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,area_agua_km2,"Area de corpos d'agua (rios, lagos, aquicultura), em km2.",km2,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,perc_natural,Percentual da area mapeada do municipio coberta por vegetacao/formacoes naturais.,%,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,perc_agropecuaria,Percentual da area mapeada do municipio ocupada por uso agropecuario.,%,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,perc_urbano,Percentual da area mapeada do municipio ocupado por areas nao vegetadas de origem antropica (urbano/mineracao/nao vegetado).,%,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,perc_agua,Percentual da area mapeada do municipio ocupado por corpos d'agua.,%,MapBiomas (estatisticas municipais)
+d4_uso_terra.csv,taxa_antropizacao,"Grau de antropizacao do territorio: soma dos percentuais agropecuario e urbano/nao vegetado; quanto maior, mais transformado pela acao humana.",%,MapBiomas (estatisticas municipais)

@@ -1,0 +1,379 @@
+arquivo,variavel,descricao,unidade,fonte_original
+d1_pib_vab.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_pib_vab.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_pib_vab.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_pib_vab.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_pib_vab.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_pib_vab.csv,pib,"Valor total de todos os bens e serviços produzidos no município no ano (PIB a preços de mercado), em valores correntes do próprio ano.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_pib_vab.csv,vab_agro,"Riqueza gerada (Valor Adicionado Bruto) pela agropecuária do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_pib_vab.csv,vab_industria,"Riqueza gerada (Valor Adicionado Bruto) pela indústria do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_pib_vab.csv,vab_servicos,"Riqueza gerada (Valor Adicionado Bruto) pelos serviços privados do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_pib_vab.csv,vab_adespss,"Riqueza gerada pela administração pública, defesa, educação e saúde públicas, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_pib_vab.csv,vab_total,"Soma da riqueza gerada pelos quatro grandes setores (agropecuária, indústria, serviços e administração pública), em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,impostos,"Impostos sobre produtos, líquidos de subsídios, recalculados pela identidade PIB = VAB total + impostos; podem ser negativos em municípios com subsídios elevados.",R$ mil correntes,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,deflator_2010,Índice de preços usado para transformar valores correntes em valores reais (deflator implícito do PIB nacional; nome refere-se à série original com base 2010 = 100).,índice (2010 = 100),IBGE/SCN via IPEADATA (SCN10_DIPIBG10)
+d1_pib_vab.csv,pib_real,"PIB municipal já descontada a inflação, expresso em reais de 2024 — permite comparar o tamanho da economia entre anos diferentes.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,vab_agro_real,"Riqueza gerada pela agropecuária descontada a inflação, em reais de 2024.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,vab_ind_real,"Riqueza gerada pela indústria descontada a inflação, em reais de 2024.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,vab_serv_real,"Riqueza gerada pelos serviços privados descontada a inflação, em reais de 2024.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,vab_adespss_real,"Riqueza gerada pela administração pública (e educação/saúde públicas) descontada a inflação, em reais de 2024.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,impostos_real,"Impostos líquidos de subsídios descontada a inflação, em reais de 2024.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_pib_vab.csv,sh_agro_pib,"Parcela do PIB municipal que vem da agropecuária (disponível até 2021, pela defasagem de publicação do IBGE).",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_ind_pib,Parcela do PIB municipal que vem da indústria (disponível até 2021).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_serv_pib,Parcela do PIB municipal que vem dos serviços privados (disponível até 2021).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_adespss_pib,"Parcela do PIB municipal que vem da administração pública, defesa, educação e saúde públicas (disponível até 2021).",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_impostos_pib,Parcela do PIB municipal correspondente aos impostos líquidos de subsídios.,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_agro_va,"Parcela da agropecuária na riqueza total gerada (VAB) — medida mais limpa da estrutura produtiva, pois exclui o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_ind_va,"Parcela da indústria na riqueza total gerada (VAB), excluído o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_serv_va,"Parcela dos serviços privados na riqueza total gerada (VAB), excluído o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,sh_adespss_va,Parcela da administração pública na riqueza total gerada (VAB) — valores altos indicam dependência do setor público.,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,hhi_va,"Índice de concentração setorial da economia (Herfindahl-Hirschman sobre 4 setores): varia de 0,25 (setores com pesos iguais) a 1 (economia dependente de um único setor).","índice (0,25–1)",IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,diversificacao_va,"Grau de diversificação da economia municipal, de 0 (dependente de um único setor) a 1 (totalmente diversificada).",índice 0–1,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,tipologia,"Classificação da economia municipal pelo setor dominante: 'Público-dependente', 'Agropecuário', 'Industrial', 'Serviços' ou 'Diversificado'.",texto (5 categorias),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_agro,"Quociente locacional da agropecuária: compara o peso do setor no município com o peso médio em MT (acima de 1,25 = especialização; abaixo de 0,75 = setor subrepresentado).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_ind,"Quociente locacional da indústria: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_serv,"Quociente locacional dos serviços privados: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_pub,"Quociente locacional da administração pública: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_agro_scap,Quociente locacional da agropecuária calculado excluindo Cuiabá e Várzea Grande da referência estadual — comparação mais justa para municípios pequenos.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_ind_scap,Quociente locacional da indústria calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_serv_scap,Quociente locacional dos serviços calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,lq_pub_scap,Quociente locacional da administração pública calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,part_pib_mt,Participação do município no PIB total de Mato Grosso.,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,pop_total,População residente estimada do município (estimativas intercensitárias podem ter desvios em municípios pequenos).,habitantes,IBGE/Estimativas de População
+d1_pib_vab.csv,pib_pc,"PIB dividido pela população — renda média gerada por habitante, em valores correntes.",R$ correntes por habitante,IBGE/PIB Municipal e IBGE/População — cálculo DSIP-MT
+d1_pib_vab.csv,pib_real_pc,"PIB por habitante descontada a inflação, em reais de 2024.",R$ de 2024 por habitante,IBGE/PIB Municipal e IBGE/População — cálculo DSIP-MT
+d1_pib_vab.csv,pib_pc_rel_mt,PIB por habitante do município em relação à média estadual (100 = igual à média de MT; 50 = metade da média).,índice (100 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,pib_real_var_pct,Crescimento real do PIB em relação ao ano anterior (vazio no primeiro ano da série).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,cagr_pib_real_periodo,"Taxa média de crescimento real do PIB ao ano desde 2002 (valor constante, repetido em todos os anos do município).",% ao ano,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,cagr_pib_real_2010,"Taxa média de crescimento real do PIB ao ano desde 2010 (valor constante, repetido em todos os anos do município).",% ao ano,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_pib_vab.csv,vinculos_31dez,Número de empregos formais ativos em 31 de dezembro (estoque da RAIS).,contagem (vínculos),MTE/RAIS
+d1_pib_vab.csv,pib_por_trabalhador,"PIB dividido pelo número de empregos formais — intensidade econômica por vínculo formal, em valores correntes (não capta a informalidade).",R$ mil correntes por vínculo,IBGE/PIB Municipal e MTE/RAIS — cálculo DSIP-MT
+d1_pib_vab.csv,pib_real_por_trabalhador,"PIB real dividido pelo número de empregos formais, em reais de 2024 por vínculo (não capta a informalidade).",R$ mil de 2024 por vínculo,IBGE/PIB Municipal e MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_emprego_rais.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_emprego_rais.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_emprego_rais.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_emprego_rais.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_emprego_rais.csv,empregos_formais,Total de empregos formais (vínculos ativos em 31 de dezembro) no município.,contagem (vínculos),MTE/RAIS
+d1_emprego_rais.csv,remuneracao_media,"Remuneração média mensal dos empregados formais, em valores correntes do próprio ano.",R$ correntes (mensal),MTE/RAIS
+d1_emprego_rais.csv,remun_real_media,"Remuneração média mensal descontada a inflação (INPC), em reais de 2024 — permite comparar salários entre anos.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_medio_compl,Percentual dos empregados formais com pelo menos o ensino médio completo.,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_baixa_instr,Percentual dos empregados formais com escolaridade até o ensino fundamental incompleto (baixa instrução).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_superior,Percentual dos empregados formais com ensino superior (grau de instrução 9 ou mais na escala RAIS — ver notas metodológicas).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_feminino,Percentual dos empregos formais ocupados por mulheres.,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_estatutario,Percentual de vínculos estatutários (servidores públicos com regime próprio) no emprego formal.,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_micro_pequena,Percentual dos empregos formais em estabelecimentos de micro e pequeno porte.,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,perc_grande_emp,Percentual dos empregos formais em grandes empresas.,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_outros,Percentual dos empregos formais do município que estão no setor de demais serviços e atividades não classificadas nos outros setores (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_adm_publica,"Percentual dos empregos formais do município que estão no setor de administração pública, defesa e seguridade social (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_agro_lavoura_pec,"Percentual dos empregos formais do município que estão no setor de agricultura, pecuária e serviços relacionados (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_alojamento_alimentacao,"Percentual dos empregos formais do município que estão no setor de alojamento e alimentação (hotéis, pousadas e restaurantes — aproximação do turismo) (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_com_varejo,Percentual dos empregos formais do município que estão no setor de comércio varejista (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_construcao,Percentual dos empregos formais do município que estão no setor de construção civil (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_financeiro,"Percentual dos empregos formais do município que estão no setor de serviços financeiros, seguros e previdência (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_ind_outras,Percentual dos empregos formais do município que estão no setor de demais indústrias de transformação (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_transporte_logistica,"Percentual dos empregos formais do município que estão no setor de transporte, armazenagem e correio (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_pesca_aquicultura,Percentual dos empregos formais do município que estão no setor de pesca e aquicultura (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_ind_alimentos,"Percentual dos empregos formais do município que estão no setor de indústria de alimentos, bebidas e fumo (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_silvicultura,Percentual dos empregos formais do município que estão no setor de silvicultura e exploração florestal (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_com_atacado,Percentual dos empregos formais do município que estão no setor de comércio por atacado (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_saude,Percentual dos empregos formais do município que estão no setor de saúde humana e serviços sociais (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_educacao,Percentual dos empregos formais do município que estão no setor de educação (zero quando o setor não tem vínculos).,%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,sh_emp_ind_madeira_papel,"Percentual dos empregos formais do município que estão no setor de indústria de madeira, celulose e papel (zero quando o setor não tem vínculos).",%,MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_outros,"Remuneração média mensal dos empregados formais do setor de demais serviços e atividades não classificadas nos outros setores, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_adm_publica,"Remuneração média mensal dos empregados formais do setor de administração pública, defesa e seguridade social, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_agro_lavoura_pec,"Remuneração média mensal dos empregados formais do setor de agricultura, pecuária e serviços relacionados, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_alojamento_alimentacao,"Remuneração média mensal dos empregados formais do setor de alojamento e alimentação (hotéis, pousadas e restaurantes — aproximação do turismo), em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_com_varejo,"Remuneração média mensal dos empregados formais do setor de comércio varejista, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_construcao,"Remuneração média mensal dos empregados formais do setor de construção civil, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_financeiro,"Remuneração média mensal dos empregados formais do setor de serviços financeiros, seguros e previdência, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_ind_outras,"Remuneração média mensal dos empregados formais do setor de demais indústrias de transformação, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_transporte_logistica,"Remuneração média mensal dos empregados formais do setor de transporte, armazenagem e correio, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_pesca_aquicultura,"Remuneração média mensal dos empregados formais do setor de pesca e aquicultura, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_ind_alimentos,"Remuneração média mensal dos empregados formais do setor de indústria de alimentos, bebidas e fumo, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_silvicultura,"Remuneração média mensal dos empregados formais do setor de silvicultura e exploração florestal, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_com_atacado,"Remuneração média mensal dos empregados formais do setor de comércio por atacado, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_saude,"Remuneração média mensal dos empregados formais do setor de saúde humana e serviços sociais, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_educacao,"Remuneração média mensal dos empregados formais do setor de educação, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,remun_ind_madeira_papel,"Remuneração média mensal dos empregados formais do setor de indústria de madeira, celulose e papel, em valores correntes (vazio quando o setor não tem vínculos).",R$ correntes (mensal),MTE/RAIS — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_outros,"Remuneração média mensal do setor de demais serviços e atividades não classificadas nos outros setores descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_adm_publica,"Remuneração média mensal do setor de administração pública, defesa e seguridade social descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_agro_lavoura_pec,"Remuneração média mensal do setor de agricultura, pecuária e serviços relacionados descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_alojamento_alimentacao,"Remuneração média mensal do setor de alojamento e alimentação (hotéis, pousadas e restaurantes — aproximação do turismo) descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_com_varejo,"Remuneração média mensal do setor de comércio varejista descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_construcao,"Remuneração média mensal do setor de construção civil descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_financeiro,"Remuneração média mensal do setor de serviços financeiros, seguros e previdência descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_ind_outras,"Remuneração média mensal do setor de demais indústrias de transformação descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_transporte_logistica,"Remuneração média mensal do setor de transporte, armazenagem e correio descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_pesca_aquicultura,"Remuneração média mensal do setor de pesca e aquicultura descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_ind_alimentos,"Remuneração média mensal do setor de indústria de alimentos, bebidas e fumo descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_silvicultura,"Remuneração média mensal do setor de silvicultura e exploração florestal descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_com_atacado,"Remuneração média mensal do setor de comércio por atacado descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_saude,"Remuneração média mensal do setor de saúde humana e serviços sociais descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_educacao,"Remuneração média mensal do setor de educação descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_emprego_rais.csv,real_remun_ind_madeira_papel,"Remuneração média mensal do setor de indústria de madeira, celulose e papel descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_mercado_trabalho.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_mercado_trabalho.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_mercado_trabalho.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_mercado_trabalho.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_mercado_trabalho.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_mercado_trabalho.csv,fonte_caged,"Origem do dado: 'antigo' (CAGED até 2019) ou 'novo' (Novo CAGED/eSocial, de 2020 em diante) — comparações entre os dois períodos exigem cautela pela mudança de cobertura.",texto (2 categorias),MTE/CAGED (antigo e Novo CAGED)
+d1_mercado_trabalho.csv,admissoes,Número de contratações formais registradas no município ao longo do ano.,contagem (admissões),MTE/CAGED (antigo e Novo CAGED)
+d1_mercado_trabalho.csv,desligamentos,Número de desligamentos formais (demissões e demais saídas) registrados no ano.,contagem (desligamentos),MTE/CAGED (antigo e Novo CAGED)
+d1_mercado_trabalho.csv,saldo_anual,Contratações menos desligamentos — variação líquida do emprego formal no ano (positivo = criação de vagas; negativo = fechamento).,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,saldo_por_1000_hab,Saldo de vagas formais por 1.000 habitantes — permite comparar municípios de tamanhos muito diferentes.,vagas por 1.000 habitantes,MTE/CAGED e IBGE/População — cálculo DSIP-MT
+d1_mercado_trabalho.csv,admissoes_por_1000_hab,Contratações formais por 1.000 habitantes — intensidade de contratação relativa ao tamanho do município.,admissões por 1.000 habitantes,MTE/CAGED e IBGE/População — cálculo DSIP-MT
+d1_mercado_trabalho.csv,taxa_admissao,Contratações do ano em percentual do estoque de empregos formais do ano anterior.,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_mercado_trabalho.csv,taxa_desligamento,Desligamentos do ano em percentual do estoque de empregos formais do ano anterior.,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_mercado_trabalho.csv,taxa_rotatividade,"Rotatividade do emprego formal (mínimo entre admissões e desligamentos sobre o estoque do ano anterior, critério DIEESE) — valores altos indicam vínculos curtos e instáveis.",%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_mercado_trabalho.csv,taxa_cresc_emprego,Crescimento percentual do emprego formal no ano (saldo de vagas sobre o estoque do ano anterior).,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_mercado_trabalho.csv,churning_bruto,Movimentação bruta total (admissões + desligamentos) em percentual do estoque do ano anterior — mede a agitação do mercado de trabalho.,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_mercado_trabalho.csv,salario_medio_admitidos,"Salário médio mensal de quem foi contratado no ano, em valores correntes.",R$ correntes (mensal),MTE/CAGED (antigo e Novo CAGED)
+d1_mercado_trabalho.csv,salario_real_admitidos,"Salário médio mensal dos contratados descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/CAGED e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_mercado_trabalho.csv,perc_adm_baixa_instr,Percentual dos contratados no ano com escolaridade até o ensino fundamental incompleto.,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,perc_adm_medio_compl,Percentual dos contratados no ano com pelo menos o ensino médio completo.,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,perc_adm_superior,Percentual dos contratados no ano com ensino superior (grau de instrução 9 ou mais — ver notas metodológicas).,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,indice_qualif_entrada,Indicador de qualificação das novas contratações: igual ao percentual de admitidos com ensino médio completo ou mais (já inclui os de nível superior).,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,perc_adm_feminino,Percentual das contratações do ano ocupadas por mulheres.,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,amplitude_sazonal,"Diferença entre o melhor e o pior mês do ano em saldo de vagas — quanto maior, mais sazonal é o emprego local.","contagem (vagas, pico menos vale)",MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,meses_positivos,Número de meses do ano com criação líquida de vagas (12 = criação constante; menos de 4 sugere economia fortemente sazonal).,contagem (0–12 meses),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,cv_saldo_mensal,"Coeficiente de variação do saldo mensal de vagas — quanto maior, mais volátil o emprego ao longo do ano.",razão (adimensional),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,saldo_setor_agro,"Saldo de vagas formais (contratações menos desligamentos) na agropecuária, pesca e silvicultura no ano.",contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,saldo_setor_industria,Saldo de vagas formais na indústria (inclui construção civil) no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,saldo_setor_servicos,Saldo de vagas formais nos serviços privados no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,saldo_setor_publico,Saldo de vagas formais na administração pública no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,adm_setor_agro,"Contratações formais na agropecuária, pesca e silvicultura no ano.",contagem (admissões),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,adm_setor_industria,Contratações formais na indústria (inclui construção civil) no ano.,contagem (admissões),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,adm_setor_servicos,Contratações formais nos serviços privados no ano.,contagem (admissões),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,adm_setor_publico,Contratações formais na administração pública no ano.,contagem (admissões),MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,sh_adm_agro,"Percentual das contratações do ano que ocorreram na agropecuária, pesca e silvicultura.",%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,sh_adm_industria,Percentual das contratações do ano que ocorreram na indústria (inclui construção).,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,sh_adm_servicos,Percentual das contratações do ano que ocorreram nos serviços privados.,%,MTE/CAGED — cálculo DSIP-MT
+d1_mercado_trabalho.csv,sh_adm_publico,Percentual das contratações do ano que ocorreram na administração pública.,%,MTE/CAGED — cálculo DSIP-MT
+d1_comex.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_comex.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_comex.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_comex.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_comex.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_comex.csv,exportacoes_fob_usd,"Valor total exportado pelo município no ano, em dólares correntes (critério FOB, sem frete e seguro).",USD corrente (FOB),MDIC/Comex Stat
+d1_comex.csv,exp_peso_kg,Peso líquido total das mercadorias exportadas no ano.,kg,MDIC/Comex Stat
+d1_comex.csv,exp_n_produtos,"Número de produtos distintos exportados (classificação SH4) — quanto maior, mais variada a pauta exportadora.",contagem (produtos),MDIC/Comex Stat
+d1_comex.csv,exp_n_paises,Número de países de destino das exportações do município.,contagem (países),MDIC/Comex Stat
+d1_comex.csv,hhi_exp,Índice de concentração da pauta exportadora por produto (Herfindahl-Hirschman): próximo de 1 indica que o município exporta praticamente um único produto.,índice 0–1,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,diversificacao_exp,"Grau de diversificação das exportações, de 0 (um único produto) a 1 (pauta totalmente diversificada).",índice 0–1,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,sh_industria_exp_pct,Parcela das exportações composta por produtos industriais (capítulos SH 25–97).,%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,sh_agro_exp_pct,"Parcela das exportações composta por produtos do agronegócio (capítulos SH 01–24, padrão MDIC).",%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,importacoes_fob_usd,"Valor total importado pelo município no ano, em dólares correntes (critério FOB).",USD corrente (FOB),MDIC/Comex Stat
+d1_comex.csv,balanca_comercial_usd,"Exportações menos importações do município (positivo = superávit comercial), em dólares correntes.",USD corrente,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,exp_por_peso_usd_kg,Valor médio obtido por quilo exportado — aproximação do grau de valor agregado da pauta (produtos processados valem mais por kg).,USD corrente por kg,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,part_exp_mt,Participação do município nas exportações totais de Mato Grosso.,%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,exp_per_capita_usd,Valor exportado dividido pela população do município.,USD corrente por habitante,MDIC/Comex Stat e IBGE/População — cálculo DSIP-MT
+d1_comex.csv,exp_var_pct,"Variação das exportações em relação ao ano anterior (valores nominais em dólar, afetados pelo câmbio).",%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_comex.csv,cagr_exp,"Taxa média de crescimento das exportações ao ano no período completo (valor constante, repetido em todos os anos do município).",% ao ano,MDIC/Comex Stat — cálculo DSIP-MT
+d1_credito_rural.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_credito_rural.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_credito_rural.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_credito_rural.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_credito_rural.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_credito_rural.csv,credito_rural_brl,"Volume total de crédito rural contratado no município no ano, em valores correntes.",R$ correntes,BCB/SICOR (via Base dos Dados)
+d1_credito_rural.csv,n_operacoes,Número de contratos (operações) de crédito rural firmados no ano.,contagem (operações),BCB/SICOR (via Base dos Dados)
+d1_credito_rural.csv,area_financiada_ha,Área total financiada pelas operações de crédito rural no ano.,hectares (ha),BCB/SICOR (via Base dos Dados)
+d1_credito_rural.csv,ticket_medio,"Valor médio por operação de crédito rural, em valores correntes.",R$ correntes por operação,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,sh_custeio_pct,"Percentual das operações destinadas a custeio (despesas correntes da produção agrícola, pecuária e de sementes).",% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,sh_investimento_pct,"Percentual das operações destinadas a investimento agrícola e pecuário (máquinas, benfeitorias, formação de rebanho).",% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,sh_comercializacao_pct,Percentual das operações destinadas à comercialização da produção.,% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,sh_outros_pct,Percentual das operações com demais finalidades (ex.: industrialização) — residual que faz as modalidades somarem 100%.,% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,sh_familiar_pct,Percentual das operações contratadas pela agricultura familiar (aproximação do PRONAF).,% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_credito_rural.csv,credito_real_brl,"Volume de crédito rural descontada a inflação (INPC), em reais de 2024 — permite comparar anos diferentes.",R$ de 2024,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_credito_rural.csv,ticket_medio_real,"Valor médio por operação de crédito rural descontada a inflação, em reais de 2024.",R$ de 2024 por operação,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_credito_rural.csv,credito_por_ha,Crédito rural real por hectare financiado — intensidade do financiamento por unidade de área.,R$ de 2024 por hectare,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_credito_rural.csv,n_operacoes_por_1000_hab,Operações de crédito rural por 1.000 habitantes — indicador de acesso da população local ao crédito.,operações por 1.000 habitantes,BCB/SICOR e IBGE/População — cálculo DSIP-MT
+d1_credito_rural.csv,var_credito_pct,Variação anual do crédito rural real em relação ao ano anterior.,%,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_credito_rural.csv,cagr_credito_rural_real,Taxa média de crescimento real do crédito rural ao ano no período completo (valor constante por município).,% ao ano,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_sistema_bancario.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_sistema_bancario.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_sistema_bancario.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_sistema_bancario.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_sistema_bancario.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_sistema_bancario.csv,credito_bancario_total,"Saldo total das operações de crédito concedidas pelas agências bancárias instaladas no município, em valores correntes (verbete ESTBAN 420).",R$ correntes,BCB/ESTBAN (via Base dos Dados)
+d1_sistema_bancario.csv,depositos_poupanca,"Saldo dos depósitos de poupança nas agências bancárias do município, em valores correntes.",R$ correntes,BCB/ESTBAN (via Base dos Dados)
+d1_sistema_bancario.csv,depositos_prazo,"Saldo dos depósitos a prazo (aplicações com vencimento, como CDB) nas agências do município, em valores correntes.",R$ correntes,BCB/ESTBAN (via Base dos Dados)
+d1_sistema_bancario.csv,depositos_vista,"Saldo dos depósitos à vista (conta-corrente) nas agências do município, em valores correntes.",R$ correntes,BCB/ESTBAN (via Base dos Dados)
+d1_sistema_bancario.csv,depositos_total,"Soma dos três tipos de depósitos (à vista, a prazo e poupança), em valores correntes.",R$ correntes,BCB/ESTBAN — cálculo DSIP-MT
+d1_sistema_bancario.csv,sh_poupanca_dep_pct,Parcela da poupança no total de depósitos captados no município.,%,BCB/ESTBAN — cálculo DSIP-MT
+d1_sistema_bancario.csv,sh_prazo_dep_pct,Parcela dos depósitos a prazo no total de depósitos captados no município.,%,BCB/ESTBAN — cálculo DSIP-MT
+d1_sistema_bancario.csv,sh_vista_dep_pct,Parcela dos depósitos à vista no total de depósitos captados no município.,%,BCB/ESTBAN — cálculo DSIP-MT
+d1_sistema_bancario.csv,razao_credito_depositos,Crédito concedido dividido pelos depósitos captados: abaixo de 1 o município 'exporta' poupança para outras praças; acima de 1 funciona como polo financeiro.,razão (adimensional),BCB/ESTBAN — cálculo DSIP-MT
+d1_sistema_bancario.csv,credito_real_brl,"Crédito bancário total descontada a inflação (INPC), em reais de 2024.",R$ de 2024,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_sistema_bancario.csv,depositos_real_brl,"Depósitos totais descontada a inflação (INPC), em reais de 2024.",R$ de 2024,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_sistema_bancario.csv,credito_per_capita,Crédito bancário real por habitante — acesso médio da população ao crédito bancário local.,R$ de 2024 por habitante,BCB/ESTBAN e IBGE/População — cálculo DSIP-MT
+d1_sistema_bancario.csv,depositos_per_capita,Depósitos reais por habitante — poupança financeira média da população local.,R$ de 2024 por habitante,BCB/ESTBAN e IBGE/População — cálculo DSIP-MT
+d1_sistema_bancario.csv,var_credito_pct,Variação anual do crédito bancário real em relação ao ano anterior.,%,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_sistema_bancario.csv,var_depositos_pct,Variação anual dos depósitos reais em relação ao ano anterior.,%,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_sistema_bancario.csv,cagr_credito_bancario_real,Taxa média de crescimento real do crédito bancário ao ano no período completo (valor constante por município).,% ao ano,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_agropecuaria.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_agropecuaria.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_agropecuaria.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_agropecuaria.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_agropecuaria.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_agropecuaria.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em valores correntes.",R$ correntes,IBGE/PAM (Produção Agrícola Municipal)
+d1_agropecuaria.csv,pam_area_colhida_ha,Área total colhida de lavouras no município no ano.,hectares (ha),IBGE/PAM (Produção Agrícola Municipal)
+d1_agropecuaria.csv,pam_n_produtos,Número de produtos agrícolas distintos cultivados no município no ano.,contagem (produtos),IBGE/PAM (Produção Agrícola Municipal)
+d1_agropecuaria.csv,rebanho_bovino,Número de cabeças de bovinos no rebanho municipal.,cabeças,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_agropecuaria.csv,rebanho_total,Número total de animais dos rebanhos municipais (todas as espécies somadas).,cabeças,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_agropecuaria.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em valores correntes.",R$ correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_agropecuaria.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em valores correntes.",R$ correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
+d1_agropecuaria.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em valores correntes (vazio em anos/municípios sem registro).",R$ correntes,IBGE/SIDRA — Pesca e Aquicultura
+d1_agropecuaria.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em valores correntes.",R$ correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em reais de 2024.",R$ de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,sh_lavoura_vbp_pct,Parcela das lavouras no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,sh_pecuaria_vbp_pct,Parcela da pecuária no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,sh_florestal_vbp_pct,Parcela da produção florestal (extrativismo e silvicultura) no valor total da produção agropecuária.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,sh_pesca_vbp_pct,Parcela da pesca e aquicultura no valor total da produção agropecuária — indicador distintivo do Pantanal Norte.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,hhi_vbp,"Índice de concentração da produção agropecuária entre os 4 componentes (lavoura, pecuária, florestal e pesca): de 0,25 (pesos iguais) a 1 (um único componente).","índice (0,25–1)","IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,diversificacao_vbp,"Grau de diversificação da produção agropecuária, de 0 (um único componente) a 1 (totalmente diversificada).",índice 0–1,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,tipologia_agro,"Classificação do perfil agropecuário municipal pelo componente dominante: 'Pescado-extrativista', 'Pecuário', 'Lavoura', 'Florestal' ou 'Diversificado'.",texto (5 categorias),"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,part_vbp_mt,Participação do município no valor total da produção agropecuária de Mato Grosso.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,area_colhida_por_hab,Área colhida de lavouras por 1.000 habitantes — intensidade agrícola relativa ao tamanho da população.,ha por 1.000 habitantes,IBGE/PAM e IBGE/População — cálculo DSIP-MT
+d1_agropecuaria.csv,rebanho_bovino_por_1000_hab,Cabeças de bovinos por 1.000 habitantes — peso relativo da pecuária bovina no município.,cabeças por 1.000 habitantes,IBGE/PPM e IBGE/População — cálculo DSIP-MT
+d1_agropecuaria.csv,sh_bovinos_rebanho_pct,Parcela dos bovinos no total de animais dos rebanhos municipais.,%,IBGE/PPM — cálculo DSIP-MT
+d1_agropecuaria.csv,produtividade_terra,Valor real da produção agropecuária por hectare colhido — aproximação da produtividade da terra.,R$ de 2024 por hectare,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,vbp_var_pct,Variação anual do valor real da produção agropecuária em relação ao ano anterior.,%,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,cagr_vbp_real,Taxa média de crescimento real da produção agropecuária ao ano no período completo (valor constante por município).,% ao ano,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
+d1_empresas.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_empresas.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_empresas.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_empresas.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_empresas.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_empresas.csv,numero_empresas,Número de empresas e outras organizações formais ativas no município.,contagem (empresas),"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
+d1_empresas.csv,pessoal_ocupado_total,"Total de pessoas ocupadas nas empresas formais — inclui assalariados, sócios e proprietários, indo além dos vínculos CLT da RAIS.",pessoas,"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
+d1_empresas.csv,empresas_por_1000_hab,Empresas formais por 1.000 habitantes — densidade do tecido empresarial local.,empresas por 1.000 habitantes,IBGE/CEMPRE e IBGE/População — cálculo DSIP-MT
+d1_empresas.csv,pessoal_por_empresa,Número médio de pessoas ocupadas por empresa — tamanho médio dos negócios locais.,razão (pessoas por empresa),IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,part_empresas_mt,Participação do município no total de empresas formais de Mato Grosso.,%,IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,var_empresas_pct,Variação anual do número de empresas em relação ao ano anterior.,%,IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,var_pessoal_pct,Variação anual do pessoal ocupado nas empresas em relação ao ano anterior.,%,IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,cagr_empresas,Taxa média de crescimento do número de empresas ao ano no período completo (valor constante por município).,% ao ano,IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,cagr_pessoal,Taxa média de crescimento do pessoal ocupado ao ano no período completo (valor constante por município).,% ao ano,IBGE/CEMPRE — cálculo DSIP-MT
+d1_empresas.csv,razao_formalizacao,Pessoal ocupado total (CEMPRE) dividido pelos empregos formais (RAIS): valores acima de 1 indicam presença de trabalhadores fora do regime CLT dentro de empresas formais.,razão (adimensional),IBGE/CEMPRE e MTE/RAIS — cálculo DSIP-MT
+d1_empresas.csv,pib_real_por_pessoal,"PIB real dividido pelo pessoal ocupado total nas empresas — produtividade média por pessoa ocupada, em reais de 2024.",R$ mil de 2024 por pessoa ocupada,IBGE/PIB Municipal e IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
+d1_painel_pesm.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
+d1_painel_pesm.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
+d1_painel_pesm.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
+d1_painel_pesm.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
+d1_painel_pesm.csv,pib,"Valor total de todos os bens e serviços produzidos no município no ano (PIB a preços de mercado), em valores correntes do próprio ano.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_painel_pesm.csv,vab_agro,"Riqueza gerada (Valor Adicionado Bruto) pela agropecuária do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_painel_pesm.csv,vab_industria,"Riqueza gerada (Valor Adicionado Bruto) pela indústria do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_painel_pesm.csv,vab_servicos,"Riqueza gerada (Valor Adicionado Bruto) pelos serviços privados do município, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_painel_pesm.csv,vab_adespss,"Riqueza gerada pela administração pública, defesa, educação e saúde públicas, em valores correntes.",R$ mil correntes,IBGE/PIB dos Municípios (SIDRA T5938)
+d1_painel_pesm.csv,impostos,"Impostos sobre produtos, líquidos de subsídios, recalculados pela identidade PIB = VAB total + impostos; podem ser negativos em municípios com subsídios elevados.",R$ mil correntes,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_real,"PIB municipal já descontada a inflação, expresso em reais de 2024 — permite comparar o tamanho da economia entre anos diferentes.",R$ mil de 2024,IBGE/PIB Municipal e IBGE/SCN (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,deflator_2010,Índice de preços usado para transformar valores correntes em valores reais (deflator implícito do PIB nacional; nome refere-se à série original com base 2010 = 100).,índice (2010 = 100),IBGE/SCN via IPEADATA (SCN10_DIPIBG10)
+d1_painel_pesm.csv,sh_agro_pib,"Parcela do PIB municipal que vem da agropecuária (disponível até 2021, pela defasagem de publicação do IBGE).",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_ind_pib,Parcela do PIB municipal que vem da indústria (disponível até 2021).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_serv_pib,Parcela do PIB municipal que vem dos serviços privados (disponível até 2021).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_adespss_pib,"Parcela do PIB municipal que vem da administração pública, defesa, educação e saúde públicas (disponível até 2021).",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_agro_va,"Parcela da agropecuária na riqueza total gerada (VAB) — medida mais limpa da estrutura produtiva, pois exclui o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_ind_va,"Parcela da indústria na riqueza total gerada (VAB), excluído o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_serv_va,"Parcela dos serviços privados na riqueza total gerada (VAB), excluído o efeito dos impostos.",%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_adespss_va,Parcela da administração pública na riqueza total gerada (VAB) — valores altos indicam dependência do setor público.,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_agro,"Quociente locacional da agropecuária: compara o peso do setor no município com o peso médio em MT (acima de 1,25 = especialização; abaixo de 0,75 = setor subrepresentado).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_ind,"Quociente locacional da indústria: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_serv,"Quociente locacional dos serviços privados: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_pub,"Quociente locacional da administração pública: peso do setor no município comparado à média de MT (acima de 1,25 = especialização).",índice (1 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_agro_scap,Quociente locacional da agropecuária calculado excluindo Cuiabá e Várzea Grande da referência estadual — comparação mais justa para municípios pequenos.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_ind_scap,Quociente locacional da indústria calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_serv_scap,Quociente locacional dos serviços calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,lq_pub_scap,Quociente locacional da administração pública calculado excluindo Cuiabá e Várzea Grande da referência estadual.,índice (1 = média MT sem capital),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,hhi_va,"Índice de concentração setorial da economia (Herfindahl-Hirschman sobre 4 setores): varia de 0,25 (setores com pesos iguais) a 1 (economia dependente de um único setor).","índice (0,25–1)",IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,diversificacao_va,"Grau de diversificação da economia municipal, de 0 (dependente de um único setor) a 1 (totalmente diversificada).",índice 0–1,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,tipologia,"Classificação da economia municipal pelo setor dominante: 'Público-dependente', 'Agropecuário', 'Industrial', 'Serviços' ou 'Diversificado'.",texto (5 categorias),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,part_pib_mt,Participação do município no PIB total de Mato Grosso.,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,pop_total,População residente estimada do município (estimativas intercensitárias podem ter desvios em municípios pequenos).,habitantes,IBGE/Estimativas de População
+d1_painel_pesm.csv,pib_pc,"PIB dividido pela população — renda média gerada por habitante, em valores correntes.",R$ correntes por habitante,IBGE/PIB Municipal e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_real_pc,"PIB por habitante descontada a inflação, em reais de 2024.",R$ de 2024 por habitante,IBGE/PIB Municipal e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_pc_rel_mt,PIB por habitante do município em relação à média estadual (100 = igual à média de MT; 50 = metade da média).,índice (100 = média MT),IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_real_var_pct,Crescimento real do PIB em relação ao ano anterior (vazio no primeiro ano da série).,%,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_pib_real_2010,"Taxa média de crescimento real do PIB ao ano desde 2010 (valor constante, repetido em todos os anos do município).",% ao ano,IBGE/PIB dos Municípios — cálculo DSIP-MT
+d1_painel_pesm.csv,vinculos_31dez,Número de empregos formais ativos em 31 de dezembro (estoque da RAIS).,contagem (vínculos),MTE/RAIS
+d1_painel_pesm.csv,pib_por_trabalhador,"PIB dividido pelo número de empregos formais — intensidade econômica por vínculo formal, em valores correntes (não capta a informalidade).",R$ mil correntes por vínculo,IBGE/PIB Municipal e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_real_por_trabalhador,"PIB real dividido pelo número de empregos formais, em reais de 2024 por vínculo (não capta a informalidade).",R$ mil de 2024 por vínculo,IBGE/PIB Municipal e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,exportacoes_fob_usd,"Valor total exportado pelo município no ano, em dólares correntes (critério FOB, sem frete e seguro).",USD corrente (FOB),MDIC/Comex Stat
+d1_painel_pesm.csv,importacoes_fob_usd,"Valor total importado pelo município no ano, em dólares correntes (critério FOB).",USD corrente (FOB),MDIC/Comex Stat
+d1_painel_pesm.csv,balanca_comercial_usd,"Exportações menos importações do município (positivo = superávit comercial), em dólares correntes.",USD corrente,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,exp_n_produtos,"Número de produtos distintos exportados (classificação SH4) — quanto maior, mais variada a pauta exportadora.",contagem (produtos),MDIC/Comex Stat
+d1_painel_pesm.csv,exp_n_paises,Número de países de destino das exportações do município.,contagem (países),MDIC/Comex Stat
+d1_painel_pesm.csv,exp_per_capita_usd,Valor exportado dividido pela população do município.,USD corrente por habitante,MDIC/Comex Stat e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_agro_exp_pct,"Parcela das exportações composta por produtos do agronegócio (capítulos SH 01–24, padrão MDIC).",%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_industria_exp_pct,Parcela das exportações composta por produtos industriais (capítulos SH 25–97).,%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,hhi_exp,Índice de concentração da pauta exportadora por produto (Herfindahl-Hirschman): próximo de 1 indica que o município exporta praticamente um único produto.,índice 0–1,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,diversificacao_exp,"Grau de diversificação das exportações, de 0 (um único produto) a 1 (pauta totalmente diversificada).",índice 0–1,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,part_exp_mt,Participação do município nas exportações totais de Mato Grosso.,%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,exp_var_pct,"Variação das exportações em relação ao ano anterior (valores nominais em dólar, afetados pelo câmbio).",%,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_exp,"Taxa média de crescimento das exportações ao ano no período completo (valor constante, repetido em todos os anos do município).",% ao ano,MDIC/Comex Stat — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_rural_brl,"Volume total de crédito rural contratado no município no ano, em valores correntes.",R$ correntes,BCB/SICOR (via Base dos Dados)
+d1_painel_pesm.csv,credito_real_brl,"Volume de crédito RURAL descontada a inflação (INPC), em reais de 2024 — não confundir com 'credito_bancario_real_brl'.",R$ de 2024,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,n_operacoes,Número de contratos (operações) de crédito rural firmados no ano.,contagem (operações),BCB/SICOR (via Base dos Dados)
+d1_painel_pesm.csv,area_financiada_ha,Área total financiada pelas operações de crédito rural no ano.,hectares (ha),BCB/SICOR (via Base dos Dados)
+d1_painel_pesm.csv,sh_custeio_pct,"Percentual das operações destinadas a custeio (despesas correntes da produção agrícola, pecuária e de sementes).",% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_investimento_pct,"Percentual das operações destinadas a investimento agrícola e pecuário (máquinas, benfeitorias, formação de rebanho).",% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_painel_pesm.csv,sh_familiar_pct,Percentual das operações contratadas pela agricultura familiar (aproximação do PRONAF).,% das operações,BCB/SICOR — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_por_ha,Crédito rural real por hectare financiado — intensidade do financiamento por unidade de área.,R$ de 2024 por hectare,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_credito_rural_real,Taxa média de crescimento real do crédito rural ao ano no período completo (valor constante por município).,% ao ano,BCB/SICOR e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_bancario_total,"Saldo total das operações de crédito concedidas pelas agências bancárias instaladas no município, em valores correntes (verbete ESTBAN 420).",R$ correntes,BCB/ESTBAN (via Base dos Dados)
+d1_painel_pesm.csv,credito_bancario_real_brl,"Crédito bancário total (ESTBAN) descontada a inflação (INPC), em reais de 2024.",R$ de 2024,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,depositos_total,"Soma dos três tipos de depósitos (à vista, a prazo e poupança), em valores correntes.",R$ correntes,BCB/ESTBAN — cálculo DSIP-MT
+d1_painel_pesm.csv,depositos_real_brl,"Depósitos totais descontada a inflação (INPC), em reais de 2024.",R$ de 2024,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,razao_credito_depositos,Crédito concedido dividido pelos depósitos captados: abaixo de 1 o município 'exporta' poupança para outras praças; acima de 1 funciona como polo financeiro.,razão (adimensional),BCB/ESTBAN — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_per_capita,Crédito bancário real por habitante — acesso médio da população ao crédito bancário local.,R$ de 2024 por habitante,BCB/ESTBAN e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,depositos_per_capita,Depósitos reais por habitante — poupança financeira média da população local.,R$ de 2024 por habitante,BCB/ESTBAN e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_credito_bancario_real,Taxa média de crescimento real do crédito bancário ao ano no período completo (valor constante por município).,% ao ano,BCB/ESTBAN e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,remuneracao_media,"Remuneração média mensal dos empregados formais, em valores correntes do próprio ano.",R$ correntes (mensal),MTE/RAIS
+d1_painel_pesm.csv,remun_real_media,"Remuneração média mensal descontada a inflação (INPC), em reais de 2024 — permite comparar salários entre anos.",R$ de 2024 (mensal),MTE/RAIS e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,perc_superior,Percentual dos empregados formais com ensino superior (grau de instrução 9 ou mais na escala RAIS — ver notas metodológicas).,%,MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,perc_feminino,Percentual dos empregos formais ocupados por mulheres.,%,MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,perc_micro_pequena,Percentual dos empregos formais em estabelecimentos de micro e pequeno porte.,%,MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,admissoes,Número de contratações formais registradas no município ao longo do ano.,contagem (admissões),MTE/CAGED (antigo e Novo CAGED)
+d1_painel_pesm.csv,desligamentos,Número de desligamentos formais (demissões e demais saídas) registrados no ano.,contagem (desligamentos),MTE/CAGED (antigo e Novo CAGED)
+d1_painel_pesm.csv,saldo_anual,Contratações menos desligamentos — variação líquida do emprego formal no ano (positivo = criação de vagas; negativo = fechamento).,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,saldo_por_1000_hab,Saldo de vagas formais por 1.000 habitantes — permite comparar municípios de tamanhos muito diferentes.,vagas por 1.000 habitantes,MTE/CAGED e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,taxa_rotatividade,"Rotatividade do emprego formal (mínimo entre admissões e desligamentos sobre o estoque do ano anterior, critério DIEESE) — valores altos indicam vínculos curtos e instáveis.",%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,churning_bruto,Movimentação bruta total (admissões + desligamentos) em percentual do estoque do ano anterior — mede a agitação do mercado de trabalho.,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,taxa_cresc_emprego,Crescimento percentual do emprego formal no ano (saldo de vagas sobre o estoque do ano anterior).,%,MTE/CAGED e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,salario_real_admitidos,"Salário médio mensal dos contratados descontada a inflação (INPC), em reais de 2024.",R$ de 2024 (mensal),MTE/CAGED e IBGE/INPC (deflator) — cálculo DSIP-MT
+d1_painel_pesm.csv,indice_qualif_entrada,Indicador de qualificação das novas contratações: igual ao percentual de admitidos com ensino médio completo ou mais (já inclui os de nível superior).,%,MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,perc_adm_feminino,Percentual das contratações do ano ocupadas por mulheres.,%,MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,meses_positivos,Número de meses do ano com criação líquida de vagas (12 = criação constante; menos de 4 sugere economia fortemente sazonal).,contagem (0–12 meses),MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,amplitude_sazonal,"Diferença entre o melhor e o pior mês do ano em saldo de vagas — quanto maior, mais sazonal é o emprego local.","contagem (vagas, pico menos vale)",MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,saldo_setor_agro,"Saldo de vagas formais (contratações menos desligamentos) na agropecuária, pesca e silvicultura no ano.",contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,saldo_setor_industria,Saldo de vagas formais na indústria (inclui construção civil) no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,saldo_setor_servicos,Saldo de vagas formais nos serviços privados no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
+d1_painel_pesm.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em valores correntes.",R$ correntes,IBGE/PAM (Produção Agrícola Municipal)
+d1_painel_pesm.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em valores correntes.",R$ correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_painel_pesm.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em valores correntes.",R$ correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
+d1_painel_pesm.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em valores correntes (vazio em anos/municípios sem registro).",R$ correntes,IBGE/SIDRA — Pesca e Aquicultura
+d1_painel_pesm.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em valores correntes.",R$ correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em reais de 2024.",R$ de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_painel_pesm.csv,sh_lavoura_vbp_pct,Parcela das lavouras no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,sh_pecuaria_vbp_pct,Parcela da pecuária no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,sh_florestal_vbp_pct,Parcela da produção florestal (extrativismo e silvicultura) no valor total da produção agropecuária.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,sh_pesca_vbp_pct,Parcela da pesca e aquicultura no valor total da produção agropecuária — indicador distintivo do Pantanal Norte.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,hhi_vbp,"Índice de concentração da produção agropecuária entre os 4 componentes (lavoura, pecuária, florestal e pesca): de 0,25 (pesos iguais) a 1 (um único componente).","índice (0,25–1)","IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,tipologia_agro,"Classificação do perfil agropecuário municipal pelo componente dominante: 'Pescado-extrativista', 'Pecuário', 'Lavoura', 'Florestal' ou 'Diversificado'.",texto (5 categorias),"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,rebanho_bovino,Número de cabeças de bovinos no rebanho municipal.,cabeças,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_painel_pesm.csv,sh_bovinos_rebanho_pct,Parcela dos bovinos no total de animais dos rebanhos municipais.,%,IBGE/PPM — cálculo DSIP-MT
+d1_painel_pesm.csv,part_vbp_mt,Participação do município no valor total da produção agropecuária de Mato Grosso.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,cagr_vbp_real,Taxa média de crescimento real da produção agropecuária ao ano no período completo (valor constante por município).,% ao ano,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_painel_pesm.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,numero_empresas,Número de empresas e outras organizações formais ativas no município.,contagem (empresas),"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
+d1_painel_pesm.csv,pessoal_ocupado_total,"Total de pessoas ocupadas nas empresas formais — inclui assalariados, sócios e proprietários, indo além dos vínculos CLT da RAIS.",pessoas,"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
+d1_painel_pesm.csv,pessoal_por_empresa,Número médio de pessoas ocupadas por empresa — tamanho médio dos negócios locais.,razão (pessoas por empresa),IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,empresas_por_1000_hab,Empresas formais por 1.000 habitantes — densidade do tecido empresarial local.,empresas por 1.000 habitantes,IBGE/CEMPRE e IBGE/População — cálculo DSIP-MT
+d1_painel_pesm.csv,part_empresas_mt,Participação do município no total de empresas formais de Mato Grosso.,%,IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_empresas,Taxa média de crescimento do número de empresas ao ano no período completo (valor constante por município).,% ao ano,IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,cagr_pessoal,Taxa média de crescimento do pessoal ocupado ao ano no período completo (valor constante por município).,% ao ano,IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,razao_formalizacao,Pessoal ocupado total (CEMPRE) dividido pelos empregos formais (RAIS): valores acima de 1 indicam presença de trabalhadores fora do regime CLT dentro de empresas formais.,razão (adimensional),IBGE/CEMPRE e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,pib_real_por_pessoal,"PIB real dividido pelo pessoal ocupado total nas empresas — produtividade média por pessoa ocupada, em reais de 2024.",R$ mil de 2024 por pessoa ocupada,IBGE/PIB Municipal e IBGE/CEMPRE — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_bancario_por_pib_pct,Crédito bancário em percentual do PIB municipal — mede a profundidade financeira da economia local.,%,BCB/ESTBAN e IBGE/PIB Municipal — cálculo DSIP-MT
+d1_painel_pesm.csv,credito_rural_por_vab_agro_pct,Crédito rural em percentual da riqueza gerada pela agropecuária (VAB agro) — intensidade do financiamento rural frente ao tamanho do setor.,%,BCB/SICOR e IBGE/PIB Municipal — cálculo DSIP-MT

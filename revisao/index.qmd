@@ -1,0 +1,60 @@
+---
+title: "Revisão de literatura — situação das áreas"
+description: "Método e situação da revisão de literatura das cinco áreas-chave do Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+source("_revisao.R")
+sit <- ler_rev("situacao_areas.csv") |> arrange(ordem)
+pr  <- ler_rev("prisma.csv")
+M   <- meta_rev()
+pv  <- function(i) num_br(pr$valor[pr$ordem == i])
+```
+
+::: {.faixa-versao}
+Situação registrada em 30/09/2026. A área econômica é a única concluída; as demais áreas estão em execução e seus resultados serão publicados quando os pacotes forem validados pela coordenação.
+:::
+
+## Método
+
+A revisão de literatura do Projeto DSIP-MT é feita por área-chave: econômica, infraestrutura, setor público, sociodemográfica e ambiental. Em cada área, o produto é uma **matriz FOFA**, que organiza o que a literatura afirma sobre os 13 municípios do Pantanal Norte em quatro dimensões: **forças** e **fraquezas** (condições internas ao território) e **oportunidades** e **ameaças** (condições externas).
+
+Cada área combina duas revisões, mantidas separadas porque têm pesos probatórios diferentes:
+
+- **Revisão sistemática.** Busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026), triagem por título e por resumo com dois avaliadores independentes e desempate, e extração das evidências dos estudos incluídos. Na área econômica, `r pv(4)` registros recuperados resultaram em `r pv(13)` registros incluídos, correspondentes a `r pv(14)` estudos distintos.
+- **Revisão documental complementar.** Leitura do acervo de documentos reunido pela coordenação (relatórios técnicos, planos de manejo, diagnósticos municipais). Na área econômica, `r M[["complementar_docs_triados"]]` documentos foram triados e `r M[["complementar_docs_lidos"]]` lidos, com `r num_br(as.integer(M[["complementar_evidencias"]]))` evidências extraídas.
+
+As duas revisões são cruzadas com os 13 municípios na **FOFA municipal**, que indica, para cada item da matriz e cada município, se há fonte que o documente, se há só fonte regional, se o item é uma hipótese a verificar em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Nenhum município do recorte havia sido visitado em campo até 21/09/2026.
+
+## Situação das cinco áreas
+
+```{r}
+reactable(
+  sit |> select(area, dimensao_fase_i, situacao, marco, data, observacao),
+  theme = tema_rev, compact = TRUE, wrap = TRUE, sortable = FALSE, pagination = FALSE,
+  columns = list(
+    area = colDef(name = "Área-chave", minWidth = 110, style = list(fontWeight = 600)),
+    dimensao_fase_i = colDef(name = "Dimensão (Fase I)", minWidth = 90),
+    situacao = colDef(name = "Situação", minWidth = 110),
+    marco = colDef(name = "Último marco registrado", minWidth = 180),
+    data = colDef(name = "Data", minWidth = 85),
+    observacao = colDef(name = "Observação", minWidth = 330, style = list(fontSize = "0.82rem"))))
+```
+
+::: {.nota-fonte}
+Fonte: registros de execução da revisão (LEIA-ME do pacote da área econômica; registro de execução da área de infraestrutura; registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental), situação em 30/09/2026. As datas do calendário das três áreas da Fase B são previsões do documento de preparação e podem ser alteradas pela coordenação.
+:::
+
+## Área econômica
+
+```{r}
+#| results: asis
+cat(sprintf('```{=html}\n<div class="cartoes">
+  <a class="cartao" href="economica.html"><h4>Matriz FOFA</h4><p>Os 40 itens validados em %s, com citações, ressalvas, ancoragem por município, matriz complementar e FOFA municipal.</p></a>
+  <a class="cartao" href="estudos.html"><h4>Estudos do corpus</h4><p>Os %s estudos distintos da revisão sistemática, com busca, filtro por ano e arquivo BibTeX.</p></a>
+  <a class="cartao" href="../arquivos/relatorios/%s"><h4>Relatório (RSE, PDF)</h4><p>Relatório da revisão bibliográfica/sistemática da área econômica: método, resultados, diagnóstico municipal e prioridades de campo.</p></a>
+</div>\n```\n', M[["data_validacao_matriz"]], pv(14), M[["rse_pdf"]]))
+```
+
+Os relatórios das demais áreas serão incluídos nesta seção quando os respectivos pacotes forem validados.

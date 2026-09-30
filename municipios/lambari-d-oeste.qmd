@@ -1,0 +1,12 @@
+---
+title: "Lambari D'Oeste"
+description: "Perfil do município de Lambari D'Oeste (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5105234L
+```
+
+{{< include _perfil.qmd >}}
+

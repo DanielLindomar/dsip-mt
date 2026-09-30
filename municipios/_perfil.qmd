@@ -1,0 +1,184 @@
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+M    <- MUN[MUN$id_municipio == MUN_ID, ]
+NOME <- M$municipio
+pop  <- resumo_ind("populacao", MUN_ID)
+pib  <- resumo_ind("pib_real", MUN_ID)
+emp  <- resumo_ind("empregos_formais", MUN_ID)
+area <- SER$valor[SER$indicador == "area_protegida_total_ha" & SER$id_municipio == MUN_ID]
+f_rev <- ds("revisao", "fofa_municipal.csv")
+f_est <- ds("revisao", "estudos_municipio.csv")
+BI   <- ler(ds("banco_ideias_pn13.csv"))
+BI   <- BI[BI$id_municipio == MUN_ID, ]
+```
+
+::: {.faixa-versao}
+Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere.
+:::
+
+:::: {.columns}
+::: {.column width="55%"}
+**`r NOME`** integra o Pantanal Norte Mato-grossense, recorte de 13 municípios definido institucionalmente no convênio SUDECO–UNEMAT. Código IBGE: `r MUN_ID`.
+
+A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais.
+
+As comparações usam a **mediana dos 13 municípios** (PN-13) e a **mediana dos 141 municípios de Mato Grosso** no ano de referência de cada indicador. A mediana não depende do tamanho dos municípios; para grandezas somáveis (população, PIB, emprego, rebanho, exportações), o cartão mostra a participação no total do PN-13.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="40%"}
+```{r}
+mapa_municipio(MUN_ID, altura = 300)
+```
+:::
+::::
+
+## Indicadores-chave
+
+```{r}
+grade_kpis(MUN_ID)
+```
+
+## D1 · Perfil econômico-produtivo
+
+```{r}
+tabela_dim("D1", MUN_ID)
+```
+
+```{r}
+graficos_dim("D1", MUN_ID, NOME)
+```
+
+## D2 · Áreas de especial interesse
+
+```{r}
+tabela_dim("D2", MUN_ID)
+```
+
+```{r}
+graficos_dim("D2", MUN_ID, NOME)
+```
+
+## D3 · Perfil sociodemográfico
+
+```{r}
+tabela_dim("D3", MUN_ID)
+```
+
+```{r}
+graficos_dim("D3", MUN_ID, NOME)
+```
+
+## D4 · Perfil ambiental
+
+```{r}
+tabela_dim("D4", MUN_ID)
+```
+
+```{r}
+graficos_dim("D4", MUN_ID, NOME)
+```
+
+## D5 · Infraestrutura
+
+```{r}
+tabela_dim("D5", MUN_ID)
+```
+
+```{r}
+graficos_dim("D5", MUN_ID, NOME)
+```
+
+## D6 · Gestão pública
+
+```{r}
+tabela_dim("D6", MUN_ID)
+```
+
+```{r}
+graficos_dim("D6", MUN_ID, NOME)
+```
+
+```{r}
+fonte_rodape()
+```
+
+## Revisão de literatura (área econômica)
+
+```{r}
+#| results: asis
+if (file.exists(f_rev)) {
+  fm <- ler(f_rev); fm <- fm[fm$id_municipio == MUN_ID, ]
+  cont <- fm |> count(status) |> arrange(desc(n))
+  cat(sprintf("A FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para %s. ", NOME),
+      "Os status vêm da revisão complementar (ago/2026); **nenhum município havia sido visitado em campo até 21/09/2026**, ",
+      "por isso os itens INFERIDO são hipóteses a verificar no campo.\n\n", sep = "")
+  cat(paste0("- **", cont$status, "**: ", cont$n, ifelse(cont$n == 1, " item", " itens"), collapse = "\n"), "\n\n")
+} else {
+  cat("A FOFA municipal ainda não foi carregada nesta versão do site.\n\n")
+}
+```
+
+```{r}
+if (file.exists(f_rev)) {
+  ord <- c("DOCUMENTADO", "REGIONAL", "INFERIDO", "CONTRAINDICADO", "NÃO AVALIADO")
+  fm2 <- fm |> mutate(ordem = match(status, ord)) |> arrange(ordem, item_id) |>
+    select(Item = item_id, Dimensão = dimensao, Proposição = proposicao, Status = status, Base = base)
+  reactable(fm2, compact = TRUE, searchable = TRUE, filterable = FALSE, defaultPageSize = 10,
+            groupBy = "Status", wrap = TRUE,
+            columns = list(Item = colDef(minWidth = 70), Dimensão = colDef(minWidth = 95),
+                           Proposição = colDef(minWidth = 320),
+                           Status = colDef(minWidth = 110,
+                             cell = function(v) if (identical(v, "INFERIDO"))
+                               tagList(v, " ", span(class = "rotulo-hipotese", "hipótese de campo")) else v),
+                           Base = colDef(minWidth = 160, style = list(fontSize = "0.82em", color = "#6b7280"))))
+}
+```
+
+```{r}
+#| results: asis
+if (file.exists(f_est)) {
+  es <- ler(f_est); es <- es[es$id_municipio == MUN_ID, ]
+  if (nrow(es) == 0) {
+    cat(sprintf("\n**Nenhum dos 225 estudos do corpus econômico cita %s.** O município é prioridade para a pesquisa de campo.\n\n", NOME))
+  } else {
+    cat(sprintf("\n**Estudos do corpus econômico que citam %s** (%d):\n\n", NOME, nrow(es)))
+    es <- es[order(-es$ano), ]
+    cat(paste0("- ", es$autores, " (", es$ano, "). ",
+               ifelse(nchar(es$url) > 0, paste0("[", es$titulo, "](", es$url, ")"), es$titulo),
+               collapse = "\n"), "\n\n")
+  }
+}
+```
+
+Mais detalhes em [Revisão de literatura — área econômica](../revisao/economica.qmd).
+
+## Projetos no Banco de Ideias TransfereGov
+
+```{r}
+#| results: asis
+if (nrow(BI) == 0) {
+  cat(sprintf("Nenhuma proposta com \"Pantanal\" no objeto teve %s como proponente entre 2008 e 2026 (convênios, TEDs e transferências especiais).\n", NOME))
+} else {
+  cat(sprintf("%d propostas com \"Pantanal\" no objeto tiveram %s como proponente (2008–2026). Valores em reais correntes; conferir o objeto original antes de citar.\n\n", nrow(BI), NOME))
+}
+```
+
+```{r}
+if (nrow(BI) > 0) {
+  b <- BI |> arrange(desc(ano)) |>
+    transmute(Ano = ano, Ideia = ideia_sintese, Tema = tema, Instrumento = instrumento,
+              Situação = situacao, Celebrado = celebrado, `Valor global` = escala(valor_global, "R$ "))
+  reactable(b, compact = TRUE, wrap = TRUE, defaultPageSize = 10,
+            columns = list(Ideia = colDef(minWidth = 280)))
+}
+```
+
+## Baixar os dados do município
+
+```{r}
+#| results: asis
+cat(sprintf("- [Indicadores desta página em CSV](../arquivos/municipios/%s_indicadores.csv) (todos os anos disponíveis)\n", M$slug))
+cat("- [Bases completas e dicionários de variáveis](../dados/index.qmd)\n")
+```

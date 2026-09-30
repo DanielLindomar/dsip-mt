@@ -1,0 +1,2391 @@
+id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,idx_atend_agua_total,idx_atend_agua_urb,idx_coleta_esgoto,idx_trat_esgoto,idx_perda_distrib,extensao_rede_agua_km,extensao_rede_esgoto_km,pop_atendida_agua,pop_atendida_esgoto
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1997,,84.1,,,,8.7,,2426,
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1998,,81.7,,,,,,2430,
+5100102,Acorizal,resto_mt,Demais MT,FALSE,1999,,76.4,,,,,,2339,
+5100102,Acorizal,resto_mt,Demais MT,FALSE,2003,97.4,97.4,,,14.9,10.6,,5817,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,1997,,100,,,,36,,10794,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2001,80,100,,,7.7,42,,11795,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2002,79.8,100,,,7.7,50,,11795,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2003,100,100,,,0,50,,15320,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2006,100,100,,,56.4,68,,15645,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2007,96.6,100,,,39.4,75,,18350,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2008,93.5,100,,,39.4,75,,18500,
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2009,93.7,100,,,39.5,75,10,19000,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2010,80.4,100,,,35.2,80,10,16759,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2011,79.7,99.2,2.2,0,35.2,90,10,17000,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2012,80.4,100,2.2,0,35.2,95,10,17500,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2013,79.8,99.3,2.1,0,32.4,96,10,18000,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2014,78.1,97.2,2.1,0,41.7,100,10,18000,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2015,76.4,95.1,2.1,0,41.7,100,10,18000,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2016,77,95.8,2,0,37.5,110,10,18500,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2017,82.8,100,2.9,100,38.9,130,10,20288,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2018,80.7,99,2.3,100,36.2,133,10.3,20370,420
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2019,81.9,100,2.2,100,34.6,150,10.4,21068,450
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2020,82.6,100,2,100,37.1,180,16.3,21656,408
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2021,82.2,100,1.9,100,36.8,180,17.1,21938,450
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2022,84.7,,1.9,100,35,190,26.1,24746,450
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,1997,,88.4,,,,112.5,,21982,
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2006,81.3,100,,,27.9,168,,38430,
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2007,85.1,100,0.6,100,28.6,174.3,56.1,41798,8360
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2008,85.1,100,13,100,28.7,178.9,64.2,43496,15224
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2009,84.9,99.9,23.2,100,44.1,180,70,43670,15424
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2010,86.9,100,29.6,100,45.8,183.4,70.2,42718,15403
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2011,86.9,100,40.7,100,49.8,185.9,75.6,42864,16289
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2012,88,100,46.8,100,37.2,190.5,75.9,43553,16529
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2013,88.8,99.5,35,100,28.3,192.9,86.7,44207,17665
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2014,86.9,100,34.7,100,27.7,194.2,99,43338,18559
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2015,86.9,100,47.4,100,31.4,194.7,101.6,43437,20575
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2016,86.9,100,52.8,100,32.1,203.7,107.6,43516,22976
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2017,86.9,100,40.4,100,31,220,117,43609,23025
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2018,86.9,100,52.2,100,27.9,221.4,117.5,44848,23769
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2019,85.6,98.5,39.1,100,24.7,221.5,117.5,44322,23491
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2020,86.9,100,45.2,100,22.9,228,123,45147,21229
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2021,86.7,99.7,46.6,100,21.1,229,123,45147,23098
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2022,78.4,,57.7,100,19.4,236,123,45968,23609
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1997,,100,,,,40.2,,10465,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1998,,100,,,,,,9657,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,1999,,100,,,,,,9952,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2001,79.6,100,,,,37,,9072,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2002,78,98.2,,,24.3,38,,9009,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2003,84.4,100,,,0,38.2,,9800,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2004,92,100,,,0,43.7,,10800,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2005,100,100,,,0,45.6,,12000,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2006,100,100,,,8.4,48.1,,12100,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2007,100,100,,,2,53.5,,13790,
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2008,96.3,100,2.5,0,7,59.4,4,13790,720
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2009,100,100,2.3,0,6,64,4,14611,732
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2010,100,100,2.2,0,5.9,64.4,4,15644,734
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2011,98,98,2.4,0,0,73.9,4,15644,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2012,100,98.5,2.4,0,0.1,80.1,4,16284,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2013,96.8,95.4,1.9,0,0,80.1,4,16284,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2014,99.7,95.5,1.9,0,0.2,80.1,4,17116,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2015,97.8,93.7,2.4,0,0,80.5,4,17116,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2016,100,94.7,2.4,0,0.8,99.8,4,17841,926
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2017,98.6,93.4,2.8,0,3,99.9,8.4,17900,931
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2018,95.8,90.8,2.8,0,3,99.9,8.9,17920,940
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2019,94.4,94.5,2.8,0,3,99.9,9.2,17980,996
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2020,92.8,92.8,2.8,100,3,99.9,9.2,17980,996
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2021,98.3,91.3,2.8,100,3,99.9,9.2,19385,996
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2022,89.3,,2.7,100,3,99.9,9.2,15358,980
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2006,17.5,55.5,,,6.7,5,,800,
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2007,15.9,26.8,,,17.6,8.5,,800,
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2010,36.2,59.8,,,20.6,10,,1900,
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2014,60.6,100,,,0,30,,3622,
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2015,58.9,97.3,,,0,31,,3622,
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2016,57.4,94.8,,,0,31,,3622,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1997,,100,,,,29.4,,7524,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1998,,100,,,,,,6923,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,1999,,100,,,,,,6772,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2006,100,100,,,9.2,59.9,,9540,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2007,100,100,,,0,60.9,,9540,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2008,96,100,,,0,65.2,,9072,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2009,95,100,,,0,66,,9076,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2010,91.3,100,,,24.3,66.4,,9455,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2017,100,100,,,23.3,30,,11532,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2018,97.2,97.2,,,0,37.5,,11532,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2019,96.8,95.9,,,60.7,37.5,,11640,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2020,97.5,96.8,,,65,40.5,,11850,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2021,97,97.7,,,73.3,40.5,,11950,
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2022,82.5,,,,77.7,60,,10767,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,1998,,100,,,,,,8753,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,1999,,73.2,,,,,,5158,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2001,100,100,,,,23,,11750,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2002,96.4,100,,,22,23,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2003,100,100,,,,23,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2004,100,100,,,,23,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2005,100,100,,,50,23,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2006,100,100,,,38.9,23,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2007,92.1,100,,,50,24,,7500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2009,75.2,100,,,,24,,6261,6261
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2011,54,85.2,,,40.8,17,,5500,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2012,59.4,93.7,,,0,17,,6111,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2013,63.4,100,,,0,21,,6643,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2014,66.1,89.3,,,0,21,,7000,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2018,63.4,100,,,25.8,13.8,,7126,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2019,63.4,100,,,26,14.6,,7201,
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2022,88.5,,,,11.8,40,,7088,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2001,96.2,100,,,16.4,25,,4460,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2002,100,100,,,11.7,26,,5004,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2003,100,100,,,40,28,,5850,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2004,100,100,,,64.4,28,,6750,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2005,100,100,,,64.4,28,,7530,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2006,100,100,,,30.1,28,,7860,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2007,100,100,,,30.6,30,,8030,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2008,100,100,,,30.6,30,,8030,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2009,100,100,,,11.7,35,,6505,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2010,91.2,100,,,10.5,38,,7358,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2011,100,100,,,52.8,38,,8349,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2012,96.9,96.9,,,9.2,42,,8349,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2013,100,97.1,,,7.5,46,,9070,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2014,96.7,100,,,5,50,,9070,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2015,100,98.6,,,4.4,50,,9674,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2017,90.7,100,,,52.8,20,,9295,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2019,90.7,34.7,,,12.9,40,,9841,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2020,100,100,,,12.9,40,,11133,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2021,100,100,,,12.9,40,,11413,
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2022,98.4,,,,40,40,,10729,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2005,36.1,53.8,,,0,13.2,,2300,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2006,38,56.6,,,0,13.2,,2402,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2007,42.9,57.2,,,9.9,20.1,,3400,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2008,41.6,55.4,,,12.1,25.1,,3420,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2012,40.7,54.7,,,32.1,25.1,,3603,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2013,43.5,58.4,,,33.6,25.1,,3951,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2014,42,56.5,,,33.6,25.1,,3888,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2015,41.5,55.7,,,33.6,25.1,,3900,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2016,47.1,54.9,,,33.6,25.1,,4500,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2017,46.4,54.7,,,0.9,25.1,,4500,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2018,53.1,71.4,,,0.9,26,,5300,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2019,52.4,70.3,,,4,26,,5306,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2020,42.4,57,,,50.9,26,,4360,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2021,44.6,59.9,,,48.8,26,,4650,
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2022,58,,,,9.1,26,,4983,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,1997,,100,,,,14.1,,2804,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2521,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,1999,,88.2,,,,,,2097,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2003,100,100,,,0,17,,4016,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2004,100,100,,,0,17,,7047,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2005,100,100,,,25,17,,4016,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2006,100,100,,,23.3,17,,4016,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2007,100,100,,,23.3,17,,3546,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2008,97.9,100,,,9,17.1,,2974,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2009,99.3,100,,,9,17,,2974,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2010,68.5,100,,,8.2,17,,2189,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2011,86,100,,,8.2,17,,2736,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2012,90.1,100,,,9.8,20,,2850,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2013,91,100,,,3.9,20.5,,2850,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2014,92,99.9,,,11.1,20.5,,2860,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2015,93.6,100,,,11.7,27.1,,2885,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2016,94.3,0,,,11.7,27.1,,2885,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2017,68.5,100,,,15,27.1,,2079,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2018,66.7,97.3,,,13.7,27.5,,2079,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2019,67.3,98.2,,,2.2,27.5,,2085,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2020,68.5,100,,,1.8,27.7,,2129,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2021,82.3,100,,,41.4,28,,2522,
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2022,67.8,,,,35.9,28.3,,2572,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,1998,,100,,,,,,1537,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,1999,,97.9,,,,,,1139,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2001,100,100,,,24.4,8,,1387,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2006,100,100,,,20,4.8,,1365,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2007,100,100,,,20,5.5,,1305,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2008,100,100,,,20.6,5.5,,1305,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2009,100,100,,,21,8,,1115,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2010,86.1,100,9.5,0,22.2,8,1,944,150
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2011,87.8,99.1,19,0,22.2,8,1,946,150
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2012,89.4,92.2,16.8,0,10.5,8,1,946,150
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2013,92.4,95.5,16.8,0,10.5,8,1,946,150
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2014,90.2,98.1,14.7,0,,8,1,902,150
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2017,100,100,,,23.9,6,,931,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2018,97.4,100,,,71.3,6,,931,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2019,100,100,,,71.3,6,,935,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2020,100,100,,,71.1,6,,946,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2021,86.1,100,,,40.5,6,,783,
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2022,85.2,,,,40.5,6,,860,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,1997,,93,,,,33.9,,9482,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,1998,,87.4,,,,,,9085,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,1999,,74.2,,,,,,7869,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2003,89.5,98.2,,,0,45.3,,12540,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2005,100,100,,,,49,,15500,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2006,96.6,91.6,,,30,56,,14000,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2007,97.8,93.6,,,29.2,60,,15000,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2008,100,100,,,29.2,68,,15870,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2009,100,100,,,,80,,16090,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2010,80.1,98,,,24.1,80,,12291,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2011,84,97.7,,,37.9,80,,13000,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2012,98.7,98.6,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2013,97.4,97.3,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2014,96.6,96.5,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2015,95.9,95.8,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2016,95.5,95.4,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2017,94.8,94.7,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2018,92.2,92.1,,,36.8,90,,15387,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2019,92.1,92.2,,,36.8,90,,15498,
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2020,100,100,14.4,100,36.8,90,6.2,16951,3500
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1997,,100,,,,41,,14630,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1998,,100,,,,,,13829,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,1999,,76.6,,,,,,9369,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2012,94.5,100,,,23.1,55,,9567,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2013,94.5,100,,,30,66.7,,9409,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2015,94.5,100,,,12.4,62.1,,9167,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2016,100,100,,,6,63.1,,9576,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2017,100,100,,,12.9,63.1,,9455,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2018,100,97.3,,,20,64.9,,9714,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2019,99.9,98.4,,,17.7,67.6,,9600,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2020,100,100,,,37.9,67.6,,9502,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2021,96.8,98.8,,,37.2,67.6,,9100,
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2022,98.2,,,,33.4,67.6,,10389,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1996,,72.5,,,,16.9,,4884,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1997,,80.2,,,,16.9,,5606,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1998,,74.2,,,,,,5339,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,1999,,75.1,,,,,,5561,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2004,66.8,100,,,0,61.3,,11870,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2005,63.9,100,,,34.7,64.3,,11870,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2006,61.3,100,,,0,75,,11870,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2007,62.1,100,,,36.8,79,,11870,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2008,60.5,100,,,31.6,82,,12058,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2009,60,99.1,,,28.2,89,,12300,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2010,65.9,98.5,,,19.6,125,,12300,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2011,65.8,98.1,,,0,130,,12500,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2012,100,100,,,0,134,,19344,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2013,75.3,90.9,,,0,135,,15000,
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2014,76.9,91,0.6,100,5.7,136,2.3,15600,90
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2015,68.4,100,1.4,100,10,78,2.3,14121,406
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2016,57.7,88,4,100,61.3,80.1,2.3,12124,406
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2017,56.8,86.7,4.1,100,54,80.9,5.1,12130,406
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2018,56.5,86.4,2.7,100,34.4,84,5.3,12430,406
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2019,60.1,92.1,2.8,99.9,36.8,84.8,5.4,13430,410
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2020,63.5,90.6,3.3,99.9,33,85,5.4,14430,410
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2021,64.1,99.5,3,100,23.1,86.1,6,14787,415
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2022,58.9,,3.5,99.8,22.3,101.4,11,14500,450
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,15.2,,3929,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1998,,100,,,,,,3600,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,1999,,100,,,,,,3964,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2006,93.4,100,,,20,8.1,0,5675,0
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2020,100,100,,,0,10,,8164,
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2022,45,,,,5,45,,3267,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1996,,100,,,,58.2,,15960,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1997,,100,,,,58.2,,16924,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1998,,100,,,,,,15460,
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,1999,,84.7,,0,,,,13375,2780
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2002,65.1,84.6,,,,,,18880,3960
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2003,74,96.2,,100,,40,40,22000,15000
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2004,72.4,94,70,100,34,40,40,22500,15500
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2005,72,93.6,28,100,3.7,41,409,23000,4004
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2006,73.8,95.8,28,0,3.7,51.3,40.9,24150,5005
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2007,84.5,100,38.7,0,3.7,53.3,43.9,27460,5505
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2008,85.5,100,40.6,0,3.7,56,45.9,28833,5670
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2009,83.9,100,40.6,0,3.6,58,46,28833,5980
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2010,81.8,100,37.2,0,3.6,63,46,25996,6452
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2011,80.9,98.9,19.9,0,21.8,65,46,25996,6452
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2012,80.9,99,19.9,0,21.8,68,46,26275,6452
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2013,80.5,98.4,27,0,9.1,72,46,26577,7588
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2014,81.8,100,28.5,0,9.1,72,46,27281,7588
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2015,81.3,99.4,27.1,0,8.7,72,46,27396,7588
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2016,82.2,96.5,28.1,0,8.7,75,46,27396,8930
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2017,94.5,100,28.1,0,8.7,76,46,31793,8930
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2018,93.3,100,26.8,0,8.3,90,46,32307,9350
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2019,100,100,26.2,0,13.5,91,46,34966,9350
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2020,100,100,20.3,0,34.1,92,46,35307,9350
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2021,99.1,99.1,20.3,0,34.1,93,46,35307,9350
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2022,92.9,,85.8,0,61.3,93,46,27327,7236
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,1997,,100,27.8,,,179.8,56.1,54352,9568
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2001,90.4,98.4,65.3,100,55.1,189,62,47843,16650
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2010,90.1,100,,,3.6,328,90,50947,25473
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2011,90.1,100,53.6,78.4,3.6,345,97,51256,28100
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2012,89.6,99.4,52.4,100,6.5,347.4,119.4,51256,28100
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2014,100,100,42.4,100,46.4,362,142.9,58099,34214
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2015,100,100,59.2,100,50,364,166.9,58398,31491
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2016,100,100,61.4,100,43.3,386.6,177.8,58690,38871
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2017,100,100,52.3,100,41.2,386.6,180.5,58974,41724
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2018,100,100,50.9,100,40,390.1,190,60661,42871
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2019,90.1,100,55,100,33.1,403.2,190,54957,44710
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2020,100,100,43.5,100,38.9,407.9,190,61135,45921
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2021,100,100,41.9,100,41.2,407.9,190,61702,44738
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2022,99.7,,45.9,100,48.7,407.9,190,68975,50248
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2020,49.8,100,20,75,20,20,10,3342,3342
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,1997,,83.1,,,,15.4,,5101,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,1998,,70.5,,,,,,4634,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,1999,,50.7,,,,,,3547,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2003,11.7,17.2,,,0,44.2,,1280,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2004,77.9,100,,,90,,,9080,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2005,75.4,100,,,21,35,,9090,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2006,73.8,100,,,13.3,35.5,,9200,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2007,68.7,100,,,11.8,36.2,,9600,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2009,56.8,100,,,13.3,48,,8570,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2014,65.4,92.5,,,4.4,64,,11348,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2015,65.6,93,,,,70,,11679,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2016,64.1,90.7,,,,60,,11710,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2017,65.2,92.5,,,0.3,70,,12190,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2018,63.3,89.8,,,0.3,70,,12190,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2019,69.8,99.4,,,3.1,72,,13750,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2020,99.9,100,,,20,72,,20120,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2021,97.8,97.9,,,20,73,,20120,
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2022,100,,,,15.8,75,,17004,
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1996,,96.3,,,,156.4,30.3,57307,2701
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1997,,100,6.1,,,156.4,30.3,64390,2715
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,1998,,,,,,,,,
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2004,81.3,100,17.8,100,43.5,228.8,7.2,71337,2571
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2006,72.2,93.3,3.1,100,46.2,220.9,8.8,65252,2276
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2007,80.2,94.4,2.7,100,35.9,230,8.8,67496,2284
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2008,81.4,95.9,3,92.8,37.7,232.4,9,70658,2284
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2009,81.7,96.3,2.8,100,51,232,12,71324,3168
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2010,77.8,89.4,5.1,100,56.4,234.4,12,68458,2889
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2011,77.8,89.3,6.2,100,59.2,240.2,12,68751,3563
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2012,84.2,96.7,8.9,100,62,243.9,16.2,74829,5205
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2014,80.3,90,8.8,99.6,65.8,240,13,72353,4656
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2015,84.2,94.2,6.4,99.4,52.8,244,13,76230,4656
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2016,77.2,88.6,,,80.4,220,,70123,
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2017,79.5,90.2,7.6,100,44.1,226.7,39.5,72559,5165
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2018,80.9,91,6.5,100,46.9,273.4,39.5,75958,6723
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2019,81.5,91.7,6.2,100,50.5,282.4,39.5,76938,6714
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2020,82.4,92.7,5,100,38,412.4,39.5,78168,6714
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2021,82,92.2,5.7,100,49.4,427.3,39.5,78168,6714
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2022,93.7,,5.6,100,51.5,430.8,39.5,84071,7290
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,1997,,80.9,,,,18,,4989,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,1998,,93.5,,,,,,5802,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,1999,,53.6,,,,,,3349,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2003,45.4,98.5,,,,41,,5727,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2004,42.2,91.5,,,,119,,5375,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2005,38.4,83.4,,,,41,,4914,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2006,39.4,85.6,,,33.8,42,,5071,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2007,100,100,,,62.6,42,,15855,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2008,30.6,77.8,,,40.6,42,,4320,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2009,36,91.8,,,54.3,42,,5152,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2010,33.7,100,,,78.9,42,,4820,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2011,28.7,85.2,,,26,42,,4146,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2012,30.3,90,,,23,42,,4422,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2013,31.2,92.5,,,33.5,48,,4620,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2014,37.5,100,,,24.3,59,,5616,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2015,38.3,100,,,23.2,62,,5786,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2016,43.8,100,,,72.7,36.4,,6684,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2017,43.7,100,,,73.1,37,,6729,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2018,43,99.4,,,79.8,37,,6800,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2019,55.2,98.4,,,48.1,37,,8826,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2020,55.7,100,,,49.7,46,,9420,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2021,58.1,98.8,,,49.7,46,,9420,
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2022,61.4,,,,49.7,47.2,,9420,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,1997,,33.7,,,,,,3127,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2001,96.2,100,,,,84.7,,18272,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2002,100,100,,,54.5,110,,21125,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2003,100,100,,,60.1,110,,21500,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2004,100,100,,,33.7,120,,25000,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2005,100,100,,,51.7,121,,26565,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2006,82.8,99.3,,,57.2,160,,22000,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2007,99.6,100,,,58.8,160,,22232,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2008,99,100,,,,160,,23000,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2009,100,100,,,,165,,23784,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2010,94.7,100,,,39.5,165,,26121,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2011,94.5,98.6,,,65.5,198,,26780,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2012,97.5,100,,,66.1,207,,28345,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2013,100,100,,,63.5,210,,30335,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2014,92.8,100,,,55.2,210,,28918,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2015,92.8,100,,,52.3,218,,29673,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2016,92.8,100,,,,218,,30409,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2018,100,100,,,43.5,161.3,,34558,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2019,99.4,98.4,,,43.4,183.3,,35150,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2020,99.9,99.1,,,50.2,2052,,36123,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2021,97.8,100,,,68.5,2520,,36123,
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2022,95.4,,,,72.3,2600,,43785,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,1998,,98.2,,,,21.9,,8000,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,1999,,100,,,,26.8,,12000,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2000,,99.6,,,62.7,37.6,,13017,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2004,88.2,100,,,44,78.1,,20276,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2006,94.2,100,,,4.3,55.3,,24059,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2007,98.4,100,,,9.5,66.7,,25518,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2008,100,100,,,13.5,87.6,,28190,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2009,78.1,100,,,10.5,90,,21980,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2010,69.6,86.4,,,20.2,94,,22000,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2011,80.6,100,,,50,95,,26361,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2012,80.6,100,,,58.7,155.6,,27222,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2013,80.6,100,,,62,157.8,,28689,
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2014,100,100,2.5,100,50.3,178.2,66.3,36800,3042
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2015,90.5,100,15.4,100,48.6,210.3,93.8,34364,9513
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2016,94,100,27.7,100,44.2,225.2,167.8,36483,14106
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2017,88.3,100,31.3,100,45.4,225.2,167.8,35273,14960
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2018,88.5,100,40,100,46.8,225.2,167.8,37937,27661
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2019,80.6,100,69.1,100,50.5,249.7,189.7,35513,28639
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2020,80.6,100,53.9,100,44.2,249.7,190.2,36883,29777
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2021,80.6,100,53.3,100,39.2,250,190.3,35506,29985
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2022,84.5,,57.7,100,51.7,267.2,203.3,37690,32587
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2006,82.1,100,,,30,16,0,3500,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2009,72.8,96.6,,,,26,,3800,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2010,77.9,100,,,0,30,,4014,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2011,77.9,100,,,0,33.1,,4149,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2012,77.9,100,,,0,35,,4279,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2013,75.2,96.6,,,39.1,36.2,,4348,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2014,77.9,100,,,47.9,37.1,,4649,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2015,77.9,100,,,46.1,37.7,,4794,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2016,77.9,100,,,50,39,,4935,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2017,77.9,100,,,50,39.9,,5072,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2018,100,100,,,50,40,,6710,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2019,77.9,100,,,50,40.5,,5367,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2020,77.9,100,,,50,41.2,,5506,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2021,77.9,100,,,50,45.6,,5642,
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2022,79.8,,,,50,47,,7040,
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2022,78,,95.2,0,10.3,25,25,3500,3500
+5102702,Canarana,resto_mt,Demais MT,FALSE,1997,,48.8,,,,18.5,,5161,
+5102702,Canarana,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2004,61.8,81.7,,,34.9,57,,11200,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2006,77.2,100,,,25.1,65.4,,14925,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2007,89.1,100,,,29.5,72,,15315,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2008,86.1,100,,,30.5,76.3,,15315,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2010,71.2,90,,,32.4,78,,13345,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2011,76.2,96.5,,,34.4,80,,14485,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2012,73.9,93.6,,,32.2,87.7,,14234,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2013,78.6,99.6,,,24.5,89.9,,15468,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2014,79,100,,,24.5,92.3,,15748,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2015,78.9,100,,,26,93.8,,15953,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2016,79,100,,,23,107.7,,16153,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2017,90.6,100,,,29.6,108,,18754,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2018,79,100,,,36.6,108.7,,16824,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2019,78.9,100,,,36.5,108.7,,17035,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2020,78.9,100,,,42.2,108.7,,17243,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2021,78.9,100,,,36,110,,17447,
+5102702,Canarana,resto_mt,Demais MT,FALSE,2022,68.6,,,,26,110,,17733,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2001,51,100,,,,14.9,,6000,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2004,42.3,100,,,,,,4250,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2006,99.3,100,,,,28,,9000,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2007,74.3,100,,,46.4,32,,9000,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2008,74.8,100,,,46.3,35,,9000,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2009,74.4,100,,,46.5,42,,9000,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2010,41.6,100,,,41.5,49,,4575,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2011,42,99.3,,,60.6,49,,4569,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2012,41.6,100,,,59.8,29,,4493,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2013,41.6,100,,,55.3,29.3,,4423,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2014,57.1,100,,,34.7,29.3,,5992,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2015,55.7,100,,,46.5,29.3,,5777,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2016,57.5,100,,,36.1,29.3,,5896,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2017,57.1,100,,,31.6,29.3,,5786,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2018,58.5,100,,,17,29.5,,6092,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2019,41.6,100,,,8.9,29.5,,4290,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2020,41.6,100,,,13.6,29.8,,4246,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2021,41.6,100,,,17.9,30,,4202,
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2022,40.8,,,,23.9,35,,4220,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2004,55.7,100,,,1.2,15.6,,4000,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2005,59.2,100,,,1.2,16.2,,4176,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2006,63,100,,,1.2,16.9,,4360,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2007,58.9,100,,,1.2,20.3,,4602,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2008,61,100,,,10.7,20.3,,4908,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2012,40.1,84.1,,,57,65.8,,3325,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2014,100,100,,,17.8,25,,8379,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2015,99.7,99.7,,,17.8,25,,8379,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2019,47,98.6,,,30,25,,4100,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2020,46.9,98.4,,,30,25,,4100,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2021,47.6,100,,,30,25,,4183,
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2022,55.7,,,,29.6,25.1,,4183,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1997,,100,,,,32.2,,10931,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1998,,100,,,,,,10393,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,1999,,100,,,,,,11421,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2005,77.4,99.6,,,32.1,68.6,,13629,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2006,77,99,,,46,68.6,,13810,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2007,94.1,100,,,51.8,80.8,,16345,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2009,67.8,100,,,11,75,,12339,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2012,71.5,91.9,,,14.8,53,,12966,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2016,93.9,100,,,0,80,,17757,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2017,100,99.3,,,0,83,,19049,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2018,98.4,99.7,,,15.2,86,,19267,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2019,99.2,100,,,50,111,,19588,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2020,100,100,,,50,133,,19453,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2021,86.4,61.3,,,50,145,,19454,
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2022,99.7,,,,49.9,150,,18931,
+5103056,Cláudia,resto_mt,Demais MT,FALSE,1997,,97.4,,,,22.7,,6746,
+5103056,Cláudia,resto_mt,Demais MT,FALSE,1998,,86.9,,,,,,6403,
+5103056,Cláudia,resto_mt,Demais MT,FALSE,1999,,89.4,,,,,,6989,
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2002,77.5,99.9,,,6.7,35,,8100,
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2004,88,100,3.7,80,8.9,42,4,10012,111
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2006,88.8,100,20.2,100,2.5,44,8,10717,1900
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2007,100,100,29,100,3.1,45,9,10723,1998
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2008,76.9,100,52.5,100,5.1,45,19,8487,4224
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2009,76.9,100,52.4,100,4.6,45,20,8576,4312
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2010,76.8,100,56.3,100,4.7,45,23,8473,4397
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2011,76.5,100,69.9,100,53.5,45,23,8513,4164
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2012,76.6,100,35.9,100,45,56.4,17.6,8584,3584
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2013,76.6,100,43.6,100,32.2,56.4,17.6,8701,3602
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2014,76.6,100,41,100,30.4,57,17.6,8770,4036
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2015,77.1,100,72.3,100,42.3,57,32.8,8903,7077
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2016,82.9,100,65.5,100,34.3,57,39.4,9646,7218
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2017,81.7,100,62.9,100,33.4,57,41.4,9568,7765
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2018,80.8,100,63.8,100,33.2,57,41.4,9744,8029
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2019,81,100,76.2,100,15.6,57,41.4,9842,8421
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2020,76.6,100,66,100,13.2,57.6,41.4,9374,8603
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2021,76.6,100,62,100,26.7,58.2,41.4,9445,8688
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2022,96.7,,60.8,100,28.8,58.2,41.4,9276,8551
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,1997,,78,,,,6.2,,2551,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,1998,,71.6,,,,,,2351,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,1999,,54.4,,,,,,1793,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2009,57.9,88.7,,,0,25,,3531,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2010,66.4,100,,,5.9,31,,3647,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2012,35.6,53.6,,,41.7,7,,1960,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2014,35.5,53.4,,,38.5,8,,1960,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2015,35.6,53.6,,,36.1,8.8,,1968,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2016,35.6,53.6,,,35.7,27,,1970,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2017,35.7,53.6,,,31,35,,1975,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2018,35.7,52.9,,,37.9,36,,2030,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2020,66.4,100,,,8.8,20,,3774,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2021,66.1,99.6,,,8.8,20,,3780,
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2022,60.8,,,,8.8,25,,3780,
+5103205,Colíder,resto_mt,Demais MT,FALSE,1997,,100,,,,46,,18488,
+5103205,Colíder,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5103205,Colíder,resto_mt,Demais MT,FALSE,2006,77,100,,,29.8,74.3,,20600,
+5103205,Colíder,resto_mt,Demais MT,FALSE,2007,80.1,100,,,28.2,75.1,,24591,
+5103205,Colíder,resto_mt,Demais MT,FALSE,2008,80.1,100,4.5,100,28.7,76.6,47.3,25431,12207
+5103205,Colíder,resto_mt,Demais MT,FALSE,2009,80.1,100,20.5,100,27.4,96,54,25713,12242
+5103205,Colíder,resto_mt,Demais MT,FALSE,2010,81.3,100,19.2,100,39.4,96.6,54,25014,13283
+5103205,Colíder,resto_mt,Demais MT,FALSE,2011,81.3,100,21.6,100,35.7,97.6,55,25184,11712
+5103205,Colíder,resto_mt,Demais MT,FALSE,2012,81.3,100,20.9,100,29.7,98.4,55.8,25347,11981
+5103205,Colíder,resto_mt,Demais MT,FALSE,2013,82.6,98.9,19,100,23.8,98.8,55.8,26028,12043
+5103205,Colíder,resto_mt,Demais MT,FALSE,2014,81.4,100,53.9,100,28.4,107.2,55.8,25799,12392
+5103205,Colíder,resto_mt,Demais MT,FALSE,2015,81.3,100,48.9,100,29,107.2,55.8,25932,12115
+5103205,Colíder,resto_mt,Demais MT,FALSE,2016,81.3,100,52,100,30.4,107.3,55.8,26115,13590
+5103205,Colíder,resto_mt,Demais MT,FALSE,2017,81.7,100,61.4,100,36.5,107,56,26376,13918
+5103205,Colíder,resto_mt,Demais MT,FALSE,2018,81.3,100,52.3,100,32.3,107.5,56,27012,14073
+5103205,Colíder,resto_mt,Demais MT,FALSE,2019,79.8,98.2,38.8,100,35.4,107.5,56,26693,14147
+5103205,Colíder,resto_mt,Demais MT,FALSE,2020,81.3,100,42.1,100,33.1,108.1,56,27358,14225
+5103205,Colíder,resto_mt,Demais MT,FALSE,2021,81.5,100,42,100,25.7,108.1,56,27590,14623
+5103205,Colíder,resto_mt,Demais MT,FALSE,2022,88.5,,53.8,100,23.1,113.2,61.2,27763,15017
+5103254,Colniza,resto_mt,Demais MT,FALSE,2006,8.3,14.6,,,1.4,21.8,,1174,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2007,17.9,31.5,,,45,40,,5000,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2008,18.9,33.2,,,20,40,,5600,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2009,20.2,35.6,,,3.2,41,,6392,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2010,25,44,,,3.1,42,,6600,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2011,26.1,45.9,,,3.1,44,,7200,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2012,29.2,51.3,,,3.1,1,,8400,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2013,27.9,49.1,,,3.1,11,,8600,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2014,28.5,50.3,,,2.8,41,,9200,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2015,32.2,56.6,,,2.8,42,,10800,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2016,31,54.5,,,2.8,42,,10800,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2017,29.9,52.6,,,2.8,42,,10800,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2018,29,51,,,2.8,42,,10800,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2019,28,49.3,,,2.8,42,,10800,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2021,14,24.7,,,0,45,,5770,
+5103254,Colniza,resto_mt,Demais MT,FALSE,2022,27.9,,,,0,46,,7200,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,1997,,100,,,,24,,8932,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,1998,,100,,,,,,8921,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,1999,,91.3,,,,,,8290,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2006,94.7,100,,,,11,,18500,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2007,63.1,100,,,,37.5,,11322,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2008,62.8,99.5,,,49.5,59.3,,11692,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2009,62.5,99,,,28.8,70,,11855,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2010,65.4,94.5,,,36.5,71,,11890,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2011,69.2,100,,,38.7,72.5,,12749,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2012,69.2,100,,,29,73,,12909,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2013,68.4,98.8,,,27.2,73.5,,13028,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2014,68.5,98.9,,,25.3,77,,13208,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2015,69.2,100,,,26.1,77.5,,13522,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2016,69.2,100,,,23,78.6,,13637,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2017,69.2,100,,,24.2,82,,13796,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2018,69.2,100,,,25.2,83.5,,14198,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2019,67.9,98.1,,,26.4,84.8,,14100,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2020,69.2,100,,,24.9,86.2,,14541,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2021,68.4,98.9,,,21.7,87.2,,14541,
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2022,77,,,,22.1,87.2,,14039,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2006,20.5,58.8,,,0.1,26.5,,5850,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2008,36.1,81.4,,,18.9,31,,8000,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2009,37.6,79.8,,,30,31,,8500,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2010,47.8,84.3,,,22.2,37,,12000,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2014,56.6,100,,,66.1,75.3,,15716,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2015,56.5,99.7,,,39.9,131,,15996,
+5103353,Confresa,resto_mt,Demais MT,FALSE,2016,67.2,100,21.7,100,32.7,161.2,26.6,19419,5074
+5103353,Confresa,resto_mt,Demais MT,FALSE,2017,72.1,100,28.8,100,30.6,161.2,55.1,21256,8930
+5103353,Confresa,resto_mt,Demais MT,FALSE,2018,100,100,59.8,100,30.3,161.2,55.1,30347,10292
+5103353,Confresa,resto_mt,Demais MT,FALSE,2019,56.6,100,32,100,24.2,179.2,55.1,17519,10495
+5103353,Confresa,resto_mt,Demais MT,FALSE,2020,56.6,100,31,100,26.7,234.1,55.1,17846,10925
+5103353,Confresa,resto_mt,Demais MT,FALSE,2021,56.6,100,29.1,100,29.2,234.2,55.1,18166,10917
+5103353,Confresa,resto_mt,Demais MT,FALSE,2022,57.3,,40.4,100,38.2,234.2,55.7,20113,12329
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2002,44.6,57.9,,,15,5,,1200,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2003,56.6,75.9,,,13,5.5,,1550,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2005,63.6,87,,,0,9,,1840,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2006,70.3,98,,,0.2,9,,2071,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2007,71.2,100,,,0,10,,2210,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2008,70.6,100,,,0,10.4,,2279,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2009,92.9,100,,,0,10,,3056,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2010,73,100,,,19,25.2,,2471,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2011,72,98.3,,,18,25.2,,2480,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2012,70.7,96.7,,,18,25.2,,2480,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2013,68.8,100,,,16.9,26,,2480,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2014,74.5,100,,,15.9,26,,2737,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2015,73.2,100,,,15.9,26,,2737,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2016,78.2,99.9,,,15.9,26,,2970,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2017,76.9,98.3,,,15.9,26,,2970,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2018,77.5,100,,,18,26.4,,3078,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2019,77.2,100,,,18,26.4,,3117,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2020,76,98.5,,,18,26.5,,3117,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2021,76.1,99,,,18,27,,3168,
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2022,84.3,,,,18,27,,3168,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2008,5.6,3.5,,,,23,,800,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2016,3.3,9.6,,,0,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2017,3.2,9.4,,,0,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2018,3.1,9.1,,,1.2,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2019,3,8.9,,,1.2,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2020,3,8.7,,,1.2,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2021,2.9,8.5,,,1.2,6,,600,
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2022,5.4,,,,1.2,6,,600,
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1996,,100,,,,1709.4,338.8,495028,185224
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1997,,100,34.6,29.1,,1709.4,339,539692,190138
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1998,,,,43,,,,,
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,1999,,,,,,,,,
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2000,,93.6,71.6,63.5,58,1911,520.4,446000,163000
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2001,92.8,94.1,71.7,63.5,61.6,2000,600,457169,198800
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2002,99.9,100,68.5,63.5,61.6,2100,621,499800,198800
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2003,98.6,100,51.4,84.9,50.4,2100,621,501000,210560
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2004,99,100,70.9,88.3,65.4,2029,483,519368,188100
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2005,100,100,76.3,50,62.4,2037,623,538740,195253
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2006,100,100,62.3,50,50.4,2046.7,624.9,542861,202806
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2007,100,100,57.4,50,49.9,2560,624.9,550000,209930
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2008,100,100,26.5,52.3,51.6,2801,624.9,550000,209930
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2009,98.7,100,33.2,67,59.4,2820,633,543460,216918
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2010,98.1,100,32.7,67,58.8,2864,648.3,540814,219900
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2011,98.2,99.7,32.7,67.3,59,2911.4,663.5,546343,221962
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2012,99.8,97.2,39.1,0,67.4,2254,692.6,560090,215306
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2013,93,94.8,38.1,73.6,67.3,2344,696.3,530095,201257
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2014,98.1,100,38.9,69.1,66.5,2401,740.9,564741,262489
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2015,98.1,100,40,67.8,63.7,2483.2,792.6,569657,283437
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2016,98.1,100,52.3,59.1,59.2,2523,905,574444,300818
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2017,98.1,100,47.6,62.3,65.9,2568.3,925.9,579041,315836
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2018,96.9,98.8,46.7,72.9,60.7,2563.8,971.9,588572,359909
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2019,98.1,100,67.2,78.6,59.4,2623,1100,601116,377451
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2020,98.1,100,70.1,81.5,58.4,2679.7,1162.4,606589,394060
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2021,98.1,100,83.8,85.3,55.4,2729.6,1350.7,611977,476642
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2022,100,,66,75.1,59,2741,1379.5,650877,490314
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2006,72.5,100,,,,12,,3600,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2007,93.1,100,,,5,15,,4500,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2009,56.2,100,,,0,16,,2831,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2010,58.6,98.6,,,8.6,17,,2854,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2011,51.7,63.9,,,0,17,,2530,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2020,59.5,100,,,20,7,,3117,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2021,59.5,100,,,16.7,8,,3132,
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2022,63.9,,,,16.7,8,,3132,
+5103452,Denise,resto_mt,Demais MT,FALSE,1998,,89.7,,,,,,4296,
+5103452,Denise,resto_mt,Demais MT,FALSE,1999,,61.3,,,,,,3131,
+5103452,Denise,resto_mt,Demais MT,FALSE,2003,72.2,82.3,,,0,55,,6000,
+5103452,Denise,resto_mt,Demais MT,FALSE,2004,84.2,95.8,,,,75,,7468,
+5103452,Denise,resto_mt,Demais MT,FALSE,2005,87.2,99.2,,,,80,,8006,
+5103452,Denise,resto_mt,Demais MT,FALSE,2006,76.1,86.4,,,30,82,,7225,
+5103452,Denise,resto_mt,Demais MT,FALSE,2007,72.7,88.3,,,19.7,86,,7526,
+5103452,Denise,resto_mt,Demais MT,FALSE,2009,60,73.1,,,0,28,,6680,
+5103452,Denise,resto_mt,Demais MT,FALSE,2010,85.1,99.4,,,6.6,28,,7250,
+5103452,Denise,resto_mt,Demais MT,FALSE,2011,84.6,98.9,,,0,28,,7280,
+5103452,Denise,resto_mt,Demais MT,FALSE,2013,96.7,100,,,30,20,,8523,
+5103452,Denise,resto_mt,Demais MT,FALSE,2014,95.8,99.1,,,30,20,,8523,
+5103452,Denise,resto_mt,Demais MT,FALSE,2016,94.3,94.3,,,0,200,,8523,
+5103452,Denise,resto_mt,Demais MT,FALSE,2017,99.2,93.5,,,25,200,,9040,
+5103452,Denise,resto_mt,Demais MT,FALSE,2018,96.4,90.9,,,25,200,,9040,
+5103452,Denise,resto_mt,Demais MT,FALSE,2022,97.7,,,,8.5,59,,6850,
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1996,,100,,,,58.1,3.6,16216,445
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1997,,100,3.4,,,58.1,3.6,17510,441
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1998,,100,,,,,,16820,423
+5103502,Diamantino,resto_mt,Demais MT,FALSE,1999,,100,,0,,,,13475,411
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2001,64.7,84,4,100,54.5,60,1.3,12210,374
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2002,89.4,100,2.8,100,34.2,60.3,0.9,17104,374
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2003,93.4,100,3.3,100,36.4,61.4,0.9,18099,503
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2004,98.9,100,2.9,100,33.2,61.4,0.9,19688,487
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2005,100,100,2.3,100,41.2,61.4,0.9,20608,487
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2006,100,100,2.8,100,46.1,61.4,0.9,20761,487
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2007,100,100,2.6,100,35.3,61.4,0.9,21397,487
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2008,87.9,100,3.1,100,56.1,62.7,0.9,16674,391
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2009,89.6,100,2.2,100,41.6,63,1,17006,391
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2010,81.5,100,2.2,100,55.5,63.6,1,16585,363
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2011,83,100,2.1,100,56.6,64.8,1,16994,363
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2012,87.4,100,13.7,100,35.7,55,1,18000,8000
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2013,96,100,9.9,100,11,71,15,20000,2800
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2014,95.5,100,11.5,100,54.7,75.6,15.2,20000,2800
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2015,89.9,100,13.1,100,40.2,75.6,15.2,18937,3307
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2016,85.6,100,16.9,100,39.8,75.6,15.2,18129,5349
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2017,84.1,100,15.6,100,33.9,75.6,35.8,17900,6792
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2018,88.7,100,17,100,33,75.6,42.6,19432,8594
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2019,100,100,22.6,100,43.8,75.6,42.6,22041,8639
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2020,78.1,100,29,100,29.2,83.5,49.5,17330,8700
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2021,78.1,100,32,100,30.1,83.6,49.5,17434,9689
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2022,79.4,,31.5,100,27.6,98.4,56.7,17413,9600
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,1997,,100,,,,33.5,,7895,
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2001,82.9,100,,,18.7,39.5,,6953,
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2002,83.4,100,,,0,42.8,1904,6961,321
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2003,88.5,100,1.2,100,0,43.4,1.9,7356,321
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2004,94.6,100,1.4,100,0,43.4,1.9,7801,360
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2005,94.8,100,1.1,100,31.4,43.7,1.4,7779,130
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2006,99.1,100,1.1,100,36.6,43.7,1.4,8092,130
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2007,98.2,100,1,100,38,46.4,1.4,8115,130
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2008,93.3,100,1.1,100,39.1,46.4,1.4,7931,124
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2009,95.3,100,1,100,51,60,1,8098,124
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2010,86.3,100,1.4,100,19.1,60,1,7056,207
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2011,84.3,98.2,1.3,100,39,62,1,6872,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2012,84.3,98.3,1.7,100,49.9,62,1,6858,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2013,84.7,98.7,1.6,100,48.7,62,1,6858,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2014,85,99.1,1.6,100,48.7,62,1,6858,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2015,86.6,99.5,1.8,100,48.8,63,1,6959,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2016,100,99.8,1.8,100,57.2,63,1,8009,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2017,100,92.2,1.8,100,57.2,63,1,7977,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2018,97.3,89.7,1.6,100,55.7,65,1,7977,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2019,97.5,89.9,1.6,100,55.7,65,1,7977,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2020,97.8,92.1,1.6,100,59.4,65,1,7977,184
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2022,86.8,,4.2,100,29.4,59.9,1.4,6834,272
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2001,44.3,58.5,,,,,,3200,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2002,66.1,87.4,,,0,,,5000,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2003,94.6,100,,,0,18,,7500,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2004,89,100,,,0,22,,7750,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2006,83.7,100,,,55,35,,8000,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2007,83.7,100,,,30,60,,8600,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2010,70.8,95.3,,,12,25,,7740,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2012,74.3,100,,,30,40,,8590,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2013,74.3,100,,,0,42,,8981,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2014,74.3,100,,,0,42,,9243,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2015,65.7,88.5,,,0,44,,8400,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2016,64.8,87.2,,,29.2,52,,8500,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2017,64.5,86.9,,,36.9,60,,8680,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2018,63.1,85,,,0,70,,8750,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2019,74.3,100,,,26.7,20,,10544,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2020,74.4,92.7,,,28.1,12,,10800,
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2021,74.1,95.2,,,40,13,,11000,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,1997,,100,,,,7.5,,2133,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2176,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,1999,,100,,,,,,1809,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2005,45.4,100,,,0,7.5,,1646,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2006,67.2,100,,,15,8.4,,2355,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2007,74,100,,,15.1,9,,2699,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2008,60.9,100,,,1.4,10,,2265,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2009,60.6,99.1,,,2.7,10,,2215,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2016,100,100,,,0,13,,3492,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2017,100,100,,,0.7,13,,3444,
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2018,97.4,97.4,,,0.7,13.5,,3444,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2006,75.5,100,,,0,13.6,,4240,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2007,74.4,100,,,0,13.8,,4326,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2009,59.7,100,,,0,10,,3700,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2011,34.9,100,,,0,20.4,,2241,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2012,34.9,100,,,0,22,,2285,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2013,34.9,100,,,0,45,,2359,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2014,72.5,74.8,,,0,50,,5000,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2015,92.5,97.8,,,0,50,,6508,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2017,34.9,100,,,32.2,28.6,,2546,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2020,34.9,100,,,4.9,40,,2716,
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2021,34.9,100,,,20.9,45,,2761,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1997,,85.6,,,,7.8,,2094,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1998,,89.7,,,,,,2230,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,1999,,64.6,,,,,,1635,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2002,63,100,,,0,7,,2745,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2005,100,100,,,0,12,,5500,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2006,100,100,,,0,12,,5500,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2007,100,100,,,0,14,,5680,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2008,100,100,,,23.8,14,,4969,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2012,46.5,99,,,51.7,15,,2383,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2014,94.9,97.1,,,7.2,30,,5000,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2015,94.4,97.2,,,12.2,32,,5021,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2016,98,98.8,,,17.4,33,,5178,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2017,97.3,98.3,,,16,33,,5187,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2018,94.8,96.4,,,16.4,43,,5200,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2021,100,100,,,33.3,94,,5726,
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2022,86.1,,,,40,94,,5200,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,6.8,,1812,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,1998,,100,,,,,,1584,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,1999,,67.1,,,,,,879,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2001,10.3,16.5,,,,7.5,,334,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2002,53.7,85.5,,,,7.5,,1680,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2005,19.6,31.2,,,29.2,7.5,,522,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2006,20.7,33,,,31.1,7.5,,526,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2007,62.4,95.5,,,11.6,10,,1949,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2008,61.8,94.6,,,11.8,10,,1981,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2009,62.2,95.2,,,11.8,10,,1981,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,68.5,100,,,11.8,12,,2147,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2011,68.9,100,,,6.2,13,,2147,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2016,100,100,,,0,20,,2986,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2017,99.4,100,,,0,20,,2945,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,68.5,100,,,9.4,30,,2060,
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2022,92.1,,,,16.7,22,,2675,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,1997,,61.5,,,,25.7,,7796,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,1998,,57.4,,,,,,7489,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,1999,,26.7,,,,,,3591,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2001,37.7,50.4,,,7.2,47,,10980,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2004,54.5,77.2,,,10.4,110,,17500,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2005,55.9,78.8,,,3.4,125,,18400,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2006,55.8,78.7,,,3.1,130,,18848,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2007,66.1,88.9,,,3.1,140,,20336,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2008,69.2,93.2,,,30,146,,21992,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2009,71.7,96.8,,,31.1,,,23052,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2010,74.9,97.4,,,30.8,152,,24144,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2011,78.2,98.9,,,32.9,155,,25440,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2012,79.6,99.9,,,34,156.5,,26121,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2013,81.1,100,,,40.1,168.5,,27029,
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2014,80.4,100,5.9,100,40.4,134.1,33.9,27056,1074
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2015,74.4,100,9.6,100,48.4,117.1,31.4,25253,2172
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2016,75,100,17.6,100,25.2,117.1,31.4,25653,3902
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2017,74.3,100,17.4,100,22.7,122,44.3,25637,5209
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2018,74.7,100,18.6,100,32.1,122,52,26532,5599
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2019,83.4,100,20.1,100,30.6,126.8,52,29874,5694
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2020,74.3,100,22,100,29.6,138.2,62.3,26849,7555
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2021,74.3,100,23.9,100,36.5,145.4,70,27078,8465
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2022,86.7,,23.8,100,34.2,174.1,70,26893,8889
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1997,,100,,,,45.5,,13732,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1998,,100,,,,,,12667,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,1999,,100,,,,,,11040,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2001,41.1,42.6,,,,12,8.3,5080,2830
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2007,66.6,72.5,,,51.4,10,,9248,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2008,68.1,74.4,,,38,17,,9780,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2009,89.5,99.4,,,35,17,,13000,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2010,89.5,100,,,33.8,19,,12467,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2011,88.8,99.3,,,36.4,49,,12467,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2012,98.6,99,,,38.8,51,,13934,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2013,97.4,97.8,,,39.9,53,,13934,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2014,97.6,98.1,,,37.9,53,,14061,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2015,97,95,,,37.9,53,,14061,
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2021,89,84.9,,,6.2,40,,14000,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,1997,,100,,,,8.3,,1374,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,1998,,100,,,,,,1422,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,1999,,80.5,,,,,,914,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2002,,,,,0,10.4,,,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2009,73,100,,,,,,1955,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2013,97.3,100,,,21.9,13,,2425,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2014,96.5,99.2,,,22.1,13,,2430,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2015,95.6,98.3,,,21.5,13.5,,2430,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2016,92.6,95.8,,,21.9,13.6,,2430,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2017,91.8,95,,,20.9,13.6,,2430,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2018,89.2,93.8,,,20.9,13.6,,2430,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2019,89,95.4,,,15.6,13.8,,2450,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2020,88.2,94.4,,,15.9,13.9,,2450,
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2022,42.9,,,,56.2,13,,950,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2006,100,100,,,0,24,,3600,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2007,100,100,,,0,26,,4224,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2008,100,100,,,0,28,,4376,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2009,100,100,,,0,29,,4641,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2010,67.8,100,,,0.4,33,,3475,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2011,75,98.6,,,0,35,,4035,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2012,71.8,95.6,,,13.1,35,,4042,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2013,100,100,,,13.1,35,,6057,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2014,100,100,,,18.7,35,,6347,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2015,100,100,,,20,35,,6629,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2016,67.8,100,,,28.5,35,,4682,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2017,65.3,96.3,,,15.5,35,,4682,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2018,67.8,100,,,26.4,35,,5016,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2019,67.8,100,,,41.8,37.3,,5201,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2020,67.8,100,,,45.7,37.9,,5372,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2021,65.8,97,,,50.7,37.9,,5384,
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2022,99.4,,,,45.3,37.9,,7772,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2006,100,100,,,30,16,,8000,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2007,100,100,,,12.5,19.5,,8200,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2009,100,100,,,2.3,42,,5061,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2010,84.5,99.8,,,4.8,43,,4458,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2011,86.3,100,,,6.6,43,,4680,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2012,84.2,97.5,,,50.9,47,,4680,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2013,90.7,93.6,,,28.6,47,,5255,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2014,90.8,91.1,,,28,48,,5400,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2015,81.9,95.4,,,29.4,50,,5000,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2016,80,95.8,,,26.4,55,,5000,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2017,86,95.7,,,30.8,56,,5500,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2018,83.5,96,,,30.8,56,,5500,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2019,88.2,43,,,70.5,56,,5940,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2020,93,57.6,,,0,56,,6400,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2021,92.5,59.3,,,0,62,,6500,
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2022,86.2,,,,0,62,,6500,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,1997,,76.5,,,,18.3,,2970,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,1998,,66.7,,,,,,2667,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,1999,,64.9,,,,,,2675,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2006,86.6,100,,,27.1,27,,5623,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2007,100,100,,,23.8,27.6,,4625,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2009,77.4,100,,,0,28,,3547,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2011,81.2,100,,,47.5,12,,3639,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2012,82.8,100,,,47.5,12,,3639,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2013,100,100,,,47.5,12,,4238,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2014,100,100,,,47.5,12,,4124,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2015,87.2,92.1,,,74.6,14.2,,3500,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2016,85,89,,,76.7,16.5,,3321,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2017,100,100,,,0,34.6,,3800,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2018,100,100,,,49.7,35.8,,3901,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2019,100,100,,,60.3,36,,3802,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2020,100,100,,,62.5,46,,3704,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2021,100,100,,,54.3,46,,3609,
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2022,100,,,,54.5,50.6,,5020,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,14.7,,4027,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1998,,100,,,,,,3806,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,1999,,100,,,,,,3748,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2002,69.1,97.3,,,,20,,6530,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2006,58.2,100,,,31.2,19.5,,5868,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2007,48.6,100,,,31.2,19.5,,5915,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2009,62.1,100,,,,,,8083,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2010,38.7,100,,,30,40,,4442,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2012,62.8,87.4,,,34.9,23,,7419,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2013,68.1,89.6,,,0,32,,8250,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2014,97.6,91.4,,,0,38,,12000,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2015,100,93.2,,,0,42,,12472,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2016,100,92.1,,,0,42.2,,12620,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2017,100,95,,,9.1,42.2,,12789,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2018,100,100,,,9.1,42.3,,13163,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2019,100,100,,,7.7,44,,13345,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2020,98.5,98.5,,,6.9,46,,13345,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2021,97.2,97.2,,,5.9,50,,13345,
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2022,96.9,,,,6.5,50,,11856,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1996,,100,,,,88.6,,20151,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1997,,100,,,,66.6,,21605,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2004,100,100,,,,110,,26972,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2005,100,100,,,33.9,117,,26930,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2006,99.4,100,,,27.3,120,,27318,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2007,94.7,100,,,26.6,150,,23615,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2008,94.7,100,,,29.3,155,,24371,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2009,97,100,,,35.1,120,,25140,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2012,100,100,,,33.5,150,,25927,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2013,100,100,,,33.5,162.5,,26157,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2014,100,100,,,78.2,50,,26281,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2015,100,100,,,75.4,200,,26401,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2016,100,100,,,75.8,300,,26519,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2017,100,100,,,75.8,300,,26633,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2018,100,100,,,57.2,301,,27628,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2019,100,100,,,41.4,86,,27776,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2020,100,100,,,56.5,87.5,,27807,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2021,100,100,,,54.5,89,,27696,
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2022,93.5,,,,55.6,89.2,,26713,
+5104906,Jangada,resto_mt,Demais MT,FALSE,1997,,94.2,,,,11,,2774,
+5104906,Jangada,resto_mt,Demais MT,FALSE,1998,,91.2,,,,,,2770,
+5104906,Jangada,resto_mt,Demais MT,FALSE,1999,,94.5,,,,,,2956,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2001,34.8,89.8,,,,12.9,,2550,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2006,36.8,95.1,,,18,28,,3145,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2007,40.4,92,,,28.3,30.6,,3255,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2008,40.5,92.2,,,36.6,32.6,,3379,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2009,42.3,96.3,,,26.2,35,,3577,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2010,38.3,100,,,27.6,35,,2946,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2011,38.3,100,,,35.3,15,,2963,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2012,38.3,100,,,67,19.3,,2979,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2013,38.3,100,,,45,19.3,,3005,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2014,59.3,100,,,44.5,20.8,,4676,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2015,54.1,100,,,41.4,20.8,,4290,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2016,55.2,100,,,35.6,20.8,,4396,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2017,59.2,100,,,41.5,23.1,,4733,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2018,57.8,100,,,30.4,23.1,,4835,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2019,68.3,100,,,32.4,25,,5742,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2020,38.3,100,,,42.5,25,,3235,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2021,38.3,100,,,51.7,25,,3223,
+5104906,Jangada,resto_mt,Demais MT,FALSE,2022,37.3,,,,45.4,25,,2770,
+5105002,Jauru,resto_mt,Demais MT,FALSE,1997,,100,,,,31.4,,6036,
+5105002,Jauru,resto_mt,Demais MT,FALSE,1998,,97.2,,,,,,5525,
+5105002,Jauru,resto_mt,Demais MT,FALSE,1999,,74.6,,,,,,4117,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2003,38.8,75.3,,,0,31.6,,4891,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2005,38.2,74.2,,,33.9,31.6,,4891,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2006,45.7,84.9,,,33.1,32.8,,5828,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2007,54.9,80.8,,,33.1,32.8,,5912,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2008,55.1,81.1,,,32.6,32.8,,6043,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2009,56.2,82.8,,,31.8,33,,6043,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2010,59.6,90.2,,,33.9,38,,6230,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2011,65.5,100,,,54.3,38,,6720,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2012,59,100,,,60.2,36,,5939,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2013,59,100,,,41.1,36,,5742,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2014,78.9,100,,,39.6,36,,7481,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2015,75,100,,,40.6,48,,6934,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2016,76.3,100,,,30.2,48,,6869,
+5105002,Jauru,resto_mt,Demais MT,FALSE,2017,76.1,100,0,,30.2,48,27,6681,4348
+5105002,Jauru,resto_mt,Demais MT,FALSE,2018,76.6,100,28.7,100,28.4,48,27,6898,5307
+5105002,Jauru,resto_mt,Demais MT,FALSE,2019,88.2,100,31,100,22.1,48,27,7753,4309
+5105002,Jauru,resto_mt,Demais MT,FALSE,2020,59,100,44.3,100,14.9,48,27,5065,4309
+5105002,Jauru,resto_mt,Demais MT,FALSE,2021,59,100,45,100,28.6,48,22.3,4944,4222
+5105002,Jauru,resto_mt,Demais MT,FALSE,2022,58.7,,47.1,100,36.4,48,27.5,4913,4228
+5105101,Juara,resto_mt,Demais MT,FALSE,1997,,86.2,,,,47.9,,16717,
+5105101,Juara,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5105101,Juara,resto_mt,Demais MT,FALSE,2006,75.6,100,,,16.5,110,,27324,
+5105101,Juara,resto_mt,Demais MT,FALSE,2009,82,100,10.3,100,18,120,27,27255,7000
+5105101,Juara,resto_mt,Demais MT,FALSE,2010,79.3,100,21.4,100,18.5,122,40,26020,11100
+5105101,Juara,resto_mt,Demais MT,FALSE,2011,79.3,100,28.3,100,20.3,131,58.3,26145,13000
+5105101,Juara,resto_mt,Demais MT,FALSE,2012,79.3,100,33.1,100,18.2,134.5,72,26265,14360
+5105101,Juara,resto_mt,Demais MT,FALSE,2015,79.3,100,50,100,20.8,150,76.4,26670,12270
+5105101,Juara,resto_mt,Demais MT,FALSE,2016,79.3,100,49.6,100,21.6,156.8,76.9,26766,12300
+5105101,Juara,resto_mt,Demais MT,FALSE,2017,85.2,100,46,100,20.6,157.6,78.4,28840,13266
+5105101,Juara,resto_mt,Demais MT,FALSE,2018,87.3,100,45.2,100,21.1,161.3,81.3,30403,13625
+5105101,Juara,resto_mt,Demais MT,FALSE,2019,88.6,100,44.2,100,21.3,163.5,81.3,31000,13700
+5105101,Juara,resto_mt,Demais MT,FALSE,2020,96.8,100,45.8,100,18.6,164.1,85.3,34000,13700
+5105101,Juara,resto_mt,Demais MT,FALSE,2021,99.2,100,50.8,100,27.9,177.3,89.5,35000,13743
+5105101,Juara,resto_mt,Demais MT,FALSE,2022,99,,49.7,100,26.2,181.2,98.6,34561,15100
+5105150,Juína,resto_mt,Demais MT,FALSE,1997,,47.6,,,,28.3,,11658,
+5105150,Juína,resto_mt,Demais MT,FALSE,1998,,46.2,,,,,,10959,
+5105150,Juína,resto_mt,Demais MT,FALSE,1999,,54.5,,,,,,12494,
+5105150,Juína,resto_mt,Demais MT,FALSE,2002,84.8,100,,,0,91.6,,32600,
+5105150,Juína,resto_mt,Demais MT,FALSE,2003,100,100,,,0,91.6,,40000,
+5105150,Juína,resto_mt,Demais MT,FALSE,2004,43,53.7,,,0,91.6,,16800,
+5105150,Juína,resto_mt,Demais MT,FALSE,2005,51.8,64.6,,,22.6,91.6,,20350,
+5105150,Juína,resto_mt,Demais MT,FALSE,2006,51.5,64.2,,,22.6,91.6,,20350,
+5105150,Juína,resto_mt,Demais MT,FALSE,2007,53.1,62.1,,,22.6,110,,20394,
+5105150,Juína,resto_mt,Demais MT,FALSE,2008,51.5,60.3,,,22.5,110,,20394,
+5105150,Juína,resto_mt,Demais MT,FALSE,2009,52.2,61.1,,,22.6,114,,20741,
+5105150,Juína,resto_mt,Demais MT,FALSE,2010,57.5,66.3,,,0,125,,22575,
+5105150,Juína,resto_mt,Demais MT,FALSE,2011,68.3,77.8,,,0,150,,26875,
+5105150,Juína,resto_mt,Demais MT,FALSE,2012,69.3,79.1,3.3,100,0,162,5,27350,2140
+5105150,Juína,resto_mt,Demais MT,FALSE,2013,72.4,83.2,3.2,100,0,174,5,28650,2140
+5105150,Juína,resto_mt,Demais MT,FALSE,2014,78.2,86.8,3.6,100,0,177,5,31000,2140
+5105150,Juína,resto_mt,Demais MT,FALSE,2015,78.1,88.1,3.6,100,0,184,5,31012,2140
+5105150,Juína,resto_mt,Demais MT,FALSE,2016,81.9,94.4,3.5,100,0,192,5,32546,2216
+5105150,Juína,resto_mt,Demais MT,FALSE,2017,85,98.3,3.3,100,4.1,198,5,33815,2108
+5105150,Juína,resto_mt,Demais MT,FALSE,2018,85.8,99.2,3.2,100,4.1,202,5,35087,2096
+5105150,Juína,resto_mt,Demais MT,FALSE,2019,85.6,98.9,3.2,100,27.4,207,5,35087,2096
+5105150,Juína,resto_mt,Demais MT,FALSE,2020,85.4,98.7,3.1,100,27.1,210,5,35087,2096
+5105150,Juína,resto_mt,Demais MT,FALSE,2021,85.3,98.6,2.3,100,1.5,212,5,35120,2096
+5105150,Juína,resto_mt,Demais MT,FALSE,2022,87.8,,2.3,100,1.8,213,5,40250,2096
+5105176,Juruena,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2003,79.4,100,,,,27.3,,4800,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2004,83.8,100,,,0,28,,5040,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2005,81.9,100,,,0,29,,5090,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2006,81,100,,,0,31,,5200,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2007,63,99.7,,,0,35,,5500,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2008,63.2,100,,,6.2,35,,5802,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2009,60.5,95.7,,,0,43,,5802,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2010,54.6,90,,,10,51,,6120,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2013,60.7,100,,,9.7,39.3,,7833,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2014,60.7,100,,,9.7,40.4,,8151,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2015,58.5,96.4,,,9.7,41.1,,8158,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2016,56.5,93.1,,,37.8,41.9,,8158,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2017,55.3,91.1,,,37.8,41.9,,8248,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2018,56.8,88.4,,,37.8,41.9,,8730,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2019,55,90.6,,,44.2,43.3,,8730,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2020,58.5,96.4,,,0,49.8,,9556,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2021,54.5,89.7,,,55.3,51.6,,9157,
+5105176,Juruena,resto_mt,Demais MT,FALSE,2022,86.4,,,,47.5,55,,8820,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,1997,,87.6,,,,19.5,,6895,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,1998,,,,,,,,,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2004,81.5,100,,,0,55,,10300,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2005,80.7,100,,,0,55,,10300,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2006,80.7,100,,,0,55,,10400,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2007,93,100,,,0,55,,11000,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2009,72.3,97.2,,,0,55,,8800,
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2012,74.4,100,3.6,0,38.9,39.8,1,8430,400
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2013,74.9,98.2,3.1,0,31.8,41,1,8430,400
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2014,82.7,100,1.4,0,0,43,1,9250,400
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2015,82.2,100,1.5,0,0,44,1,9125,410
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2016,82.7,99.3,1.5,0,0,45,1,9125,410
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2022,68.2,,18.5,0,83,73,2.1,7829,702
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,1997,,85.5,,,,,,1160,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,1998,,,,,,,,,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2005,19.8,45.8,,,16.4,9.8,,732,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2006,22.6,59.9,,,11,9.8,,800,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2008,64.4,100,,,35,16,,3239,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2009,64,99.3,,,35,16,,3239,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,100,100,,,31.5,20,,5431,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2011,98.9,100,,,27.5,20,,5431,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2012,97.9,99,,,20.5,22,,5431,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2013,53.3,100,,,58.3,22,,3010,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2014,53.3,100,,,38.1,22,,3043,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2015,53.3,100,,,38.1,22,,3074,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,100,100,,,65.6,18.9,,6186,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2021,99,99,,,65.6,19.2,,6186,
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2022,100,,,,65.6,19.5,,4790,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,1998,,100,,,,64.8,,13156,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,1999,,100,,,,78.6,,19250,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2000,,100,,,,150,,22000,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2001,,,,,,130,,,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2002,,,,,,140,8,,
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2003,72,86.2,,,68,140,8,16718,225
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2004,100,100,,,3.6,180,9,28000,300
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2005,100,100,,,3.5,,12,30000,290
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2006,100,100,9.3,100,0,232.8,22.3,33000,9300
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2007,100,100,8.4,100,5,130.8,22.3,35119,9420
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2008,100,100,20.1,100,10,179.4,52.3,39328,9891
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2009,100,100,19.9,100,14.7,186,53,33556,11400
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2010,94.3,100,19.9,100,16.7,210,62,42955,12000
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2011,94.9,99.8,17,100,0.2,215,62,45144,14000
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2012,100,100,20.7,100,0,231,72,49519,14515
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2013,93.7,100,21.8,100,0,262,77,49519,14515
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2014,93.2,100,24,100,1.4,295,78,51344,14515
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2015,93.2,100,25.3,100,0.3,297.8,78,53386,18183
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2016,90.7,96.5,31.2,100,0,329,80,53887,23400
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2017,86.9,93.2,30.4,100,0,429,100,53436,23400
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2018,100,100,28.4,100,0,435.4,106.1,63411,25364
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2019,100,100,26.7,100,0,436.5,108.5,65534,28228
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2020,100,100,28.2,100,18,441.2,118.2,67620,31556
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2021,94,100,23.5,100,31.4,409.3,141.3,65453,33029
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2022,83.1,,45.6,100,39.6,410.4,165.5,69671,35760
+5105309,Luciara,resto_mt,Demais MT,FALSE,1997,,100,,,,8,,2256,
+5105309,Luciara,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2170,
+5105309,Luciara,resto_mt,Demais MT,FALSE,1999,,100,,,,,,1802,
+5105309,Luciara,resto_mt,Demais MT,FALSE,2005,100,100,,,22.1,9.5,,2510,
+5105309,Luciara,resto_mt,Demais MT,FALSE,2006,100,100,,,14.5,9.5,,2510,
+5105309,Luciara,resto_mt,Demais MT,FALSE,2020,97.2,0,,,20,10,,2000,
+5105309,Luciara,resto_mt,Demais MT,FALSE,2021,98.2,96.9,,,20,10,,2000,
+5105309,Luciara,resto_mt,Demais MT,FALSE,2022,79.7,,,,20,10,,2000,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1997,,99.8,,,,11.5,,3260,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1998,,84.7,,,,,,2826,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,1999,,77.2,,,,,,2627,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2004,28.2,100,,,,20,,4000,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2005,31.7,100,,,,20,,4600,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2006,31.8,100,,,25.7,22,,4720,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2007,24,68.4,,,25.7,23,,3338,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2009,35.1,100,,,68.4,17,,5101,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2010,35.5,99.7,,,70.4,19.1,,5151,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2012,32.8,92.1,,,50.1,24.7,,4850,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2013,32.7,91.8,,,48.9,25.3,,4910,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2014,33.1,92.8,,,46.7,27.3,,5006,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2015,34.9,97.9,,,50.6,31.3,,5332,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2016,37.6,98.8,,,49.9,34.2,,5800,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2017,37.9,99.9,,,50.3,34.6,,5881,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2018,37,98.6,,,53.9,35.9,,5922,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2019,37.1,99.7,,,53.5,37,,5988,
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2020,38.3,100,38.4,100,59.7,45,7,6230,2000
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2021,39.5,99.2,37.1,100,57,47,8,6490,2122
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2022,40.4,,36,99.3,54.8,49,8,6782,2122
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,1997,,69.2,,,,16.4,,5621,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,1998,,55,,,,,,4755,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,1999,,54,,,,,,4944,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2004,55.9,88.1,,,9.8,22.9,,9695,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2006,46.4,73.2,,,12.8,49.3,,8650,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2007,67.5,100,,,10.2,53.3,,9511,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2008,71,100,,,16.4,55.6,,10283,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2009,63.2,98.9,,,17.3,60,,9148,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2010,61.9,100,,,7.2,62,,7426,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2011,61.9,100,,,38.6,62,,7310,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2012,61.9,100,,,37.9,55.8,,7198,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2013,61.9,100,,,36.9,57.4,,7004,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2014,87.3,100,,,35.4,57.4,,9677,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2015,84.5,100,,,38.7,57.4,,9174,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2016,87.4,100,,,33.5,61,,9299,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2017,89.9,100,,,23,61,,9366,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2018,89.6,100,,,18.7,61,,9590,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2019,61.9,100,,,24.5,61,,6494,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2020,98.1,100,,,21.2,61.1,,10109,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2021,100,100,,,18.9,61.8,,10107,
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2022,91.1,,,,34.9,61.8,,10384,
+5105606,Matupá,resto_mt,Demais MT,FALSE,1997,,40.8,,,,17,,3116,
+5105606,Matupá,resto_mt,Demais MT,FALSE,1998,,40.1,,,,,,3124,
+5105606,Matupá,resto_mt,Demais MT,FALSE,1999,,21.5,,,,,,1706,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2004,84.5,100,,,31.2,62.4,,10000,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2005,99.1,100,,,9.5,72.9,,11855,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2006,99.2,100,,,4,76,,11985,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2007,84.4,100,,,1.6,77,,12015,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2008,77.3,100,,,5.9,82,,11452,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2009,77.5,100,,,5.9,85,,11752,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2010,80.1,100,,,5.3,86,,11351,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2011,79.5,99.1,,,11.9,98,,11450,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2012,100,99.4,,,46.4,100,,14610,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2013,100,99.6,,,38,300,,14973,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2014,100,100,,,40.4,74.9,,15206,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2015,90.6,100,,,58.8,74.9,,13988,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2016,90.3,100,,,40,74.9,,14140,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2017,91.2,100,,,39.2,66.7,,14475,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2018,93.6,100,,,30.9,66.7,,15282,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2019,77.1,100,,,38.5,69.5,,12771,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2020,77.1,100,,,32.6,77.9,,12946,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2021,77.1,100,,,28.8,77.9,,13119,
+5105606,Matupá,resto_mt,Demais MT,FALSE,2022,81.5,,49.6,100,22.3,84.7,54.8,16373,11602
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,1997,,96.2,,,,41.9,,19186,
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,1998,,91.2,,,,,,18256,
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,1999,,45,,,,,,9051,
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2006,96.5,100,25.8,100,16.5,45,15.8,21830,8300
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2007,66.7,80.3,,,,45.6,24.3,16377,4907
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2008,51.5,62,37,80,58.7,55.8,25.5,13062,8518
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2009,69.9,84.1,23.3,100,56,67,26,17902,21281
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2010,72.5,85.5,,,52.7,69,26.5,18353,8590
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2011,82,96.6,32.3,0,51.6,70,26.5,20907,7497
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2012,81.5,96,28.2,0,44.1,75,26.5,20925,7553
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2013,81.5,96,27.6,0,42.4,78.9,27.1,21182,7613
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2014,81.2,95.7,27.1,0,41.5,81.5,27.5,21268,7600
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2015,81.2,95.7,25.6,0,37.6,83.9,28.4,21416,7653
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2016,80.7,95.1,26.2,0,38.7,85.1,28.4,21465,7674
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2017,80.6,95,25.6,0,37,85.6,28.4,21581,7721
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2018,79.9,94.2,25.9,0,37,85.6,28.4,22012,7806
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2019,79.3,93.5,31.4,65.9,37,85.6,28.4,22012,7806
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,100,99.7,33,21.8,52.3,92,35.5,27939,7806
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2021,100,99.7,80,23.1,51,92,35.5,28133,7860
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2022,88,,100,23.1,29,92,35.5,23574,6510
+5105903,Nobres,resto_mt,Demais MT,FALSE,1997,,100,,,,42,,14065,
+5105903,Nobres,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5105903,Nobres,resto_mt,Demais MT,FALSE,2000,,99.8,,,,80.9,,11935,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1997,,100,10.8,,,19.4,1.7,10341,787
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1998,,100,,,,,,10281,782
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,1999,,73,,0,,,,6624,607
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2006,100,100,,,17.8,44.3,,7526,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2007,100,100,,,31.2,46.3,,7041,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2008,77.8,95.9,,,21.4,48.2,,4956,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2009,75.2,92.7,,,12.5,50,,4716,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2010,81.9,100,,,15.3,50.5,,5269,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2011,81.9,100,,,24.8,50.5,,5218,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2012,81.9,100,41.8,100,57.3,39.7,2.5,5169,477
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2013,81.9,100,,,49.8,45.2,,5083,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2014,99,100,,,36.6,45.4,,6064,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2015,95.4,100,,,34.2,45.4,,5768,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2016,97.5,100,,,34.2,45.4,,5822,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2017,98.8,100,,,36.8,45.4,,5822,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2018,96.5,100,100,100,31,45.4,100,5844,4958
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2019,81.9,100,,,34.1,45.5,,4903,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2020,81.9,100,,,39.7,45.5,,4849,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2021,81.9,100,,,40.7,45.5,,4796,
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2022,80,,,,43.1,48.7,,4762,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1997,,96.6,,,,14.6,,3501,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1998,,83.8,,,,,,3057,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,1999,,90,,,,,,3310,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2001,31.4,84,,,,18.1,,3880,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2002,31.1,83.1,,,87,31.1,,3880,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2003,40.2,100,,,87,33,,5089,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2006,36.3,100,,,33.3,,,4854,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2008,46.5,100,,,69.1,25,,5942,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2009,45.4,100,,,20.2,25,,5819,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2010,42.8,100,,,19.5,25,,4970,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2011,42.9,100,,,15.2,25,,4970,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2012,43.3,99.5,,,15.2,27,,5001,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2013,52.3,100,,,23.3,27,,6015,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2014,52.6,100,,,20.6,28.5,,6015,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2015,53.7,100,,,23.6,28.5,,6115,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2016,49.2,91.9,,,57.8,28.5,,6157,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2017,49.3,85.6,,,23.4,24.4,,6157,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2018,48,81.6,,,3.2,24.4,,6357,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2019,48.1,100,,,0.3,25.7,,6357,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2020,49.6,100,,,2.8,8,,6500,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2021,49.6,100,,,2.8,8,,6494,
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2022,40.8,,,,7.1,7,,5281,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2006,30.6,100,,,8.6,18.5,,2998,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2007,24.5,70.7,,,0,18.5,,3123,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2008,26.1,75.2,,,32.1,19.5,,3500,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2009,26.4,76,,,34.4,21,,3710,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2010,33.6,96,,,38.4,29,,3910,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2012,34.9,36.4,,,10.2,37.2,,4309,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2013,71.8,77.5,,,9.3,37.2,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2014,69.7,75.2,,,9.8,37.2,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2015,67.7,73.1,,,9.8,37.2,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2016,65.9,71.1,,,9.8,37.2,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2017,64.3,69.3,,,9.5,42,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2018,62.4,67.3,,,3.6,44,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2019,60.8,61.9,,,3.5,46,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2020,59.3,60.3,,,16.3,50,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2021,57.9,100,,,17.5,51.5,,9300,
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2022,68.2,,,,11.8,51.5,,9300,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2008,34.4,100,,,0,11.2,,985,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2009,34.3,100,,,,11,,1013,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2010,33.4,90.5,,,10.1,11.3,,1013,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2011,33.8,91.4,,,5,13.5,,1050,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2012,65,89.2,,,5,15.5,,2071,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2013,62.4,85.6,,,0,15.5,,2071,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2014,60.8,83.5,,,0,15.5,,2071,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2016,40.3,84.8,,,0,13.9,,1440,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2017,40.2,84.5,,,2,14.2,,1468,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2018,39,82.1,,,1,15.2,,1469,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2019,38.2,80.3,,,8.3,15.3,,1469,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2020,38.9,82.7,,,8.3,15.6,,1529,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2021,38.1,81.1,,,10.1,16.5,,1529,
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2022,37.1,,,,11.9,18.5,,1559,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2005,85.2,100,,,0,25.1,,3983,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2006,84.6,100,,,11.3,28.4,,4050,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2007,86.6,100,,,11.3,29.7,,4284,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2008,53.5,100,,,11.3,34.2,,2752,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2009,53.5,100,,,11.1,37,,2810,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2010,54.8,100,,,11.1,38,,2980,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2012,54.8,100,,,46.2,35,,3096,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2013,53.2,97,,,46.9,35,,3096,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2014,52.2,95.2,,,46.9,35,,3100,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2015,51.2,93.4,,,46.9,35,,3100,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2016,56.5,99.5,,,76.8,35,,3522,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2017,55.6,97.9,,,76.9,35,,3522,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2018,54,95,,,76.9,35.1,,3522,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2019,53,93.4,,,76.9,35.1,,3522,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2020,56.3,100,,,76.9,36,,3800,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2021,56.1,98.4,,,77.3,39,,3850,
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2022,56.4,,,,20,39,,3761,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2007,100,100,,,5.1,16.2,,3800,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2008,60.4,100,,,5.1,16.5,,2084,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2009,60,100,,,15.4,18,,2084,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2010,80.6,100,,,46.7,19.9,,2794,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2011,82.4,100,,,43.7,19.9,,2874,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2012,100,100,,,77.5,19.9,,3505,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2013,63,100,,,79.2,19.9,,2226,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2014,62.7,99.6,,,79.2,19.9,,2226,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2015,78.1,100,,,58.4,19.9,,2786,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2016,76.5,99.6,,,56.2,20.6,,2740,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2017,63.9,100,,,72.1,21.3,,2296,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2018,64.5,99.6,,,40,26.1,,2387,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2019,64.2,99.1,,,0,26.1,,2387,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2020,63.9,98.6,,,7.8,26.6,,2387,
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2022,32.2,,,,36.8,44,,1364,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,1998,,100,,,,,,4194,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,1999,,100,,,,,,4325,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2003,77.4,100,,,0,16.2,,4099,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2004,82.5,100,,,0,16.2,,4099,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2005,84.8,100,,,20,16.2,,4060,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2006,97.7,100,,,18,16.2,,4500,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2007,77.7,100,,,21.2,16.2,,3800,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2008,76.2,100,,,19.3,16.2,,3800,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2009,77.5,100,,,8,16,,3800,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2011,73.6,92,,,44.4,11,,3310,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2014,100,100,,,,20,,4139,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2015,100,100,,,,21,,4029,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2016,100,100,,,,21,,3931,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2017,100,100,,,35.1,21,,3827,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2018,100,98.3,,,27.3,21,,3928,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2019,100,100,,,9,21.5,,3829,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2020,100,100,,,9.2,21.5,,3805,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2021,100,100,,,9.2,21.5,,3656,
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2022,74.9,,,,11.5,21.5,,2945,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,1997,,67.2,,,,11.9,,2793,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,1998,,66.5,,,,,,2682,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,1999,,60.9,,,,,,2385,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2003,47.9,100,,,18.4,23,,5418,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2004,62.7,100,,,16.9,23,,7000,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2005,71.9,100,,,12.3,28.7,,7974,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2006,72.4,100,,,57.5,28.7,,7974,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2007,62.2,100,,,8.1,37,,7865,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2008,68.7,100,,,8.1,39,,8990,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2009,64.6,100,,,35,30,,8557,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2010,62,100,,,35,35,,7521,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2011,63.6,99.6,,,27.7,37,,7742,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2012,64.3,99.4,,,31.1,42,,7852,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2013,64.5,99.9,,,33.6,45,,7927,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2016,100,100,,,25.8,28,,12355,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2017,100,100,,,25.7,32,,12388,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2018,100,100,,,25.7,38,,12739,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2019,100,100,,,25.9,45,,12787,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2020,100,100,,,25.2,50,,12831,
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2022,100,,,,1.4,35,,11707,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,1998,,100,,,,60,,11500,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,1999,,100,,,12.3,65,,10000,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2000,,100,,,35.4,71,,11000,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2001,74.9,100,,,10,58.3,,10885,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2002,79.5,100,,,10.2,58.5,,12078,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2003,100,100,,,12,64,,16775,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2004,100,100,,,5.2,70,,18904,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2005,100,100,,,0,74,,20880,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2006,100,100,,,23.1,80,,22195,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2007,99.5,100,,,12,96,,24249,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2008,100,100,,,12,188,,30000,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2009,100,100,,,9.2,,,26874,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2010,92.8,100,,,44.6,132,,29365,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2011,100,100,,,22.8,156.7,,33034,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2012,96.1,99.7,,,0,257.8,,33034,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2013,100,100,,,0,261,,36659,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2014,100,100,,,50,267,,38206,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2015,95,99.8,,,25.5,274,,37712,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2016,100,100,,,24.4,284,,41178,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2017,100,100,,,33.2,286,,42607,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2018,100,100,,,22.2,292,,43919,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2019,100,100,,,25.9,304.5,,45378,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2020,100,100,,,25.9,306.5,,46813,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2021,100,100,,,18,333.3,,48222,
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2022,100,,,,18,355.1,,55839,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,1997,,42.3,,,,21.6,,3972,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2001,83.9,93.5,,,17.5,54,,12633,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2002,80.4,89.6,,,35.9,60,,12633,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2003,79.4,88.6,,,26.2,62,,13050,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2004,74,82.5,,,30.9,62,,13250,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2006,82.1,91.5,,,23.7,64,,16055,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2007,83.4,92.9,,,38.5,65.6,,16250,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2010,90.4,100,,,61,66.5,,15836,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2012,85.7,94.7,,,34.9,60,,15432,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2013,83.7,92.6,,,34.9,60,,15432,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2014,94.7,91.3,,,42.8,75,,17714,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2015,93.4,90,,,5.6,80,,17714,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2016,91.1,89.4,,,65.9,90,,17515,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2017,100,88.4,,,3.2,90,,19465,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2018,97.9,100,,,3,90,,19607,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2019,100,100,,,5.6,90,,20301,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2020,100,100,,,6,90,,20563,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2021,100,100,,,5.4,110,,20820,
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2022,100,,,,5.3,110,,16352,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2004,69.9,100,,,20.9,,,4968,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2005,73.5,100,,,28.2,40,,5460,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2006,88.4,100,,,2.3,80,,6850,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2007,89.3,100,,,2.9,80,,6950,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2009,82.4,100,,,,35,,6900,
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2022,100,,,,26.5,47.9,,11530,
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,1997,,100,,,,47.7,,18032,
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,1998,,100,,,,,,16423,
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,1999,,100,,,,,,16857,
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2002,74.6,91.7,,,58.7,58.5,9,13200,990
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2003,82.3,100,,,,80,9,14506,861
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2004,82,100,,,,41,9,14343,1400
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2005,93.7,100,,,,123,10.5,16317,1540
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2006,99.3,100,,,35,85,28.7,17209,1326
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2007,23.6,29.9,,,25.6,88,28.7,4410,1757
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2008,80.8,100,,,38.3,91,28.7,15579,1533
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2009,97.7,100,,,28.9,92,28.7,18960,1918
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2010,80.2,100,,,34.5,104,29,15746,4328
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2011,79.9,99.6,24,100,19.9,105,29,15800,5800
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2012,88,100,27.8,100,16.1,105,39,17526,6000
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2013,92.5,99.9,35.2,100,41.4,109,45,18625,6203
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2014,99.9,100,37.3,100,40.5,124,58,20247,8370
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2015,99.9,100,42.5,100,40.3,150,65,20386,8401
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2016,100,100,43.1,100,40.4,160,69,20519,10840
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2017,80.2,99.4,44,100,40.4,160,74,16544,12022
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2018,97.3,99.4,46.5,100,40.4,162,76,20655,12042
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2019,98.1,100,63.5,100,40.1,163.4,79,20974,13224
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2020,80.2,100,61.4,100,40.5,165.1,83.1,16789,12550
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2021,77.9,97.2,46.7,100,21.5,165.1,84.2,16900,13273
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2022,95.9,,45.4,100,23.2,172,89.2,23341,14415
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2006,46.1,100,,,0,6.2,,3000,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2007,44.6,100,,,0,7.6,,3000,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2008,33.9,86.2,,,20,7.6,,2375,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2009,31.6,80.5,,,18,8,,2280,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2010,53.2,100,,,6.5,8,,3900,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2011,39.3,100,,,1.6,8.5,,2954,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2012,39.3,100,,,0,9.3,,3022,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2013,38.6,98.2,,,0,10.1,,3080,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2014,38.2,97.2,,,2,11.3,,3124,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2015,39.3,100,,,0,11.8,,3289,
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2022,44.5,,,,20.3,26,,2903,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,1997,,99.3,,,,10.8,,1286,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,1998,,100,,,,,,1273,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,1999,,100,,,,,,1507,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2001,44.5,92.3,,,,14.3,,1519,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2002,50.9,98.1,,,,18.9,,1707,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2003,52.8,100,,,2.5,19,,1730,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2004,58.8,100,,,2.5,19.2,,1837,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2005,67.5,100,,,2.4,19.7,,2050,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2006,73.8,100,,,9.1,20.1,,2178,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2007,66.2,100,,,7.7,20.3,,2516,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2009,63.5,100,,,7.2,21,,2522,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2011,63.1,68.6,,,13.4,20,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2012,62.9,68.3,,,23.6,21,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2013,62.4,67.8,,,0,27.6,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2014,62.1,67.5,,,10,31,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2015,61.9,67.2,,,10,31,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2016,61.6,66.9,,,10,32.5,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2017,61.4,66.7,,,10,32.5,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2018,59.7,64.9,,,10,32.5,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2019,59.4,64.5,,,10,32.5,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2020,58.7,63.8,,,10,32.5,,2379,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2021,59.4,63.8,,,9.8,32.5,,2415,
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2022,72.1,,,,10,32.5,,2415,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,1997,,95,,,,17,,3904,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,1998,,80.3,,,,,,3401,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,1999,,86.6,,,,,,3782,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2004,52.6,100,,,,30,,4483,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2005,56.6,100,,,,34,,4942,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2006,56.9,100,,,9.3,29,,5092,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2007,61.7,100,,,22.5,29,,4245,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2008,57.8,100,,,8.6,29,,4071,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2009,73.7,100,,,27.7,29,,5145,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2010,61.5,100,,,67.8,30,,3717,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2011,64.2,97.4,,,8.4,30,,3800,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2012,81.4,100,,,19.1,30,,4728,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2013,91.3,98.1,,,53.8,36,,5124,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2014,100,100,,,61.3,42,,5465,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2015,93.6,100,,,60.3,45,,4980,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2016,100,100,,,61,55,,5200,
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2017,61.5,100,89.3,100,70.5,55,29,3117,2227
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2018,61.5,100,88.9,100,71.1,56,29,3198,2243
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2019,63,100,69.6,100,12,56.2,29,3198,2243
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2020,61.5,100,71.5,100,12,56.8,30,3038,2255
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2021,72.4,97.5,68,100,30.5,56.8,31,3500,4500
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2022,88.2,,72.4,100,28.8,56.8,33,6105,4650
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,1997,,78.9,,,,17.6,,3943,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,1998,,77.2,,,,,,3703,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,1999,,67.1,,,,,,3083,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2001,42.9,79.8,,,0,26,,4285,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2002,49.5,92.3,,,0,26,,4875,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2003,71,100,,,0,26,,6852,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2004,76.6,100,,,7.1,26,,7089,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2005,81.4,100,,,6.6,26,,7350,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2006,86.8,100,,,10.9,27,,7650,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2007,67.2,100,,,12,27,,7750,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2008,63.6,100,,,8.1,27,,7600,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2009,62.7,100,,,9.1,27,,7600,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2010,52.9,100,,,6.5,30,,5652,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2011,52.8,99.8,,,5.2,31,,5660,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2012,52.7,99.5,,,12.7,38,,5660,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2013,55.5,100,,,10.6,40,,6000,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2014,58.2,100,,,7.9,40,,6300,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2015,58.6,99.8,,,11.7,41,,6350,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2016,59.1,99.6,,,8.2,42,,6425,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2017,59.1,99.5,,,8.9,42,,6436,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2018,57.9,97.1,,,8.9,42,,6480,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2019,57.7,96.8,,,12.8,46,,6480,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2020,57.8,99.5,,,17.5,46,,6499,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2021,57.8,99.5,,,11.5,46,,6531,
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2022,59.9,,,,41.2,46,,6989,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,1997,,100,,,,32.6,,10839,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2001,97.5,100,,,,25,,15000,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2002,100,100,,,47.4,40,,18000,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2003,100,100,,,47.4,47,,18500,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2004,100,100,,,,,,20000,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2006,100,100,,,30,60,,16000,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2007,81.9,100,,,34.8,75,,16400,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2008,100,100,,,33.1,85,,20874,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2011,76.8,100,,,55.9,40,,15048,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2012,76.8,100,,,3.7,48,,15274,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2014,100,100,,,,120,,20703,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2015,79,100,,,61.7,66.1,,16596,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2016,79,100,,,57.8,75,,16850,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2017,80,100,,,47.9,75,,17279,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2018,78,100,,,47.8,75,,17340,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2019,76.8,100,,,59,75.2,,17329,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2020,76.8,100,,,45.6,87.2,,17558,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2021,76.8,100,,,44.4,87.4,,17856,
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2022,76,,,,48.2,87.7,,20070,
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2016,5.3,8,,,0,0.5,,130,
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2017,5.2,7.8,,,2.8,0.6,,130,
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2020,100,100,,,8.3,15,,2705,
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2021,100,100,,,9.4,17,,2769,
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2022,100,,,,9.4,18,,2015,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,1997,,100,,,,25.3,,10282,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,1998,,99.8,,,,,,9647,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,1999,,100,,,,,,10936,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2004,100,100,,,35.6,55.5,,15136,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2006,99.4,100,,,31.1,42.8,,15283,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2007,100,100,,,36.1,49.6,,15759,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2008,95.4,100,,,19.1,53.9,,15460,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2009,71.4,100,,,16.2,55,,11753,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2010,72.2,100,,,22.8,57,,11383,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2011,72.2,100,,,49.9,57,,11502,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2012,72.2,100,,,58.8,67.6,,11617,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2013,72.2,100,,,38.6,67.4,,11811,
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2014,95,100,1.8,100,40.1,77.5,8.8,15695,970
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2015,93.9,100,27.6,100,48.7,77.5,27.8,15662,7247
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2016,95.1,100,11.4,100,43.9,77.5,26,15982,7433
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2017,95.4,100,12.8,100,38.9,76.7,31.5,16189,7433
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2018,94.3,100,27,100,34.7,76.8,31.5,16458,7860
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2019,72.2,100,33.5,100,38.4,76.8,31.5,12735,7896
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2020,72.2,100,35.6,100,46.9,76.9,31.8,12605,7948
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2021,72.2,100,36.2,100,46.4,76.9,27.9,12678,7988
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2022,78.2,,38.6,100,53.6,77.9,34.2,14131,8729
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2006,88.8,100,,,45.5,97,,15968,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2007,58.7,86.1,,,23.6,103.3,,17020,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2008,68.2,100,,,15.6,107.3,,20447,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2009,64.6,94.8,,,14.1,112,,19620,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2010,64.3,100,,,8.3,113,,19804,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2011,64.3,100,,,26.9,113,,20034,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2012,64.3,100,,,52.5,103.6,,20256,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2013,64.3,100,,,45.5,103.8,,20632,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2014,68.8,100,,,33,107.2,,22348,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2015,67.2,100,,,38.6,107.2,,22043,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2016,64.3,100,,,35,107.2,,21415,
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2017,64.3,100,46.9,100,42,103.8,53.8,21615,15065
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2018,79.2,100,16.1,100,30.3,103.8,53.8,27424,16079
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2019,79.3,98.7,39.8,100,32.8,103.8,53.8,27729,16079
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2020,64.3,100,47,100,29,104.2,53.8,22713,16908
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2021,64.3,100,41.8,100,33.4,104.2,53.8,22942,17136
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2022,67.8,,39.3,100,41.1,116.6,68.6,22170,16588
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2001,61,99.4,,,0,6.3,,1770,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2002,60.9,99.4,,,13.3,6.6,,1770,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2003,60.7,99,,,14.1,6.6,,1770,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2005,61,100,,,28.1,,,1800,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2006,62.1,100,,,13.5,14.1,,1840,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2007,67.7,91.9,,,15.4,14.5,,1850,
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2009,67.9,92.2,,,,17,,1900,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,71.9,,22613,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1998,,98.7,,,,,,22149,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,1999,,89.7,,,,,,20198,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2004,55.7,72.8,,,35.3,54,,17400,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2005,67,92.3,,,39.5,60,,21000,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2006,66.8,92,,,20,60,,21000,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2007,70.7,98.8,,,20,62,,22000,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2008,71.6,100,,,55.4,63.6,,22945,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2009,58.8,82.2,,,44.8,67,,18916,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2010,59.8,82.4,,,41.1,69,,18991,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2011,72.6,100,,,42.3,78,,23119,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2012,72.6,100,,,71.3,99.3,,23172,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2013,72.6,100,,,66,102.5,,23261,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2014,72.6,100,,,55.1,103.4,,23309,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2015,74.2,100,,,50.9,103.4,,23852,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2016,69.6,95.9,,,49.3,103.4,,22401,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2017,65.4,90.1,,,43.6,103.7,,21076,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2018,67.9,93.6,,,45.1,107.1,,22255,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2019,71.1,98,,,47.3,107.2,,23366,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2020,72.6,100,,,43.4,108.5,,24177,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2021,72.6,100,,,45.6,109,,24228,
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2022,70.4,,,,53.2,123.1,,21973,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2362,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,1999,,100,,,,,,2420,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2001,24.4,29.5,,,0,10,,945,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2002,29.7,35.9,,,0,10,,1177,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2003,83,100,,,0,10.1,,3378,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2004,79.2,95.8,,,0,12.3,,3400,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2005,89.8,100,,,0,13.5,,3964,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2006,100,100,,,0,13.5,,4537,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2007,100,100,,,10,13.5,,4966,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2008,81.2,100,,,8.2,17,,4205,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2009,100,100,,,,,,5322,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2010,82.5,100,,,20,30,,4452,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2011,90.5,100,,,20,30,,5000,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2016,100,100,,,0,150,,6259,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2019,100,100,,,13.1,50,,6711,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2020,100,100,,,29.6,50,,6843,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2021,100,100,,,30.6,50,,6972,
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2022,100,,,,6.1,100,,6932,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1997,,100,,,,11.2,,2586,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2491,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,1999,,89.7,,,,,,1984,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2002,86.7,100,,,0,14.6,,1772,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2003,87.6,100,,,0,15.4,,1772,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2004,89.5,100,,,9.4,14.6,,1772,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2005,90.6,100,,,0,14.6,,1772,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2006,93,100,,,1.2,16.7,,1798,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2007,98.9,100,,,1.2,16.4,,1774,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2008,98.3,100,,,0,17,,1800,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2016,93.1,61.1,,,0,14,,1479,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2017,94.8,62.3,,,0,16,,1479,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2018,92.3,69.4,,,50,17,,1479,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2019,96.4,75.8,,,66.7,17,,1520,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2020,98.1,90.7,,,33.3,20,,1520,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2021,99.7,100,,,11.7,20,,1520,
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2022,80.2,,,,25,25,,1611,
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,1997,,72.6,,,,54.5,,20211,
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,1998,,66.5,,,,,,19082,
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,1999,,49.9,,,,,,14732,
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2001,23.8,35.2,,,35.2,83.8,40.7,9047,4450
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2005,67.6,100,22,100,26,129.2,44.2,28143,11247
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2006,67.9,100,45.6,100,26.3,131.6,55.6,28828,18738
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2007,82.9,100,55,100,27,137,57.8,31424,21997
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2008,82.9,100,56.4,100,28.7,137.8,63.4,32386,23399
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2009,82.9,100,48.2,100,28.8,141,77,32517,25688
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2010,83.7,100,44.1,100,43,141.4,82.3,34662,27382
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2011,83.7,100,42.5,100,43.7,141.4,82.8,34941,27382
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2012,83.3,99.5,55.8,100,32.9,142.1,90.5,35039,27680
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2013,84,98.3,56,100,32.9,142.5,92.9,35787,28346
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2014,83.7,100,65.9,100,27.1,143.2,93.5,35931,28656
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2015,83.7,100,79.2,100,33.3,159,99,36191,28667
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2016,83.7,100,79.2,100,30.8,163.9,100,36445,28868
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2017,84,100,69.7,100,33.1,165,106,36806,29076
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2018,83.7,100,77.9,100,33.8,172.8,115.5,37747,29820
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2019,82.8,99,57.8,100,36.6,174.1,115.5,37634,28602
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2020,83.7,100,65.2,100,34,176.5,115.8,38317,24746
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2021,83.7,100,64.4,100,31.5,179,117,38594,30047
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2022,88.6,,64.4,100,34.3,184,123,46082,32607
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,1997,,92.8,,,,19.8,,5234,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,1998,,81.9,,,,,,4914,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,1999,,46.2,,,,,,2940,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2006,63.4,100,,,1.2,30,,6000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2007,62.2,100,,,0,31.5,,6000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2008,50.1,96.2,,,0.6,31.5,,5000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2009,49.5,95,,,2.6,32,,5000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2010,46.5,96.5,,,2.1,32,,5000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2011,52.8,95.1,,,2.1,32,,5760,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2016,100,100,,,23.6,55,,11837,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2019,48.2,100,,,33.5,35,,6031,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2020,48.2,100,,,24.7,45,,6112,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2021,54.5,100,,,45.7,52,,7000,
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2022,74.2,,,,45.4,70,,9000,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1997,,98.8,,,,14.1,,3260,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1998,,91.6,,,,,,3234,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,1999,,74.2,,,,,,2793,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2001,69.1,100,,,,16.1,,4016,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2002,87.9,100,,,8.6,20,,5201,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2003,100,100,,,8.6,22,,9201,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2004,100,100,,,8.6,24,,7840,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2005,100,100,,,4,28,,7850,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2006,100,100,,,4,30,,7850,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2007,100,100,,,7.9,50,,7850,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2008,76.5,100,,,8.9,50,,4834,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2009,79.7,100,,,6.7,51,,5089,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2010,69.4,100,,,4.8,30,,3783,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2011,67.7,100,,,11.3,32,,3677,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2012,75.3,100,,,11.6,33,,4077,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2013,100,100,,,0,33.3,,5389,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2014,82.1,100,,,30.4,34.5,,4402,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2015,92.5,99.8,,,34.8,35,,4932,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2016,96.7,100,,,34.9,35.1,,5133,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2017,97.3,100,,,34.9,35.2,,5140,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2018,99.5,98.4,,,35.1,35.2,,5400,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2020,100,100,,,24.3,21,,5363,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2021,100,100,,,24.9,22,,5344,
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2022,100,,,,19.3,23,,5593,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,12.6,,3607,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,1998,,100,,,,,,3042,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,1999,,100,,,,,,2926,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2007,63.5,100,,,18.3,21.1,,6100,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2009,70.9,100,,,0,,,6985,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2013,38.1,100,,,42.1,29.1,,4312,
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2014,52.1,100,5.4,100,37.3,32.7,8.8,5934,245
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2015,50,100,23.7,100,38.6,32.7,8.8,5734,1701
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2016,49.2,100,39.3,100,31.3,32.7,8.8,5679,1911
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2017,48.4,100,32.4,100,30.9,32.7,12.4,5620,2719
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2018,49.1,100,31.9,100,26.4,32.7,12.4,5862,2777
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2019,38.1,100,42.6,100,22.1,32.7,12.4,4579,3350
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2020,38.1,100,46.8,100,29.9,32.7,12.4,4609,3702
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2021,38.1,100,49.4,100,27.6,32.7,12.4,4639,3757
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2022,40.3,,45,100,32.9,33.6,12.7,4108,3371
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2005,48,96.5,,,0,15,,2010,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2006,54,100,,,0,18,,2210,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2012,85.1,57.1,,,10.1,12.5,,2970,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2016,97.9,59.5,,,60.9,10,,3000,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2020,51.9,100,,,6.7,16,,1493,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2021,76.3,100,,,6.7,16,,2133,
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2022,63,,,,8.1,16,,2032,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,1997,,100,,,,55.6,,16236,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2004,78,100,7.8,100,23.1,103,10,14085,978
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2005,100,100,7.8,100,23.1,103,10,17679,
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2006,100,100,6.1,100,2.6,103,10,17714,3125
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2009,85.2,100,3.2,100,69.8,63,,15131,1342
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2010,84.1,100,2.8,100,65.9,63,30,14793,1365
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2011,86.1,99.1,6.6,100,65.9,63.2,89,14998,2430
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,1997,,64.7,,,,34,,13282,
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2004,48.1,52.5,24.3,100,35.1,133.8,50.8,25928,13040
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2006,56.1,61.2,35.8,62.3,14.4,157.3,63.9,33669,16532
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2007,86.8,94.4,44.5,100,14.1,,72.2,38835,20939
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2008,91.9,100,,,0,139.7,78.6,42577,21562
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2009,92,100,53.9,100,0,153,85,43163,21562
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2010,94.6,100,45.3,100,46.6,177,85,49271,21562
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2011,100,100,27.8,100,38.2,177,85,53004,14841
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2012,94.6,100,19.2,100,57.9,276.5,136.9,51016,14283
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2013,94.6,100,20.5,100,32.6,272.7,135.4,52474,15279
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2014,100,100,24,100,33.1,282.5,137.5,56450,25417
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2015,100,100,64.4,100,24.6,289.5,194.8,57423,38573
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2016,100,100,79.5,100,24,295.7,202.2,58370,44670
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2017,100,100,74,100,24,295.7,202.2,59293,46920
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2018,100,100,77.9,100,17.9,335.9,311.6,61038,50535
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2019,94.6,100,77,100,12.9,348.2,320.2,58690,51437
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2020,94.6,100,56.2,100,18.6,385.3,360.9,59705,53490
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2021,94.6,100,55.7,100,19.4,396.6,371.1,60447,58846
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2022,94.5,,61.8,100,22.8,425.4,399.4,80448,68362
+5107065,Querência,resto_mt,Demais MT,FALSE,2004,84.5,100,,,12,10,,8000,
+5107065,Querência,resto_mt,Demais MT,FALSE,2006,48,89,,,30,18,,5000,
+5107065,Querência,resto_mt,Demais MT,FALSE,2007,46.8,100,,,29.6,18.9,,5000,
+5107065,Querência,resto_mt,Demais MT,FALSE,2008,68,100,,,20.1,19.3,,7600,
+5107065,Querência,resto_mt,Demais MT,FALSE,2009,76.2,100,,,19.3,27,,8820,
+5107065,Querência,resto_mt,Demais MT,FALSE,2010,48.1,100,,,27.1,38,,6272,
+5107065,Querência,resto_mt,Demais MT,FALSE,2011,46.5,96.7,,,30.1,47,,6272,
+5107065,Querência,resto_mt,Demais MT,FALSE,2012,45.7,96.4,,,13.5,51.7,,6351,
+5107065,Querência,resto_mt,Demais MT,FALSE,2013,47.4,100,,,0,59.7,,6930,
+5107065,Querência,resto_mt,Demais MT,FALSE,2014,71.5,100,,,0,60.6,,10815,
+5107065,Querência,resto_mt,Demais MT,FALSE,2015,72.7,100,,,0,105,,11342,
+5107065,Querência,resto_mt,Demais MT,FALSE,2016,88,98,,,0,114.7,,14134,
+5107065,Querência,resto_mt,Demais MT,FALSE,2017,92,100,,,7.6,115.2,,15191,
+5107065,Querência,resto_mt,Demais MT,FALSE,2018,91.3,100,,,30.2,115.2,,15533,
+5107065,Querência,resto_mt,Demais MT,FALSE,2019,100,100,,,29.2,120,,17479,
+5107065,Querência,resto_mt,Demais MT,FALSE,2020,100,100,,,7.5,123,,17937,
+5107065,Querência,resto_mt,Demais MT,FALSE,2021,100,100,,,12.2,165,,18386,
+5107065,Querência,resto_mt,Demais MT,FALSE,2022,92.5,,,,17.8,170,,24750,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,1998,,100,,,,,,15385,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,1999,,91.5,,,,,,13785,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2001,65.2,92.4,,,60.7,52.4,,12600,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2002,66.1,93.7,,,60.7,52.4,,12700,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2003,66.9,94.8,,,60.6,52.4,,12700,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2004,69.2,98,,,60.6,52.7,,12800,
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2005,71.3,100,18.1,100,60.2,53,2.4,13000,1883
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2006,75.1,100,30.5,100,64.6,54.4,4.9,13500,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2007,72.4,97,18.7,100,45.7,70,4.9,13762,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2008,71.7,96,16.4,100,42.5,70,4.9,13997,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2009,72,96.5,9.2,100,5,70,5,14045,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2010,74.8,98,9,100,4.6,70,5,14216,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2011,75.5,98.9,8.7,100,4.6,70.3,5,14300,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2012,75.7,99.1,8.4,100,4.4,71.5,5,14300,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2014,75.6,99,8.3,100,4.4,71.5,5,14144,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2015,75.6,99,8.2,100,4.4,71.5,5,14076,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2016,75.9,99.5,8.2,100,4.4,71.5,5,14076,2650
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2017,76.3,99.9,7.9,100,3.2,71.5,5.6,14076,2700
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2020,76.4,100,13,100,32.7,55,6,14391,2309
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2021,76.6,97.6,13,100,32.7,55,6,14391,2309
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2022,74.8,,13.1,100,61.3,55,6,13356,2309
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,1997,,100,,,,7.7,,1971,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,1998,,100,,,,,,1950,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,1999,,100,,,,,,1475,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2003,,,,,0,,,,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2004,100,100,,,0,,,2036,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2006,100,100,,,30,9.4,,3114,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2007,100,100,,,8.4,9.4,,2580,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2008,100,100,,,0,11,,2650,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2009,100,100,,,0,16,,2598,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2010,63.1,100,,,0,16.6,,1622,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2011,63.1,100,,,0,16.6,,1630,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2016,72,96.2,,,0,50,,1900,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2020,32.5,47.6,,,11.1,15,,890,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2021,72.6,92.1,,,55.5,15,,2000,
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2022,96.4,,,,50.1,15,,2046,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,1997,,100,,,,12.7,,4663,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,1998,,99.2,,,,,,4412,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,1999,,78.9,,,,,,3527,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2006,74.1,100,,,40,15,,5700,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2007,70.3,88.2,,,35.2,19,,6100,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2012,64.6,100,,,12.2,15.5,,5886,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2013,65.6,100,,,0,41,,6107,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2014,66.2,100,,,0,41,,6253,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2015,67.7,99.9,,,0,41,,6469,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2016,68.9,99.7,,,0,41,,6671,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2017,69.4,98.8,,,19.4,41,,6802,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2019,62.7,100,,,12.4,33,,6395,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2020,62.7,100,,,17.5,33,,6472,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2021,62,99,,,17.5,33,,6479,
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2022,54.3,,,,17.5,33,,5479,
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,1997,,100,,,,4.4,,1306,
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,1998,,97.6,,,,,,1133,
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2004,88.5,100,0,,0,10.7,5.6,2003,234
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2005,100,100,25.8,100,0,11.2,6.5,2336,711
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2006,100,100,24.4,100,0,11.2,6.5,2442,711
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2007,100,100,27.8,100,0,11.2,6.5,2477,879
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2008,100,100,35.8,100,0,11.2,6.5,2323,867
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2009,100,100,35.7,100,0,14,7,2194,886
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2010,76.4,100,26.9,100,4.4,19.6,10.3,1681,900
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2011,75.9,99.2,42.8,100,45.2,20.4,10.7,1681,900
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2012,75.9,100,42.8,100,45.2,21.5,11,1694,920
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2013,100,100,64.2,100,45.2,23,13,2259,1000
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2014,100,100,69.2,100,45.2,23.5,14,2275,1251
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2016,72.9,100,54,0,0,14.3,12.5,1682,2306
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2017,94.8,100,28.6,100,12,16,14.2,2199,1287
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2018,94.8,98.1,26.5,100,3.8,16.2,14.5,2263,1290
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2020,70.7,100,86.4,100,54.7,16.5,10.2,1712,1712
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2021,70.2,99.3,86.4,100,54.7,16.5,10.2,1712,1712
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2022,67.7,,92,100,54.7,18,11,1755,1755
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,1997,,100,,,,26.6,,5568,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,1998,,100,,,,,,5375,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,1999,,100,,,,,,4198,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2002,67.3,80.3,,,,21.7,,3335,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2003,100,100,,,40.8,21.8,,5289,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2004,100,100,,,,21.8,,5172,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2005,100,100,,,33.3,22.9,,4901,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2006,100,100,,,21.9,22.9,,4992,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2007,100,100,,,21.2,24,,5109,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2008,88.1,100,,,31,26.5,,4582,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2009,88.8,100,,,25.1,30,,4622,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2010,89.7,100,,,14.3,30,,4547,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2011,89.7,100,,,17,30,,4549,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2012,90,99,,,17.1,30,,4560,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2013,81,99.1,,,10.8,30,,4100,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2014,81.1,99.2,,,7.1,30,,4100,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2015,81.3,99.4,,,7.1,30,,4100,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2016,81.8,100,,,6.9,30.2,,4111,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2017,80.4,98.4,,,6.5,30.2,,4036,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2018,100,100,,,4.4,30.2,,5159,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2019,98.9,97.9,,,0,30.3,,5100,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2020,99.5,99.5,,,0,30.3,,5125,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2021,100,100,,,0,30.3,,5147,
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2022,100,,,,0,30.3,,4535,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,1997,,100,,,,15.5,,2071,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,1998,,89.9,,,,,,1960,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,1999,,89.2,,,,,,2075,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2006,64.4,100,,,34.5,21.4,,2841,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2007,66.5,89.2,,,50.2,22.7,,2871,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2008,100,100,,,53.5,23.3,,4486,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2009,63,84.6,,,56.7,25,,2880,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2010,75.4,100,,,55.3,25,,3081,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2011,75.4,100,,,42.1,25,,3110,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2012,75.4,100,,,61.1,24.2,,3137,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2013,75.4,100,,,37.3,24.2,,3182,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2014,98.4,100,,,31.6,25.2,,4188,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2015,90.7,100,,,31,25.2,,3893,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2016,92.3,100,,,20,25.2,,3991,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2017,94.8,100,,,19.4,25.2,,4133,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2018,94.1,100,,,19.3,25.2,,4223,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2019,75.4,100,,,12.7,25.2,,3413,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2020,75.4,100,,,13.8,25.2,,3442,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2021,75.4,100,,,17.8,25.2,,3469,
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2022,76.2,,,,23.6,27,,4093,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,1997,,90.4,,,,6.3,,1599,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,1998,,87.6,,,,,,1491,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,1999,,44.4,,,,,,726,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2006,76.7,100,,,13.3,6.6,,1659,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2007,64.1,100,,,13.1,6.6,,1830,
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2012,51.5,100,71.4,100,12.5,4,3,1551,1551
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2013,69.4,99.5,71.4,100,12.5,4.8,3,2100,390
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2014,69.3,99.3,71.4,100,12.5,4.8,3,2100,390
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2017,100,100,2.5,86.7,50,16,2.5,3050,350
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2018,97.3,100,3,87.5,50,16,2.5,3050,350
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2019,97,100,2.1,82.3,50,17,2.5,3050,350
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2020,96.8,100,2.1,42.9,50,17.5,2.5,3054,350
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2021,100,100,2.1,42.9,50,17.9,2.5,3164,350
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2022,100,,2.1,42.9,50,19.3,2.5,2519,350
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,1997,,100,,,,13,,1659,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2002,90.9,100,,,16.7,15,,2800,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2005,77.1,100,,,0.2,11,,2409,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2006,88.8,100,,,30,12,,2788,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2007,85,100,,,14.4,15,,2808,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2008,90.5,100,,,10,17,,3093,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2010,62.2,100,,,0,13,,2234,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2011,61.6,99.2,,,0,13,,2240,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2012,61.8,99.8,,,0,14,,2270,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2013,88.2,98.3,,,0,15,,3300,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2014,87.3,97.3,,,0,15,,3300,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2015,86.3,97,,,0,16,,3300,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2016,85.3,95.8,,,10,16.8,,3300,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2017,85.7,95.4,,,12.4,20,,3350,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2020,71.9,72.6,,,12.8,45,,3200,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2021,38,78.7,,,12.8,45,,1560,
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2022,54.3,,,,13.7,47,,1562,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,1997,,100,,,,32,,12222,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,1998,,100,,,,,,11959,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,1999,,100,,,,,,10874,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2004,87.2,100,,,0,38.4,,12139,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2006,86.3,99.6,,,50,41,,12463,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2007,81.2,100,,,48.7,46,,14086,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2008,89.8,100,,,49,49,,16261,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2009,87.8,100,,,48.4,54,,16368,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2010,71.6,93.2,,,27.4,58,,12268,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2011,76.9,100,,,40.3,58,,13427,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2012,76.9,100,,,72.4,53,,13677,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2013,76.9,100,,,58.7,53,,14102,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2014,80.5,100,,,44.5,54.5,,15049,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2015,81.8,100,,,39.3,54.5,,15590,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2016,76.9,100,,,31.1,59.2,,14914,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2017,77.4,100,,,24.2,59.2,,15264,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2018,90.3,100,,,28,59.2,,18352,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2019,76.9,100,,,15.2,59.2,,15890,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2020,76.9,100,,,14.9,59.3,,16157,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2021,76.9,100,,,30,59.3,,16418,
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2022,77.1,,,,32.1,66.8,,11496,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,1997,,,,,,,,,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2008,93.3,77.5,,,,,,4000,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2009,94.8,78.8,,,,,,4000,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2010,76.5,67.4,,,50.4,22,,4007,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2011,83.6,67.2,,,50.4,22,,4400,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2012,83.9,96.9,,,25,22,,4441,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2016,100,100,,,0,10,,5396,
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2017,100,100,,,0,10,,5416,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,1997,,100,,,,9.9,,3251,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,1998,,97.8,,,,,,2993,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,1999,,100,,,,,,3194,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2002,72.5,85.4,,,0,12.8,,2565,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2004,100,100,,,0,12,,5000,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2006,100,100,,,31.6,12,,3641,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2007,89.9,100,,,32.5,12,,3621,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2009,85.4,95,,,50.7,12,,3621,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2011,89,100,,,0,14,,3748,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2012,89.1,100,,,0,14,,3793,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2013,87.4,98.1,,,25.3,14,,3793,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2016,89,100,,,0,22,,4000,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2017,90.6,100,,,49.1,23.1,,4116,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2018,90.1,100,,,1.8,23.1,,4213,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2019,100,100,,,1.8,23.2,,4727,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2020,100,100,,,0,23.2,,4771,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2021,100,100,,,0.4,23.2,,4823,
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2022,98.3,,,,13.9,23.2,,4122,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2006,43.2,0.1,,,16,15,,1879,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2007,29.9,100,,,15.1,15,,1000,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2008,25.7,99.7,,,3.4,15,,890,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2016,26.4,100,,,0,2,,1008,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2017,26.1,99.2,,,1,2,,1008,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2020,26.1,75.6,,,8.8,22,,1055,
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2022,25.7,,,,35.5,7,,902,
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1996,,100,,,,394.4,152.1,139339,35107
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1997,,100,34.2,90,,394.4,152.1,149351,35821
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1998,,,,,,,,,
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,1999,,100,,,47.4,405.8,198.2,148192,35944
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2000,,100,52.2,94,57.6,412.3,218.6,145600,43600
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2001,97.9,100,37.8,95.6,64.8,402.6,233.6,150000,48364
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2002,96.3,100,36.8,100,60,402.9,233.6,150000,54916
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2003,94.7,100,33.2,100,56.1,422,233.6,150000,55704
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2004,99.5,100,35.1,81.8,57.2,448.6,271.9,163000,56734
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2005,100,100,32,67,58.1,450.3,271.9,168446,52528
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2006,96.2,100,47.6,76.3,62.1,470.4,273,163394,52664
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2007,100,100,42.2,81.2,52.7,481,273.8,172783,55000
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2008,99.8,100,41.3,83.4,48.1,513,273.8,178809,59867
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2009,99.5,100,28.4,90,49.5,529,298,181000,66594
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2010,97.6,100,27.3,78.7,51.1,744.4,329.6,190751,64525
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2011,96.9,100,40.5,100,44.4,43.6,198.7,192721,65037
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2012,100,100,39.6,82.7,40.7,57.1,57,202309,67385
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2013,100,100,37.2,91.6,32.3,1237.4,298,208019,81621
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2014,100,100,39.9,86.2,40.7,948.9,443.7,211718,116559
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2015,100,100,42.6,88.4,43.1,954.4,462.6,215320,144767
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2016,100,100,42.3,95.3,45,1056.6,567.8,218899,159194
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2017,100,100,76.2,96.8,50.8,1057.9,567.8,222316,213316
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2018,100,100,95.5,97.8,62.3,1124.8,609.8,228857,220137
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2019,100,100,92,97.9,60.6,1136.1,704.2,232491,209938
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2020,100,100,84.8,97.8,39,1167.7,781.1,236042,223868
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2021,100,100,90.1,98.1,50.1,1171.2,785,239613,230483
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2022,100,,79.8,95.2,62.3,1701.7,1593.8,244911,244911
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1996,,100,,,,36,,11770,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1997,,100,,,,36,,12117,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1998,,100,,,,,,11440,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,1999,,100,,,,,,11110,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2007,55.6,96.6,,,10.9,73,,10023,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2008,54.1,94,,,10.9,73,,10023,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2009,54.2,94.2,,,10.8,73,,10023,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2012,60.3,100,9.1,0,17.6,32.8,3.4,10562,1000
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2016,67.6,100,,,0,44,,11500,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2017,71.6,100,,,8,45.4,,12099,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2018,70.2,98.1,,,8,55,,12099,
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2020,100,100,,,45,35,,17054,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2004,100,100,,,0,10,,4716,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2009,66.5,100,,,0,20,,1567,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2010,82.5,100,,,16.7,20,1.2,1567,200
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2011,79.7,96.6,8,0,16.7,20,1.2,1567,126
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2012,77.2,93.6,,,15,24,,1567,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2014,100,100,,,0,7,,2213,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2015,100,100,,,0,7,,2284,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2016,97.3,98.3,,,0,7,,2290,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2017,100,78.5,,,25,9,,2421,
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2022,57.9,,,,40,26,,1541,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,1997,,100,,,,14.5,,2276,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2327,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,1999,,94.4,,,,,,1968,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2001,72.1,88.5,,,,12,,3807,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2002,94.1,100,,,0,13.5,,3857,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2003,100,100,,,0,13.5,,3870,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2004,100,100,,,0,13.5,,6100,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2005,100,100,,,0,13.5,,6600,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2006,100,100,,,0,13.5,,6600,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2007,100,100,,,0,15,,5482,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2008,100,100,,,,15,,4032,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2009,100,100,,,,15,,3584,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2010,100,100,,,30,17,,3908,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2011,100,100,,,29.7,17,,3842,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2012,100,100,,,35,17,,3777,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2013,55.9,100,,,33.4,17,,2049,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2014,59,100,,,33.4,17,,2114,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2015,55.9,100,,,33.4,17,,1957,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2016,55.9,100,,,33.4,17,,1913,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2017,67.2,100,,,33.4,17,,2250,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2018,100,100,,,33.4,17,,3437,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2019,100,100,,,35.1,30,,3365,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2020,100,100,,,65.2,30,,3295,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2021,100,100,,,65.2,30,,3226,
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2022,87.7,,,,65.6,10,,3226,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2002,100,100,,,,5,,1700,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2003,100,100,,,,15.1,,2300,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2004,100,100,,,0,15.2,,3200,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2005,100,100,,,5,15.2,,3200,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2006,100,100,,,10.6,15.2,,2140,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2007,100,100,,,15.9,25.1,,3908,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2008,100,100,,,30,25.1,,2758,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2009,100,100,,,27.8,25,,2751,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2010,54.9,100,,,29.5,25,,1367,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2011,52.9,96.3,,,12.2,25,,1367,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2012,51.1,93.1,,,13,25,,1367,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2013,54.9,100,,,10.8,25,,1554,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2014,53,96.5,,,9.7,25,,1554,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2015,54.9,100,,,0.7,25,,1666,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2016,54.9,100,,,0.7,25,,1720,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2017,54.9,100,,,0.3,25,,1773,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2019,100,100,,,14.5,16,,3429,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2020,100,100,,,19.1,16,,3506,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2021,97.3,98.9,,,16.7,17,,3506,
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2022,70,,,,17.7,20,,2293,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,1997,,100,,,,11.9,,3206,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,1998,,100,,,,,,3354,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,1999,,49.6,,,,,,1664,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2006,51.8,91.2,,,30,3,,3500,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2007,52.3,100,,,25,12,,3813,
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2022,45.4,,,,28.2,30,,3452,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2009,55.8,100,,,,,,1992,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2012,57,93,,,18.4,9.2,,2300,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2013,53.8,87.8,,,88.9,9.2,,2300,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2014,51.9,84.7,,,88.9,9.2,,2300,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2015,50.3,81.8,,,88.9,9.2,,2310,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2016,49.5,80.6,,,88.9,9.2,,2340,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2017,53,90.9,,,88.9,9.2,,2586,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2018,54.8,91.3,,,88.9,10,,2750,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2019,53.2,88.6,,,13.8,10,,2755,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2020,51.7,84,,,13.8,12,,2758,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2021,51.8,82.8,,,13.8,15,,2830,
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2022,73.3,,,,12.1,20,,3005,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1997,,100,,,,24.3,,5584,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1998,,93.8,,,,,,4758,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,1999,,100,,,,,,5259,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2005,72.8,95,7.5,100,0,21.3,3.7,11250,400
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2006,72.7,95,7.5,100,0,21.3,3.7,11250,400
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2012,59.1,100,3.2,100,27.8,28,2.5,11180,600
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2020,67.7,100,,,29.8,40,,11500,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2021,67.6,99.5,,,40.5,48,,11610,
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2022,90.1,,,,40.4,50,,13739,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,1997,,100,,,,29.4,,6194,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,1998,,93.8,,,,,,5620,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,1999,,48.5,,,,,,2893,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2003,,,,,,,,,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2006,52.6,86.1,,,30.4,38,,4849,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2007,45.3,72.8,,,28.8,38,,4849,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2009,56.9,89.6,,,0,38,,6410,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2010,65.1,100,,,57.1,38,,6916,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2011,65.5,100,,,9.1,38,,7023,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2012,69.6,99.2,,,17.2,38,,7520,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2013,69.3,99.7,,,46.7,38,,7585,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2014,68.7,98.9,,,42,41,,7585,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2015,68.4,98.6,,,41.8,43,,7614,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2016,68,98,,,33.9,43,,7627,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2017,58.1,97.3,,,34.3,44,,6565,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2018,58.1,94.6,,,33.2,50,,6754,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2019,57.7,93.8,,,44.1,53.5,,6754,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2020,91.9,100,,,13.5,61.3,,10886,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2021,91.7,100,,,19.7,65.5,,10938,
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2022,83.6,,,,21,73,,11384,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2003,100,100,,,0,13.4,,14000,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2007,77,100,,,25.7,74,,10971,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2008,80.9,100,,,20,74.2,,12152,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2009,77.3,100,,,19.1,75,,12165,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2010,83.6,97.5,,,15.8,76,,15124,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2011,80.1,93.4,,,15.5,94,,15124,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2012,77,89.8,,,4.2,109.9,,15124,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2013,72.2,84.2,,,16.6,131,,15124,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2014,84.4,98.4,,,14.6,131,,18414,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2015,81.2,95.5,,,4.2,133.6,,18414,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2016,87,100,,,4.2,134.2,,20442,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2017,87.5,98.2,,,4.3,134.2,,21259,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2018,84.9,95.3,,,4.2,134.5,,21260,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2019,83.6,92.3,,,3.1,152.3,,21633,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2020,97.2,97.9,,,3.6,152.5,,25950,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2021,96.2,96.4,,,0.6,152.5,,26430,
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2022,91.3,,,,8.8,179.9,,26430,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2006,35.6,55.7,,,12.5,3.2,,479,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2007,35.5,55.5,,,20,3.8,,479,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2010,59.9,100,,,0,18,,818,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2012,59.5,100,,,10.1,8,,845,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2021,59.6,100,,,16.7,14,,1016,
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2022,59.3,,,,0,15,,1067,
+5107909,Sinop,resto_mt,Demais MT,FALSE,1997,,43.3,,,,88.7,,22380,
+5107909,Sinop,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2001,58.1,64.2,,,33.6,195,,46164,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2002,73.3,81,,,42.2,270,,60830,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2003,80.3,88.8,,,44.1,287.7,,69696,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2004,77.3,85.4,,,43.8,330,,73229,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2005,85.2,94.2,,,46.5,419.8,,84774,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2006,89.8,99.3,,,27.7,489,,93272,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2007,90,100,,,32.9,515,,95236,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2008,88,99,,,25.9,535,,97230,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2009,90.5,100,,,27.8,622,,103245,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2010,82.9,100,,,28.1,675,,93753,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2011,81.9,98.8,,,25.1,700,,95000,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2012,82.5,99.5,,,15,715,,98000,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2013,100,100,,,5.3,800,,123634,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2014,100,100,,,61.1,140.1,,126817,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2015,100,100,,,59.7,833.5,,129916,
+5107909,Sinop,resto_mt,Demais MT,FALSE,2016,100,100,18.6,100,44.9,893.9,125.6,132934,25608
+5107909,Sinop,resto_mt,Demais MT,FALSE,2017,100,100,10.5,100,39,893.9,132.1,135874,34888
+5107909,Sinop,resto_mt,Demais MT,FALSE,2018,100,100,15.5,100,36,930.3,204.7,139935,47702
+5107909,Sinop,resto_mt,Demais MT,FALSE,2019,82.9,100,19.1,100,40.8,952.6,225.6,118536,42319
+5107909,Sinop,resto_mt,Demais MT,FALSE,2020,82.9,100,29.3,100,43.6,1063.3,315.5,121030,71386
+5107909,Sinop,resto_mt,Demais MT,FALSE,2021,82.9,100,34.7,100,40.4,1165.7,366.8,123480,88199
+5107909,Sinop,resto_mt,Demais MT,FALSE,2022,84.3,,36.9,100,39.8,1265.2,447.4,165539,98720
+5107925,Sorriso,resto_mt,Demais MT,FALSE,1997,,100,,,,50.7,,23096,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,1998,,100,,,,,,21976,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,1999,,100,,,,,,22457,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2001,90.5,95.5,,,0,59,,34281,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2002,100,100,,,,138,,42194,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2003,86,97.1,,,5.2,138,,36000,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2004,100,100,,,8.2,150,,47000,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2005,100,100,,,8.7,165,,50000,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2006,98.8,100,,,3.2,171,,50000,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2007,94.3,100,,,2.9,210,,52000,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2008,99,100,,,9.7,288,,57200,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2009,97.2,100,,,8.8,295,,58363,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2010,87.7,100,,,8,305,,58364,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2011,87.7,100,,,34.2,305,,60446,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2012,87.7,100,,,55.9,340.1,,62460,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2013,87.7,100,,,52.5,336.7,,65895,
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2014,100,100,11.3,100,42.8,381.4,120,77735,11442
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2015,100,100,15.7,100,27.1,381.4,133.9,80298,13510
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2016,100,100,18.8,100,23,444.2,199.7,82792,15298
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2017,100,100,16.8,100,23,434.3,293,85223,19694
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2018,100,100,18.6,100,20.5,443.1,300,87815,29131
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2019,100,100,21.6,100,13,462.9,311.3,90313,30007
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2020,100,100,22.9,100,20.2,462.9,312.7,92769,31618
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2021,100,100,44.4,100,14.9,477.7,344,94941,66620
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2022,87.7,,44.1,100,24.8,584.9,365.2,97069,60710
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2001,11.6,20.3,,,0,8.8,,1380,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2002,16.2,28.3,,,0,15.8,,2040,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2009,46.5,95.8,,,,32,,5000,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2010,50.3,95.4,,,1.2,32,,5000,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2011,52.8,100,,,22.7,32,,5207,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2012,100,100,,,12.2,32,,9795,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2013,58.2,84.2,,,0,32,,5630,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2014,87.1,98.6,,,0,32,,8346,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2015,88.1,99.8,,,0,35,,8360,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2016,90.3,90.7,,,32.5,40,,8490,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2017,96.7,99.7,,,55.2,45,,9000,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2020,99.9,99.5,,,39.1,50,,9420,
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2022,50.4,,,,17.4,55,,4950,
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,1997,,98.7,,,,116.7,,45986,
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,1998,,,,,,,,,
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2001,82,93.7,,,51.6,215,,49971,
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2002,94.9,100,18.8,100,54.4,230,19,59464,3136
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2003,100,100,21.5,100,60.9,242,23,64605,4323
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2004,98.1,100,13.7,100,34.3,243,23.8,66900,4487
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2005,97.3,100,12.7,100,3.3,308.2,21,68400,4900
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2006,98.9,100,7,100,16.9,308.2,21,71527,4900
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2007,93.3,96.9,8.1,100,12.5,311.1,41,71558,5320
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2008,94.2,98.1,8.6,100,16,320,66,75200,6210
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2009,93.4,97,22,100,15.8,340,73,76560,16230
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2010,91.6,97,27.8,100,29.9,360,81,76450,16600
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2011,92.2,96.9,25.6,100,14.6,360,81,78700,22165
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2012,98.4,100,25.1,100,14.1,415,81,85779,22165
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2013,95,100,24.4,100,12.4,417,86,85779,22165
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2014,96.7,99.4,10.2,100,6.4,420,90.9,89221,22165
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2015,99.1,100,8.6,100,1.9,422.5,90.9,93400,23680
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2016,99.5,100,9.2,100,25.1,355.1,95.8,96460,25269
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2017,100,100,19.2,100,50.2,355.1,95.8,98828,25833
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2018,100,100,24.8,100,55.9,355.1,95.8,101764,29526
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2019,100,100,84.6,100,53.7,355.1,138.3,103750,29526
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2020,100,98.2,84.6,100,61.6,365,138.3,105700,29526
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2021,98.2,100,84.6,100,84.2,376,187,105700,25465
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2022,86.2,,30.3,100,43.7,380,187,91712,25472
+5108006,Tapurah,resto_mt,Demais MT,FALSE,1998,,100,,,,24.1,,4484,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,1999,,100,,,15.4,25,,5558,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2000,,100,,,7.2,35,,7390,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2001,72.6,100,,,14.3,38,,8725,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2002,76.9,100,,,1.4,42.8,,9572,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2007,77.9,100,,,57.5,36,,8164,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2008,80.3,100,,,53.8,36,,8854,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2010,62.8,100,,,23.7,36,,6526,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2012,78.9,100,,,30.5,38.7,,8715,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2013,76.6,100,,,0,38.7,,8876,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2014,78.2,97,,,0,44.7,,9348,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2015,78.2,94.7,,,0,65,,9628,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2016,78,94.5,,,0,70,,9848,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2017,79.7,98.1,,,18.2,73,,10334,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2018,79.7,98.1,,,42.6,73,,10647,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2019,79.7,98.1,,,38.7,73.4,,10923,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2020,79.7,98.1,,,38.9,74.4,,11195,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2021,89.4,98.1,,,40.5,76,,12858,
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2022,91.5,,,,19.6,81,,13152,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,1997,,70.1,,,,18.3,,4287,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,1998,,67.7,,,,,,4112,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,1999,,15.7,,,,,,944,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2001,7.5,16.7,,,,32,,995,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2002,25.3,59.6,,,0,37,,3312,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2003,25.9,60.8,,,0,32,,3305,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2004,29.7,69.9,,,0,33.5,,3620,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2005,30.7,72.3,,,0,34,,3642,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2006,52.6,92.8,,,30,36,,6052,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2007,43.6,82.3,,,29.4,36,,6366,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2008,43.6,85.8,,,29.2,38,,6568,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2009,45.9,91.9,,,0,40,,6972,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2010,55,100,,,1.2,40,,6208,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2011,56,98.8,,,15.7,3,,6223,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2013,74.8,100,,,1.2,41,,7950,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2014,74.8,100,,,0,42,,7777,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2015,76.8,99.4,,,0,42,,7810,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2016,100,100,,,0,42,,9816,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2017,100,100,,,2.2,42,,9606,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2019,100,100,,,3.1,43,,9667,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2020,77.5,100,,,2.2,45,,7345,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2021,77.5,100,,,3.9,50,,7198,
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2022,78.7,,,,5.2,53,,8350,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1997,,100,,,,12.5,,3243,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1998,,100,,,,,,2919,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,1999,,83.5,,,,,,2202,
+5108105,Tesouro,resto_mt,Demais MT,FALSE,2012,66.7,95.1,,,14.1,8,,2305,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1997,,100,,,,19.3,,4792,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1998,,100,,,,,,4611,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,1999,,100,,,,,,4285,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2001,100,100,,,,,,5500,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2006,100,100,,,13.7,34,,4800,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2007,100,100,,,19.8,34,,4824,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2009,100,100,,,,,,4113,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2010,76.4,100,,,25,12.5,,3112,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2011,100,100,,,37.3,12.5,,4013,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2012,98.6,98.1,,,37.3,12.5,,3900,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2013,100,98.3,,,37.3,12.5,,3859,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2014,99.3,96.8,,,68.6,12.5,,3760,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2016,76.4,100,,,0,34,,2786,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2020,76.4,30.8,,,0.2,15,,2711,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2021,77.8,31.4,,,0.2,15,,2711,
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2022,65.1,,,,0.2,15,,2711,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2004,60.5,91.6,,,67.3,15,,3226,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2006,39.8,60.2,,,33.8,17.1,,2319,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2007,57.3,89.6,,,45.4,21.6,,2292,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2008,56.5,88.4,,,30.5,22.4,,2322,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2009,57.8,90.2,,,28,22,,2364,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2010,62.2,100,,,19.4,22.2,,2338,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2011,62.2,100,,,36.5,22.2,,2317,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2012,62.2,100,,,49.5,17.8,,2298,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2013,62.2,100,,,44.6,17.8,,2263,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2014,76.9,100,,,38.3,17.8,,2764,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2015,71.6,100,,,39.7,17.8,,2543,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2016,74,100,,,23.8,17.8,,2595,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2017,71.9,100,,,21.8,17.8,,2495,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2018,72.9,100,,,22.8,17.8,,2598,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2019,62.2,100,,,16.3,17.8,,2192,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2020,62.2,100,,,22.6,17.8,,2170,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2021,62.2,100,,,30,17.8,,2148,
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2022,63.9,,,,40.8,22.3,,2454,
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2009,42.3,100,,,,12,,1250,
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2018,60.7,100,34.8,100,0,6,6,1900,731
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2020,23.4,100,50,100,0,10,5,730,730
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2022,94.8,,100,92.2,7.8,15,6,2754,1396
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1996,,100,,,,625,33.1,182637,11719
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1997,,100,10.2,47.5,,625,33.1,192979,11213
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,1998,,,,43,,,,,
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2000,,93.2,8.5,80,54.1,666.5,69.8,196960,23000
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2001,93,93.8,,80,,683,69,206295,24194
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2002,94.7,94.2,,66.7,,746.2,70,214444,24194
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2003,93.4,92.9,,66.7,,753.6,70,216411,24337
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2004,89.8,89.3,,66.7,,802.6,70,217795,24337
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2005,89.1,88.7,,66.7,,802.6,70,221629,24337
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2006,87.5,87.1,17.2,70.3,59.8,834,71.5,222999,24337
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2007,97.8,98.2,19,72.9,60.2,847.7,75.5,225315,26752
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2008,96.3,96.7,22.1,72.9,58.1,932.3,81,229138,29432
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2009,97.5,98,19.5,72.9,55.4,1012,81,234145,29483
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2010,93.7,93.6,19,100,62,1061.4,88.7,236548,33199
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2011,98.1,98.1,22.9,100,62.6,1120.6,103.4,250516,53916
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2012,100,98.5,20.8,100,62.1,1123.7,120.4,258208,53916
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2013,98.3,90,50,30,64.3,1135.3,120.4,258305,44001
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2014,98,89.6,45.1,30,62.6,1148.7,133.3,260459,73324
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2015,97,88.6,47.1,50,62.6,1152,136.5,260459,73324
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2016,97,97,54.5,64.9,60.7,1163.1,136.5,263117,79420
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2017,97.7,97.6,50.7,83.6,58.7,1185.3,165.4,267675,79869
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2018,97.7,97.6,47.4,88.5,59.2,1201.2,187.7,275470,82188
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2019,97.6,97.5,60.5,63.9,50.8,1250.4,187.7,278070,85912
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2020,96.7,97.1,67.5,53.1,50.8,1250.4,187.7,278070,85912
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2021,98.2,90.8,89.3,53.9,70.7,1406.2,187.7,285000,85669
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2022,88.3,,46.7,56.1,41.7,1522.8,334.9,264904,87234
+5108501,Vera,resto_mt,Demais MT,FALSE,1997,,65.1,,,,10.8,,2286,
+5108501,Vera,resto_mt,Demais MT,FALSE,1998,,62.9,,,,,,2255,
+5108501,Vera,resto_mt,Demais MT,FALSE,1999,,78.7,,,,,,2880,
+5108501,Vera,resto_mt,Demais MT,FALSE,2004,72.3,79,,,41.6,32.1,,7778,
+5108501,Vera,resto_mt,Demais MT,FALSE,2006,46.7,51,,,12.7,36.3,,5367,
+5108501,Vera,resto_mt,Demais MT,FALSE,2007,60.4,70.9,,,25.8,38.1,,5550,
+5108501,Vera,resto_mt,Demais MT,FALSE,2008,60.1,70.5,,,29.4,42.9,,5694,
+5108501,Vera,resto_mt,Demais MT,FALSE,2009,72.2,84.7,,,26.2,47,,6864,
+5108501,Vera,resto_mt,Demais MT,FALSE,2010,67.1,93.4,,,22.6,48,,6864,
+5108501,Vera,resto_mt,Demais MT,FALSE,2011,71.8,100,,,40.5,48,,7414,
+5108501,Vera,resto_mt,Demais MT,FALSE,2012,71.8,100,,,56.4,41.5,,7478,
+5108501,Vera,resto_mt,Demais MT,FALSE,2013,71.8,100,,,36.5,41.5,,7583,
+5108501,Vera,resto_mt,Demais MT,FALSE,2014,76.3,100,,,34.6,41.5,,8122,
+5108501,Vera,resto_mt,Demais MT,FALSE,2015,77.2,100,,,29.7,41.5,,8294,
+5108501,Vera,resto_mt,Demais MT,FALSE,2016,70.6,98.4,,,17.3,41.5,,7642,
+5108501,Vera,resto_mt,Demais MT,FALSE,2017,72.5,100,,,16.3,41.5,,7899,
+5108501,Vera,resto_mt,Demais MT,FALSE,2018,78.4,100,,,16.7,41.5,,8798,
+5108501,Vera,resto_mt,Demais MT,FALSE,2019,71.8,100,,,10.9,41.5,,8120,
+5108501,Vera,resto_mt,Demais MT,FALSE,2020,71.8,100,,,9.8,41.5,,8187,
+5108501,Vera,resto_mt,Demais MT,FALSE,2021,71.8,100,,,19.3,41.8,,8423,
+5108501,Vera,resto_mt,Demais MT,FALSE,2022,77.8,,,,30,41.5,,9963,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,1996,,72.6,,,,30,,5561,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,1997,,69,,,,30,,5722,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,1998,,59.2,,,,,,5223,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,1999,,33.8,,,,,,3167,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2001,5.5,8.6,,,,27,,900,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2002,4.5,6.9,,,25,27,,753,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2003,15.3,23.8,,,17.5,27,,2678,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2005,15.4,24,,,30,26,,3000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2006,37.8,58.7,,,24.1,28.5,,7600,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2007,38.2,52.8,,,24.1,28.5,,7230,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2009,24.9,34.4,,,5.4,70,,5000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2010,23.4,35.8,,,21.7,72,,5000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2011,22.9,35.1,,,22,72,,5000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2012,27,41.3,,,25.7,72,,6000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2013,27,41.3,,,24.6,72,,6200,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2014,27.4,41.9,,,23.5,72,,6420,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2015,27.4,42,,,20.6,72,,6570,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2016,26.9,41.3,,,20.7,72,,6570,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2019,20.3,31.1,,,0,97.9,,5292,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2020,30.2,46.2,,,3.7,111.2,,8000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2021,29.7,45.5,,,0.3,115.2,,8000,
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2022,50.3,,,,18.8,155,,10000,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2003,26.1,75.4,,,49.1,18,,1460,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2004,29.5,85.1,,,0,25.6,,1636,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2005,30.9,78.9,,,0,25.6,,1702,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2006,32.6,84,,,0,26,,1790,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2007,37.9,86.5,,,0,27,,1847,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2008,38.9,88.9,,,59.7,27,,1939,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2009,41.4,94.8,,,33.6,3,,2030,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2010,43.7,100,,,33.3,5,,2155,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2011,45.1,100,,,50,60,,2200,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2012,45.6,100,,,23.3,60,,2200,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2013,47.6,100,,,23.3,62,,2250,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2014,65,99.8,,,21.1,63,,3030,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2015,66.1,99.6,,,17.4,63,,3032,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2016,67,98.4,,,0,63,,3032,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2017,67.9,100,,,2.7,63,,3025,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2018,66.1,97.2,,,2.7,63,,3026,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2019,67.2,90.1,,,11.2,63,,3038,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2020,68.1,91.3,,,11.7,63,,3039,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2021,53.1,91.9,,,10.4,63,,2342,
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2022,48.8,,,,16,63,,2240,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,1998,,94.9,,,,,,1241,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,1999,,49.6,,,,,,693,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2002,73.3,100,,,5.4,7,,1800,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2003,86.7,100,,,4.3,11,,2354,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2005,99.5,100,,,0,12,,2829,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2006,97.9,100,,,0,14.7,,2829,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2007,77.8,100,,,0,14.7,,1800,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2009,68.4,100,,,,14,,1605,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2010,66.3,100,,,8.4,15,,1957,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2011,65.7,99,,,8.4,16,,1957,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2012,65.1,98.1,,,8,16.5,,1957,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2013,64.4,97.1,,,17.7,16.5,,1965,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2014,64.4,97.1,,,8.7,16.5,,1984,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2015,64,96.6,,,8.7,17,,1990,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2016,66.3,100,,,3.1,17.5,,2078,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2017,66.3,100,,,2.8,18,,2095,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2018,66.3,100,,,1.1,18.3,,2155,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2019,66.3,100,,,5.4,18.3,,2174,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2020,66.3,100,,,5,18.7,,2191,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2021,67.4,100,,,5.7,19.8,,2245,
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2022,68.1,,,,3,19.8,,2403,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2001,84.1,94,,,,13,,3357,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2002,89.5,96.3,,,0,16,,3595,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2007,95.8,100,,,,29,,5320,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2010,51.9,100,,,1.5,30,,3421,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2011,50.4,97,,,1.5,30,,3421,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2012,51.9,100,,,17.5,31,,3628,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2014,62.5,100,,,9.4,20,,4717,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2015,62.5,100,,,0,20,,4850,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2016,62.1,100,,,0,20,,4950,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2017,64.7,100,,,0,20,,5290,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2018,64.1,100,,,0,20.5,,5400,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2019,63.1,98.5,,,0,20.5,,5455,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2020,61.6,89.9,,,0,20.5,,5455,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2021,68.6,93.8,,,0,21.7,,6216,
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2022,99.2,,,,0.6,25,,5800,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2014,2.9,6,,,19.8,1.2,,250,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2015,2.9,5.9,,,19.8,1.2,,250,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2016,2.9,5.8,,,19.8,1.2,,250,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2019,5.4,11.1,,,59.9,1.2,,500,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2020,13.8,28.1,,,17.6,25.8,,1280,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2021,18.7,38,,,11.9,26.2,,1750,
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2022,21,,,,28.4,27.6,,1750,

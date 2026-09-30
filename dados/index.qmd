@@ -1,0 +1,95 @@
+---
+title: "Dados"
+description: "Indicadores e bases tratadas do Projeto DSIP-MT para download"
+---
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+```
+
+::: {.faixa-versao}
+Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download são cópias fiéis das bases entregues, exceto pelo IFDM (ver nota ao final).
+:::
+
+## Explorador de indicadores
+
+A tabela traz o último valor de `r nrow(IND) - 1` indicadores para os 141 municípios de Mato Grosso. Use os filtros de cada coluna e o botão para baixar o recorte filtrado em CSV.
+
+```{r}
+ex <- ULT$ultimos |>
+  filter(!grepl("^ifdm", indicador)) |>
+  left_join(select(IND, indicador = id, dim, rotulo, unidade), by = "indicador") |>
+  left_join(select(MUN, id_municipio, municipio, grupo), by = "id_municipio") |>
+  mutate(grupo = recode(grupo, pantanal_norte = "Pantanal Norte", polo_metropolitano = "Polo Metropolitano",
+                        resto_mt = "Resto de MT")) |>
+  transmute(Município = municipio, Grupo = grupo, Dimensão = dim, Indicador = rotulo,
+            Valor = round(valor, 3), Unidade = unidade, Ano = ano, `Código IBGE` = id_municipio) |>
+  arrange(Dimensão, Indicador, Município)
+
+tagList(
+  tags$button(class = "btn btn-sm btn-outline-primary mb-2",
+              onclick = "Reactable.downloadDataCSV('explorador', 'dsip-mt_indicadores.csv')",
+              "Baixar recorte filtrado (CSV)"),
+  reactable(ex, elementId = "explorador", filterable = TRUE, searchable = TRUE, compact = TRUE,
+            striped = TRUE, defaultPageSize = 20, showPageSizeOptions = TRUE,
+            pageSizeOptions = c(20, 50, 141, 500),
+            columns = list(
+              Município = colDef(minWidth = 150),
+              Grupo = colDef(minWidth = 120),
+              Dimensão = colDef(minWidth = 70),
+              Indicador = colDef(minWidth = 220),
+              Valor = colDef(align = "right", filterable = FALSE,
+                             format = colFormat(separators = TRUE, locales = "pt-BR")),
+              Unidade = colDef(minWidth = 130, style = list(color = "#6b7280", fontSize = "0.85em")),
+              Ano = colDef(align = "center", minWidth = 60),
+              `Código IBGE` = colDef(minWidth = 90))))
+```
+
+## Bases tratadas
+
+Cada base tem uma linha por município e ano (ou por município, nas bases de retrato único). A chave `id_municipio` é o código IBGE de 7 dígitos.
+
+```{r}
+cat_b <- ler(file.path(RAIZ, "arquivos", "dados", "CATALOGO_BASES_TRATADAS.csv"))
+disp <- list.files(file.path(RAIZ, "arquivos", "dados"), "\\.csv$")
+cat_b <- cat_b |> filter(arquivo %in% disp) |>
+  mutate(tam = round(file.size(file.path(RAIZ, "arquivos", "dados", arquivo)) / 1024^2, 2)) |>
+  transmute(Dimensão = dimensao, Arquivo = arquivo, Anos = anos_min_max,
+            Municípios = n_municipios_distintos, Linhas = n_linhas, Colunas = n_colunas,
+            `MB` = tam, `% vazio` = pct_celulas_na)
+reactable(cat_b, compact = TRUE, striped = TRUE, pagination = FALSE, groupBy = "Dimensão",
+          columns = list(Arquivo = colDef(minWidth = 220, cell = function(v)
+            a(href = paste0("../arquivos/dados/", v), download = NA, v))))
+```
+
+Além das bases por dimensão:
+
+- [Painel dos 141 municípios](../arquivos/dados/painel_municipios_mt.csv) e [painel do Pantanal Norte](../arquivos/dados/painel_pantanal_norte.csv)
+- [Tabela de municípios e grupos](../arquivos/dados/municipios_ref.csv)
+- Dicionários de variáveis: [D1](../arquivos/dados/dicionarios/dicionario_D1.csv) · [D2](../arquivos/dados/dicionarios/dicionario_D2.csv) · [D3](../arquivos/dados/dicionarios/dicionario_D3.csv) · [D4](../arquivos/dados/dicionarios/dicionario_D4.csv) · [D5](../arquivos/dados/dicionarios/dicionario_D5.csv) · [D6](../arquivos/dados/dicionarios/dicionario_D6.csv) · [Painel](../arquivos/dados/dicionarios/dicionario_Painel.csv)
+- [Malha municipal de MT simplificada (GeoJSON)](../arquivos/geo/mt_municipios.geojson) — IBGE, simplificada para uso na web
+- [Catálogo das bases](../arquivos/dados/CATALOGO_BASES_TRATADAS.csv)
+
+Todos os arquivos estão em UTF-8, separados por vírgula. Valores monetários reais estão em reais de 2024 (deflatores descritos nas notas metodológicas).
+
+## Fontes e licenças
+
+```{r}
+fl <- ler(ds("fontes_licencas.csv")) |>
+  transmute(Código = codigo_base, Fonte = fonte_oficial, Licença = licenca_ou_termo,
+            Redistribuição = restricao_redistribuicao, Observação = observacao)
+reactable(fl, compact = TRUE, searchable = TRUE, defaultPageSize = 15, wrap = TRUE,
+          columns = list(Fonte = colDef(minWidth = 180), Licença = colDef(minWidth = 200),
+                         Redistribuição = colDef(minWidth = 110),
+                         Observação = colDef(minWidth = 280, style = list(fontSize = "0.82em"))))
+```
+
+::: {.callout-note}
+## Notas sobre uso e atribuição
+
+- **IFDM (FIRJAN):** os valores aparecem nos perfis com citação da fonte, mas a base não é oferecida para download, porque a redistribuição depende de autorização da FIRJAN. Os dados estão em [firjan.com.br/ifdm](https://www.firjan.com.br/ifdm/).
+- **Rodovias:** dados de © OpenStreetMap contributors, sob licença ODbL.
+- **Uso da terra:** MapBiomas — citar a coleção conforme orientação do portal.
+- **Crédito rural (SICOR):** cobre cerca de 23,5% do crédito rural total; rotular como "crédito com recursos públicos".
+:::

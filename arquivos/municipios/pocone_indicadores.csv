@@ -1,0 +1,833 @@
+id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,81192074.95
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,65926856.67
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,79055592.92
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2016,39684592.61
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2017,80169991.65
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2018,91337668.68
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2019,48159567.23
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2020,53591793.13
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2021,81380292.31
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2022,82418125.42
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2023,71361308.1
+5106505,Poconé,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2024,61833427.44
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2000,1388
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2001,1478
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2002,1572
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2003,1524
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2004,1736
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2005,1829
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2006,1958
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2007,2594
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2008,2663
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2009,2782
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2010,2944
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2011,3328
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2012,3093
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2013,3518
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2014,3673
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2015,3786
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2016,3551
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2017,3566
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2018,3958
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2019,3888
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2020,3742
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2021,4210
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,4757
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,4545
+5106505,Poconé,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,4924
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,16.63
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,20.12
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,18.19
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2009,18.47
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2010,17.97
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2011,16.86
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2012,14.88
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2013,16.94
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2014,16.58
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2015,18.61
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2016,16.61
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2017,16.22
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2018,16.14
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2019,17.26
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2020,17.92
+5106505,Poconé,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2021,16.35
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2006,523
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2007,626
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2008,583
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2009,594
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2010,571
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2011,537
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2012,475
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2013,543
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2014,532
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2015,598
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2016,535
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2017,523
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2018,529
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2019,567
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2020,597
+5106505,Poconé,D1,numero_empresas,Empresas formais,empresas,2021,546
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2006,11.6445352400409
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2007,12.5289128758674
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2008,11.7912129177619
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2009,12.0416966211359
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2010,10.5638586956522
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2011,11.6586538461538
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2012,10.4429356611704
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2013,10.7163160886868
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2014,11.3258916417098
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2015,13.9197041732699
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2016,12.3063925654745
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2017,17.4425126191812
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2018,22.6376958059626
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2019,18.2355967078189
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2020,8.6851950828434
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2021,16.8408551068884
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2022,18.3939457641371
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2023,23.8723872387239
+5106505,Poconé,D1,perc_superior,Empregados formais com ensino superior,%,2024,21.3038180341186
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2002,39.5
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2003,36.2
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2004,31.6
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2005,33
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2006,45.9
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2007,39.7
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2008,35.2
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2009,39.7
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2010,45.7
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2011,38.8
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2012,36.1
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2013,39.7
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2014,39.3
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2015,41.3
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2016,42.2
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2017,41.1
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2018,41.2
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2019,42.2
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2020,36.7
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2021,32.5
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2022,37.4
+5106505,Poconé,D1,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),2023,37
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2002,436001.22
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2003,479671.85
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2004,471431.91
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2005,463032.55
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2006,532389.3
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2007,529588.32
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2008,555251.14
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2009,619387.25
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2010,689209.77
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2011,653821.24
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2012,642073.97
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2013,722763.19
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2014,743054.8
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2015,762034.1
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2016,821894.47
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2017,783479.49
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2018,804080.31
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2019,808402
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2020,832045
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2021,842996.34
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2022,891557.33
+5106505,Poconé,D1,pib_real,PIB real,R$ mil de 2024,2023,897035.69
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2002,14079.99
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2003,15445.88
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2004,15089.19
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2005,14770.71
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2006,16927.59
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2007,17018.72
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2008,17319.66
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2009,19258.35
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2010,21687.58
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2011,20523.63
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2012,20108.17
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2013,22549
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2014,23153.89
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2015,23716.49
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2016,25520.72
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2017,24300.72
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2018,24538.58
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2019,24614.14
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2020,24975.08
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2021,25250
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2022,28560
+5106505,Poconé,D1,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,2023,28735.49
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2000,290761
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2001,290761
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2002,346468
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2003,384281
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2004,417280
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2005,403935
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2006,385646
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2007,374293
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2008,347369
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2009,369323
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2010,394354
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2011,399544
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2012,410446
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2013,432090
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2014,446453
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2015,477965
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2016,505084
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2017,516323
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2018,515432
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2019,518687
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2020,531977
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2021,526275
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2022,549344
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2023,605000
+5106505,Poconé,D1,rebanho_bovino,Rebanho bovino,cabeças,2024,605788
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2002,1538.09
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2003,1579.72
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2004,1566.94
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2005,1644.21
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2006,2082.97
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2007,2069.49
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2008,2039.58
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2009,2226.92
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2010,2417.35
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2011,2520.2
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2012,2409.8
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2013,2789.03
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2014,2860.8
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2015,2860.49
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2016,2847.94
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2017,2888.92
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2018,3050.37
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2019,2811.64
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2020,3030.18
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2021,2891.6
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2022,3192.95
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2023,3047.87
+5106505,Poconé,D1,remun_real_media,Remuneração média real,R$ de 2024 por mês,2024,3246.04
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2007,-169
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2008,-34
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2009,140
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2010,-430
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2011,8
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2012,-69
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2013,72
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2014,13
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2015,-36
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2016,63
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2017,5
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2018,99
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2019,247
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2020,106
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2021,167
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2022,121
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2023,104
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2024,229
+5106505,Poconé,D1,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,2025,436
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2002,37.46
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2003,34.3
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2004,33.67
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2005,36.73
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2006,35.05
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2007,37.87
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2008,39.76
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2009,36.9
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2010,33.86
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2011,36.37
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2012,38.05
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2013,36.72
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2014,37.03
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2015,36.91
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2016,36.04
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2017,38.65
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2018,37.91
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2019,34.86
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2020,35.77
+5106505,Poconé,D1,sh_adespss_va,Participação da administração pública no VAB,%,2021,33.23
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2002,24.76
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2003,29.84
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2004,28.46
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2005,22.83
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2006,24.46
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2007,18.19
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2008,17.44
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2009,19.76
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2010,24.72
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2011,17.44
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2012,16.91
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2013,20.12
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2014,14.09
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2015,11.27
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2016,13.36
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2017,11.4
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2018,10.73
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2019,9.85
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2020,14.52
+5106505,Poconé,D1,sh_agro_va,Participação da agropecuária no VAB,%,2021,19.24
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2002,6.21
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2003,5.42
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2004,6.76
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2005,6.7
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2006,4.34
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2007,3.92
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2008,4.65
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2009,7.23
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2010,8.29
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2011,10.13
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2012,9.8
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2013,6.82
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2014,9.39
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2015,9.96
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2016,10
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2017,7.5
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2018,7.29
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2019,9.33
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2020,8.99
+5106505,Poconé,D1,sh_ind_va,Participação da indústria no VAB,%,2021,9.1
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,31.57
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,30.45
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,31.1
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2005,33.75
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2006,36.16
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2007,40.02
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2008,38.15
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2009,36.11
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2010,33.13
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2011,36.06
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2012,35.24
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2013,36.34
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2014,39.49
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2015,41.86
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2016,40.6
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2017,42.45
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2018,44.07
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,45.96
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,40.72
+5106505,Poconé,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,38.44
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,110158.53
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,137893.2
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,115856.7
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,70347.4
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,285728.1
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,152259.08
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,109005.35
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,147356.85
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,133233.43
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,45669.31
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,55489.19
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,202479.14
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,133149.32
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,63332.04
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,112946.28
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,116697.53
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,112381.26
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,104636.87
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,141405.16
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,165699.83
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,314853.88
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,211593.97
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,190246
+5106505,Poconé,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,196706.989114516
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2004,5
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2005,0
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2008,3
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2009,2
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2010,1
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2012,1
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2013,1
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2017,1
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2018,1
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2019,2
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2020,3
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2021,4
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2022,3
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2023,4
+5106505,Poconé,D2,n_destinos_exp,Países de destino das exportações,países,2024,3
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2004,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2005,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2006,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2007,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2008,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2009,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2010,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2011,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2012,0
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2013,37314843
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2014,4846501
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2015,2390668
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2016,2321236
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2017,1855209
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2018,2533980
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2019,2346408
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2020,2648679
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2021,4728205
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2022,4416695
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2023,4063957
+5106505,Poconé,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2024,4665000
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2002,919481
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2003,773262
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2004,1406808
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2005,1311028
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2006,1563094
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2007,1408227
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2008,1347007
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2009,1446685
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2010,1243940
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2011,1366346
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2012,1425863
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2013,38351573
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2014,5647547
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2015,3057100
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2016,2788728
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2017,2197643
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2018,2874824
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2019,2744829
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2020,3087378
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2021,5185142
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2022,4833918
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2023,4468362
+5106505,Poconé,D2,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,2024,5051000
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2004,146420
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2005,0
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2008,8965
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2009,88759
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2010,16139
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2012,5160
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2013,195000
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2017,203439
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2018,26054904
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2019,64789401
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2020,178406181
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2021,476973251
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,181317148
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,37732449
+5106505,Poconé,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,15546420
+5106505,Poconé,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,-0.12
+5106505,Poconé,D3,gini,Índice de Gini,índice 0–1,1991,0.62
+5106505,Poconé,D3,gini,Índice de Gini,índice 0–1,2000,0.57
+5106505,Poconé,D3,gini,Índice de Gini,índice 0–1,2010,0.52
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2005,3.1
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2007,3.1
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2009,3.7
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2011,3.7
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2013,3.7
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2015,3.6
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2017,3.8
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2019,3.5
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2021,3.9
+5106505,Poconé,D3,ideb_finais,IDEB — anos finais,índice 0–10,2023,3.7
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2005,2.9
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2007,3.7
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2009,3.9
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2011,4
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2013,4.1
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2015,4.4
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2017,4.6
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2019,4.4
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2021,4.6
+5106505,Poconé,D3,ideb_iniciais,IDEB — anos iniciais,índice 0–10,2023,4.3
+5106505,Poconé,D3,idhm,IDHM,índice 0–1,1970,0.393
+5106505,Poconé,D3,idhm,IDHM,índice 0–1,1980,0.501
+5106505,Poconé,D3,idhm,IDHM,índice 0–1,1991,0.61
+5106505,Poconé,D3,idhm,IDHM,índice 0–1,2000,0.528
+5106505,Poconé,D3,idhm,IDHM,índice 0–1,2010,0.652
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.29
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.28
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.23
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.63
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,11.82
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,12.75
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,12.75
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2016,12.68
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2017,12.5
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2018,12.69
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2019,11.84
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2020,11.48
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2021,11.35
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2022,13.97
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2023,15.13
+5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2024,14.91
+5106505,Poconé,D3,populacao,População,habitantes,2000,30773
+5106505,Poconé,D3,populacao,População,habitantes,2001,30902
+5106505,Poconé,D3,populacao,População,habitantes,2002,30966
+5106505,Poconé,D3,populacao,População,habitantes,2003,31055
+5106505,Poconé,D3,populacao,População,habitantes,2004,31243
+5106505,Poconé,D3,populacao,População,habitantes,2005,31348
+5106505,Poconé,D3,populacao,População,habitantes,2006,31451
+5106505,Poconé,D3,populacao,População,habitantes,2007,31118
+5106505,Poconé,D3,populacao,População,habitantes,2008,32059
+5106505,Poconé,D3,populacao,População,habitantes,2009,32162
+5106505,Poconé,D3,populacao,População,habitantes,2010,31779
+5106505,Poconé,D3,populacao,População,habitantes,2011,31857
+5106505,Poconé,D3,populacao,População,habitantes,2012,31931
+5106505,Poconé,D3,populacao,População,habitantes,2013,32053
+5106505,Poconé,D3,populacao,População,habitantes,2014,32092
+5106505,Poconé,D3,populacao,População,habitantes,2015,32131
+5106505,Poconé,D3,populacao,População,habitantes,2016,32205
+5106505,Poconé,D3,populacao,População,habitantes,2017,32241
+5106505,Poconé,D3,populacao,População,habitantes,2018,32768
+5106505,Poconé,D3,populacao,População,habitantes,2019,32843
+5106505,Poconé,D3,populacao,População,habitantes,2020,33315
+5106505,Poconé,D3,populacao,População,habitantes,2021,33386
+5106505,Poconé,D3,populacao,População,habitantes,2022,31217
+5106505,Poconé,D3,populacao,População,habitantes,2023,31217
+5106505,Poconé,D3,populacao,População,habitantes,2024,31269
+5106505,Poconé,D3,populacao,População,habitantes,2025,31203
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,84.5
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,64.7
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,48.4
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2003,54.7
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2004,54.4
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2005,51
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2006,41.3
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2007,70.7
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2008,81.1
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2009,93.3
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2010,81.8
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2011,81.6
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2012,103.3
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2013,96.7
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2014,118.4
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2015,124.5
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2016,93.2
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2017,96.2
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2018,94.6
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2019,82.2
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,75
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,98.8
+5106505,Poconé,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,102.5
+5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,73.28
+5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,71.21
+5106505,Poconé,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,48.84
+5106505,Poconé,D3,taxa_urbanizacao,Taxa de urbanização,%,2022,74.98
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2002,21.2
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2003,18.9
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2004,17
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2005,21.8
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2006,23.4
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2007,25.3
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2008,20.5
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2009,17.9
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2010,12.4
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2011,13
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2012,15.2
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2013,16.3
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2014,14.9
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2015,11.8
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2016,11.6
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2017,12.8
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2018,18.1
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2019,16.8
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2020,13.7
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2021,8
+5106505,Poconé,D3,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,2022,8.1
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2013,430.24
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2014,453.4
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2015,415.53
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2016,380.88
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2017,376.91
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2018,381.39
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2019,1040.74
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2020,979.52
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2021,923.77
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2022,1222.45
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2023,1896.03
+5106505,Poconé,D3,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,2024,1973.46
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2003,13.36
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2004,29.75
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2005,30.56
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2006,10.52
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2007,49.5
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2008,26.38
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2009,9.76
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2010,78.49
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2011,33.23
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2012,17.14
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2013,32.88
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2014,6.27
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2015,22.83
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2016,11.16
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2017,18.77
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2018,7.26
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,28.99
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,327.74
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,44.79
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,13.19
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,6230.97
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,3673.21
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,105.2
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,105.2
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,144.2
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2004,144.2
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2005,69.9
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2006,69.9
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2007,73.7999999999999
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2008,73.8000000000001
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2009,43.8
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2010,43.8
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2011,28.8
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2012,29.7000000000003
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2013,72.0999999999998
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2014,38.8000000000001
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2015,63.2000000000001
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2016,63
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2017,31.5
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2018,60.4999999999998
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2019,43.7000000000003
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2020,52.1999999999998
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2021,37
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2022,27
+5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2023,25.2000000000001
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2000,10.83
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2001,11.44
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2002,12.05
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2003,12.89
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2004,13.72
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2005,14.13
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2006,14.54
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2007,14.96
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2008,15.39
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2009,15.65
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2010,15.9
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2011,16.07
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2012,16.24
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2013,16.66
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2014,16.89
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2015,17.25
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2016,17.62
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2017,17.8
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2018,18.15
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2019,18.41
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2020,18.71
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2021,18.93
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2022,19.08
+5106505,Poconé,D4,perc_desmatado_acum,Território desmatado (acumulado),%,2023,19.23
+5106505,Poconé,D4,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,2024,1.2
+5106505,Poconé,D4,perc_territorio_protegido,Território em UC ou TI,%,2019,11.43
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2000,84.16
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2001,83.55
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2002,82.94
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2003,82.1
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2004,81.26
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2005,80.86
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2006,80.45
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2007,80.02
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2008,79.59
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2009,79.34
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2010,79.08
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2011,78.92
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2012,78.74
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2013,78.32
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2014,78.1
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2015,77.73
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2016,77.37
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2017,77.18
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2018,76.83
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2019,76.58
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2020,76.27
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2021,76.06
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2022,75.9
+5106505,Poconé,D4,perc_veg_natural_remanescente,Vegetação natural remanescente,%,2023,75.76
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2000,9.2
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2001,9.21
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2002,9.15
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2003,9.49
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2004,9.79
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2005,9.94
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2006,9.98
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2007,9.87
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2008,9.9
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2009,10.14
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2010,10.35
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2011,10.47
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2012,10.58
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2013,10.54
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2014,10.59
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2015,10.67
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2016,10.95
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2017,11.15
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2018,11.5
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2019,11.78
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2020,12.71
+5106505,Poconé,D4,taxa_antropizacao,Taxa de antropização,%,2021,14.38
+5106505,Poconé,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,3613.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2004,55.7
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2005,67
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2006,66.8
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2007,70.7
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2008,71.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2009,58.8
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2010,59.8
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2011,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2012,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2013,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2014,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2015,74.2
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2016,69.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2017,65.4
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2018,67.9
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2019,71.1
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2020,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2021,72.6
+5106505,Poconé,D5,idx_atend_agua_total,População atendida com água,%,2022,70.4
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2004,35.3
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2005,39.5
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2006,20
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2007,20
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2008,55.4
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2009,44.8
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2010,41.1
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2011,42.3
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2012,71.3
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2013,66
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2014,55.1
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2015,50.9
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2016,49.3
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2017,43.6
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2018,45.1
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2019,47.3
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2020,43.4
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2021,45.6
+5106505,Poconé,D5,idx_perda_distrib,Perdas na distribuição de água,%,2022,53.2
+5106505,Poconé,D5,perc_domic_com_energia,Domicílios com energia elétrica,%,2026,98.49
+5106505,Poconé,D5,perc_pavimentado,Malha viária pavimentada,%,,98.8
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1989,1.04
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1990,0.86
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1991,4.28
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1992,0.99
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1993,0.91
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1994,5.07
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1995,2.8
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1996,2.39
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1997,2.98
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1998,2.83
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,1999,6.6
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2000,3
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2001,1.92
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2002,2.55
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2003,0.01
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2004,4.97
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2005,3.39
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2006,3.74
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2007,3.14
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2008,3.78
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2009,3.16
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2010,5.79
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2013,6.97
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2014,7.83
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2016,6.83
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2017,7.28
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2018,7.95
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2019,9.45
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2020,5.44
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2021,9.93
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,9.51
+5106505,Poconé,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,9.23
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1989,48.55
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1990,58.71
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1991,44.17
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1992,46.72
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1993,43.64
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1994,40.02
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1995,52.17
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,42.94
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,46.34
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1998,36.13
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,32.09
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,26.68
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,30.91
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,34.59
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,45.5
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,34.95
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,44.15
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,39.97
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,43.97
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,43.09
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,41.48
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,36.07
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,31.22
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,33.24
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,30.99
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,29.01
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,26.77
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,24.42
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,19.18
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,21.15
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,43.92
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,39.07
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,129.6
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,101.66
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,113.01
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1992,114.16
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,108.75
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,198.08
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,200.21
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1996,221.72
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1997,113.65
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1998,94.45
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1999,91.32
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2000,74.8
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,93.9
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,91.17
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,94.89
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2004,86.49
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2005,90.11
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2006,90.64
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2007,92.63
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2008,92.78
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2009,95.4
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2010,90.79
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2013,88.92
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2014,88.3
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2016,90.18
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2017,88.71
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2018,90.58
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2019,86.81
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2020,91.63
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2021,83.27
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2022,82.3
+5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2023,83.66
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2014,2501.12
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2016,2788.22
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2017,2677.89
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2018,2722.46
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2019,3104.61
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2020,3461.68
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2021,3679.01
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2022,5269.75
+5106505,Poconé,D6,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,2023,5230.73
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2014,40.14
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2016,34.71
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2017,32.75
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2018,30.02
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2019,39.61
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2020,30.82
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2021,35.47
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2022,41.09
+5106505,Poconé,D6,perc_desp_educacao,Despesa com educação,% da despesa total,2023,45.64
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2014,32.87
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2016,25.39
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2017,27.16
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2018,28.29
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2019,26.65
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2020,34.04
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2021,34.23
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2022,28.79
+5106505,Poconé,D6,perc_desp_saude,Despesa com saúde,% da despesa total,2023,29.56
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2002,1137.82
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2003,1181.73
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2004,1502.61
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2005,1538.51
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2006,1763.26
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2007,1902.57
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2008,2071.41
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2009,2010.69
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2010,2205.39
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2013,2546.03
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2014,2432.91
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2016,2700.06
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2017,2725.27
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2018,3001.3
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2019,3384.42
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2020,3818.81
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2021,4181.53
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2022,5114.91
+5106505,Poconé,D6,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,2023,5663.09

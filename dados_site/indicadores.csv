@@ -1,0 +1,56 @@
+id,dim,arquivo,variavel,rotulo,unidade,fmt,ano_col,kpi,serie,soma,nota
+populacao,D3,D3_PSDM/d3_demografico.csv,populacao,População,habitantes,int,ano,1,1,1,Estimativa anual do IBGE.
+pib_real,D1,D1_PESM/d1_pib_vab.csv,pib_real,PIB real,R$ mil de 2024,brl_mil,ano,1,1,1,PIB deflacionado para reais de 2024.
+pib_real_pc,D1,D1_PESM/d1_pib_vab.csv,pib_real_pc,PIB per capita real,R$ de 2024 por habitante,brl,ano,1,1,0,Em municípios com menos de 10 mil habitantes a margem de erro é maior.
+pib_pc_rel_mt,D1,D1_PESM/d1_pib_vab.csv,pib_pc_rel_mt,PIB per capita em relação a MT,índice (100 = média de MT),dec1,ano,0,0,0,
+sh_agro_va,D1,D1_PESM/d1_pib_vab.csv,sh_agro_va,Participação da agropecuária no VAB,%,pct1,ano,0,1,0,VAB setorial disponível até 2021.
+sh_ind_va,D1,D1_PESM/d1_pib_vab.csv,sh_ind_va,Participação da indústria no VAB,%,pct1,ano,0,0,0,VAB setorial disponível até 2021.
+sh_serv_va,D1,D1_PESM/d1_pib_vab.csv,sh_serv_va,Participação dos serviços no VAB,%,pct1,ano,0,0,0,VAB setorial disponível até 2021.
+sh_adespss_va,D1,D1_PESM/d1_pib_vab.csv,sh_adespss_va,Participação da administração pública no VAB,%,pct1,ano,0,0,0,VAB setorial disponível até 2021.
+empregos_formais,D1,D1_PESM/d1_emprego_rais.csv,empregos_formais,Empregos formais,vínculos em 31/12,int,ano,1,1,1,RAIS.
+remun_real_media,D1,D1_PESM/d1_emprego_rais.csv,remun_real_media,Remuneração média real,R$ de 2024 por mês,brl,ano,0,1,0,RAIS; deflator INPC.
+perc_superior,D1,D1_PESM/d1_emprego_rais.csv,perc_superior,Empregados formais com ensino superior,%,pct1,ano,0,0,0,
+saldo_anual,D1,D1_PESM/d1_mercado_trabalho.csv,saldo_anual,Saldo de empregos formais (CAGED),vagas no ano,int,ano,0,1,0,Quebra de série entre o CAGED antigo e o Novo CAGED em 2020.
+vbp_real_brl,D1,D1_PESM/d1_agropecuaria.csv,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,brl_mil,ano,0,1,1,Lavouras + pecuária + extração vegetal + pesca; valores da base em R$ mil de 2024.
+rebanho_bovino,D1,D1_PESM/d1_agropecuaria.csv,rebanho_bovino,Rebanho bovino,cabeças,int,ano,1,1,1,PPM/IBGE.
+credito_real_brl,D1,D1_PESM/d1_credito_rural.csv,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,brl,ano,0,1,1,"SICOR cobre cerca de 23,5% do crédito rural total; não representa todo o crédito rural."
+numero_empresas,D1,D1_PESM/d1_empresas.csv,numero_empresas,Empresas formais,empresas,int,ano,0,1,1,CEMPRE; disponível até 2021.
+empresas_por_1000_hab,D1,D1_PESM/d1_empresas.csv,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,dec1,ano,0,0,0,CEMPRE; disponível até 2021.
+valor_exp_fob_usd,D2,D2_AEISM/d2_comercio_exterior.csv,valor_exp_fob_usd,Exportações,US$ correntes (FOB),usd,ano,1,1,1,Dólares correntes. Ausência de registro indica que o município não exportou.
+n_destinos_exp,D2,D2_AEISM/d2_comercio_exterior.csv,n_destinos_exp,Países de destino das exportações,países,int,ano,0,0,0,
+valor_bioeconomia_brl2024,D2,D2_AEISM/d2_bioeconomia.csv,valor_bioeconomia_brl2024,Valor da bioeconomia,R$ de 2024,brl,ano,0,1,1,Extrativismo vegetal + silvicultura + aquicultura.
+valor_aquicultura_brl2024,D2,D2_AEISM/d2_bioeconomia.csv,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,brl,ano,0,1,1,Série a partir de 2013.
+area_protegida_total_ha,D2,D2_AEISM/d2_ig_ativos.csv,area_protegida_total_ha,Área protegida (UC + TI),hectares,int,ano_referencia_uc_ti,0,0,1,Retrato de 2019.
+cagr_pop_2010_2025,D3,D3_PSDM/d3_demografico.csv,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,pct2,ano,0,0,0,Taxa média anual composta.
+taxa_urbanizacao,D3,D3_PSDM/d3_demografico.csv,taxa_urbanizacao,Taxa de urbanização,%,pct1,ano,0,0,0,Censo 2022 (valor repetido nos demais anos da base).
+perc_pop_bf,D3,D3_PSDM/d3_assistencia_social.csv,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,dec1,ano,0,1,0,Não é o percentual de pessoas atendidas.
+transf_pc_real,D3,D3_PSDM/d3_assistencia_social.csv,transf_pc_real,Transferências BF + BPC por habitante,R$ de 2024 por habitante,brl,ano,0,0,0,
+ideb_iniciais,D3,D3_PSDM/d3_educacao_qualidade.csv,ideb_iniciais,IDEB — anos iniciais,índice 0–10,dec1,ano,0,1,0,Rede pública; divulgação bienal.
+ideb_finais,D3,D3_PSDM/d3_educacao_qualidade.csv,ideb_finais,IDEB — anos finais,índice 0–10,dec1,ano,0,1,0,Rede pública; divulgação bienal.
+tmi_suavizado,D3,D3_PSDM/d3_saude_mortalidade.csv,tmi_suavizado,Mortalidade infantil (média de 3 anos),por 1.000 nascidos vivos,dec1,ano,0,1,0,Janela móvel de 3 anos; suprimida quando há menos de 30 nascidos vivos.
+taxa_mort_ext_100k,D3,D3_PSDM/d3_saude_mortalidade.csv,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,dec1,ano,0,1,0,
+leitos_sus_per_1000,D3,D3_PSDM/d3_saude_infraestrutura.csv,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,dec2,ano,0,0,0,Disponível em 2010; 2015; 2020 e 2023.
+idhm,D3,D3_PSDM/d3_idhm.csv,idhm,IDHM,índice 0–1,dec3,ano,0,0,0,Censo 2010 (dado mais recente).
+gini,D3,D3_PSDM/d3_idhm.csv,gini,Índice de Gini,índice 0–1,dec2,ano,0,0,0,Censo 2010 (dado mais recente).
+taxa_pobreza_pct,D3,D3_PSDM/d3_idhm.csv,taxa_pobreza_pct,População em situação de pobreza,%,pct1,ano,0,0,0,Censo 2010 (dado mais recente).
+perc_desmatado_acum,D4,D4_PAM/d4_desmatamento.csv,perc_desmatado_acum,Território desmatado (acumulado),%,pct1,ano,1,1,0,PRODES/INPE.
+perc_veg_natural_remanescente,D4,D4_PAM/d4_desmatamento.csv,perc_veg_natural_remanescente,Vegetação natural remanescente,%,pct1,ano,0,1,0,PRODES/INPE.
+incremento_desmat_km2,D4,D4_PAM/d4_desmatamento.csv,incremento_desmat_km2,Desmatamento no ano,km²,dec1,ano,0,1,1,
+densidade_focos_por_1000km2,D4,D4_PAM/d4_queimadas.csv,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,dec1,ano,0,1,0,Há quebra de série de satélite em 2023/24; comparar com cautela.
+taxa_antropizacao,D4,D4_PAM/d4_uso_terra.csv,taxa_antropizacao,Taxa de antropização,%,pct1,ano,0,1,0,MapBiomas; disponível até 2021.
+perc_territorio_protegido,D4,D4_PAM/d4_areas_protegidas.csv,perc_territorio_protegido,Território em UC ou TI,%,pct1,ano_referencia_areas,0,0,0,Retrato de 2019.
+perc_imoveis_conformes,D4,D4_PAM/d4_car.csv,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,pct1,ano_referencia_car,0,0,0,Conformidade autodeclarada; não verificada em campo.
+idx_atend_agua_total,D5,D5_PIM/d5_saneamento.csv,idx_atend_agua_total,População atendida com água,%,pct1,ano,0,1,0,SNIS (adesão voluntária).
+idx_coleta_esgoto,D5,D5_PIM/d5_saneamento.csv,idx_coleta_esgoto,Esgoto coletado,%,pct1,ano,0,1,0,Vazio significa que o município não tem sistema de coleta.
+idx_perda_distrib,D5,D5_PIM/d5_saneamento.csv,idx_perda_distrib,Perdas na distribuição de água,%,pct1,ano,0,1,0,Quanto menor; melhor.
+consumo_per_capita_kwh,D5,D5_PIM/d5_energia.csv,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,int,ano_referencia_energia,0,0,0,Ano-base 2023.
+perc_domic_com_energia,D5,D5_PIM/d5_energia.csv,perc_domic_com_energia,Domicílios com energia elétrica,%,pct1,ano_referencia_acesso,0,0,0,ANEEL.
+perc_pavimentado,D5,D5_PIM/d5_rodovias.csv,perc_pavimentado,Malha viária pavimentada,%,pct1,,0,0,0,© OpenStreetMap contributors (ODbL); ordem de grandeza.
+autonomia_fiscal_pct,D6,D6_PGPM/d6_financas.csv,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,pct1,ano,1,1,0,Receita própria sobre receita corrente.
+dep_transferencias_pct,D6,D6_PGPM/d6_financas.csv,dep_transferencias_pct,Dependência de transferências,% da receita corrente,pct1,ano,0,1,0,
+dep_fpm_pct,D6,D6_PGPM/d6_financas.csv,dep_fpm_pct,Dependência do FPM,% da receita corrente,pct1,ano,0,0,0,
+receita_pc_real,D6,D6_PGPM/d6_financas.csv,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,brl,ano,0,1,0,
+despesa_pc_real,D6,D6_PGPM/d6_financas.csv,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,brl,ano,0,0,0,
+perc_desp_saude,D6,D6_PGPM/d6_financas.csv,perc_desp_saude,Despesa com saúde,% da despesa total,pct1,ano,0,0,0,Gasto executado; não é o piso constitucional.
+perc_desp_educacao,D6,D6_PGPM/d6_financas.csv,perc_desp_educacao,Despesa com educação,% da despesa total,pct1,ano,0,0,0,Gasto executado; não é o mínimo constitucional.
+ifdm_geral,D6,D6_PGPM/d6_ifdm.csv,ifdm_geral,IFDM geral,índice 0–1,dec3,ano,1,1,0,© FIRJAN — Índice FIRJAN de Desenvolvimento Municipal. Dados disponíveis em firjan.com.br/ifdm.

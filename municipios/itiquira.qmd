@@ -1,0 +1,12 @@
+---
+title: "Itiquira"
+description: "Perfil do município de Itiquira (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5104609L
+```
+
+{{< include _perfil.qmd >}}
+

@@ -1,0 +1,12 @@
+---
+title: "Santo Antônio do Leverger"
+description: "Perfil do município de Santo Antônio do Leverger (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5107800L
+```
+
+{{< include _perfil.qmd >}}
+

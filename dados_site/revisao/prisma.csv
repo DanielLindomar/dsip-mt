@@ -1,0 +1,19 @@
+ordem,etapa,rotulo,valor
+1,Identificação,Registros brutos — Periódicos CAPES,447
+2,Identificação,Registros brutos — SciELO,122
+3,Identificação,Registros brutos — Scopus (termos em inglês),809
+4,Identificação,Total de registros brutos,1378
+5,Identificação,Registros únicos após deduplicação,1038
+6,Identificação,Excluídos por estar fora do período 2011–2026,199
+7,Triagem,Registros submetidos à triagem,839
+8,Triagem,Triagem por título — incluir,123
+9,Triagem,Triagem por título — excluir,525
+10,Triagem,Triagem por título — incerto,191
+11,Triagem,Triagem por resumo — incluídos (3 rodadas),236
+12,Triagem,Triagem por resumo — excluídos (3 rodadas),76
+13,Inclusão,Registros incluídos no corpus,236
+14,Inclusão,Estudos distintos no corpus,225
+15,Exclusão,Excluídos por título,525
+16,Exclusão,Excluídos por resumo,76
+17,Exclusão,Excluídos por identificação da fonte,1
+18,Exclusão,Excluídos por duplicata do mesmo estudo,1

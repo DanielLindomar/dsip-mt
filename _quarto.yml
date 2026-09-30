@@ -1,0 +1,74 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - arquivos/
+    - dimensoes/figuras/
+
+website:
+  title: "Observatório DSIP-MT"
+  description: "Resultados do Projeto DSIP-MT — Pantanal Norte Mato-grossense (Convênio 984799/2025 SUDECO–UNEMAT)"
+  site-url: https://daniellindomar.github.io/dsip-mt/
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: "#1E2761"
+    foreground: "#ffffff"
+    logo: assets/logo-unemat.jpg
+    logo-alt: "Brasão da UNEMAT"
+    left:
+      - href: index.qmd
+        text: Início
+      - href: municipios/index.qmd
+        text: Municípios
+      - text: Dimensões
+        menu:
+          - href: dimensoes/d1.qmd
+            text: "D1 · Perfil econômico-produtivo"
+          - href: dimensoes/d2.qmd
+            text: "D2 · Áreas de especial interesse"
+          - href: dimensoes/d3.qmd
+            text: "D3 · Perfil sociodemográfico"
+          - href: dimensoes/d4.qmd
+            text: "D4 · Perfil ambiental"
+          - href: dimensoes/d5.qmd
+            text: "D5 · Infraestrutura"
+          - href: dimensoes/d6.qmd
+            text: "D6 · Gestão pública"
+      - text: Revisão de literatura
+        menu:
+          - href: revisao/index.qmd
+            text: "Situação das áreas"
+          - href: revisao/economica.qmd
+            text: "Área econômica — matriz FOFA"
+          - href: revisao/estudos.qmd
+            text: "Área econômica — estudos do corpus"
+      - href: dados/index.qmd
+        text: Dados
+      - href: biblioteca/index.qmd
+        text: Biblioteca
+      - href: sobre.qmd
+        text: Sobre
+  page-footer:
+    left: |
+      Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto
+    right: |
+      ![UNEMAT](/assets/logo-unemat.jpg){height=36} ![Governo de Mato Grosso](/assets/brasao-mt.jpg){height=36} ![SUDECO](/assets/logo-sudeco.png){height=36}
+
+format:
+  html:
+    theme: [cosmo, estilo.scss]
+    lang: pt-BR
+    toc: true
+    toc-depth: 2
+    toc-title: "Nesta página"
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+engine: knitr

@@ -1,0 +1,70 @@
+---
+title: "Área econômica — estudos do corpus"
+description: "Os 225 estudos distintos do corpus da revisão sistemática da área-chave econômica do Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+source("_revisao.R")
+M   <- meta_rev()
+est <- ler_rev("estudos.csv") |> arrange(desc(ano), autor_ano)
+pr  <- ler_rev("prisma.csv")
+pv  <- function(i) pr$valor[pr$ordem == i]
+stopifnot(nrow(est) == 225)
+```
+
+```{r}
+#| results: asis
+cat(sprintf('::: {.faixa-versao}\nCorpus validado pela coordenação em %s; arquivo BibTeX regerado em %s com uma entrada por estudo distinto, conforme deliberação de %s.\n:::\n',
+            M[["data_validacao_matriz"]], M[["data_regeracao"]], M[["data_deliberacao"]]))
+```
+
+O corpus da revisão sistemática da área econômica tem `r pv(13)` registros, correspondentes a `r nrow(est)` estudos distintos, selecionados entre `r num_br(pv(4))` registros recuperados no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026). A tabela traz um estudo por linha; quando o mesmo estudo entrou no corpus por dois registros (versão em outra língua ou em outra base), a linha corresponde ao registro principal.
+
+```{r}
+div(class = "kpi-grade",
+  kpi_rev("Estudos distintos", nrow(est), sprintf("%d registros no corpus", pv(13))),
+  kpi_rev("Com DOI", sum(nzchar(est$doi)), pct_br(mean(nzchar(est$doi)), 1)),
+  kpi_rev("Citam município do recorte", sum(nzchar(est$municipios)), "pelo nome"),
+  kpi_rev("Período de publicação", paste(min(est$ano), "–", max(est$ano)), "ano da publicação"))
+```
+
+## Arquivos
+
+- [Corpus em BibTeX, sem resumos](../arquivos/revisao/Corpus_Economico_DSIP-MT_sem_resumos.bib) — `r nrow(est)` entradas, para gerenciadores de referências (Zotero, Mendeley, JabRef) e ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave do arquivo original não são publicados, por serem textos de terceiros; o campo `note` traz a chave interna do registro no projeto.
+- [Tabela dos estudos em CSV](../arquivos/revisao/estudos.csv).
+
+## Estudos
+
+Use a busca para localizar autor, título ou periódico, e os filtros de ano e de recorte geográfico. O título leva ao DOI ou ao endereço do estudo, quando disponível.
+
+```{r}
+tab <- est |> transmute(autor_ano, ano, titulo, url, periodico, doi, recorte_geografico, municipios, autores)
+reactable(tab, elementId = "tab-estudos", theme = tema_rev, compact = TRUE, wrap = TRUE,
+  searchable = TRUE, filterable = TRUE, defaultPageSize = 20, showPageSizeOptions = TRUE,
+  pageSizeOptions = c(20, 50, 100, 225),
+  language = reactableLang(searchPlaceholder = "Buscar autor, título ou periódico", noData = "Nenhum estudo encontrado",
+                           pageInfo = "{rowStart}–{rowEnd} de {rows} estudos", pagePrevious = "Anterior",
+                           pageNext = "Próxima", pageSizeOptions = "Mostrar {rows}"),
+  details = function(i) div(style = "padding: .5rem 1.1rem; font-size: .85rem;",
+    p(strong("Autoria: "), tab$autores[i]),
+    if (nzchar(tab$municipios[i])) p(strong("Municípios do recorte citados: "), tab$municipios[i])),
+  columns = list(
+    autor_ano = colDef(name = "Autores", minWidth = 150, filterable = FALSE),
+    ano = colDef(name = "Ano", minWidth = 70, filterInput = filtro_select("tab-estudos", as.character(sort(unique(est$ano), decreasing = TRUE))),
+                 filterMethod = filtro_igual),
+    titulo = colDef(name = "Título", minWidth = 330, filterable = FALSE,
+                    cell = function(v, i) link_ext(tab$url[i], v)),
+    url = colDef(show = FALSE),
+    periodico = colDef(name = "Periódico", minWidth = 170, filterable = FALSE),
+    doi = colDef(name = "DOI", minWidth = 150, filterable = FALSE, style = list(fontSize = "0.78rem"),
+                 cell = function(v) if (nzchar(v)) link_ext(paste0("https://doi.org/", v), v) else "—"),
+    recorte_geografico = colDef(name = "Recorte geográfico", minWidth = 150, filterInput = filtro_select("tab-estudos"),
+                                filterMethod = filtro_igual),
+    municipios = colDef(show = FALSE, searchable = TRUE),
+    autores = colDef(show = FALSE, searchable = TRUE)))
+```
+
+::: {.nota-fonte}
+Fonte: arquivo BibTeX do corpus da área econômica (pacote de entrega, pasta 04_Corpus_Bibliografico) e análise geográfica do corpus. Os `r sum(!nzchar(est$doi))` estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref; título e autoria permitem a busca textual. O recorte geográfico é identificado pelo nome de municípios e territórios no título, no resumo ou nas evidências extraídas do estudo.
+:::

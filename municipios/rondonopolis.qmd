@@ -1,0 +1,12 @@
+---
+title: "Rondonópolis"
+description: "Perfil do município de Rondonópolis (MT) no Pantanal Norte — Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+MUN_ID <- 5107602L
+```
+
+{{< include _perfil.qmd >}}
+

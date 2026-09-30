@@ -1,0 +1,66 @@
+---
+title: "Biblioteca"
+description: "Relatórios, notas metodológicas e documentos do Projeto DSIP-MT"
+---
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+dir_rel <- file.path(RAIZ, "arquivos", "relatorios")
+paginas <- function(f) tryCatch(pdftools::pdf_info(f)$pages, error = function(e) NA_integer_)
+item <- function(arquivo, titulo, descricao) {
+  f <- file.path(dir_rel, arquivo)
+  if (!file.exists(f)) return(NULL)
+  meta <- sprintf("PDF · %s págs. · %s MB", paginas(f), num(file.size(f) / 1024^2, 1))
+  a(class = "cartao", href = paste0("../arquivos/relatorios/", arquivo),
+    h4(titulo), p(descricao), p(class = "nota-fonte", meta))
+}
+```
+
+Documentos entregues pelo projeto, em versão congelada. Os PDFs são as versões de referência para citação.
+
+## Síntese
+
+```{r}
+div(class = "cartoes",
+  item("SINTESE_EXECUTIVA_Parciais_I.pdf", "Síntese executiva dos Relatórios Parciais I",
+       "Principais resultados das seis dimensões da Fase I."))
+```
+
+## Relatórios Parciais I (Fase I, julho de 2026)
+
+```{r}
+rel <- list(
+  c("D1_PESM_Parcial_I_v2_20260614.pdf", "D1 · Perfil econômico-produtivo setorial (PESM)"),
+  c("D2_AEISM_Parcial_I_v1_20260614.pdf", "D2 · Áreas de especial interesse (AEISM)"),
+  c("D3_PSDM_Parcial_I_v2_20260614.pdf", "D3 · Perfil sociodemográfico (PSDM)"),
+  c("D4_PAM_Parcial_I_v1_20260614.pdf", "D4 · Perfil ambiental (PAM)"),
+  c("D5_PIM_Parcial_I_v1_20260614.pdf", "D5 · Infraestrutura (PIM)"),
+  c("D6_PGPM_Parcial_I_v1_20260614.pdf", "D6 · Gestão pública (PGPM)"))
+div(class = "cartoes", lapply(rel, function(x) item(x[1], x[2], "Relatório Parcial I — diagnóstico com as bases da Fase I.")))
+```
+
+## Notas metodológicas
+
+Fontes, tratamentos, deflatores, construção de cada variável, correções e limitações.
+
+```{r}
+notas <- list(c("NOTAS_D1_PESM.pdf", "Notas D1 · PESM"), c("NOTAS_D2_AEISM.pdf", "Notas D2 · AEISM"),
+              c("NOTAS_D3_PSDM.pdf", "Notas D3 · PSDM"), c("NOTAS_D4_PAM.pdf", "Notas D4 · PAM"),
+              c("NOTAS_D5_PIM.pdf", "Notas D5 · PIM"), c("NOTAS_D6_PGPM.pdf", "Notas D6 · PGPM"))
+div(class = "cartoes", lapply(notas, function(x) item(x[1], x[2], "Nota metodológica da dimensão.")))
+```
+
+## Revisão de literatura
+
+```{r}
+div(class = "cartoes",
+  item("RSE_Parcial_Area_Economica_v1_20260908.pdf", "Revisão de literatura — área econômica (RSE Parcial)",
+       "Revisão sistemática e complementar, matriz FOFA, FOFA municipal e interpretação dos resultados."))
+```
+
+As demais áreas (Infraestrutura, Setor Público, Sociodemográfica e Ambiental) entram aqui quando forem concluídas. Veja a [situação das áreas](../revisao/index.qmd).
+
+## Como citar
+
+> UNIVERSIDADE DO ESTADO DE MATO GROSSO. Projeto Desenvolvimento Sustentável e Inclusivo do Pantanal Norte Mato-grossense (DSIP-MT). *Título do relatório*. Convênio 984799/2025 SUDECO–UNEMAT. Versão de 08/07/2026. Disponível em: https://daniellindomar.github.io/dsip-mt/. Acesso em: dia mês ano.
