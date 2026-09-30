@@ -1,0 +1,14 @@
+---
+title: "Dependência de transferências"
+description: "D6 — % da receita corrente. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "dep_transferencias_pct"
+```
+
+{{< include _indicador.qmd >}}
+

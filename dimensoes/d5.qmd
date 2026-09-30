@@ -1,5 +1,6 @@
 ---
 title: "D5 · Infraestrutura (PIM)"
+lightbox: true
 ---
 
 ::: {.faixa-versao}
@@ -11,6 +12,19 @@ Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das b
 O abastecimento de água atendia, em 2022, 76,1% da população em média simples, patamar próximo da média estadual (76,5%), mas com forte desigualdade interna, de 100% em Lambari D'Oeste e Rondonópolis a cerca de 40% em Porto Esperidião. A coleta de esgoto é a maior carência do recorte: apenas 5 dos 13 municípios reportaram coleta ao SNIS em 2022 e, mesmo entre esses, a cobertura média é de 49,8%. As perdas de distribuição de água (36,1% em média simples) superam a média estadual (29,1%). A energia elétrica apresenta o quadro mais favorável, com acesso domiciliar de 98,5% em média simples, e o perfil de consumo é marcadamente rural (25,3% do consumo no setor rural, ante 0,6% no Polo Metropolitano). A malha rodoviária é comparativamente bem pavimentada (82,5% em média simples, ante 66,1% no Resto de Mato Grosso), mas a densidade por habitante é menor (21,1 km por mil habitantes, ante 25,4), com mínimo em Barão de Melgaço.
 
 Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Indicadores da dimensão no Pantanal Norte
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+```
+
+Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.
+
+```{r}
+resumo_dimensao("D5")
+```
 
 ## Documentos
 
@@ -42,7 +56,7 @@ itens <- vapply(seq_len(nrow(fig)), function(i) {
   fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
     paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
   } else ""
-  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+  paste0('<figure><a class="lightbox" data-gallery="d5" data-description="', rotulo, '" href="', arq, '"><img src="', arq, '" alt="', rotulo,
          '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
          "</figcaption></figure>")
 }, character(1))

@@ -1,0 +1,117 @@
+---
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 1.8cm
+      y: 1.6cm
+    fontsize: 9.5pt
+    mainfont: "Arial"
+lang: pt-BR
+params:
+  id: 5102504
+  raiz: "."
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| include: false
+Sys.setenv(QUARTO_PROJECT_DIR = params$raiz)
+source(file.path(params$raiz, "R", "funcoes.R"))
+library(ggplot2)
+MUN_ID <- as.integer(params$id)
+M <- MUN[MUN$id_municipio == MUN_ID, ]; NOME <- M$municipio
+pop <- resumo_ind("populacao", MUN_ID); pib <- resumo_ind("pib_real", MUN_ID); emp <- resumo_ind("empregos_formais", MUN_ID)
+nb <- function(x) gsub(" ", " ", x, fixed = TRUE)
+sit_txt <- function(v, m, s) { x <- situacao(v, m, s)
+  base <- if (grepl("mediana", x$txt)) "igual à mediana" else sub("▲ |▼ ", "", x$txt)
+  if (x$cls == "sit-boa") paste(base, "(favorável)") else if (x$cls == "sit-ruim") paste(base, "(desfavorável)") else base }
+tab <- function(ids) {
+  d <- do.call(rbind, lapply(ids, function(id) { r <- info_ind(id); s <- resumo_ind(id, MUN_ID)
+    data.frame(Indicador = paste0(r$rotulo, " (", r$unidade, ")"), Valor = nb(fmt_valor(s$valor, r$fmt)),
+               Ano = ifelse(is.na(s$ano), "—", s$ano),
+               `Posição` = ifelse(is.na(s$pos), "—", sprintf("%dº/%d", s$pos, s$n_pn)),
+               `Mediana PN-13` = nb(fmt_valor(s$med_pn, r$fmt)), `Mediana MT` = nb(fmt_valor(s$med_mt, r$fmt)),
+               `Frente ao PN-13` = sit_txt(s$valor, s$med_pn, r$sentido), check.names = FALSE) }))
+  knitr::kable(d, format = "pipe", align = c("l", "r", "c", "c", "r", "r", "l"))
+}
+```
+
+```{=typst}
+#set text(lang: "pt")
+#set par(justify: false)
+#show table: set text(size: 8.3pt)
+#set table(inset: 4pt, stroke: 0.4pt + rgb("#d1d5db"))
+#show table.cell.where(y: 0): set text(weight: "bold", fill: rgb("#1E2761"))
+#show heading: set text(fill: rgb("#1E2761"))
+```
+
+#### Projeto DSIP-MT · Pantanal Norte Mato-grossense · Convênio 984799/2025 SUDECO–UNEMAT
+
+# `r NOME` (MT)
+
+Código IBGE `r MUN_ID` · Ficha gerada em `r format(Sys.Date(), "%d/%m/%Y")` a partir das bases tratadas da Fase I (congeladas em 08/07/2026) · Versão preliminar para a equipe do projeto.
+
+:::: {layout="[60,40]"}
+::: {}
+A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais.
+
+As comparações usam a mediana dos 13 municípios do Pantanal Norte (PN-13) e a mediana dos 141 municípios de Mato Grosso, no ano de referência de cada indicador. "Posição" ordena do maior para o menor valor. "Frente ao PN-13" indica se o valor está acima ou abaixo da mediana do recorte e, quando o indicador tem sentido definido, se isso é favorável ou desfavorável.
+:::
+::: {}
+```{r}
+#| fig-width: 3.2
+#| fig-height: 2.6
+#| dpi: 200
+g <- GEO |> dplyr::mutate(cat = dplyr::case_when(id_municipio == MUN_ID ~ "a", grupo == "pantanal_norte" ~ "b", TRUE ~ "c"))
+bb <- sf::st_bbox(GEO[GEO$grupo == "pantanal_norte", ])
+ggplot(g) + geom_sf(aes(fill = cat), color = "white", linewidth = 0.15) +
+  scale_fill_manual(values = c(a = "#1E2761", b = "#7FAEDB", c = "#E5E7EB"), guide = "none") +
+  coord_sf(xlim = c(bb[["xmin"]] - .3, bb[["xmax"]] + .3), ylim = c(bb[["ymin"]] - .3, bb[["ymax"]] + .3), expand = FALSE) +
+  theme_void()
+```
+:::
+::::
+
+## Indicadores-chave
+
+```{r}
+tab(IND$id[IND$kpi == 1])
+```
+
+```{r}
+#| results: asis
+for (d in names(DIMS)) {
+  cat(sprintf("\n\n## %s · %s\n\n", d, DIMS[[d]]))
+  print(tab(IND$id[IND$dim == d]))
+  cat("\n")
+}
+```
+
+## Revisão de literatura (área econômica)
+
+```{r}
+#| results: asis
+f_rev <- ds("revisao", "fofa_municipal.csv"); f_est <- ds("revisao", "estudos_municipio.csv")
+if (file.exists(f_rev)) {
+  fm <- ler(f_rev); fm <- fm[fm$id_municipio == MUN_ID, ]
+  cont <- fm |> dplyr::count(status) |> dplyr::arrange(dplyr::desc(n))
+  cat("Situação dos 40 itens da matriz FOFA econômica para o município (revisão complementar, ago/2026; nenhum município havia sido visitado em campo até 21/09/2026; INFERIDO = hipótese de campo): ",
+      paste0(cont$status, " ", cont$n, collapse = "; "), ".\n\n", sep = "")
+  doc <- fm[fm$status == "DOCUMENTADO", ]
+  if (nrow(doc)) cat("**Itens documentados para o município:**\n\n", paste0("- ", doc$item_id, " (", doc$dimensao, "): ", doc$proposicao, collapse = "\n"), "\n\n", sep = "")
+}
+if (file.exists(f_est)) {
+  es <- ler(f_est); es <- es[es$id_municipio == MUN_ID, ]
+  if (nrow(es) == 0) cat("**Nenhum dos 225 estudos do corpus econômico cita o município** — prioridade para a pesquisa de campo.\n")
+  else cat(sprintf("**Estudos do corpus que citam o município (%d):**\n\n", nrow(es)),
+           paste0("- ", es$autores, " (", es$ano, "). ", es$titulo, ".", collapse = "\n"), "\n", sep = "")
+}
+```
+
+---
+
+Fontes: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN — IFDM © FIRJAN — e outras). Notas metodológicas e bases completas: https://daniellindomar.github.io/dsip-mt/

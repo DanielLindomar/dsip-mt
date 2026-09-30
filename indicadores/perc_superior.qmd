@@ -1,0 +1,14 @@
+---
+title: "Empregados formais com ensino superior"
+description: "D1 — %. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "perc_superior"
+```
+
+{{< include _indicador.qmd >}}
+

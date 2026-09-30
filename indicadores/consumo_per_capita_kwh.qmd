@@ -1,0 +1,14 @@
+---
+title: "Consumo de energia por habitante"
+description: "D5 — kWh por hab./ano. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "consumo_per_capita_kwh"
+```
+
+{{< include _indicador.qmd >}}
+

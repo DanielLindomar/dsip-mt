@@ -43,6 +43,30 @@ div(class = "kpi-grade",
 ```
 
 ```{r}
+cx <- function(txt, n, cls = "caixa") div(class = cls, HTML(sprintf("%s<br><b>%s</b>", txt, num_br(n))))
+seta <- function() div(class = "seta", "↓")
+div(class = "prisma",
+  div(class = "etapa", "Identificação"),
+  cx(sprintf("Registros recuperados nas bases<br><span class='sub'>CAPES %s · SciELO %s · Scopus %s</span>", num_br(pv(1)), num_br(pv(2)), num_br(pv(3))), pv(4)),
+  cx("Duplicatas removidas", pv(4) - pv(5), "caixa excl"),
+  seta(), div(),
+  cx("Registros únicos", pv(5)),
+  cx("Fora do período 2011–2026", pv(6), "caixa excl"),
+  div(class = "etapa", "Triagem"),
+  cx("Registros triados por título e resumo", pv(7)),
+  cx(sprintf("Excluídos<br><span class='sub'>por título %s · por resumo %s · identificação da fonte %s · duplicata do mesmo estudo %s</span>", num_br(pv(15)), num_br(pv(16)), num_br(pv(17)), num_br(pv(18))),
+     pv(15) + pv(16) + pv(17) + pv(18), "caixa excl"),
+  seta(), div(),
+  div(class = "etapa", "Inclusão"),
+  cx("Registros incluídos no corpus", pv(13)),
+  cx("Versões do mesmo estudo (mantidas como um estudo)", pv(13) - pv(14), "caixa excl"),
+  seta(), div(),
+  cx("<b style='font-size:1rem'>Estudos distintos analisados</b>", pv(14)), div())
+```
+
+<details><summary>Ver todos os números do fluxo em tabela</summary>
+
+```{r}
 reactable(pr |> select(etapa, rotulo, valor), theme = tema_rev, compact = TRUE, sortable = FALSE,
   pagination = FALSE, groupBy = "etapa", defaultExpanded = TRUE,
   columns = list(etapa = colDef(name = "Etapa", minWidth = 110),
@@ -51,11 +75,41 @@ reactable(pr |> select(etapa, rotulo, valor), theme = tema_rev, compact = TRUE, 
                                 aggregate = NULL, format = colFormat(separators = TRUE, locales = "pt-BR"))))
 ```
 
+</details>
+
 ::: {.nota-fonte}
 Fonte: planilha de triagem e fluxo PRISMA do pacote da área econômica (Anexo B). Buscas em 20/08/2026; triagem concluída em 22/08/2026. A triagem por título e por resumo foi feita por dois avaliadores independentes, com desempate por um terceiro. Os `r pv(13)` registros incluídos correspondem a `r pv(14)` estudos distintos: `r pv(13) - pv(14)` registros são versões do mesmo estudo em outra língua ou outra base, mantidas no corpus por deliberação da coordenação de 21/09/2026.
 :::
 
-## Os 40 itens da matriz
+## A matriz em quadrantes
+
+Os 40 itens validados, 10 por quadrante. Clique em um item para ver a proposição completa, a ressalva e como verificá-lo em campo. Os selos mostram a confiança e a ancoragem territorial da evidência.
+
+```{r}
+cls_q <- c("Forças" = "forcas", "Oportunidades" = "oportunidades", "Fraquezas" = "fraquezas", "Ameaças" = "ameacas")
+sub_q <- c("Forças" = "internas, favoráveis", "Oportunidades" = "externas, favoráveis",
+           "Fraquezas" = "internas, desfavoráveis", "Ameaças" = "externas, desfavoráveis")
+limpa <- function(x) { x <- gsub('"{2,}', '"', x); sub("^(\\p{Ll})", "\\U\\1", x, perl = TRUE) }
+quadrante <- function(d) {
+  it <- itens[itens$dimensao == d, ]
+  it$expressao_original <- limpa(it$expressao_original); it$proposicao <- limpa(it$proposicao)
+  div(class = paste("fofa-q", cls_q[[d]]),
+    h4(d, span(class = "sub", paste0(" (", sub_q[[d]], ")"))),
+    lapply(seq_len(nrow(it)), function(i) tags$details(
+      tags$summary(tags$b(it$item_id[i]), it$expressao_original[i],
+                   span(class = "selo", paste("confiança", it$confianca[i])),
+                   span(class = "selo", it$ancoragem[i])),
+      div(class = "fofa-det",
+          p(it$proposicao[i]),
+          if (nzchar(it$ressalva[i])) p(strong("Ressalva: "), it$ressalva[i]),
+          if (nzchar(it$como_verificar[i])) p(strong("Como verificar em campo: "), it$como_verificar[i]),
+          p(class = "sub", sprintf("Lastro: %s estudos · convergência %s · citação principal: %s",
+                                   it$lastro_estudos[i], it$convergencia[i], it$fonte_principal[i]))))))
+}
+div(class = "fofa-quadro", lapply(c("Forças", "Oportunidades", "Fraquezas", "Ameaças"), quadrante))
+```
+
+## Os 40 itens em tabela
 
 Cada item é uma proposição verificável. As colunas da tabela têm o seguinte significado:
 

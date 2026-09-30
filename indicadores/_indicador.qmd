@@ -1,0 +1,75 @@
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+R_  <- info_ind(IND_ID)
+S_  <- resumo_ind(IND_ID, PN[1])
+AR  <- ano_ref(IND_ID)
+ids_dim <- IND$id[IND$dim == R_$dim]
+```
+
+```{r}
+div(class = "nav-mun",
+  a(class = "btn btn-sm btn-outline-primary", href = "index.html", "← Todos os indicadores"),
+  tags$select(class = "form-select form-select-sm", `aria-label` = "Ir para outro indicador",
+              onchange = "if (this.value) window.location = this.value",
+              lapply(split(IND, IND$dim), function(g) tags$optgroup(label = paste(g$dim[1], "·", DIMS[[g$dim[1]]]),
+                lapply(seq_len(nrow(g)), function(j) tags$option(value = paste0(g$id[j], ".html"),
+                       selected = if (g$id[j] == IND_ID) NA else NULL, g$rotulo[j]))))),
+  a(class = "btn btn-sm btn-outline-primary", href = paste0("../dimensoes/", tolower(R_$dim), ".html"),
+    paste0(R_$dim, " · ", DIMS[[R_$dim]], " →")))
+```
+
+```{r}
+#| results: asis
+cat(sprintf("**Dimensão:** %s · %s  \n**Unidade:** %s  \n**Ano de referência:** %s  \n",
+            R_$dim, DIMS[[R_$dim]], R_$unidade, ifelse(is.na(AR), "retrato único", AR)))
+if (!is.na(R_$nota) && nzchar(R_$nota)) cat(sprintf("**Nota:** %s\n", R_$nota))
+```
+
+```{r}
+div(class = "kpi-grade",
+  div(class = "kpi", div(class = "kpi-rotulo", "Mediana do Pantanal Norte"), div(class = "kpi-valor", fmt_valor(S_$med_pn, R_$fmt)),
+      div(class = "kpi-meta", paste(S_$n_pn, "de 13 municípios com dado"))),
+  div(class = "kpi", div(class = "kpi-rotulo", "Mediana de Mato Grosso"), div(class = "kpi-valor", fmt_valor(S_$med_mt, R_$fmt)),
+      div(class = "kpi-meta", "141 municípios")),
+  if (isTRUE(R_$soma == 1)) div(class = "kpi", div(class = "kpi-rotulo", "Total do Pantanal Norte"),
+      div(class = "kpi-valor", fmt_valor(S_$soma_pn, R_$fmt)), div(class = "kpi-meta", "soma dos 13 municípios")))
+```
+
+:::: {.perfil-topo}
+::: {.perfil-texto}
+### Pantanal Norte
+
+```{r}
+ranking_pn13(IND_ID)
+```
+:::
+::: {.perfil-mapa}
+### Mato Grosso
+
+```{r}
+mapa_indicador(IND_ID, altura = 440)
+```
+
+[Clique em um município do Pantanal Norte (contorno escuro) para abrir o perfil.]{.nota-fonte}
+:::
+::::
+
+```{r}
+#| results: asis
+g <- series_pn13(IND_ID)
+if (nzchar(g)) {
+  cat("### Evolução no tempo\n\nLinhas finas: cada município do Pantanal Norte. Passe o cursor sobre os pontos para ver o valor.\n\n")
+  cat("```{=html}\n", g, "\n```\n", sep = "")
+}
+```
+
+### Todos os municípios
+
+```{r}
+tabela_indicador(IND_ID)
+```
+
+```{r}
+fonte_rodape()
+```

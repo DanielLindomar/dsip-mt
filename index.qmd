@@ -24,6 +24,19 @@ Versão preliminar para a equipe do projeto. Os resultados são atualizados à m
 
 Este site reúne os resultados do Projeto DSIP-MT (Convênio 984799/2025 SUDECO–UNEMAT): indicadores dos 13 municípios do Pantanal Norte, os Relatórios Parciais I das seis dimensões, as bases de dados tratadas e a revisão de literatura. Em vez de relatórios e planilhas avulsos, cada resultado tem uma página, com a fonte e o ano de cada número.
 
+```{r}
+div(class = "atalhos",
+  div(tags$label(`for` = "ir-mun", "Ir para um município"),
+      tags$select(id = "ir-mun", class = "form-select", onchange = "if (this.value) window.location = this.value",
+                  tags$option(value = "", "Escolha um dos 13 municípios…"),
+                  lapply(seq_len(nrow(M13)), function(j) tags$option(value = paste0("municipios/", M13$slug[j], ".html"), M13$municipio[j])))),
+  div(tags$label(`for` = "ir-ind", "Ir para um indicador"),
+      tags$select(id = "ir-ind", class = "form-select", onchange = "if (this.value) window.location = this.value",
+                  tags$option(value = "", "Escolha um dos 55 indicadores…"),
+                  lapply(split(IND, IND$dim), function(g) tags$optgroup(label = paste(g$dim[1], "·", DIMS[[g$dim[1]]]),
+                    lapply(seq_len(nrow(g)), function(j) tags$option(value = paste0("indicadores/", g$id[j], ".html"), g$rotulo[j])))))))
+```
+
 ## O Pantanal Norte em números
 
 ```{r}
@@ -36,15 +49,18 @@ div(class = "kpi-grade",
   k("Rebanho bovino", fmt_valor(reb$v, "int"), paste("cabeças ·", reb$ano)))
 ```
 
+Clique em um município do mapa para abrir o perfil.
+
 ```{r}
-mapa_municipio(NULL, altura = 380)
+mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ```
 
 ## O que há no site
 
 ```{=html}
 <div class="cartoes">
-  <a class="cartao" href="municipios/index.html"><h4>Municípios</h4><p>Perfil de cada um dos 13 municípios: indicadores das seis dimensões, comparação com o Pantanal Norte e Mato Grosso, FOFA municipal e projetos do Banco de Ideias.</p></a>
+  <a class="cartao" href="municipios/index.html"><h4>Municípios</h4><p>Perfil de cada um dos 13 municípios: indicadores das seis dimensões, comparação com o Pantanal Norte e Mato Grosso, FOFA municipal e ficha em PDF.</p></a>
+  <a class="cartao" href="indicadores/index.html"><h4>Indicadores</h4><p>Os 55 indicadores com mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e evolução no tempo.</p></a>
   <a class="cartao" href="dimensoes/d1.html"><h4>Dimensões</h4><p>Principais resultados, figuras e ressalvas dos seis Relatórios Parciais I (D1 a D6).</p></a>
   <a class="cartao" href="revisao/index.html"><h4>Revisão de literatura</h4><p>Matriz FOFA da área econômica, estudos do corpus e situação das demais áreas.</p></a>
   <a class="cartao" href="dados/index.html"><h4>Dados</h4><p>Explorador de indicadores para os 141 municípios de MT e download das bases tratadas com dicionários.</p></a>
@@ -54,5 +70,7 @@ mapa_municipio(NULL, altura = 380)
 ```
 
 ## Novidades
+
+- **30/09/2026** — Versão 0.2: perfis municipais em abas, com posição entre os 13 e minisséries; páginas de indicador com mapa; matriz FOFA em quadrantes; fichas municipais em PDF; tabelas em português; mapas sem dependência externa.
 
 - **30/09/2026** — Primeira versão do site: 13 perfis municipais, seis dimensões, revisão de literatura da área econômica, explorador de dados e biblioteca.

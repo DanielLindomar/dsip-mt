@@ -1,6 +1,8 @@
 ---
 title: "Mirassol D'Oeste"
 description: "Perfil do município de Mirassol D'Oeste (MT) no Pantanal Norte — Projeto DSIP-MT"
+toc: false
+page-layout: full
 ---
 
 ```{r}

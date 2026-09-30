@@ -1,0 +1,14 @@
+---
+title: "IFDM geral"
+description: "D6 — índice 0–1. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "ifdm_geral"
+```
+
+{{< include _indicador.qmd >}}
+

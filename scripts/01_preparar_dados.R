@@ -17,7 +17,6 @@ TRAT  <- file.path(DRIVE, "07_Entrega_Fase_I/02_Bases_Tratadas")
 REL   <- file.path(DRIVE, "07_Entrega_Fase_I/03_Relatorios")
 BRUT  <- file.path(DRIVE, "07_Entrega_Fase_I/01_Bases_Brutas")
 ECON  <- file.path(DRIVE, "06_Pesquisa/02_Revisao_FOFA/04_Entrega_Area_Economica")
-BANCO <- file.path(DRIVE, "06_Pesquisa/01_Coleta_Dados/Banco_Ideias_TransfereGov")
 
 stopifnot(dir.exists(TRAT))
 dir.create("dados_site", showWarnings = FALSE)
@@ -121,30 +120,31 @@ file.copy(file.path(TRAT, "CATALOGO_BASES_TRATADAS.csv"), "arquivos/dados", over
 file.copy(file.path(BRUT, "FONTES_E_LICENCAS.csv"), "dados_site/fontes_licencas.csv", overwrite = TRUE)
 msg("Bases copiadas: %d CSV + %d dicionários", length(csvs), length(dics))
 
-# ---- 7. Banco de Ideias: projetos com proponente em município do PN-13 ------
-norm <- function(x) tolower(iconv(x, to = "ASCII//TRANSLIT")) |> str_replace_all("[^a-z]", "")
-bi <- ler(file.path(BANCO, "banco_ideias_pantanal_consolidado.csv"))
-alias <- c(santoantoniodeleverger = "santoantoniodoleverger")
-bi <- bi |>
-  mutate(chave = norm(municipio), chave = coalesce(alias[chave], chave)) |>
-  inner_join(mun |> filter(pn13) |> transmute(id_municipio, chave = norm(municipio)), by = "chave") |>
-  filter(uf == "MT") |>
-  select(id_municipio, ano, fonte, instrumento, proponente_executor, ideia_sintese, tema, eixo,
-         situacao, celebrado, valor_global)
-gravar(bi, "dados_site/banco_ideias_pn13.csv")
-msg("Banco de Ideias (PN-13): %d projetos", nrow(bi))
-
 # ---- 8. Páginas de município (13 arquivos gerados a partir de _perfil.qmd) --
 for (i in which(mun$pn13)) {
   m <- mun[i, ]
   txt <- c("---",
            sprintf('title: "%s"', m$municipio),
            sprintf('description: "Perfil do município de %s (MT) no Pantanal Norte — Projeto DSIP-MT"', m$municipio),
-           "---", "",
+           "toc: false", "page-layout: full", "---", "",
            "```{r}", "#| include: false", sprintf("MUN_ID <- %dL", m$id_municipio), "```", "",
            "{{< include _perfil.qmd >}}", "")
   writeLines(txt, file.path("municipios", paste0(m$slug, ".qmd")), useBytes = FALSE)
 }
+
+# ---- 8b. Páginas de indicador (uma por indicador, geradas a partir de _indicador.qmd)
+dir.create("indicadores", showWarnings = FALSE)
+for (f in list.files("indicadores", "[.]qmd$", full.names = TRUE)) if (!startsWith(basename(f), "_") && basename(f) != "index.qmd") file.remove(f)
+for (i in seq_len(nrow(ind))) {
+  r <- ind[i, ]
+  txt <- c("---", sprintf('title: "%s"', r$rotulo),
+           sprintf('description: "%s — %s. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."', r$dim, r$unidade),
+           "toc: false", "page-layout: full", "---", "",
+           "```{r}", "#| include: false", sprintf('IND_ID <- "%s"', r$id), "```", "",
+           "{{< include _indicador.qmd >}}", "")
+  writeLines(txt, file.path("indicadores", paste0(r$id, ".qmd")))
+}
+msg("Páginas de indicador geradas: %d", nrow(ind))
 msg("Páginas de município geradas: %d", sum(mun$pn13))
 
 # ---- 9. CSV de indicadores por município (sem IFDM, que depende da FIRJAN) --

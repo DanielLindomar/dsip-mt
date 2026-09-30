@@ -1,0 +1,14 @@
+---
+title: "Receita corrente por habitante"
+description: "D6 — R$ de 2024 por habitante. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "receita_pc_real"
+```
+
+{{< include _indicador.qmd >}}
+

@@ -48,3 +48,87 @@ a:hover { text-decoration: underline; }
 
 .nota-fonte { font-size: .8rem; color: #6b7280; }
 .rotulo-hipotese { background: #fde2e2; color: #8a1c1c; font-size: .75rem; padding: 1px 6px; border-radius: 10px; }
+
+/* ---- Rodada de melhorias de experiência (v0.2) ---- */
+
+/* Páginas largas (perfil, indicador): largura máxima confortável */
+body.fullcontent main.content { max-width: 1180px; margin-left: auto; margin-right: auto; }
+
+/* Bloco texto + mapa: lado a lado no computador, empilhado no celular */
+.perfil-topo { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 1.4rem; align-items: start; }
+@media (max-width: 860px) { .perfil-topo { grid-template-columns: 1fr; } }
+.perfil-topo h3 { margin-top: .2rem; }
+
+/* Navegação entre municípios / indicadores */
+.nav-mun { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; margin: 0 0 1rem 0; }
+.nav-mun select { max-width: 320px; flex: 1 1 200px; }
+@media (max-width: 576px) { .nav-mun .btn { flex: 1 1 45%; } .nav-mun select { order: -1; flex-basis: 100%; max-width: none; } }
+
+/* Mapas sem camada de fundo */
+.leaflet-container { background: #f8fafc !important; }
+.leaflet-interactive:hover { cursor: pointer; }
+
+/* Tabela por dimensão */
+.tabela-dim .sub, .sub { font-size: .76rem; color: #6b7280; font-weight: 400; line-height: 1.25; }
+.tabela-dim a { font-weight: 600; }
+.nota-i { cursor: help; color: #6b7280; font-size: .85em; }
+.sit { display: inline-block; padding: 1px 7px; border-radius: 10px; font-size: .76rem; font-weight: 600; white-space: nowrap; }
+.sit-boa { background: #dcf3e5; color: #1b7f4b; }
+.sit-ruim { background: #fde4e1; color: #b42318; }
+.sit-neutra { background: #eef0f4; color: #4b5563; }
+.kpi .sit { margin-left: .35rem; }
+.kpi-rotulo a { color: inherit; }
+.detalhe-ind { padding: .6rem 1rem 1rem; background: #fafbfc; }
+svg.spark, svg.strip { display: block; margin: 0 auto; }
+
+/* Gráficos SVG */
+.grafico-svg { margin: .5rem 0 1rem; }
+.grafico-svg svg { max-width: 760px; }
+.legenda-svg { font-size: .8rem; color: #374151; display: flex; flex-wrap: wrap; gap: .9rem; }
+.leg-item { display: inline-flex; align-items: center; gap: .3rem; }
+
+/* Abas */
+.panel-tabset .nav-tabs .nav-link { font-size: .9rem; padding: .4rem .7rem; }
+
+/* Lista de indicadores */
+.lista-ind { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .6rem; margin-bottom: 1.2rem; }
+.cartao-ind { padding: .7rem .8rem; }
+.cartao-ind h4 { font-size: .95rem; }
+
+/* Siglas */
+abbr[title] { text-decoration: underline dotted #9ca3af; cursor: help; }
+
+/* Seletores da página inicial */
+.atalhos { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; margin: .5rem 0 1.2rem; }
+@media (max-width: 700px) { .atalhos { grid-template-columns: 1fr; } }
+.atalhos label { font-size: .82rem; color: #4b5563; font-weight: 600; }
+
+/* Matriz FOFA 2×2 */
+.fofa-quadro { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; margin: 1rem 0; }
+@media (max-width: 760px) { .fofa-quadro { grid-template-columns: 1fr; } }
+.fofa-q { border-radius: 8px; padding: .8rem 1rem; border: 1px solid #e5e7eb; }
+.fofa-q h4 { margin: 0 0 .5rem; font-size: 1.05rem; }
+.fofa-q.forcas { background: #eef7f1; border-color: #b7dfc6; }
+.fofa-q.oportunidades { background: #eef4fb; border-color: #bcd3ee; }
+.fofa-q.fraquezas { background: #fdf3ea; border-color: #f1ccaa; }
+.fofa-q.ameacas { background: #fcefef; border-color: #efc0c0; }
+.fofa-q details { border-top: 1px solid rgba(0,0,0,.06); padding: .35rem 0; }
+.fofa-q summary { cursor: pointer; font-size: .9rem; }
+.fofa-q summary b { color: #1E2761; margin-right: .3rem; }
+.fofa-q .fofa-det { font-size: .84rem; color: #374151; padding: .3rem 0 .2rem 1rem; }
+.selo { display: inline-block; font-size: .7rem; padding: 0 6px; border-radius: 8px; background: #fff; border: 1px solid #d1d5db; margin-left: .3rem; color: #4b5563; }
+
+/* Diagrama PRISMA */
+.prisma { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: .5rem 1.2rem; margin: 1rem 0; }
+.prisma .caixa { border: 1.5px solid #1E2761; border-radius: 6px; padding: .5rem .8rem; background: #fff; font-size: .88rem; }
+.prisma .caixa b { font-size: 1.15rem; color: #1E2761; }
+.prisma .excl { border-color: #9ca3af; border-style: dashed; color: #4b5563; font-size: .82rem; }
+.prisma .seta { text-align: center; color: #1E2761; font-size: 1.1rem; line-height: 1; }
+.prisma .etapa { grid-column: 1 / -1; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: #6b7280; margin-top: .3rem; }
+@media (max-width: 640px) { .prisma { grid-template-columns: 1fr; } }
+
+/* Impressão */
+@media print {
+  .navbar, .nav-mun, #quarto-margin-sidebar, .quarto-secondary-nav, footer, .btn { display: none !important; }
+  .panel-tabset .tab-content > .tab-pane { display: block !important; opacity: 1 !important; }
+}

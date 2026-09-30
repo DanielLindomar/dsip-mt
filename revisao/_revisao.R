@@ -6,6 +6,7 @@ suppressPackageStartupMessages({
 
 RAIZ_REV <- Sys.getenv("QUARTO_PROJECT_DIR", "..")
 DIR_REV  <- file.path(RAIZ_REV, "dados_site", "revisao")
+source(file.path(RAIZ_REV, "R", "idioma.R"))
 
 ler_rev <- function(f) {
   x <- tibble::as_tibble(data.table::fread(file.path(DIR_REV, f), encoding = "UTF-8"))

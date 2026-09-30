@@ -1,0 +1,14 @@
+---
+title: "Países de destino das exportações"
+description: "D2 — países. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "n_destinos_exp"
+```
+
+{{< include _indicador.qmd >}}
+

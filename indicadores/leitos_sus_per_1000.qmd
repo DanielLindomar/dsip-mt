@@ -1,0 +1,14 @@
+---
+title: "Leitos SUS por mil habitantes"
+description: "D3 — por 1.000 hab.. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "leitos_sus_per_1000"
+```
+
+{{< include _indicador.qmd >}}
+

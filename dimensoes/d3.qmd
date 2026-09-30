@@ -1,5 +1,6 @@
 ---
 title: "D3 · Perfil sociodemográfico (PSDM)"
+lightbox: true
 ---
 
 ::: {.faixa-versao}
@@ -11,6 +12,19 @@ Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das b
 Em 2025, o recorte somava 496.756 habitantes (12,8% da população estadual), com crescimento de 1,0% ao ano entre 2010 e 2025, abaixo da média estadual (1,7% ao ano) e com 6 dos 13 municípios em declínio populacional. O Pantanal Norte é a região de maior dependência relativa de transferências de renda do estado: em 2024, a taxa do Programa Bolsa Família era, em média, de 11,27 famílias por 100 habitantes, ante 8,22 em Mato Grosso, e a transferência *per capita* média (R\$ 1.361) situou-se 24% acima da estadual. Na educação, o IDEB de 2023 (5,38 nos anos iniciais e 4,45 nos anos finais) é inferior à média estadual (5,69 e 4,74). Em saúde, a mortalidade por causas externas atingiu, em média, 104 óbitos por 100 mil habitantes em 2022, ante 84 no estado, e o pré-natal adequado alcançou apenas 66% das gestantes, déficit de 9 pontos percentuais frente ao estado. Segundo o Censo 2010, referência mais recente disponível, a taxa de pobreza do recorte (39%) superava a estadual (35%).
 
 Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Indicadores da dimensão no Pantanal Norte
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+```
+
+Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.
+
+```{r}
+resumo_dimensao("D3")
+```
 
 ## Documentos
 
@@ -42,7 +56,7 @@ itens <- vapply(seq_len(nrow(fig)), function(i) {
   fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
     paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
   } else ""
-  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+  paste0('<figure><a class="lightbox" data-gallery="d3" data-description="', rotulo, '" href="', arq, '"><img src="', arq, '" alt="', rotulo,
          '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
          "</figcaption></figure>")
 }, character(1))

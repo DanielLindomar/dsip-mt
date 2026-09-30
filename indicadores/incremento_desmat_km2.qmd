@@ -1,0 +1,14 @@
+---
+title: "Desmatamento no ano"
+description: "D4 — km². Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "incremento_desmat_km2"
+```
+
+{{< include _indicador.qmd >}}
+

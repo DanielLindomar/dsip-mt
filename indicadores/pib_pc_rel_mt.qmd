@@ -1,0 +1,14 @@
+---
+title: "PIB per capita em relação a MT"
+description: "D1 — índice (100 = média de MT). Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "pib_pc_rel_mt"
+```
+
+{{< include _indicador.qmd >}}
+

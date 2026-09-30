@@ -2,6 +2,7 @@
 title: "Municípios do Pantanal Norte"
 description: "Perfis dos 13 municípios do recorte do Projeto DSIP-MT"
 toc: false
+page-layout: full
 ---
 
 ```{r}
@@ -10,7 +11,7 @@ source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 m13 <- MUN[MUN$pn13, ] |> arrange(municipio)
 ```
 
-O recorte do projeto tem 13 municípios, definidos institucionalmente no convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal da revisão de literatura e os projetos do Banco de Ideias. Clique no mapa ou em um cartão.
+O recorte do projeto tem 13 municípios, definidos institucionalmente no convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal da revisão de literatura e uma ficha em PDF. Clique no mapa ou em um cartão.
 
 ```{r}
 mapa_municipio(NULL, altura = 420)

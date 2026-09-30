@@ -1,0 +1,14 @@
+---
+title: "Despesa com educação"
+description: "D6 — % da despesa total. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "perc_desp_educacao"
+```
+
+{{< include _indicador.qmd >}}
+

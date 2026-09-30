@@ -300,29 +300,29 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,33.08
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,26.83
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,24.7
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,139372.62
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,121091.01
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,134510.52
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,65180.82
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,89217.37
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,81162.11
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,88109.43
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,86156.43
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,72350.65
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,60674.65
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,42944.42
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,297530.82
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,111086.7
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,177746.28
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,256421.84
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,179413.28
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,213749.22
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,209492.56
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,192666.98
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,247695.95
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,322813.07
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,238142.65
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,166603
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2002,139372.62
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2003,121091.01
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2004,134510.52
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2005,65180.82
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2006,89217.37
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2007,81162.11
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2008,88109.43
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2009,86156.43
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,72350.65
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,60674.65
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,42944.42
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,297530.82
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,111086.7
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,177746.28
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,256421.84
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,179413.28
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,213749.22
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,209492.56
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,192666.98
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,247695.95
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,322813.07
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,238142.65
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,166603
 5106109,Nossa Senhora do Livramento,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5106109,Nossa Senhora do Livramento,D2,n_destinos_exp,Países de destino das exportações,países,2001,0
 5106109,Nossa Senhora do Livramento,D2,n_destinos_exp,Países de destino das exportações,países,2002,0

@@ -1,0 +1,14 @@
+---
+title: "Imóveis do CAR declarados conformes"
+description: "D4 — %. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "perc_imoveis_conformes"
+```
+
+{{< include _indicador.qmd >}}
+

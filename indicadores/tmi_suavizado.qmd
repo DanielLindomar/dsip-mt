@@ -1,0 +1,14 @@
+---
+title: "Mortalidade infantil (média de 3 anos)"
+description: "D3 — por 1.000 nascidos vivos. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "tmi_suavizado"
+```
+
+{{< include _indicador.qmd >}}
+

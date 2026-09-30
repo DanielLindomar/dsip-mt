@@ -1,6 +1,8 @@
 ---
 title: "Dados"
 description: "Indicadores e bases tratadas do Projeto DSIP-MT para download"
+page-layout: full
+toc: false
 ---
 
 ```{r}
@@ -14,18 +16,30 @@ Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download s�
 
 ## Explorador de indicadores
 
-A tabela traz o último valor de `r nrow(IND) - 1` indicadores para os 141 municípios de Mato Grosso. Use os filtros de cada coluna e o botão para baixar o recorte filtrado em CSV.
+A tabela traz o último valor de `r nrow(IND) - 1` indicadores para os 141 municípios de Mato Grosso. Ela abre filtrada no Pantanal Norte; use as listas para mudar o grupo, a dimensão, o indicador ou o município, e o botão para baixar o recorte em CSV. Para ver um indicador em mapa, use a página [Indicadores](../indicadores/index.qmd).
 
 ```{r}
+DEC <- c(int = 0, dec1 = 1, dec2 = 2, dec3 = 3, pct1 = 1, pct2 = 2, brl = 0, brl_mil = 0, usd = 0)
 ex <- ULT$ultimos |>
   filter(!grepl("^ifdm", indicador)) |>
-  left_join(select(IND, indicador = id, dim, rotulo, unidade), by = "indicador") |>
+  left_join(select(IND, indicador = id, dim, rotulo, unidade, fmt), by = "indicador") |>
   left_join(select(MUN, id_municipio, municipio, grupo), by = "id_municipio") |>
   mutate(grupo = recode(grupo, pantanal_norte = "Pantanal Norte", polo_metropolitano = "Polo Metropolitano",
-                        resto_mt = "Resto de MT")) |>
+                        resto_mt = "Resto de MT"),
+         valor = mapply(function(v, f) round(v, DEC[[f]]), valor, fmt)) |>
   transmute(Município = municipio, Grupo = grupo, Dimensão = dim, Indicador = rotulo,
-            Valor = round(valor, 3), Unidade = unidade, Ano = ano, `Código IBGE` = id_municipio) |>
-  arrange(Dimensão, Indicador, Município)
+            Valor = valor, Unidade = unidade, Ano = ano, `Código IBGE` = id_municipio) |>
+  arrange(Grupo != "Pantanal Norte", Dimensão, Indicador, Município)
+
+filtro_lista <- function(id_tab, inicial = "") function(values, name) {
+  v <- sort(unique(as.character(values)))
+  tags$select(`data-coluna` = name, `aria-label` = paste("Filtrar", name), class = "form-select form-select-sm",
+    defaultValue = inicial,
+    onchange = sprintf("Reactable.setFilter('%s', '%s', event.target.value || undefined)", id_tab, name),
+    tags$option(value = "", "Todos"),
+    lapply(v, function(x) tags$option(value = x, x)))
+}
+igual <- JS("function(rows, columnId, filterValue) { return rows.filter(function(row) { return String(row.values[columnId]) === filterValue }) }")
 
 tagList(
   tags$button(class = "btn btn-sm btn-outline-primary mb-2",
@@ -35,15 +49,19 @@ tagList(
             striped = TRUE, defaultPageSize = 20, showPageSizeOptions = TRUE,
             pageSizeOptions = c(20, 50, 141, 500),
             columns = list(
-              Município = colDef(minWidth = 150),
-              Grupo = colDef(minWidth = 120),
-              Dimensão = colDef(minWidth = 70),
-              Indicador = colDef(minWidth = 220),
+              Município = colDef(minWidth = 150, filterInput = filtro_lista("explorador"), filterMethod = igual),
+              Grupo = colDef(minWidth = 130, filterInput = filtro_lista("explorador", "Pantanal Norte"), filterMethod = igual),
+              Dimensão = colDef(minWidth = 80, filterInput = filtro_lista("explorador"), filterMethod = igual),
+              Indicador = colDef(minWidth = 220, filterInput = filtro_lista("explorador"), filterMethod = igual),
               Valor = colDef(align = "right", filterable = FALSE,
                              format = colFormat(separators = TRUE, locales = "pt-BR")),
-              Unidade = colDef(minWidth = 130, style = list(color = "#6b7280", fontSize = "0.85em")),
-              Ano = colDef(align = "center", minWidth = 60),
-              `Código IBGE` = colDef(minWidth = 90))))
+              Unidade = colDef(minWidth = 130, filterable = FALSE, style = list(color = "#6b7280", fontSize = "0.85em")),
+              Ano = colDef(align = "center", minWidth = 60, filterable = FALSE),
+              `Código IBGE` = colDef(minWidth = 90, filterable = FALSE))),
+  tags$script(HTML("document.addEventListener('DOMContentLoaded', function () {
+    var tentar = function (n) { try { Reactable.setFilter('explorador', 'Grupo', 'Pantanal Norte'); }
+      catch (e) { if (n > 0) setTimeout(function () { tentar(n - 1); }, 200); } };
+    tentar(20); });")))
 ```
 
 ## Bases tratadas
@@ -58,7 +76,7 @@ cat_b <- cat_b |> filter(arquivo %in% disp) |>
   transmute(Dimensão = dimensao, Arquivo = arquivo, Anos = anos_min_max,
             Municípios = n_municipios_distintos, Linhas = n_linhas, Colunas = n_colunas,
             `MB` = tam, `% vazio` = pct_celulas_na)
-reactable(cat_b, compact = TRUE, striped = TRUE, pagination = FALSE, groupBy = "Dimensão",
+reactable(cat_b, compact = TRUE, striped = TRUE, pagination = FALSE, groupBy = "Dimensão", defaultExpanded = TRUE,
           columns = list(Arquivo = colDef(minWidth = 220, cell = function(v)
             a(href = paste0("../arquivos/dados/", v), download = NA, v))))
 ```

@@ -1,5 +1,6 @@
 ---
 title: "D6 · Gestão pública (PGPM)"
+lightbox: true
 ---
 
 ::: {.faixa-versao}
@@ -11,6 +12,19 @@ Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das b
 A marca fiscal do recorte é a fragilidade da arrecadação própria: em 2023, a autonomia fiscal média era de 11,7% em média simples, o que equivale a dizer que cerca de 88 de cada cem reais arrecadados provinham de fora do município, ante 25,0% no Polo Metropolitano. As transferências correntes respondiam, em média, por 78,2% da receita municipal, das quais o Fundo de Participação dos Municípios (FPM) representava 43,3%. Os casos extremos são Curvelândia (autonomia de 5,3% e dependência de FPM de 71,1%) e Glória D'Oeste (autonomia de 5,5%). O desenvolvimento institucional é inferior à média estadual: o IFDM geral médio de 2023 (0,632) fica abaixo do estado (0,649) e do Polo Metropolitano (0,722), com o componente de saúde (0,554) como elo mais frágil. A amplitude interna repete-se, com Rondonópolis na 5ª posição estadual e Poconé na 133ª.
 
 Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).
+
+## Indicadores da dimensão no Pantanal Norte
+
+```{r}
+#| include: false
+source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
+```
+
+Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.
+
+```{r}
+resumo_dimensao("D6")
+```
 
 ## Documentos
 
@@ -42,7 +56,7 @@ itens <- vapply(seq_len(nrow(fig)), function(i) {
   fonte <- if (!is.na(fig$fonte[i]) && nzchar(fig$fonte[i])) {
     paste0('<br><span class="nota-fonte">', esc_html(fig$fonte[i]), "</span>")
   } else ""
-  paste0('<figure><a href="', arq, '"><img src="', arq, '" alt="', rotulo,
+  paste0('<figure><a class="lightbox" data-gallery="d6" data-description="', rotulo, '" href="', arq, '"><img src="', arq, '" alt="', rotulo,
          '" loading="lazy" style="width:100%"></a><figcaption>', rotulo, fonte,
          "</figcaption></figure>")
 }, character(1))

@@ -1,6 +1,8 @@
 ---
 title: "Nossa Senhora do Livramento"
 description: "Perfil do município de Nossa Senhora do Livramento (MT) no Pantanal Norte — Projeto DSIP-MT"
+toc: false
+page-layout: full
 ---
 
 ```{r}

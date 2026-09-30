@@ -1,0 +1,14 @@
+---
+title: "Despesa com saúde"
+description: "D6 — % da despesa total. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "perc_desp_saude"
+```
+
+{{< include _indicador.qmd >}}
+

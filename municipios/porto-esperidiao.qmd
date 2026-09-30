@@ -1,6 +1,8 @@
 ---
 title: "Porto Esperidião"
 description: "Perfil do município de Porto Esperidião (MT) no Pantanal Norte — Projeto DSIP-MT"
+toc: false
+page-layout: full
 ---
 
 ```{r}

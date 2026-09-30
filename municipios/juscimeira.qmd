@@ -1,6 +1,8 @@
 ---
 title: "Juscimeira"
 description: "Perfil do município de Juscimeira (MT) no Pantanal Norte — Projeto DSIP-MT"
+toc: false
+page-layout: full
 ---
 
 ```{r}

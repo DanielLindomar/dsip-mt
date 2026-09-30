@@ -9,6 +9,8 @@ website:
   title: "Observatório DSIP-MT"
   description: "Resultados do Projeto DSIP-MT — Pantanal Norte Mato-grossense (Convênio 984799/2025 SUDECO–UNEMAT)"
   site-url: https://daniellindomar.github.io/dsip-mt/
+  repo-url: https://github.com/DanielLindomar/dsip-mt
+  repo-actions: [issue]
   search: true
   page-navigation: true
   back-to-top-navigation: true
@@ -22,6 +24,8 @@ website:
         text: Início
       - href: municipios/index.qmd
         text: Municípios
+      - href: indicadores/index.qmd
+        text: Indicadores
       - text: Dimensões
         menu:
           - href: dimensoes/d1.qmd
@@ -52,7 +56,7 @@ website:
         text: Sobre
   page-footer:
     left: |
-      Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto
+      Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link "Criar uma issue" (GitHub) ou escreva à coordenação.
     right: |
       ![UNEMAT](/assets/logo-unemat.jpg){height=36} ![Governo de Mato Grosso](/assets/brasao-mt.jpg){height=36} ![SUDECO](/assets/logo-sudeco.png){height=36}
 
@@ -65,6 +69,8 @@ format:
     toc-title: "Nesta página"
     smooth-scroll: true
     link-external-newwindow: true
+    lightbox: auto
+    include-after-body: assets/glossario.html
 
 execute:
   echo: false

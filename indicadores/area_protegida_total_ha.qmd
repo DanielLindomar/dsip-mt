@@ -1,0 +1,14 @@
+---
+title: "Área protegida (UC + TI)"
+description: "D2 — hectares. Mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e série histórica."
+toc: false
+page-layout: full
+---
+
+```{r}
+#| include: false
+IND_ID <- "area_protegida_total_ha"
+```
+
+{{< include _indicador.qmd >}}
+

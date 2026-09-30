@@ -1,0 +1,52 @@
+<script>
+// Siglas explicadas ao passar o cursor (ou tocar, no celular). Aplica-se a parágrafos, listas e legendas.
+(function () {
+  var G = {
+    "PN-13": "Pantanal Norte: os 13 municípios do recorte do convênio SUDECO–UNEMAT",
+    "VAB": "Valor Adicionado Bruto: riqueza gerada pelos setores, sem os impostos",
+    "PIB": "Produto Interno Bruto",
+    "SICOR": "Sistema de Operações do Crédito Rural (Banco Central); cobre o crédito com recursos públicos",
+    "IFDM": "Índice FIRJAN de Desenvolvimento Municipal (0 a 1)",
+    "CAGED": "Cadastro Geral de Empregados e Desempregados (admissões e desligamentos)",
+    "RAIS": "Relação Anual de Informações Sociais (empregos formais em 31/12)",
+    "PRODES": "Monitoramento do desmatamento por satélite (INPE)",
+    "SNIS": "Sistema Nacional de Informações sobre Saneamento (adesão voluntária)",
+    "FPM": "Fundo de Participação dos Municípios",
+    "CAR": "Cadastro Ambiental Rural",
+    "IDEB": "Índice de Desenvolvimento da Educação Básica (0 a 10)",
+    "IDHM": "Índice de Desenvolvimento Humano Municipal (0 a 1)",
+    "FOFA": "Forças, Oportunidades, Fraquezas e Ameaças (matriz SWOT)",
+    "BPC": "Benefício de Prestação Continuada",
+    "CEMPRE": "Cadastro Central de Empresas (IBGE)",
+    "FOB": "Valor da mercadoria sem frete e seguro",
+    "Siconfi": "Sistema de Informações Contábeis e Fiscais do Setor Público (Tesouro Nacional)",
+    "PRISMA": "Protocolo de registro das etapas de busca e seleção de estudos",
+    "UC": "Unidade de Conservação",
+    "TI": "Terra Indígena",
+    "ZPE": "Zona de Processamento de Exportação"
+  };
+  var chaves = Object.keys(G).sort(function (a, b) { return b.length - a.length; });
+  var re = new RegExp("(^|[^\\wÀ-ú-])(" + chaves.map(function (k) { return k.replace(/[-]/g, "\\-"); }).join("|") + ")(?![\\wÀ-ú-])");
+  function marcar(el) {
+    var usados = {};
+    var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        var p = n.parentNode;
+        while (p && p !== el) { if (/^(A|ABBR|CODE|SCRIPT|STYLE|SVG|BUTTON|SELECT|OPTION)$/i.test(p.nodeName)) return NodeFilter.FILTER_REJECT; p = p.parentNode; }
+        return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    var nos = []; while (w.nextNode()) nos.push(w.currentNode);
+    nos.forEach(function (n) {
+      var m = n.nodeValue.match(re); if (!m || usados[m[2]]) return;
+      usados[m[2]] = true;
+      var i = m.index + m[1].length, depois = n.splitText(i); depois.splitText(m[2].length);
+      var ab = document.createElement("abbr"); ab.title = G[m[2]]; ab.tabIndex = 0; ab.textContent = m[2];
+      depois.parentNode.replaceChild(ab, depois);
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
+  });
+})();
+</script>

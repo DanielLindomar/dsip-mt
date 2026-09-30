@@ -1,6 +1,8 @@
 ---
 title: "Barão de Melgaço"
 description: "Perfil do município de Barão de Melgaço (MT) no Pantanal Norte — Projeto DSIP-MT"
+toc: false
+page-layout: full
 ---
 
 ```{r}
