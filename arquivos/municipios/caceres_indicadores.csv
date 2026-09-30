@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,3.14
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,3.02
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,3.25
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,2.78
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,5.26
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,2.35
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,2.09
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,2.83
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,4.95
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,2.86
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,6.81
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,7.1
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,8.52
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,8.72
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,13.54
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,10.32
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,11.38
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,10.16
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,11.57
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,12.98
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,15.81
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,15.31
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,14.87
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,14.36
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,17.52
+5102504,Cáceres,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,18.93
 5102504,Cáceres,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,123491222.88
 5102504,Cáceres,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,158547716.09
 5102504,Cáceres,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,154392535.34
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,16304
 5102504,Cáceres,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,16123
 5102504,Cáceres,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,16860
+5102504,Cáceres,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,9522
+5102504,Cáceres,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,103.8
 5102504,Cáceres,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,15.01
 5102504,Cáceres,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,17.44
 5102504,Cáceres,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,17.1
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D1,sh_ind_va,Participação da indústria no VAB,%,2019,9.21
 5102504,Cáceres,D1,sh_ind_va,Participação da indústria no VAB,%,2020,10.91
 5102504,Cáceres,D1,sh_ind_va,Participação da indústria no VAB,%,2021,9.75
+5102504,Cáceres,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,52.6
 5102504,Cáceres,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,47.52
 5102504,Cáceres,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,49.65
 5102504,Cáceres,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,46.6
@@ -324,6 +353,33 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,387328.37
 5102504,Cáceres,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,288961
 5102504,Cáceres,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,117327.619031148
+5102504,Cáceres,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,125
+5102504,Cáceres,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,126
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,26
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2018,16
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2019,14
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,33
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,46
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,57
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,44
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,45
+5102504,Cáceres,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,40
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,1753
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,630
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,1134
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,2499
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,990
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,1560
+5102504,Cáceres,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,2510
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,19.21
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2018,0
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2019,0
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,6.64
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,11.89
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,27.87
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,11.04
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,17.03
+5102504,Cáceres,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,27.35
 5102504,Cáceres,D2,n_destinos_exp,Países de destino das exportações,países,2000,7
 5102504,Cáceres,D2,n_destinos_exp,Países de destino das exportações,países,2001,8
 5102504,Cáceres,D2,n_destinos_exp,Países de destino das exportações,países,2002,5
@@ -420,6 +476,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,13731275
 5102504,Cáceres,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,9197472
 5102504,Cáceres,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,11207846
+5102504,Cáceres,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,157853
+5102504,Cáceres,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,157853
 5102504,Cáceres,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.28
 5102504,Cáceres,D3,gini,Índice de Gini,índice 0–1,1991,0.55
 5102504,Cáceres,D3,gini,Índice de Gini,índice 0–1,2000,0.61
@@ -491,6 +549,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D3,populacao,População,habitantes,2023,89681
 5102504,Cáceres,D3,populacao,População,habitantes,2024,91626
 5102504,Cáceres,D3,populacao,População,habitantes,2025,91767
+5102504,Cáceres,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,3.9
+5102504,Cáceres,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,17
+5102504,Cáceres,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,19.1
+5102504,Cáceres,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,13.7
+5102504,Cáceres,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,14.7
+5102504,Cáceres,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,45.7
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,87.4
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,79.5
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,93.9
@@ -514,6 +578,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,72.7
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,82.9
 5102504,Cáceres,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,119.3
+5102504,Cáceres,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,50.1
 5102504,Cáceres,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,71.49
 5102504,Cáceres,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,58.23
 5102504,Cáceres,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,37.01
@@ -668,7 +733,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D4,taxa_antropizacao,Taxa de antropização,%,2019,24.09
 5102504,Cáceres,D4,taxa_antropizacao,Taxa de antropização,%,2020,24.38
 5102504,Cáceres,D4,taxa_antropizacao,Taxa de antropização,%,2021,25.85
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2021,14
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2022,14
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2023,12
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2024,12
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2025,10
+5102504,Cáceres,D5,agencias_bancarias,Agências bancárias,agências,2026,5
+5102504,Cáceres,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,86.13
+5102504,Cáceres,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,84.22
+5102504,Cáceres,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,86.3
+5102504,Cáceres,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,87.29
+5102504,Cáceres,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,4.38
 5102504,Cáceres,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2351.4
+5102504,Cáceres,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,56.46
+5102504,Cáceres,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,59.87
+5102504,Cáceres,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,60.4
+5102504,Cáceres,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,52.62
 5102504,Cáceres,D5,idx_atend_agua_total,População atendida com água,%,2004,81.3
 5102504,Cáceres,D5,idx_atend_agua_total,População atendida com água,%,2006,72.2
 5102504,Cáceres,D5,idx_atend_agua_total,População atendida com água,%,2007,80.2

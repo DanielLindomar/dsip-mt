@@ -1,0 +1,706 @@
+id_municipio,municipio,ano,homicidios,taxa_homicidios_100k
+5100102,Acorizal,2018,0.0,0.0
+5100102,Acorizal,2019,2.0,37.0
+5100102,Acorizal,2020,2.0,37.5
+5100102,Acorizal,2021,2.0,37.7
+5100102,Acorizal,2022,1.0,19.9
+5100201,Água Boa,2018,7.0,27.7
+5100201,Água Boa,2019,8.0,31.1
+5100201,Água Boa,2020,0.0,0.0
+5100201,Água Boa,2021,3.0,11.2
+5100201,Água Boa,2022,2.0,6.8
+5100250,Alta Floresta,2018,6.0,11.6
+5100250,Alta Floresta,2019,5.0,9.7
+5100250,Alta Floresta,2020,13.0,25.0
+5100250,Alta Floresta,2021,5.0,9.6
+5100250,Alta Floresta,2022,8.0,13.6
+5100300,Alto Araguaia,2018,5.0,26.7
+5100300,Alto Araguaia,2019,7.0,36.8
+5100300,Alto Araguaia,2020,1.0,5.2
+5100300,Alto Araguaia,2021,3.0,15.2
+5100300,Alto Araguaia,2022,3.0,17.4
+5100359,Alto Boa Vista,2018,1.0,15.0
+5100359,Alto Boa Vista,2019,3.0,44.0
+5100359,Alto Boa Vista,2020,5.0,72.1
+5100359,Alto Boa Vista,2021,2.0,28.2
+5100359,Alto Boa Vista,2022,0.0,0.0
+5100409,Alto Garças,2018,1.0,8.4
+5100409,Alto Garças,2019,1.0,8.3
+5100409,Alto Garças,2020,1.0,8.2
+5100409,Alto Garças,2021,6.0,48.7
+5100409,Alto Garças,2022,3.0,23.0
+5100508,Alto Paraguai,2018,1.0,8.9
+5100508,Alto Paraguai,2019,1.0,8.8
+5100508,Alto Paraguai,2020,2.0,17.4
+5100508,Alto Paraguai,2021,6.0,51.8
+5100508,Alto Paraguai,2022,8.0,99.9
+5100607,Alto Taquari,2018,2.0,18.9
+5100607,Alto Taquari,2019,3.0,27.7
+5100607,Alto Taquari,2020,1.0,9.0
+5100607,Alto Taquari,2021,2.0,17.5
+5100607,Alto Taquari,2022,2.0,18.3
+5100805,Apiacás,2018,9.0,90.2
+5100805,Apiacás,2019,2.0,19.7
+5100805,Apiacás,2020,1.0,9.7
+5100805,Apiacás,2021,4.0,38.3
+5100805,Apiacás,2022,2.0,23.3
+5101001,Araguaiana,2018,0.0,0.0
+5101001,Araguaiana,2019,0.0,0.0
+5101001,Araguaiana,2020,1.0,32.2
+5101001,Araguaiana,2021,3.0,97.9
+5101001,Araguaiana,2022,1.0,26.4
+5101209,Araguainha,2018,0.0,0.0
+5101209,Araguainha,2019,0.0,0.0
+5101209,Araguainha,2020,0.0,0.0
+5101209,Araguainha,2021,1.0,110.0
+5101209,Araguainha,2022,0.0,0.0
+5101258,Araputanga,2018,4.0,24.0
+5101258,Araputanga,2019,1.0,5.9
+5101258,Araputanga,2020,8.0,47.2
+5101258,Araputanga,2021,4.0,23.4
+5101258,Araputanga,2022,6.0,40.6
+5101308,Arenápolis,2018,7.0,72.1
+5101308,Arenápolis,2019,7.0,72.9
+5101308,Arenápolis,2020,8.0,84.2
+5101308,Arenápolis,2021,2.0,21.3
+5101308,Arenápolis,2022,5.0,47.3
+5101407,Aripuanã,2018,6.0,27.3
+5101407,Aripuanã,2019,19.0,85.0
+5101407,Aripuanã,2020,32.0,140.9
+5101407,Aripuanã,2021,25.0,108.4
+5101407,Aripuanã,2022,24.0,97.5
+5101605,Barão de Melgaço,2018,0.0,0.0
+5101605,Barão de Melgaço,2019,0.0,0.0
+5101605,Barão de Melgaço,2020,0.0,0.0
+5101605,Barão de Melgaço,2021,0.0,0.0
+5101605,Barão de Melgaço,2022,0.0,0.0
+5101704,Barra do Bugres,2018,16.0,46.2
+5101704,Barra do Bugres,2019,8.0,22.9
+5101704,Barra do Bugres,2020,7.0,19.8
+5101704,Barra do Bugres,2021,7.0,19.6
+5101704,Barra do Bugres,2022,20.0,68.0
+5101803,Barra do Garças,2018,10.0,16.5
+5101803,Barra do Garças,2019,11.0,18.0
+5101803,Barra do Garças,2020,6.0,9.8
+5101803,Barra do Garças,2021,9.0,14.6
+5101803,Barra do Garças,2022,10.0,14.4
+5101852,Bom Jesus do Araguaia,2018,1.0,15.5
+5101852,Bom Jesus do Araguaia,2019,2.0,30.4
+5101852,Bom Jesus do Araguaia,2020,1.0,14.9
+5101852,Bom Jesus do Araguaia,2021,5.0,73.2
+5101852,Bom Jesus do Araguaia,2022,4.0,54.9
+5101902,Brasnorte,2018,3.0,15.6
+5101902,Brasnorte,2019,7.0,35.5
+5101902,Brasnorte,2020,10.0,49.7
+5101902,Brasnorte,2021,6.0,29.2
+5101902,Brasnorte,2022,7.0,41.2
+5102504,Cáceres,2018,16.0,17.0
+5102504,Cáceres,2019,18.0,19.1
+5102504,Cáceres,2020,13.0,13.7
+5102504,Cáceres,2021,14.0,14.7
+5102504,Cáceres,2022,41.0,45.7
+5102603,Campinápolis,2018,2.0,12.6
+5102603,Campinápolis,2019,1.0,6.3
+5102603,Campinápolis,2020,1.0,5.9
+5102603,Campinápolis,2021,1.0,6.2
+5102603,Campinápolis,2022,3.0,19.5
+5102637,Campo Novo do Parecis,2018,15.0,43.4
+5102637,Campo Novo do Parecis,2019,14.0,39.6
+5102637,Campo Novo do Parecis,2020,10.0,27.7
+5102637,Campo Novo do Parecis,2021,15.0,40.6
+5102637,Campo Novo do Parecis,2022,12.0,26.1
+5102678,Campo Verde,2018,11.0,25.7
+5102678,Campo Verde,2019,6.0,13.6
+5102678,Campo Verde,2020,3.0,6.6
+5102678,Campo Verde,2021,7.0,15.9
+5102678,Campo Verde,2022,7.0,15.7
+5102686,Campos de Júlio,2018,0.0,0.0
+5102686,Campos de Júlio,2019,0.0,0.0
+5102686,Campos de Júlio,2020,0.0,0.0
+5102686,Campos de Júlio,2021,1.0,13.8
+5102686,Campos de Júlio,2022,5.0,56.7
+5102694,Canabrava do Norte,2018,1.0,21.0
+5102694,Canabrava do Norte,2019,0.0,0.0
+5102694,Canabrava do Norte,2020,4.0,84.6
+5102694,Canabrava do Norte,2021,4.0,84.9
+5102694,Canabrava do Norte,2022,1.0,22.3
+5102702,Canarana,2018,10.0,46.9
+5102702,Canarana,2019,2.0,9.3
+5102702,Canarana,2020,5.0,22.9
+5102702,Canarana,2021,7.0,31.7
+5102702,Canarana,2022,3.0,11.6
+5102793,Carlinda,2018,2.0,19.2
+5102793,Carlinda,2019,0.0,0.0
+5102793,Carlinda,2020,0.0,0.0
+5102793,Carlinda,2021,0.0,0.0
+5102793,Carlinda,2022,0.0,0.0
+5102850,Castanheira,2018,5.0,57.5
+5102850,Castanheira,2019,1.0,11.5
+5102850,Castanheira,2020,0.0,0.0
+5102850,Castanheira,2021,3.0,34.2
+5102850,Castanheira,2022,2.0,26.6
+5103007,Chapada dos Guimarães,2018,1.0,5.1
+5103007,Chapada dos Guimarães,2019,7.0,35.4
+5103007,Chapada dos Guimarães,2020,6.0,30.8
+5103007,Chapada dos Guimarães,2021,4.0,17.8
+5103007,Chapada dos Guimarães,2022,2.0,10.5
+5103056,Cláudia,2018,4.0,33.2
+5103056,Cláudia,2019,4.0,32.9
+5103056,Cláudia,2020,9.0,73.5
+5103056,Cláudia,2021,1.0,8.1
+5103056,Cláudia,2022,2.0,20.8
+5103106,Cocalinho,2018,1.0,17.6
+5103106,Cocalinho,2019,2.0,35.1
+5103106,Cocalinho,2020,3.0,52.8
+5103106,Cocalinho,2021,2.0,35.0
+5103106,Cocalinho,2022,4.0,64.3
+5103205,Colíder,2018,11.0,33.1
+5103205,Colíder,2019,6.0,17.9
+5103205,Colíder,2020,6.0,17.8
+5103205,Colíder,2021,7.0,20.7
+5103205,Colíder,2022,12.0,38.3
+5103254,Colniza,2018,11.0,29.5
+5103254,Colniza,2019,12.0,31.1
+5103254,Colniza,2020,19.0,47.7
+5103254,Colniza,2021,22.0,53.5
+5103254,Colniza,2022,17.0,66.0
+5103304,Comodoro,2018,6.0,29.2
+5103304,Comodoro,2019,7.0,33.7
+5103304,Comodoro,2020,10.0,47.6
+5103304,Comodoro,2021,4.0,18.8
+5103304,Comodoro,2022,3.0,16.4
+5103353,Confresa,2018,11.0,36.2
+5103353,Confresa,2019,8.0,25.9
+5103353,Confresa,2020,8.0,25.4
+5103353,Confresa,2021,11.0,34.3
+5103353,Confresa,2022,7.0,20.0
+5103361,Conquista D'Oeste,2018,0.0,0.0
+5103361,Conquista D'Oeste,2019,0.0,0.0
+5103361,Conquista D'Oeste,2020,0.0,0.0
+5103361,Conquista D'Oeste,2021,0.0,0.0
+5103361,Conquista D'Oeste,2022,0.0,0.0
+5103379,Cotriguaçu,2018,6.0,31.2
+5103379,Cotriguaçu,2019,3.0,15.2
+5103379,Cotriguaçu,2020,5.0,24.7
+5103379,Cotriguaçu,2021,7.0,33.8
+5103379,Cotriguaçu,2022,4.0,36.3
+5103403,Cuiabá,2018,115.0,18.9
+5103403,Cuiabá,2019,76.0,12.4
+5103403,Cuiabá,2020,80.0,12.9
+5103403,Cuiabá,2021,47.0,7.5
+5103403,Cuiabá,2022,61.0,9.4
+5103437,Curvelândia,2018,0.0,0.0
+5103437,Curvelândia,2019,0.0,0.0
+5103437,Curvelândia,2020,0.0,0.0
+5103437,Curvelândia,2021,1.0,19.0
+5103437,Curvelândia,2022,3.0,61.2
+5103452,Denise,2018,0.0,0.0
+5103452,Denise,2019,0.0,0.0
+5103452,Denise,2020,0.0,0.0
+5103452,Denise,2021,0.0,0.0
+5103452,Denise,2022,0.0,0.0
+5103502,Diamantino,2018,13.0,59.3
+5103502,Diamantino,2019,17.0,77.1
+5103502,Diamantino,2020,23.0,103.7
+5103502,Diamantino,2021,11.0,49.3
+5103502,Diamantino,2022,9.0,41.0
+5103601,Dom Aquino,2018,0.0,0.0
+5103601,Dom Aquino,2019,1.0,12.2
+5103601,Dom Aquino,2020,2.0,24.5
+5103601,Dom Aquino,2021,4.0,49.5
+5103601,Dom Aquino,2022,2.0,25.4
+5103700,Feliz Natal,2018,7.0,50.5
+5103700,Feliz Natal,2019,4.0,28.2
+5103700,Feliz Natal,2020,2.0,13.8
+5103700,Feliz Natal,2021,2.0,13.5
+5103700,Feliz Natal,2022,3.0,28.5
+5103809,Figueirópolis D'Oeste,2018,0.0,0.0
+5103809,Figueirópolis D'Oeste,2019,0.0,0.0
+5103809,Figueirópolis D'Oeste,2020,0.0,0.0
+5103809,Figueirópolis D'Oeste,2021,1.0,29.3
+5103809,Figueirópolis D'Oeste,2022,0.0,0.0
+5103858,Gaúcha do Norte,2018,3.0,39.9
+5103858,Gaúcha do Norte,2019,0.0,0.0
+5103858,Gaúcha do Norte,2020,1.0,12.9
+5103858,Gaúcha do Norte,2021,3.0,37.9
+5103858,Gaúcha do Norte,2022,3.0,34.7
+5103908,General Carneiro,2018,1.0,18.2
+5103908,General Carneiro,2019,1.0,18.1
+5103908,General Carneiro,2020,1.0,17.9
+5103908,General Carneiro,2021,0.0,0.0
+5103908,General Carneiro,2022,0.0,0.0
+5103957,Glória D'Oeste,2018,0.0,0.0
+5103957,Glória D'Oeste,2019,0.0,0.0
+5103957,Glória D'Oeste,2020,0.0,0.0
+5103957,Glória D'Oeste,2021,1.0,33.4
+5103957,Glória D'Oeste,2022,4.0,137.7
+5104104,Guarantã do Norte,2018,16.0,45.1
+5104104,Guarantã do Norte,2019,8.0,22.3
+5104104,Guarantã do Norte,2020,11.0,30.4
+5104104,Guarantã do Norte,2021,13.0,35.7
+5104104,Guarantã do Norte,2022,7.0,22.6
+5104203,Guiratinga,2018,1.0,6.7
+5104203,Guiratinga,2019,3.0,19.8
+5104203,Guiratinga,2020,2.0,13.1
+5104203,Guiratinga,2021,1.0,6.4
+5104203,Guiratinga,2022,1.0,9.1
+5104500,Indiavaí,2018,0.0,0.0
+5104500,Indiavaí,2019,0.0,0.0
+5104500,Indiavaí,2020,0.0,0.0
+5104500,Indiavaí,2021,0.0,0.0
+5104500,Indiavaí,2022,0.0,0.0
+5104526,Ipiranga do Norte,2018,0.0,0.0
+5104526,Ipiranga do Norte,2019,0.0,0.0
+5104526,Ipiranga do Norte,2020,0.0,0.0
+5104526,Ipiranga do Norte,2021,3.0,36.7
+5104526,Ipiranga do Norte,2022,3.0,38.4
+5104542,Itanhangá,2018,0.0,0.0
+5104542,Itanhangá,2019,0.0,0.0
+5104542,Itanhangá,2020,0.0,0.0
+5104542,Itanhangá,2021,0.0,0.0
+5104542,Itanhangá,2022,1.0,13.3
+5104559,Itaúba,2018,1.0,25.6
+5104559,Itaúba,2019,4.0,105.2
+5104559,Itaúba,2020,0.0,0.0
+5104559,Itaúba,2021,0.0,0.0
+5104559,Itaúba,2022,1.0,19.9
+5104609,Itiquira,2018,3.0,22.8
+5104609,Itiquira,2019,1.0,7.5
+5104609,Itiquira,2020,1.0,7.4
+5104609,Itiquira,2021,0.0,0.0
+5104609,Itiquira,2022,1.0,8.2
+5104807,Jaciara,2018,8.0,29.0
+5104807,Jaciara,2019,4.0,14.4
+5104807,Jaciara,2020,12.0,43.2
+5104807,Jaciara,2021,12.0,43.3
+5104807,Jaciara,2022,6.0,21.0
+5104906,Jangada,2018,1.0,12.0
+5104906,Jangada,2019,1.0,11.9
+5104906,Jangada,2020,4.0,47.3
+5104906,Jangada,2021,0.0,0.0
+5104906,Jangada,2022,0.0,0.0
+5105002,Jauru,2018,4.0,44.4
+5105002,Jauru,2019,2.0,22.7
+5105002,Jauru,2020,0.0,0.0
+5105002,Jauru,2021,1.0,11.9
+5105002,Jauru,2022,2.0,23.9
+5105101,Juara,2018,9.0,25.9
+5105101,Juara,2019,9.0,25.7
+5105101,Juara,2020,8.0,22.8
+5105101,Juara,2021,16.0,45.4
+5105101,Juara,2022,17.0,48.7
+5105150,Juína,2018,11.0,26.9
+5105150,Juína,2019,13.0,31.7
+5105150,Juína,2020,11.0,26.8
+5105150,Juína,2021,17.0,41.3
+5105150,Juína,2022,18.0,39.2
+5105176,Juruena,2018,1.0,6.5
+5105176,Juruena,2019,1.0,6.3
+5105176,Juruena,2020,5.0,30.6
+5105176,Juruena,2021,4.0,23.8
+5105176,Juruena,2022,3.0,29.4
+5105200,Juscimeira,2018,1.0,8.9
+5105200,Juscimeira,2019,5.0,44.6
+5105200,Juscimeira,2020,3.0,26.8
+5105200,Juscimeira,2021,1.0,9.0
+5105200,Juscimeira,2022,1.0,8.7
+5105234,Lambari D'Oeste,2018,0.0,0.0
+5105234,Lambari D'Oeste,2019,0.0,0.0
+5105234,Lambari D'Oeste,2020,0.0,0.0
+5105234,Lambari D'Oeste,2021,0.0,0.0
+5105234,Lambari D'Oeste,2022,0.0,0.0
+5105259,Lucas do Rio Verde,2018,19.0,30.0
+5105259,Lucas do Rio Verde,2019,28.0,42.7
+5105259,Lucas do Rio Verde,2020,26.0,38.5
+5105259,Lucas do Rio Verde,2021,23.0,33.0
+5105259,Lucas do Rio Verde,2022,25.0,29.8
+5105309,Luciara,2018,0.0,0.0
+5105309,Luciara,2019,0.0,0.0
+5105309,Luciara,2020,0.0,0.0
+5105309,Luciara,2021,0.0,0.0
+5105309,Luciara,2022,1.0,39.9
+5105507,Vila Bela da Santíssima Trindade,2018,5.0,31.3
+5105507,Vila Bela da Santíssima Trindade,2019,5.0,31.0
+5105507,Vila Bela da Santíssima Trindade,2020,6.0,36.9
+5105507,Vila Bela da Santíssima Trindade,2021,1.0,6.1
+5105507,Vila Bela da Santíssima Trindade,2022,12.0,71.5
+5105580,Marcelândia,2018,3.0,28.0
+5105580,Marcelândia,2019,3.0,28.6
+5105580,Marcelândia,2020,1.0,9.7
+5105580,Marcelândia,2021,3.0,29.7
+5105580,Marcelândia,2022,2.0,17.6
+5105606,Matupá,2018,6.0,36.7
+5105606,Matupá,2019,5.0,30.2
+5105606,Matupá,2020,4.0,23.8
+5105606,Matupá,2021,5.0,29.4
+5105606,Matupá,2022,8.0,39.8
+5105622,Mirassol D'Oeste,2018,4.0,14.5
+5105622,Mirassol D'Oeste,2019,10.0,36.1
+5105622,Mirassol D'Oeste,2020,5.0,17.9
+5105622,Mirassol D'Oeste,2021,11.0,39.1
+5105622,Mirassol D'Oeste,2022,9.0,33.6
+5105903,Nobres,2018,3.0,19.6
+5105903,Nobres,2019,12.0,78.2
+5105903,Nobres,2020,11.0,71.7
+5105903,Nobres,2021,4.0,26.1
+5105903,Nobres,2022,11.0,71.0
+5106000,Nortelândia,2018,0.0,0.0
+5106000,Nortelândia,2019,5.0,83.5
+5106000,Nortelândia,2020,2.0,33.8
+5106000,Nortelândia,2021,2.0,34.1
+5106000,Nortelândia,2022,4.0,67.2
+5106109,Nossa Senhora do Livramento,2018,3.0,22.7
+5106109,Nossa Senhora do Livramento,2019,5.0,37.8
+5106109,Nossa Senhora do Livramento,2020,3.0,22.9
+5106109,Nossa Senhora do Livramento,2021,6.0,45.8
+5106109,Nossa Senhora do Livramento,2022,4.0,30.9
+5106158,Nova Bandeirantes,2018,7.0,47.0
+5106158,Nova Bandeirantes,2019,7.0,45.8
+5106158,Nova Bandeirantes,2020,6.0,38.3
+5106158,Nova Bandeirantes,2021,8.0,49.8
+5106158,Nova Bandeirantes,2022,6.0,44.0
+5106174,Nova Nazaré,2018,0.0,0.0
+5106174,Nova Nazaré,2019,0.0,0.0
+5106174,Nova Nazaré,2020,0.0,0.0
+5106174,Nova Nazaré,2021,0.0,0.0
+5106174,Nova Nazaré,2022,4.0,95.2
+5106182,Nova Lacerda,2018,0.0,0.0
+5106182,Nova Lacerda,2019,1.0,15.1
+5106182,Nova Lacerda,2020,2.0,29.6
+5106182,Nova Lacerda,2021,4.0,58.3
+5106182,Nova Lacerda,2022,0.0,0.0
+5106190,Nova Santa Helena,2018,0.0,0.0
+5106190,Nova Santa Helena,2019,0.0,0.0
+5106190,Nova Santa Helena,2020,0.0,0.0
+5106190,Nova Santa Helena,2021,1.0,26.6
+5106190,Nova Santa Helena,2022,5.0,118.0
+5106208,Nova Brasilândia,2018,0.0,0.0
+5106208,Nova Brasilândia,2019,0.0,0.0
+5106208,Nova Brasilândia,2020,0.0,0.0
+5106208,Nova Brasilândia,2021,1.0,27.4
+5106208,Nova Brasilândia,2022,1.0,25.4
+5106216,Nova Canaã do Norte,2018,3.0,23.5
+5106216,Nova Canaã do Norte,2019,2.0,15.6
+5106216,Nova Canaã do Norte,2020,4.0,31.2
+5106216,Nova Canaã do Norte,2021,1.0,7.8
+5106216,Nova Canaã do Norte,2022,2.0,17.1
+5106224,Nova Mutum,2018,19.0,43.3
+5106224,Nova Mutum,2019,11.0,24.2
+5106224,Nova Mutum,2020,15.0,32.0
+5106224,Nova Mutum,2021,13.0,27.0
+5106224,Nova Mutum,2022,14.0,25.1
+5106232,Nova Olímpia,2018,4.0,20.0
+5106232,Nova Olímpia,2019,1.0,4.9
+5106232,Nova Olímpia,2020,4.0,19.5
+5106232,Nova Olímpia,2021,5.0,24.0
+5106232,Nova Olímpia,2022,2.0,12.2
+5106240,Nova Ubiratã,2018,5.0,42.8
+5106240,Nova Ubiratã,2019,4.0,33.4
+5106240,Nova Ubiratã,2020,4.0,32.5
+5106240,Nova Ubiratã,2021,2.0,16.0
+5106240,Nova Ubiratã,2022,3.0,26.0
+5106257,Nova Xavantina,2018,2.0,9.4
+5106257,Nova Xavantina,2019,2.0,9.4
+5106257,Nova Xavantina,2020,8.0,38.2
+5106257,Nova Xavantina,2021,1.0,4.6
+5106257,Nova Xavantina,2022,8.0,32.9
+5106265,Novo Mundo,2018,0.0,0.0
+5106265,Novo Mundo,2019,0.0,0.0
+5106265,Novo Mundo,2020,0.0,0.0
+5106265,Novo Mundo,2021,3.0,31.4
+5106265,Novo Mundo,2022,3.0,46.0
+5106273,Novo Horizonte do Norte,2018,0.0,0.0
+5106273,Novo Horizonte do Norte,2019,0.0,0.0
+5106273,Novo Horizonte do Norte,2020,0.0,0.0
+5106273,Novo Horizonte do Norte,2021,1.0,24.6
+5106273,Novo Horizonte do Norte,2022,0.0,0.0
+5106281,Novo São Joaquim,2018,0.0,0.0
+5106281,Novo São Joaquim,2019,0.0,0.0
+5106281,Novo São Joaquim,2020,0.0,0.0
+5106281,Novo São Joaquim,2021,0.0,0.0
+5106281,Novo São Joaquim,2022,0.0,0.0
+5106299,Paranaíta,2018,2.0,17.9
+5106299,Paranaíta,2019,1.0,8.9
+5106299,Paranaíta,2020,0.0,0.0
+5106299,Paranaíta,2021,2.0,17.7
+5106299,Paranaíta,2022,2.0,17.1
+5106307,Paranatinga,2018,15.0,67.4
+5106307,Paranatinga,2019,8.0,35.5
+5106307,Paranatinga,2020,7.0,30.6
+5106307,Paranatinga,2021,6.0,25.8
+5106307,Paranatinga,2022,6.0,22.7
+5106315,Novo Santo Antônio,2018,2.0,77.7
+5106315,Novo Santo Antônio,2019,0.0,0.0
+5106315,Novo Santo Antônio,2020,0.0,0.0
+5106315,Novo Santo Antônio,2021,0.0,0.0
+5106315,Novo Santo Antônio,2022,0.0,0.0
+5106372,Pedra Preta,2018,2.0,11.5
+5106372,Pedra Preta,2019,4.0,22.7
+5106372,Pedra Preta,2020,7.0,40.1
+5106372,Pedra Preta,2021,3.0,17.1
+5106372,Pedra Preta,2022,1.0,5.5
+5106422,Peixoto de Azevedo,2018,12.0,34.7
+5106422,Peixoto de Azevedo,2019,26.0,74.3
+5106422,Peixoto de Azevedo,2020,23.0,65.1
+5106422,Peixoto de Azevedo,2021,8.0,22.4
+5106422,Peixoto de Azevedo,2022,13.0,39.7
+5106455,Planalto da Serra,2018,0.0,0.0
+5106455,Planalto da Serra,2019,0.0,0.0
+5106455,Planalto da Serra,2020,0.0,0.0
+5106455,Planalto da Serra,2021,0.0,0.0
+5106455,Planalto da Serra,2022,0.0,0.0
+5106505,Poconé,2018,18.0,54.9
+5106505,Poconé,2019,14.0,42.6
+5106505,Poconé,2020,6.0,18.0
+5106505,Poconé,2021,4.0,12.0
+5106505,Poconé,2022,10.0,32.0
+5106653,Pontal do Araguaia,2018,0.0,0.0
+5106653,Pontal do Araguaia,2019,0.0,0.0
+5106653,Pontal do Araguaia,2020,0.0,0.0
+5106653,Pontal do Araguaia,2021,1.0,14.3
+5106653,Pontal do Araguaia,2022,1.0,14.4
+5106703,Ponte Branca,2018,1.0,62.4
+5106703,Ponte Branca,2019,0.0,0.0
+5106703,Ponte Branca,2020,0.0,0.0
+5106703,Ponte Branca,2021,0.0,0.0
+5106703,Ponte Branca,2022,1.0,49.8
+5106752,Pontes e Lacerda,2018,28.0,62.1
+5106752,Pontes e Lacerda,2019,11.0,24.2
+5106752,Pontes e Lacerda,2020,21.0,45.9
+5106752,Pontes e Lacerda,2021,15.0,32.5
+5106752,Pontes e Lacerda,2022,18.0,34.6
+5106778,Porto Alegre do Norte,2018,3.0,24.3
+5106778,Porto Alegre do Norte,2019,4.0,32.0
+5106778,Porto Alegre do Norte,2020,8.0,63.1
+5106778,Porto Alegre do Norte,2021,2.0,15.6
+5106778,Porto Alegre do Norte,2022,6.0,49.5
+5106802,Porto dos Gaúchos,2018,0.0,0.0
+5106802,Porto dos Gaúchos,2019,3.0,55.5
+5106802,Porto dos Gaúchos,2020,1.0,18.6
+5106802,Porto dos Gaúchos,2021,4.0,74.9
+5106802,Porto dos Gaúchos,2022,1.0,17.9
+5106828,Porto Esperidião,2018,8.0,67.0
+5106828,Porto Esperidião,2019,2.0,16.6
+5106828,Porto Esperidião,2020,3.0,24.8
+5106828,Porto Esperidião,2021,5.0,41.1
+5106828,Porto Esperidião,2022,3.0,29.4
+5106851,Porto Estrela,2018,0.0,0.0
+5106851,Porto Estrela,2019,0.0,0.0
+5106851,Porto Estrela,2020,0.0,0.0
+5106851,Porto Estrela,2021,0.0,0.0
+5106851,Porto Estrela,2022,0.0,0.0
+5107008,Poxoréu,2018,13.0,79.2
+5107008,Poxoréu,2019,7.0,43.2
+5107008,Poxoréu,2020,2.0,12.6
+5107008,Poxoréu,2021,6.0,37.7
+5107008,Poxoréu,2022,4.0,17.2
+5107040,Primavera do Leste,2018,15.0,24.6
+5107040,Primavera do Leste,2019,13.0,21.0
+5107040,Primavera do Leste,2020,19.0,30.1
+5107040,Primavera do Leste,2021,13.0,20.4
+5107040,Primavera do Leste,2022,21.0,24.7
+5107065,Querência,2018,3.0,17.6
+5107065,Querência,2019,3.0,17.2
+5107065,Querência,2020,10.0,55.8
+5107065,Querência,2021,9.0,49.0
+5107065,Querência,2022,7.0,26.1
+5107107,São José dos Quatro Marcos,2018,5.0,26.4
+5107107,São José dos Quatro Marcos,2019,5.0,26.4
+5107107,São José dos Quatro Marcos,2020,2.0,10.6
+5107107,São José dos Quatro Marcos,2021,4.0,21.3
+5107107,São José dos Quatro Marcos,2022,2.0,11.2
+5107156,Reserva do Cabaçal,2018,0.0,0.0
+5107156,Reserva do Cabaçal,2019,0.0,0.0
+5107156,Reserva do Cabaçal,2020,0.0,0.0
+5107156,Reserva do Cabaçal,2021,1.0,36.3
+5107156,Reserva do Cabaçal,2022,2.0,94.3
+5107180,Ribeirão Cascalheira,2018,6.0,59.5
+5107180,Ribeirão Cascalheira,2019,8.0,78.4
+5107180,Ribeirão Cascalheira,2020,7.0,67.8
+5107180,Ribeirão Cascalheira,2021,4.0,38.3
+5107180,Ribeirão Cascalheira,2022,3.0,29.7
+5107198,Ribeirãozinho,2018,0.0,0.0
+5107198,Ribeirãozinho,2019,0.0,0.0
+5107198,Ribeirãozinho,2020,0.0,0.0
+5107198,Ribeirãozinho,2021,0.0,0.0
+5107198,Ribeirãozinho,2022,0.0,0.0
+5107206,Rio Branco,2018,4.0,77.5
+5107206,Rio Branco,2019,0.0,0.0
+5107206,Rio Branco,2020,1.0,19.4
+5107206,Rio Branco,2021,1.0,19.4
+5107206,Rio Branco,2022,0.0,0.0
+5107248,Santa Carmem,2018,0.0,0.0
+5107248,Santa Carmem,2019,0.0,0.0
+5107248,Santa Carmem,2020,0.0,0.0
+5107248,Santa Carmem,2021,0.0,0.0
+5107248,Santa Carmem,2022,2.0,37.2
+5107263,Santo Afonso,2018,1.0,31.9
+5107263,Santo Afonso,2019,0.0,0.0
+5107263,Santo Afonso,2020,1.0,31.7
+5107263,Santo Afonso,2021,0.0,0.0
+5107263,Santo Afonso,2022,1.0,39.7
+5107297,São José do Povo,2018,0.0,0.0
+5107297,São José do Povo,2019,0.0,0.0
+5107297,São José do Povo,2020,0.0,0.0
+5107297,São José do Povo,2021,0.0,0.0
+5107297,São José do Povo,2022,0.0,0.0
+5107305,São José do Rio Claro,2018,10.0,49.2
+5107305,São José do Rio Claro,2019,13.0,62.9
+5107305,São José do Rio Claro,2020,13.0,61.9
+5107305,São José do Rio Claro,2021,14.0,65.6
+5107305,São José do Rio Claro,2022,12.0,80.5
+5107354,São José do Xingu,2018,1.0,18.0
+5107354,São José do Xingu,2019,5.0,89.4
+5107354,São José do Xingu,2020,4.0,71.2
+5107354,São José do Xingu,2021,2.0,35.4
+5107354,São José do Xingu,2022,0.0,0.0
+5107404,São Pedro da Cipa,2018,0.0,0.0
+5107404,São Pedro da Cipa,2019,0.0,0.0
+5107404,São Pedro da Cipa,2020,0.0,0.0
+5107404,São Pedro da Cipa,2021,2.0,41.5
+5107404,São Pedro da Cipa,2022,1.0,23.9
+5107578,Rondolândia,2018,1.0,25.2
+5107578,Rondolândia,2019,4.0,100.0
+5107578,Rondolândia,2020,0.0,0.0
+5107578,Rondolândia,2021,0.0,0.0
+5107578,Rondolândia,2022,1.0,28.5
+5107602,Rondonópolis,2018,45.0,19.7
+5107602,Rondonópolis,2019,40.0,17.2
+5107602,Rondonópolis,2020,37.0,15.7
+5107602,Rondonópolis,2021,40.0,16.7
+5107602,Rondonópolis,2022,66.0,26.9
+5107701,Rosário Oeste,2018,4.0,23.2
+5107701,Rosário Oeste,2019,2.0,11.7
+5107701,Rosário Oeste,2020,2.0,11.7
+5107701,Rosário Oeste,2021,0.0,0.0
+5107701,Rosário Oeste,2022,4.0,25.9
+5107743,Santa Cruz do Xingu,2018,2.0,80.2
+5107743,Santa Cruz do Xingu,2019,1.0,39.0
+5107743,Santa Cruz do Xingu,2020,2.0,76.0
+5107743,Santa Cruz do Xingu,2021,1.0,37.0
+5107743,Santa Cruz do Xingu,2022,1.0,37.6
+5107750,Salto do Céu,2018,0.0,0.0
+5107750,Salto do Céu,2019,0.0,0.0
+5107750,Salto do Céu,2020,0.0,0.0
+5107750,Salto do Céu,2021,0.0,0.0
+5107750,Salto do Céu,2022,1.0,27.2
+5107768,Santa Rita do Trivelato,2018,0.0,0.0
+5107768,Santa Rita do Trivelato,2019,0.0,0.0
+5107768,Santa Rita do Trivelato,2020,0.0,0.0
+5107768,Santa Rita do Trivelato,2021,0.0,0.0
+5107768,Santa Rita do Trivelato,2022,0.0,0.0
+5107776,Santa Terezinha,2018,1.0,12.1
+5107776,Santa Terezinha,2019,1.0,11.9
+5107776,Santa Terezinha,2020,2.0,23.6
+5107776,Santa Terezinha,2021,3.0,35.1
+5107776,Santa Terezinha,2022,3.0,39.5
+5107792,Santo Antônio do Leste,2018,0.0,0.0
+5107792,Santo Antônio do Leste,2019,0.0,0.0
+5107792,Santo Antônio do Leste,2020,0.0,0.0
+5107792,Santo Antônio do Leste,2021,0.0,0.0
+5107792,Santo Antônio do Leste,2022,0.0,0.0
+5107800,Santo Antônio do Leverger,2018,10.0,60.9
+5107800,Santo Antônio do Leverger,2019,3.0,18.0
+5107800,Santo Antônio do Leverger,2020,4.0,23.5
+5107800,Santo Antônio do Leverger,2021,3.0,17.5
+5107800,Santo Antônio do Leverger,2022,3.0,19.7
+5107859,São Félix do Araguaia,2018,3.0,25.8
+5107859,São Félix do Araguaia,2019,7.0,59.8
+5107859,São Félix do Araguaia,2020,5.0,42.2
+5107859,São Félix do Araguaia,2021,1.0,8.4
+5107859,São Félix do Araguaia,2022,5.0,36.7
+5107875,Sapezal,2018,3.0,12.0
+5107875,Sapezal,2019,7.0,27.0
+5107875,Sapezal,2020,7.0,26.2
+5107875,Sapezal,2021,3.0,10.9
+5107875,Sapezal,2022,8.0,27.6
+5107883,Serra Nova Dourada,2018,0.0,0.0
+5107883,Serra Nova Dourada,2019,0.0,0.0
+5107883,Serra Nova Dourada,2020,0.0,0.0
+5107883,Serra Nova Dourada,2021,1.0,58.7
+5107883,Serra Nova Dourada,2022,0.0,0.0
+5107909,Sinop,2018,45.0,32.2
+5107909,Sinop,2019,41.0,28.7
+5107909,Sinop,2020,38.0,26.0
+5107909,Sinop,2021,44.0,29.5
+5107909,Sinop,2022,43.0,21.9
+5107925,Sorriso,2018,42.0,47.8
+5107925,Sorriso,2019,30.0,33.2
+5107925,Sorriso,2020,27.0,29.1
+5107925,Sorriso,2021,32.0,33.7
+5107925,Sorriso,2022,67.0,60.6
+5107941,Tabaporã,2018,3.0,31.4
+5107941,Tabaporã,2019,4.0,42.2
+5107941,Tabaporã,2020,5.0,53.0
+5107941,Tabaporã,2021,0.0,0.0
+5107941,Tabaporã,2022,7.0,71.3
+5107958,Tangará da Serra,2018,22.0,21.6
+5107958,Tangará da Serra,2019,11.0,10.6
+5107958,Tangará da Serra,2020,10.0,9.5
+5107958,Tangará da Serra,2021,17.0,15.8
+5107958,Tangará da Serra,2022,30.0,28.2
+5108006,Tapurah,2018,11.0,82.3
+5108006,Tapurah,2019,3.0,21.9
+5108006,Tapurah,2020,5.0,35.6
+5108006,Tapurah,2021,3.0,20.9
+5108006,Tapurah,2022,9.0,62.6
+5108055,Terra Nova do Norte,2018,3.0,30.4
+5108055,Terra Nova do Norte,2019,4.0,41.4
+5108055,Terra Nova do Norte,2020,0.0,0.0
+5108055,Terra Nova do Norte,2021,3.0,32.3
+5108055,Terra Nova do Norte,2022,3.0,28.3
+5108105,Tesouro,2018,0.0,0.0
+5108105,Tesouro,2019,0.0,0.0
+5108105,Tesouro,2020,0.0,0.0
+5108105,Tesouro,2021,0.0,0.0
+5108105,Tesouro,2022,0.0,0.0
+5108204,Torixoréu,2018,1.0,27.2
+5108204,Torixoréu,2019,1.0,27.7
+5108204,Torixoréu,2020,1.0,28.2
+5108204,Torixoréu,2021,0.0,0.0
+5108204,Torixoréu,2022,0.0,0.0
+5108303,União do Sul,2018,1.0,28.1
+5108303,União do Sul,2019,3.0,85.1
+5108303,União do Sul,2020,0.0,0.0
+5108303,União do Sul,2021,1.0,28.9
+5108303,União do Sul,2022,0.0,0.0
+5108352,Vale de São Domingos,2018,0.0,0.0
+5108352,Vale de São Domingos,2019,0.0,0.0
+5108352,Vale de São Domingos,2020,0.0,0.0
+5108352,Vale de São Domingos,2021,1.0,32.0
+5108352,Vale de São Domingos,2022,1.0,34.4
+5108402,Várzea Grande,2018,80.0,28.4
+5108402,Várzea Grande,2019,41.0,14.4
+5108402,Várzea Grande,2020,49.0,17.0
+5108402,Várzea Grande,2021,36.0,12.4
+5108402,Várzea Grande,2022,38.0,12.7
+5108501,Vera,2018,3.0,26.7
+5108501,Vera,2019,2.0,17.7
+5108501,Vera,2020,2.0,17.5
+5108501,Vera,2021,1.0,8.5
+5108501,Vera,2022,3.0,23.4
+5108600,Vila Rica,2018,6.0,23.5
+5108600,Vila Rica,2019,4.0,15.4
+5108600,Vila Rica,2020,8.0,30.2
+5108600,Vila Rica,2021,4.0,14.8
+5108600,Vila Rica,2022,1.0,5.0
+5108808,Nova Guarita,2018,0.0,0.0
+5108808,Nova Guarita,2019,0.0,0.0
+5108808,Nova Guarita,2020,0.0,0.0
+5108808,Nova Guarita,2021,2.0,45.4
+5108808,Nova Guarita,2022,0.0,0.0
+5108857,Nova Marilândia,2018,3.0,92.3
+5108857,Nova Marilândia,2019,1.0,30.5
+5108857,Nova Marilândia,2020,1.0,30.3
+5108857,Nova Marilândia,2021,1.0,30.0
+5108857,Nova Marilândia,2022,1.0,28.3
+5108907,Nova Maringá,2018,0.0,0.0
+5108907,Nova Maringá,2019,0.0,0.0
+5108907,Nova Maringá,2020,0.0,0.0
+5108907,Nova Maringá,2021,8.0,88.3
+5108907,Nova Maringá,2022,4.0,68.4
+5108956,Nova Monte Verde,2018,8.0,88.1
+5108956,Nova Monte Verde,2019,4.0,43.6
+5108956,Nova Monte Verde,2020,2.0,21.6
+5108956,Nova Monte Verde,2021,0.0,0.0
+5108956,Nova Monte Verde,2022,6.0,72.2

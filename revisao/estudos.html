@@ -43,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-3bb7ad87728f0932f71ec9dd68f092d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cc1283c7f233e98ae10772c1a3d9a3de.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -339,6 +339,36 @@ ul.task-list li input[type="checkbox"] {
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
   });
+})();
+</script>
+<div id="dica-grafico" role="tooltip" aria-hidden="true"></div>
+<script>
+// Dica imediata para elementos com data-tip (pontos, barras e linhas dos gráficos SVG; selos).
+(function () {
+  var dica = document.getElementById("dica-grafico");
+  function mostrar(el, x, y) {
+    dica.textContent = el.getAttribute("data-tip");
+    dica.style.display = "block";
+    var w = dica.offsetWidth, h = dica.offsetHeight;
+    var left = Math.min(x + 12, window.innerWidth - w - 8), top = y - h - 12;
+    if (top < 4) top = y + 16;
+    dica.style.left = left + "px"; dica.style.top = top + "px";
+  }
+  function esconder() { dica.style.display = "none"; }
+  document.addEventListener("mouseover", function (e) {
+    var el = e.target.closest && e.target.closest("[data-tip]"); if (el) mostrar(el, e.clientX, e.clientY);
+  });
+  document.addEventListener("mousemove", function (e) {
+    var el = e.target.closest && e.target.closest("[data-tip]"); if (el && dica.style.display === "block") mostrar(el, e.clientX, e.clientY);
+  });
+  document.addEventListener("mouseout", function (e) {
+    if (e.target.closest && e.target.closest("[data-tip]")) esconder();
+  });
+  document.addEventListener("touchstart", function (e) {
+    var el = e.target.closest && e.target.closest("[data-tip]"); var t = e.touches[0];
+    if (el) mostrar(el, t.clientX, t.clientY); else esconder();
+  }, { passive: true });
+  window.addEventListener("scroll", esconder, { passive: true });
 })();
 </script>
 <script id="quarto-html-after-body" type="application/javascript">

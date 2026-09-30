@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,2.06
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,2.84
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,1.52
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,1.58
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,3.16
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,1.29
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,0.67
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,1.29
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,6.19
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,2.34
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,4.22
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,3.37
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,11
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,9.13
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,6.12
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,5.79
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,9.59
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,5.29
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,5.74
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,8.32
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,15.72
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,9.24
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,9.89
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,11.21
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,15.18
+5106109,Nossa Senhora do Livramento,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,15.35
 5106109,Nossa Senhora do Livramento,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,18197457.22
 5106109,Nossa Senhora do Livramento,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,21351959.9
 5106109,Nossa Senhora do Livramento,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,28383979.85
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,2524
 5106109,Nossa Senhora do Livramento,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,2778
 5106109,Nossa Senhora do Livramento,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,2839
+5106109,Nossa Senhora do Livramento,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,966
+5106109,Nossa Senhora do Livramento,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,82.9
 5106109,Nossa Senhora do Livramento,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,6.14
 5106109,Nossa Senhora do Livramento,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,6.94
 5106109,Nossa Senhora do Livramento,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,6.42
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D1,sh_ind_va,Participação da indústria no VAB,%,2019,23.56
 5106109,Nossa Senhora do Livramento,D1,sh_ind_va,Participação da indústria no VAB,%,2020,33.89
 5106109,Nossa Senhora do Livramento,D1,sh_ind_va,Participação da indústria no VAB,%,2021,30.65
+5106109,Nossa Senhora do Livramento,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,44.8
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,17.29
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,17.94
 5106109,Nossa Senhora do Livramento,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,18.64
@@ -324,6 +353,33 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,238142.65
 5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,166603
 5106109,Nossa Senhora do Livramento,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
+5106109,Nossa Senhora do Livramento,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,0
+5106109,Nossa Senhora do Livramento,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,0
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,2
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2018,1
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2019,1
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,2
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,2
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,4
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,5
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,4
+5106109,Nossa Senhora do Livramento,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,8
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,368
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,57
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,50
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,150
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,100
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,170
+5106109,Nossa Senhora do Livramento,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,210
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,29.48
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2018,0
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2019,0
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,4.35
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,3.82
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,11.59
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,7.73
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,14.58
+5106109,Nossa Senhora do Livramento,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,18.01
 5106109,Nossa Senhora do Livramento,D2,n_destinos_exp,Países de destino das exportações,países,2001,0
 5106109,Nossa Senhora do Livramento,D2,n_destinos_exp,Países de destino das exportações,países,2002,0
 5106109,Nossa Senhora do Livramento,D2,n_destinos_exp,Países de destino das exportações,países,2004,0
@@ -396,6 +452,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,16553126
 5106109,Nossa Senhora do Livramento,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,27567529
 5106109,Nossa Senhora do Livramento,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,3378336
+5106109,Nossa Senhora do Livramento,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,0
+5106109,Nossa Senhora do Livramento,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,0
 5106109,Nossa Senhora do Livramento,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.03
 5106109,Nossa Senhora do Livramento,D3,gini,Índice de Gini,índice 0–1,1991,0.56
 5106109,Nossa Senhora do Livramento,D3,gini,Índice de Gini,índice 0–1,2000,0.59
@@ -467,6 +525,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D3,populacao,População,habitantes,2023,12940
 5106109,Nossa Senhora do Livramento,D3,populacao,População,habitantes,2024,11658
 5106109,Nossa Senhora do Livramento,D3,populacao,População,habitantes,2025,11658
+5106109,Nossa Senhora do Livramento,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,4.4
+5106109,Nossa Senhora do Livramento,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,22.7
+5106109,Nossa Senhora do Livramento,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,37.8
+5106109,Nossa Senhora do Livramento,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,22.9
+5106109,Nossa Senhora do Livramento,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,45.8
+5106109,Nossa Senhora do Livramento,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,30.9
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,57.7
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,64.8
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,72.1
@@ -490,6 +554,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,99.2
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,122.2
 5106109,Nossa Senhora do Livramento,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,69.6
+5106109,Nossa Senhora do Livramento,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,45.9
 5106109,Nossa Senhora do Livramento,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,87.52
 5106109,Nossa Senhora do Livramento,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,74.43
 5106109,Nossa Senhora do Livramento,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,53.55
@@ -644,7 +709,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D4,taxa_antropizacao,Taxa de antropização,%,2019,30.13
 5106109,Nossa Senhora do Livramento,D4,taxa_antropizacao,Taxa de antropização,%,2020,31.1
 5106109,Nossa Senhora do Livramento,D4,taxa_antropizacao,Taxa de antropização,%,2021,35.3
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2021,0
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2022,0
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2023,0
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2024,0
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2025,0
+5106109,Nossa Senhora do Livramento,D5,agencias_bancarias,Agências bancárias,agências,2026,0
+5106109,Nossa Senhora do Livramento,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,34
+5106109,Nossa Senhora do Livramento,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,32.51
+5106109,Nossa Senhora do Livramento,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,32.14
+5106109,Nossa Senhora do Livramento,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,38.73
+5106109,Nossa Senhora do Livramento,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,8.41
 5106109,Nossa Senhora do Livramento,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,2836.5
+5106109,Nossa Senhora do Livramento,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,42.82
+5106109,Nossa Senhora do Livramento,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,44.86
+5106109,Nossa Senhora do Livramento,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,45.28
+5106109,Nossa Senhora do Livramento,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,44.05
 5106109,Nossa Senhora do Livramento,D5,idx_atend_agua_total,População atendida com água,%,2001,31.4
 5106109,Nossa Senhora do Livramento,D5,idx_atend_agua_total,População atendida com água,%,2002,31.1
 5106109,Nossa Senhora do Livramento,D5,idx_atend_agua_total,População atendida com água,%,2003,40.2

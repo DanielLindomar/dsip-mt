@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,4.49
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,4.98
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,4.19
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,4.07
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,5.82
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,4.58
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,4.17
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,5.36
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,7.2
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,5.21
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,10.77
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,11.06
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,13.26
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,11.21
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,11.55
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,11.14
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,12.45
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,14.55
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,14.56
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,18.42
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,22.59
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,24.25
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,24.63
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,25.45
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,30.63
+5107602,Rondonópolis,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,29.95
 5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,171423202.88
 5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,125807700.22
 5107602,Rondonópolis,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,137119446.75
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,75909
 5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,80131
 5107602,Rondonópolis,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,82956
+5107602,Rondonópolis,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,39814
+5107602,Rondonópolis,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,151
 5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,26.33
 5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,27.53
 5107602,Rondonópolis,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,28.87
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2019,28.53
 5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2020,33.03
 5107602,Rondonópolis,D1,sh_ind_va,Participação da indústria no VAB,%,2021,28.59
+5107602,Rondonópolis,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,47.1
 5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,50.92
 5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,51.68
 5107602,Rondonópolis,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,44.81
@@ -324,6 +353,32 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,2138816.61
 5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,1799125.01
 5107602,Rondonópolis,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,15961.4512027377
+5107602,Rondonópolis,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,459
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,47
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2018,11
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2019,14
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,96
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,94
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,91
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,60
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,88
+5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,89
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,2894
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,1484
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,1299
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,3614
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,1010
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,3146
+5107602,Rondonópolis,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,5748
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,13.02
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2018,0
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2019,0
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,6.29
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,5.42
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,14.76
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,4.12
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,12.14
+5107602,Rondonópolis,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,21.8
 5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2000,26
 5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2001,36
 5107602,Rondonópolis,D2,n_destinos_exp,Países de destino das exportações,países,2002,33
@@ -420,6 +475,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2022,2971665812
 5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,3002536503
 5107602,Rondonópolis,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,2975952437
+5107602,Rondonópolis,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,165958
 5107602,Rondonópolis,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,2.02
 5107602,Rondonópolis,D3,gini,Índice de Gini,índice 0–1,1991,0.58
 5107602,Rondonópolis,D3,gini,Índice de Gini,índice 0–1,2000,0.58
@@ -491,6 +547,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D3,populacao,População,habitantes,2023,244911
 5107602,Rondonópolis,D3,populacao,População,habitantes,2024,259167
 5107602,Rondonópolis,D3,populacao,População,habitantes,2025,263708
+5107602,Rondonópolis,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,2.2
+5107602,Rondonópolis,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,19.7
+5107602,Rondonópolis,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,17.2
+5107602,Rondonópolis,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,15.7
+5107602,Rondonópolis,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,16.7
+5107602,Rondonópolis,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,26.9
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,96.5
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,107
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,107.2
@@ -514,6 +576,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,86
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,77.6
 5107602,Rondonópolis,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,93.1
+5107602,Rondonópolis,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,63.5
 5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,55.39
 5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,42.72
 5107602,Rondonópolis,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,18.98
@@ -668,7 +731,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2019,74.99
 5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2020,75.09
 5107602,Rondonópolis,D4,taxa_antropizacao,Taxa de antropização,%,2021,75.76
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2021,28
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2022,28
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2023,28
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2024,28
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2025,24
+5107602,Rondonópolis,D5,agencias_bancarias,Agências bancárias,agências,2026,11
+5107602,Rondonópolis,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,97.39
+5107602,Rondonópolis,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,97.48
+5107602,Rondonópolis,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,97.46
+5107602,Rondonópolis,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,97.38
+5107602,Rondonópolis,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,28.37
 5107602,Rondonópolis,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,3903.5
+5107602,Rondonópolis,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,67.31
+5107602,Rondonópolis,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,70.01
+5107602,Rondonópolis,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,68.46
+5107602,Rondonópolis,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,67.71
 5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2001,97.9
 5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2002,96.3
 5107602,Rondonópolis,D5,idx_atend_agua_total,População atendida com água,%,2003,94.7

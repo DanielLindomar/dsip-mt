@@ -1,4 +1,30 @@
 id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2000,2.16
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2001,2.05
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2002,2.2
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2003,4.84
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2004,8.39
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2005,1.33
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2006,2.02
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2007,2.62
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2008,10.19
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2009,2.55
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2010,6.91
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2011,10.37
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2012,15.17
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2013,8.18
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2014,7.25
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2015,9.72
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2016,14.13
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2017,9.57
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2018,8.87
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2019,8.29
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2020,15.75
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2021,9.44
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2022,13.24
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2023,12.2
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2024,17.81
+5105200,Juscimeira,D1,aberturas_por_1000_hab,Empresas abertas no ano por mil habitantes,por 1.000 hab.,2025,15.75
 5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2013,44162802.13
 5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2014,41188161.78
 5105200,Juscimeira,D1,credito_real_brl,Crédito rural com recursos públicos,R$ de 2024,2015,46672232.07
@@ -36,6 +62,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2022,1742
 5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2023,1880
 5105200,Juscimeira,D1,empregos_formais,Empregos formais,vínculos em 31/12,2024,2011
+5105200,Juscimeira,D1,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,2026,1054
+5105200,Juscimeira,D1,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,2026,90.7
 5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2006,14.9
 5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2007,14.45
 5105200,Juscimeira,D1,empresas_por_1000_hab,Empresas por mil habitantes,empresas por 1.000 hab.,2008,18.57
@@ -280,6 +308,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2019,21.32
 5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2020,18.62
 5105200,Juscimeira,D1,sh_ind_va,Participação da indústria no VAB,%,2021,17.85
+5105200,Juscimeira,D1,sh_mei_pct,MEI no total de empresas ativas,%,2026,43.2
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2002,29.21
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2003,26.36
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2004,23.74
@@ -324,6 +353,33 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,769359.05
 5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,767843
 5105200,Juscimeira,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,21.3429581219181
+5105200,Juscimeira,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,38
+5105200,Juscimeira,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,28
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,4
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2018,1
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2019,2
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,11
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2021,8
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2022,11
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2023,8
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2024,8
+5105200,Juscimeira,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2025,6
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2017,211
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2020,381
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2021,88
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2022,160
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2023,64
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2024,192
+5105200,Juscimeira,D2,leitos_hospedagem,Leitos em meios de hospedagem (CadasTur),leitos,2025,972
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2017,19.23
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2018,0
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2019,0
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2020,34.09
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2021,7.91
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2022,13.94
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2023,5.57
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2024,16.52
+5105200,Juscimeira,D2,leitos_por_1000_hab,Leitos de hospedagem por mil habitantes,por 1.000 hab.,2025,83.63
 5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2005,2
 5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2006,2
 5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2007,1
@@ -380,6 +436,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2007,6376
 5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2023,1316
 5105200,Juscimeira,D2,valor_exp_fob_usd,Exportações,US$ correntes (FOB),2024,0
+5105200,Juscimeira,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2017,284
+5105200,Juscimeira,D2,visitas_nacionais_est,Visitas domésticas estimadas (Mapa do Turismo),visitas,2019,284
 5105200,Juscimeira,D3,cagr_pop_2010_2025,Crescimento populacional 2010–2025,% ao ano,2025,0.11
 5105200,Juscimeira,D3,gini,Índice de Gini,índice 0–1,1991,0.61
 5105200,Juscimeira,D3,gini,Índice de Gini,índice 0–1,2000,0.6
@@ -450,6 +508,12 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D3,populacao,População,habitantes,2023,11480
 5105200,Juscimeira,D3,populacao,População,habitantes,2024,11620
 5105200,Juscimeira,D3,populacao,População,habitantes,2025,11622
+5105200,Juscimeira,D3,taxa_desocupacao_pct,Taxa de desocupação (Censo 2022),% da força de trabalho,2022,5.1
+5105200,Juscimeira,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2018,8.9
+5105200,Juscimeira,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2019,44.6
+5105200,Juscimeira,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2020,26.8
+5105200,Juscimeira,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2021,9
+5105200,Juscimeira,D3,taxa_homicidios_100k,Homicídios por 100 mil habitantes,por 100 mil hab.,2022,8.7
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2000,116.1
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2001,57.4
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2002,73.2
@@ -473,6 +537,7 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2020,98.4
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2021,116.9
 5105200,Juscimeira,D3,taxa_mort_ext_100k,Óbitos por causas externas,por 100 mil hab.,2022,78.4
+5105200,Juscimeira,D3,taxa_participacao_pct,Taxa de participação na força de trabalho (Censo 2022),%,2022,46.4
 5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,1991,64.03
 5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,2000,60.62
 5105200,Juscimeira,D3,taxa_pobreza_pct,População em situação de pobreza,%,2010,28.28
@@ -627,7 +692,22 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2019,64.61
 5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2020,64.87
 5105200,Juscimeira,D4,taxa_antropizacao,Taxa de antropização,%,2021,65.93
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2021,2
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2022,2
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2023,2
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2024,2
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2025,2
+5105200,Juscimeira,D5,agencias_bancarias,Agências bancárias,agências,2026,1
+5105200,Juscimeira,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2021,81.34
+5105200,Juscimeira,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2022,77.83
+5105200,Juscimeira,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2023,84.58
+5105200,Juscimeira,D5,cobertura_4g5g_pct,População coberta por 4G ou 5G,%,2024,83.25
+5105200,Juscimeira,D5,cobertura_area_agricultavel,Área agricultável coberta por sinal móvel,%,2024,24.54
 5105200,Juscimeira,D5,consumo_per_capita_kwh,Consumo de energia por habitante,kWh por hab./ano,2023,1750
+5105200,Juscimeira,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2021,57.3
+5105200,Juscimeira,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2022,58.59
+5105200,Juscimeira,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2023,61.3
+5105200,Juscimeira,D5,ibc,Índice Brasileiro de Conectividade (IBC),índice 0–100,2024,59.09
 5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2004,81.5
 5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2005,80.7
 5105200,Juscimeira,D5,idx_atend_agua_total,População atendida com água,%,2006,80.7
