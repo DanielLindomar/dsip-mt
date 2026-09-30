@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-80a278967cad7ef99af148dcefe9ab34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3bb7ad87728f0932f71ec9dd68f092d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../site_libs/core-js-2.5.3/shim.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react-dom.min.js"></script>
+
+<script src="../site_libs/reactwidget-2.0.0/react-tools.js"></script>
+
+<link href="../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<link href="../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
+
+<script src="../site_libs/reactable-binding-0.4.5/reactable.js"></script>
+
 
 
 </head>
@@ -103,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../municipios/index.html"> 
 <span class="menu-text">Municípios</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../indicadores/index.html"> 
+<span class="menu-text">Indicadores</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-dimensões" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -183,12 +203,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#principais-resultados" id="toc-principais-resultados" class="nav-link active" data-scroll-target="#principais-resultados">Principais resultados</a></li>
+  <li><a href="#indicadores-da-dimensão-no-pantanal-norte" id="toc-indicadores-da-dimensão-no-pantanal-norte" class="nav-link" data-scroll-target="#indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</a></li>
   <li><a href="#documentos" id="toc-documentos" class="nav-link" data-scroll-target="#documentos">Documentos</a></li>
   <li><a href="#figuras-do-relatório" id="toc-figuras-do-relatório" class="nav-link" data-scroll-target="#figuras-do-relatório">Figuras do relatório</a></li>
   <li><a href="#ressalvas-metodológicas" id="toc-ressalvas-metodológicas" class="nav-link" data-scroll-target="#ressalvas-metodológicas">Ressalvas metodológicas</a></li>
   <li><a href="#dados-desta-dimensão" id="toc-dados-desta-dimensão" class="nav-link" data-scroll-target="#dados-desta-dimensão">Dados desta dimensão</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul class="collapse"><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -220,6 +241,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Em 2023, os 13 municípios geraram um Produto Interno Bruto (PIB) real de R$ 27,2 bilhões a preços de 2024, o equivalente a 9,6% do total estadual. O PIB <em>per capita</em> do recorte (R$ 57.404) corresponde a 74% da média de Mato Grosso, gargalo de competitividade que motiva o diagnóstico. A heterogeneidade interna é acentuada: Rondonópolis responde, sozinho, por 63,3% do PIB regional, e a razão entre o maior e o menor PIB municipal alcança 144 vezes. O mercado de trabalho formal registrou 128.538 vínculos em 2024 (10,6% do estado), com remuneração média real (R$ 3.183) equivalente a 91% da média estadual. As exportações somaram USD 3,29 bilhões em 2024 (13,4% das exportações estaduais), pauta concentrada em <em>commodities</em> agropecuárias e originada, em 90,4%, em Rondonópolis. A estrutura empresarial, com 13.554 empresas formais em 2021 (11,4% do estado), é dominada por micro e pequenas empresas, com limitada capacidade de geração de emprego qualificado.</p>
 <p>Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).</p>
 </section>
+<section id="indicadores-da-dimensão-no-pantanal-norte" class="level2">
+<h2 class="anchored" data-anchor-id="indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</h2>
+<p>Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-6dc097ed051e6e1f9b63" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-6dc097ed051e6e1f9b63">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Indicador":["<a href=\"../indicadores/pib_real.html\">PIB real<\/a><div class=\"sub\">R$ mil de 2024<\/div>","<a href=\"../indicadores/pib_real_pc.html\">PIB per capita real<\/a><div class=\"sub\">R$ de 2024 por habitante<\/div>","<a href=\"../indicadores/pib_pc_rel_mt.html\">PIB per capita em relação a MT<\/a><div class=\"sub\">índice (100 = média de MT)<\/div>","<a href=\"../indicadores/sh_agro_va.html\">Participação da agropecuária no VAB<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/sh_ind_va.html\">Participação da indústria no VAB<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/sh_serv_va.html\">Participação dos serviços no VAB<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/sh_adespss_va.html\">Participação da administração pública no VAB<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/empregos_formais.html\">Empregos formais<\/a><div class=\"sub\">vínculos em 31/12<\/div>","<a href=\"../indicadores/remun_real_media.html\">Remuneração média real<\/a><div class=\"sub\">R$ de 2024 por mês<\/div>","<a href=\"../indicadores/perc_superior.html\">Empregados formais com ensino superior<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/saldo_anual.html\">Saldo de empregos formais (CAGED)<\/a><div class=\"sub\">vagas no ano<\/div>","<a href=\"../indicadores/vbp_real_brl.html\">Valor bruto da produção agropecuária<\/a><div class=\"sub\">R$ mil de 2024<\/div>","<a href=\"../indicadores/rebanho_bovino.html\">Rebanho bovino<\/a><div class=\"sub\">cabeças<\/div>","<a href=\"../indicadores/credito_real_brl.html\">Crédito rural com recursos públicos<\/a><div class=\"sub\">R$ de 2024<\/div>","<a href=\"../indicadores/numero_empresas.html\">Empresas formais<\/a><div class=\"sub\">empresas<\/div>","<a href=\"../indicadores/empresas_por_1000_hab.html\">Empresas por mil habitantes<\/a><div class=\"sub\">empresas por 1.000 hab.<\/div>"],"Ano":["2023","2023","2023","2021","2021","2021","2021","2024","2024","2024","2025","2024","2024","2024","2021","2021"],"Mediana PN-13":["R$ 577,7 mi","R$ 41,3 mil","53,1","38,2%","15,5%","17,5%","25,6%","2.839","R$ 3.107","21,3%","62","R$ 226,0 mi","233.803","R$ 30,3 mi","192","16,4"],"Mediana MT":["R$ 867,1 mi","R$ 61,8 mil","79,5","49,5%","7,2%","17,3%","15,4%","2.225","R$ 3.164","18,2%","95","R$ 767,8 mi","149.344","R$ 52,4 mi","240","21,9"],"Maior":["R$ 17,2 bi<div class='sub'>Rondonópolis<\/div>","R$ 174,3 mil<div class='sub'>Itiquira<\/div>","224,4<div class='sub'>Itiquira<\/div>","65,1%<div class='sub'>Santo Antônio do Leverger<\/div>","30,6%<div class='sub'>Nossa Senhora do Livramento<\/div>","55,7%<div class='sub'>Rondonópolis<\/div>","46,0%<div class='sub'>Barão de Melgaço<\/div>","82.956<div class='sub'>Rondonópolis<\/div>","R$ 4.000<div class='sub'>Cáceres<\/div>","34,4%<div class='sub'>Cáceres<\/div>","2.826<div class='sub'>Rondonópolis<\/div>","R$ 4,3 bi<div class='sub'>Itiquira<\/div>","1.365.224<div class='sub'>Cáceres<\/div>","R$ 196,2 mi<div class='sub'>Cáceres<\/div>","8.833<div class='sub'>Rondonópolis<\/div>","36,9<div class='sub'>Rondonópolis<\/div>"],"Menor":["R$ 119,9 mi<div class='sub'>Glória D'Oeste<\/div>","R$ 20,6 mil<div class='sub'>Barão de Melgaço<\/div>","26,5<div class='sub'>Barão de Melgaço<\/div>","4,0%<div class='sub'>Rondonópolis<\/div>","2,6%<div class='sub'>Barão de Melgaço<\/div>","11,2%<div class='sub'>Lambari D'Oeste<\/div>","5,9%<div class='sub'>Itiquira<\/div>","415<div class='sub'>Glória D'Oeste<\/div>","R$ 2.289<div class='sub'>Santo Antônio do Leverger<\/div>","13,7%<div class='sub'>Lambari D'Oeste<\/div>","-13<div class='sub'>Glória D'Oeste<\/div>","R$ 10,5 mi<div class='sub'>Barão de Melgaço<\/div>","63.435<div class='sub'>Curvelândia<\/div>","R$ 1,9 mi<div class='sub'>Barão de Melgaço<\/div>","58<div class='sub'>Glória D'Oeste<\/div>","9,1<div class='sub'>Barão de Melgaço<\/div>"]},"columns":[{"id":"Indicador","name":"Indicador","type":"character","html":true,"minWidth":220},{"id":"Ano","name":"Ano","type":"character","minWidth":60,"align":"center"},{"id":"Mediana PN-13","name":"Mediana PN-13","type":"character","align":"right"},{"id":"Mediana MT","name":"Mediana MT","type":"character","align":"right"},{"id":"Maior","name":"Maior no PN-13","type":"character","html":true,"align":"right"},{"id":"Menor","name":"Menor no PN-13","type":"character","html":true,"align":"right"}],"sortable":false,"pagination":false,"compact":true,"language":{"sortLabel":"Ordenar por {name}","filterPlaceholder":"Filtrar","filterLabel":"Filtrar {name}","searchPlaceholder":"Buscar","searchLabel":"Buscar na tabela","noData":"Nenhum registro encontrado","pageNext":"Próxima","pagePrevious":"Anterior","pageNumbers":"{page} de {pages}","pageInfo":"{rowStart}–{rowEnd} de {rows} linhas","pageSizeOptions":"Mostrar {rows}","pageNextLabel":"Próxima página","pagePreviousLabel":"Página anterior","pageNumberLabel":"Página {page}","pageJumpLabel":"Ir para a página","pageSizeOptionsLabel":"Linhas por página","groupExpandLabel":"Expandir grupo","detailsExpandLabel":"Mostrar detalhes","selectAllRowsLabel":"Selecionar todas as linhas","selectAllSubRowsLabel":"Selecionar todas as linhas do grupo","selectRowLabel":"Selecionar linha","defaultGroupHeader":"Grupo","detailsCollapseLabel":"Ocultar detalhes","deselectAllRowsLabel":"Desmarcar todas as linhas","deselectAllSubRowsLabel":"Desmarcar linhas do grupo","deselectRowLabel":"Desmarcar linha"},"dataKey":"3e3a7630c881b919995eae5791ed97ac"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
 <section id="documentos" class="level2">
 <h2 class="anchored" data-anchor-id="documentos">Documentos</h2>
 <ul>
@@ -231,31 +262,31 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="figuras-do-relatório">Figuras do relatório</h2>
 <p>Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.</p>
 <div class="galeria">
-<figure class="figure"><a href="figuras/D1/fig-01.png"><img src="figuras/D1/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-02.png"><img src="figuras/D1/fig-02.png" alt="Figura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-03.png"><img src="figuras/D1/fig-03.png" alt="Figura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-04.png"><img src="figuras/D1/fig-04.png" alt="Figura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-05.png"><img src="figuras/D1/fig-05.png" alt="Figura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-06.png"><img src="figuras/D1/fig-06.png" alt="Figura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-07.png"><img src="figuras/D1/fig-07.png" alt="Figura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-08.png"><img src="figuras/D1/fig-08.png" alt="Figura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-09.png"><img src="figuras/D1/fig-09.png" alt="Figura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-10.png"><img src="figuras/D1/fig-10.png" alt="Figura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-11.png"><img src="figuras/D1/fig-11.png" alt="Figura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-12.png"><img src="figuras/D1/fig-12.png" alt="Figura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-13.png"><img src="figuras/D1/fig-13.png" alt="Figura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-14.png"><img src="figuras/D1/fig-14.png" alt="Figura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-15.png"><img src="figuras/D1/fig-15.png" alt="Figura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-16.png"><img src="figuras/D1/fig-16.png" alt="Figura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-17.png"><img src="figuras/D1/fig-17.png" alt="Figura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-18.png"><img src="figuras/D1/fig-18.png" alt="Figura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-19.png"><img src="figuras/D1/fig-19.png" alt="Figura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-20.png"><img src="figuras/D1/fig-20.png" alt="Figura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-21.png"><img src="figuras/D1/fig-21.png" alt="Figura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-22.png"><img src="figuras/D1/fig-22.png" alt="Figura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-23.png"><img src="figuras/D1/fig-23.png" alt="Figura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-24.png"><img src="figuras/D1/fig-24.png" alt="Figura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021</figcaption></figure>
-<figure class="figure"><a href="figuras/D1/fig-25.png"><img src="figuras/D1/fig-25.png" alt="Figura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" href="figuras/D1/fig-01.png"><img src="figuras/D1/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)" href="figuras/D1/fig-02.png"><img src="figuras/D1/fig-02.png" alt="Figura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: PIB per capita real - Pantanal Norte, 2023 (R$/habitante, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)" href="figuras/D1/fig-03.png"><img src="figuras/D1/fig-03.png" alt="Figura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Evolução do PIB real - Pantanal Norte, com e sem Rondonópolis (2002 a 2023, R$ bilhões, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)" href="figuras/D1/fig-04.png"><img src="figuras/D1/fig-04.png" alt="Figura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: PIB per capita real por município - Pantanal Norte, 2023 (R$, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)" href="figuras/D1/fig-05.png"><img src="figuras/D1/fig-05.png" alt="Figura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.3: Participação setorial no VAB - Pantanal Norte, Polo Metropolitano e Mato Grosso (2021, %)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021" href="figuras/D1/fig-06.png"><img src="figuras/D1/fig-06.png" alt="Figura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.4: Heatmap do Quociente Locacional por setor - Pantanal Norte, 2021</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)" href="figuras/D1/fig-07.png"><img src="figuras/D1/fig-07.png" alt="Figura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.5: Diversificação do VAB e Produtividade do trabalho - Pantanal Norte (2023)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)" href="figuras/D1/fig-08.png"><img src="figuras/D1/fig-08.png" alt="Figura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Evolução do emprego formal - Pantanal Norte, com e sem Rondonópolis (2000 a 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)" href="figuras/D1/fig-09.png"><img src="figuras/D1/fig-09.png" alt="Figura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.2: Evolução da remuneração média real - Pantanal Norte, Polo Metropolitano e Mato Grosso (2000 a 2024, R$, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)" href="figuras/D1/fig-10.png"><img src="figuras/D1/fig-10.png" alt="Figura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.3: Qualificação da força de trabalho - Pantanal Norte, Polo Metropolitano e Mato Grosso (2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)" href="figuras/D1/fig-11.png"><img src="figuras/D1/fig-11.png" alt="Figura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.4: Saldo líquido de empregos formais - Pantanal Norte (2010 a 2025, CAGED)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)" href="figuras/D1/fig-12.png"><img src="figuras/D1/fig-12.png" alt="Figura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.5: Saldo CAGED por setor - Pantanal Norte, com e sem Rondonópolis (2021 a 2025)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)" href="figuras/D1/fig-13.png"><img src="figuras/D1/fig-13.png" alt="Figura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.6: Taxa de rotatividade por município - Pantanal Norte (2024, %)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)" href="figuras/D1/fig-14.png"><img src="figuras/D1/fig-14.png" alt="Figura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Valor Bruto da Produção Agropecuária - Pantanal Norte (2010 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)" href="figuras/D1/fig-15.png"><img src="figuras/D1/fig-15.png" alt="Figura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.2: Ranking do VBP agropecuário real por município - Pantanal Norte, 2024 (R$ milhões, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)" href="figuras/D1/fig-16.png"><img src="figuras/D1/fig-16.png" alt="Figura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.3: Composição do VBP agropecuário - Pantanal Norte, 2024 (participação %)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)" href="figuras/D1/fig-17.png"><img src="figuras/D1/fig-17.png" alt="Figura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Exportações - Pantanal Norte e Mato Grosso (2000 a 2024, USD bilhões, nominal)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)" href="figuras/D1/fig-18.png"><img src="figuras/D1/fig-18.png" alt="Figura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.2: Ranking de exportações por município - Pantanal Norte, 2024 (USD milhões, FOB)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)" href="figuras/D1/fig-19.png"><img src="figuras/D1/fig-19.png" alt="Figura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.3: Balança comercial - Pantanal Norte (2000 a 2024, USD bilhões, nominal)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)" href="figuras/D1/fig-20.png"><img src="figuras/D1/fig-20.png" alt="Figura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.4: Composição da pauta exportadora - Pantanal Norte, 2024 (participação %)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)" href="figuras/D1/fig-21.png"><img src="figuras/D1/fig-21.png" alt="Figura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Crédito rural com recursos públicos contratado - Pantanal Norte (2013 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)" href="figuras/D1/fig-22.png"><img src="figuras/D1/fig-22.png" alt="Figura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.2: Crédito rural/VAB agropecuário por município - Pantanal Norte, 2024 (%)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)" href="figuras/D1/fig-23.png"><img src="figuras/D1/fig-23.png" alt="Figura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.3: Crédito bancário total e depósitos - Pantanal Norte (2000 a 2024, R$ bilhões, preços 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021" href="figuras/D1/fig-24.png"><img src="figuras/D1/fig-24.png" alt="Figura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 8.1: Densidade empresarial e porte médio - Pantanal Norte, 2021</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d1" data-description="Figura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" href="figuras/D1/fig-25.png"><img src="figuras/D1/fig-25.png" alt="Figura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 9.1: Indicadores padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
 </div>
 </section>
 <section id="ressalvas-metodológicas" class="level2">
@@ -292,6 +323,58 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a></main> <!-- /main -->
+<script>
+// Siglas explicadas ao passar o cursor (ou tocar, no celular). Aplica-se a parágrafos, listas e legendas.
+(function () {
+  var G = {
+    "PN-13": "Pantanal Norte: os 13 municípios do recorte do convênio SUDECO–UNEMAT",
+    "VAB": "Valor Adicionado Bruto: riqueza gerada pelos setores, sem os impostos",
+    "PIB": "Produto Interno Bruto",
+    "SICOR": "Sistema de Operações do Crédito Rural (Banco Central); cobre o crédito com recursos públicos",
+    "IFDM": "Índice FIRJAN de Desenvolvimento Municipal (0 a 1)",
+    "CAGED": "Cadastro Geral de Empregados e Desempregados (admissões e desligamentos)",
+    "RAIS": "Relação Anual de Informações Sociais (empregos formais em 31/12)",
+    "PRODES": "Monitoramento do desmatamento por satélite (INPE)",
+    "SNIS": "Sistema Nacional de Informações sobre Saneamento (adesão voluntária)",
+    "FPM": "Fundo de Participação dos Municípios",
+    "CAR": "Cadastro Ambiental Rural",
+    "IDEB": "Índice de Desenvolvimento da Educação Básica (0 a 10)",
+    "IDHM": "Índice de Desenvolvimento Humano Municipal (0 a 1)",
+    "FOFA": "Forças, Oportunidades, Fraquezas e Ameaças (matriz SWOT)",
+    "BPC": "Benefício de Prestação Continuada",
+    "CEMPRE": "Cadastro Central de Empresas (IBGE)",
+    "FOB": "Valor da mercadoria sem frete e seguro",
+    "Siconfi": "Sistema de Informações Contábeis e Fiscais do Setor Público (Tesouro Nacional)",
+    "PRISMA": "Protocolo de registro das etapas de busca e seleção de estudos",
+    "UC": "Unidade de Conservação",
+    "TI": "Terra Indígena",
+    "ZPE": "Zona de Processamento de Exportação"
+  };
+  var chaves = Object.keys(G).sort(function (a, b) { return b.length - a.length; });
+  var re = new RegExp("(^|[^\\wÀ-ú-])(" + chaves.map(function (k) { return k.replace(/[-]/g, "\\-"); }).join("|") + ")(?![\\wÀ-ú-])");
+  function marcar(el) {
+    var usados = {};
+    var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        var p = n.parentNode;
+        while (p && p !== el) { if (/^(A|ABBR|CODE|SCRIPT|STYLE|SVG|BUTTON|SELECT|OPTION)$/i.test(p.nodeName)) return NodeFilter.FILTER_REJECT; p = p.parentNode; }
+        return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    var nos = []; while (w.nextNode()) nos.push(w.currentNode);
+    nos.forEach(function (n) {
+      var m = n.nodeValue.match(re); if (!m || usados[m[2]]) return;
+      usados[m[2]] = true;
+      var i = m.index + m[1].length, depois = n.splitText(i); depois.splitText(m[2].length);
+      var ab = document.createElement("abbr"); ab.title = G[m[2]]; ab.tabIndex = 0; ab.textContent = m[2];
+      depois.parentNode.replaceChild(ab, depois);
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -701,11 +784,11 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto</p>
+<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link “Criar uma issue” (GitHub) ou escreva à coordenação.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><img src="..\assets/logo-unemat.jpg" height="36" alt="UNEMAT"> <img src="..\assets/brasao-mt.jpg" height="36" alt="Governo de Mato Grosso"> <img src="..\assets/logo-sudeco.png" height="36" alt="SUDECO"></p>
 </div>

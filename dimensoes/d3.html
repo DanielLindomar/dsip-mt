@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-80a278967cad7ef99af148dcefe9ab34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3bb7ad87728f0932f71ec9dd68f092d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../site_libs/core-js-2.5.3/shim.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react-dom.min.js"></script>
+
+<script src="../site_libs/reactwidget-2.0.0/react-tools.js"></script>
+
+<link href="../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<link href="../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
+
+<script src="../site_libs/reactable-binding-0.4.5/reactable.js"></script>
+
 
 
 </head>
@@ -103,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../municipios/index.html"> 
 <span class="menu-text">Municípios</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../indicadores/index.html"> 
+<span class="menu-text">Indicadores</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-dimensões" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -183,12 +203,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#principais-resultados" id="toc-principais-resultados" class="nav-link active" data-scroll-target="#principais-resultados">Principais resultados</a></li>
+  <li><a href="#indicadores-da-dimensão-no-pantanal-norte" id="toc-indicadores-da-dimensão-no-pantanal-norte" class="nav-link" data-scroll-target="#indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</a></li>
   <li><a href="#documentos" id="toc-documentos" class="nav-link" data-scroll-target="#documentos">Documentos</a></li>
   <li><a href="#figuras-do-relatório" id="toc-figuras-do-relatório" class="nav-link" data-scroll-target="#figuras-do-relatório">Figuras do relatório</a></li>
   <li><a href="#ressalvas-metodológicas" id="toc-ressalvas-metodológicas" class="nav-link" data-scroll-target="#ressalvas-metodológicas">Ressalvas metodológicas</a></li>
   <li><a href="#dados-desta-dimensão" id="toc-dados-desta-dimensão" class="nav-link" data-scroll-target="#dados-desta-dimensão">Dados desta dimensão</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul class="collapse"><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -220,6 +241,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Em 2025, o recorte somava 496.756 habitantes (12,8% da população estadual), com crescimento de 1,0% ao ano entre 2010 e 2025, abaixo da média estadual (1,7% ao ano) e com 6 dos 13 municípios em declínio populacional. O Pantanal Norte é a região de maior dependência relativa de transferências de renda do estado: em 2024, a taxa do Programa Bolsa Família era, em média, de 11,27 famílias por 100 habitantes, ante 8,22 em Mato Grosso, e a transferência <em>per capita</em> média (R$ 1.361) situou-se 24% acima da estadual. Na educação, o IDEB de 2023 (5,38 nos anos iniciais e 4,45 nos anos finais) é inferior à média estadual (5,69 e 4,74). Em saúde, a mortalidade por causas externas atingiu, em média, 104 óbitos por 100 mil habitantes em 2022, ante 84 no estado, e o pré-natal adequado alcançou apenas 66% das gestantes, déficit de 9 pontos percentuais frente ao estado. Segundo o Censo 2010, referência mais recente disponível, a taxa de pobreza do recorte (39%) superava a estadual (35%).</p>
 <p>Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).</p>
 </section>
+<section id="indicadores-da-dimensão-no-pantanal-norte" class="level2">
+<h2 class="anchored" data-anchor-id="indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</h2>
+<p>Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-9bf8c247c5e6427bd9c5" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-9bf8c247c5e6427bd9c5">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Indicador":["<a href=\"../indicadores/populacao.html\">População<\/a><div class=\"sub\">habitantes<\/div>","<a href=\"../indicadores/cagr_pop_2010_2025.html\">Crescimento populacional 2010–2025<\/a><div class=\"sub\">% ao ano<\/div>","<a href=\"../indicadores/taxa_urbanizacao.html\">Taxa de urbanização<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/perc_pop_bf.html\">Famílias no Bolsa Família por 100 habitantes<\/a><div class=\"sub\">famílias por 100 hab.<\/div>","<a href=\"../indicadores/transf_pc_real.html\">Transferências BF + BPC por habitante<\/a><div class=\"sub\">R$ de 2024 por habitante<\/div>","<a href=\"../indicadores/ideb_iniciais.html\">IDEB — anos iniciais<\/a><div class=\"sub\">índice 0–10<\/div>","<a href=\"../indicadores/ideb_finais.html\">IDEB — anos finais<\/a><div class=\"sub\">índice 0–10<\/div>","<a href=\"../indicadores/tmi_suavizado.html\">Mortalidade infantil (média de 3 anos)<\/a><div class=\"sub\">por 1.000 nascidos vivos<\/div>","<a href=\"../indicadores/taxa_mort_ext_100k.html\">Óbitos por causas externas<\/a><div class=\"sub\">por 100 mil hab.<\/div>","<a href=\"../indicadores/leitos_sus_per_1000.html\">Leitos SUS por mil habitantes<\/a><div class=\"sub\">por 1.000 hab.<\/div>","<a href=\"../indicadores/idhm.html\">IDHM<\/a><div class=\"sub\">índice 0–1<\/div>","<a href=\"../indicadores/gini.html\">Índice de Gini<\/a><div class=\"sub\">índice 0–1<\/div>","<a href=\"../indicadores/taxa_pobreza_pct.html\">População em situação de pobreza<\/a><div class=\"sub\">%<\/div>"],"Ano":["2025","2025","2022","2024","2024","2023","2023","2022","2022","2023","2010","2010","2010"],"Mediana PN-13":["11.658","0,03%","68,4%","11,2","R$ 1.351","5,4","4,5","11,1","93,1","1,10","0,690","0,49","37,0%"],"Mediana MT":["10.088","0,59%","72,1%","7,8","R$ 1.072","5,7","4,8","12,0","81,2","1,10","0,686","0,50","33,9%"],"Maior":["263.708<div class='sub'>Rondonópolis<\/div>","2,02%<div class='sub'>Rondonópolis<\/div>","96,6%<div class='sub'>Rondonópolis<\/div>","20,4<div class='sub'>Barão de Melgaço<\/div>","R$ 1.974<div class='sub'>Barão de Melgaço<\/div>","6,1<div class='sub'>Glória D'Oeste<\/div>","5,0<div class='sub'>Mirassol D'Oeste<\/div>","19,6<div class='sub'>Itiquira<\/div>","241,0<div class='sub'>Glória D'Oeste<\/div>","3,18<div class='sub'>Cáceres<\/div>","0,755<div class='sub'>Rondonópolis<\/div>","0,59<div class='sub'>Porto Esperidião<\/div>","59,2%<div class='sub'>Barão de Melgaço<\/div>"],"Menor":["2.878<div class='sub'>Glória D'Oeste<\/div>","-1,01%<div class='sub'>Lambari D'Oeste<\/div>","41,2%<div class='sub'>Nossa Senhora do Livramento<\/div>","5,1<div class='sub'>Rondonópolis<\/div>","R$ 894<div class='sub'>Juscimeira<\/div>","4,3<div class='sub'>Poconé<\/div>","3,6<div class='sub'>Curvelândia<\/div>","6,2<div class='sub'>Barão de Melgaço<\/div>","40,9<div class='sub'>Itiquira<\/div>","0,00<div class='sub'>Curvelândia<\/div>","0,600<div class='sub'>Barão de Melgaço<\/div>","0,43<div class='sub'>Juscimeira<\/div>","19,0%<div class='sub'>Rondonópolis<\/div>"]},"columns":[{"id":"Indicador","name":"Indicador","type":"character","html":true,"minWidth":220},{"id":"Ano","name":"Ano","type":"character","minWidth":60,"align":"center"},{"id":"Mediana PN-13","name":"Mediana PN-13","type":"character","align":"right"},{"id":"Mediana MT","name":"Mediana MT","type":"character","align":"right"},{"id":"Maior","name":"Maior no PN-13","type":"character","html":true,"align":"right"},{"id":"Menor","name":"Menor no PN-13","type":"character","html":true,"align":"right"}],"sortable":false,"pagination":false,"compact":true,"language":{"sortLabel":"Ordenar por {name}","filterPlaceholder":"Filtrar","filterLabel":"Filtrar {name}","searchPlaceholder":"Buscar","searchLabel":"Buscar na tabela","noData":"Nenhum registro encontrado","pageNext":"Próxima","pagePrevious":"Anterior","pageNumbers":"{page} de {pages}","pageInfo":"{rowStart}–{rowEnd} de {rows} linhas","pageSizeOptions":"Mostrar {rows}","pageNextLabel":"Próxima página","pagePreviousLabel":"Página anterior","pageNumberLabel":"Página {page}","pageJumpLabel":"Ir para a página","pageSizeOptionsLabel":"Linhas por página","groupExpandLabel":"Expandir grupo","detailsExpandLabel":"Mostrar detalhes","selectAllRowsLabel":"Selecionar todas as linhas","selectAllSubRowsLabel":"Selecionar todas as linhas do grupo","selectRowLabel":"Selecionar linha","defaultGroupHeader":"Grupo","detailsCollapseLabel":"Ocultar detalhes","deselectAllRowsLabel":"Desmarcar todas as linhas","deselectAllSubRowsLabel":"Desmarcar linhas do grupo","deselectRowLabel":"Desmarcar linha"},"dataKey":"45ecd1682d39e5a6e99ebdc0db1f1e56"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
 <section id="documentos" class="level2">
 <h2 class="anchored" data-anchor-id="documentos">Documentos</h2>
 <ul>
@@ -231,15 +262,15 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="figuras-do-relatório">Figuras do relatório</h2>
 <p>Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.</p>
 <div class="galeria">
-<figure class="figure"><a href="figuras/D3/fig-01.png"><img src="figuras/D3/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-02.png"><img src="figuras/D3/fig-02.png" alt="Figura 1.2: População residente - Pantanal Norte, 2025 (habitantes)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: População residente - Pantanal Norte, 2025 (habitantes)</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-03.png"><img src="figuras/D3/fig-03.png" alt="Figura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-04.png"><img src="figuras/D3/fig-04.png" alt="Figura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-05.png"><img src="figuras/D3/fig-05.png" alt="Figura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-06.png"><img src="figuras/D3/fig-06.png" alt="Figura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-07.png"><img src="figuras/D3/fig-07.png" alt="Figura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-08.png"><img src="figuras/D3/fig-08.png" alt="Figura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)</figcaption></figure>
-<figure class="figure"><a href="figuras/D3/fig-09.png"><img src="figuras/D3/fig-09.png" alt="Figura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" href="figuras/D3/fig-01.png"><img src="figuras/D3/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 1.2: População residente - Pantanal Norte, 2025 (habitantes)" href="figuras/D3/fig-02.png"><img src="figuras/D3/fig-02.png" alt="Figura 1.2: População residente - Pantanal Norte, 2025 (habitantes)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: População residente - Pantanal Norte, 2025 (habitantes)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)" href="figuras/D3/fig-03.png"><img src="figuras/D3/fig-03.png" alt="Figura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Crescimento populacional anual 2010-2025, por município do Pantanal Norte (%)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)" href="figuras/D3/fig-04.png"><img src="figuras/D3/fig-04.png" alt="Figura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: Taxa de urbanização (Censo 2022), por município do Pantanal Norte (%)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte" href="figuras/D3/fig-05.png"><img src="figuras/D3/fig-05.png" alt="Figura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: IDEB dos anos iniciais do ensino fundamental, 2023, por município do Pantanal Norte</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo" href="figuras/D3/fig-06.png"><img src="figuras/D3/fig-06.png" alt="Figura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Mortalidade por causas externas por 100 mil habitantes, 2022, por grupo</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte" href="figuras/D3/fig-07.png"><img src="figuras/D3/fig-07.png" alt="Figura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Bolsa Família: famílias por 100 habitantes, 2024, por município do Pantanal Norte</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)" href="figuras/D3/fig-08.png"><img src="figuras/D3/fig-08.png" alt="Figura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Taxa de pobreza (Censo 2010), por município do Pantanal Norte (%)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d3" data-description="Figura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" href="figuras/D3/fig-09.png"><img src="figuras/D3/fig-09.png" alt="Figura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 8.1: Indicadores sociodemográficos padronizados - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
 </div>
 </section>
 <section id="ressalvas-metodológicas" class="level2">
@@ -276,6 +307,58 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a></main> <!-- /main -->
+<script>
+// Siglas explicadas ao passar o cursor (ou tocar, no celular). Aplica-se a parágrafos, listas e legendas.
+(function () {
+  var G = {
+    "PN-13": "Pantanal Norte: os 13 municípios do recorte do convênio SUDECO–UNEMAT",
+    "VAB": "Valor Adicionado Bruto: riqueza gerada pelos setores, sem os impostos",
+    "PIB": "Produto Interno Bruto",
+    "SICOR": "Sistema de Operações do Crédito Rural (Banco Central); cobre o crédito com recursos públicos",
+    "IFDM": "Índice FIRJAN de Desenvolvimento Municipal (0 a 1)",
+    "CAGED": "Cadastro Geral de Empregados e Desempregados (admissões e desligamentos)",
+    "RAIS": "Relação Anual de Informações Sociais (empregos formais em 31/12)",
+    "PRODES": "Monitoramento do desmatamento por satélite (INPE)",
+    "SNIS": "Sistema Nacional de Informações sobre Saneamento (adesão voluntária)",
+    "FPM": "Fundo de Participação dos Municípios",
+    "CAR": "Cadastro Ambiental Rural",
+    "IDEB": "Índice de Desenvolvimento da Educação Básica (0 a 10)",
+    "IDHM": "Índice de Desenvolvimento Humano Municipal (0 a 1)",
+    "FOFA": "Forças, Oportunidades, Fraquezas e Ameaças (matriz SWOT)",
+    "BPC": "Benefício de Prestação Continuada",
+    "CEMPRE": "Cadastro Central de Empresas (IBGE)",
+    "FOB": "Valor da mercadoria sem frete e seguro",
+    "Siconfi": "Sistema de Informações Contábeis e Fiscais do Setor Público (Tesouro Nacional)",
+    "PRISMA": "Protocolo de registro das etapas de busca e seleção de estudos",
+    "UC": "Unidade de Conservação",
+    "TI": "Terra Indígena",
+    "ZPE": "Zona de Processamento de Exportação"
+  };
+  var chaves = Object.keys(G).sort(function (a, b) { return b.length - a.length; });
+  var re = new RegExp("(^|[^\\wÀ-ú-])(" + chaves.map(function (k) { return k.replace(/[-]/g, "\\-"); }).join("|") + ")(?![\\wÀ-ú-])");
+  function marcar(el) {
+    var usados = {};
+    var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        var p = n.parentNode;
+        while (p && p !== el) { if (/^(A|ABBR|CODE|SCRIPT|STYLE|SVG|BUTTON|SELECT|OPTION)$/i.test(p.nodeName)) return NodeFilter.FILTER_REJECT; p = p.parentNode; }
+        return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    var nos = []; while (w.nextNode()) nos.push(w.currentNode);
+    nos.forEach(function (n) {
+      var m = n.nodeValue.match(re); if (!m || usados[m[2]]) return;
+      usados[m[2]] = true;
+      var i = m.index + m[1].length, depois = n.splitText(i); depois.splitText(m[2].length);
+      var ab = document.createElement("abbr"); ab.title = G[m[2]]; ab.tabIndex = 0; ab.textContent = m[2];
+      depois.parentNode.replaceChild(ab, depois);
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -685,11 +768,11 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto</p>
+<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link “Criar uma issue” (GitHub) ou escreva à coordenação.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><img src="..\assets/logo-unemat.jpg" height="36" alt="UNEMAT"> <img src="..\assets/brasao-mt.jpg" height="36" alt="Governo de Mato Grosso"> <img src="..\assets/logo-sudeco.png" height="36" alt="SUDECO"></p>
 </div>

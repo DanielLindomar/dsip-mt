@@ -300,29 +300,29 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,23.41
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,19.34
 5105200,Juscimeira,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,15.29
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,276946.24
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,428426.02
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,667883.18
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,394299.92
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,332548.69
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,441102.88
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,507129.78
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,554609.88
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,347775.41
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,554207.93
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,605406.31
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,617826.65
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,605135.86
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,552840.03
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,529407.51
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,432564.5
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,545669.57
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,579240.1
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,733895.35
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,1139002.55
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,1144730.83
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,769359.05
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,767843
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2002,276946.24
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2003,428426.02
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2004,667883.18
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2005,394299.92
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2006,332548.69
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2007,441102.88
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2008,507129.78
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2009,554609.88
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,347775.41
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,554207.93
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,605406.31
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,617826.65
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,605135.86
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,552840.03
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,529407.51
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,432564.5
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,545669.57
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,579240.1
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,733895.35
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,1139002.55
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,1144730.83
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,769359.05
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,767843
 5105200,Juscimeira,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,21.3429581219181
 5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2005,2
 5105200,Juscimeira,D2,n_destinos_exp,Países de destino das exportações,países,2006,2

@@ -300,29 +300,29 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5104609,Itiquira,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,16.27
 5104609,Itiquira,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,13.98
 5104609,Itiquira,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,12.62
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,2161919.63
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,2903408.1
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,4393903.74
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,2398523.6
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,1660583.01
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,1865555.71
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,2447557.29
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,2508872.36
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,2529833.91
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,2730481.79
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,3255369.56
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,3313419.48
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,3201928.31
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,2975201.04
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,3283734.43
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,2352391.86
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,2662364.86
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,3743118.78
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,3228149.68
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,5716806.09
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,6678438.55
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,4903809.84
-5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,4348226.99
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2002,2161919.63
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2003,2903408.1
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2004,4393903.74
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2005,2398523.6
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2006,1660583.01
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2007,1865555.71
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2008,2447557.29
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2009,2508872.36
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,2529833.91
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,2730481.79
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,3255369.56
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,3313419.48
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,3201928.31
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,2975201.04
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,3283734.43
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,2352391.86
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,2662364.86
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,3743118.78
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,3228149.68
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,5716806.09
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,6678438.55
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,4903809.84
+5104609,Itiquira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,4348226.99
 5104609,Itiquira,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5104609,Itiquira,D2,n_destinos_exp,Países de destino das exportações,países,2000,4
 5104609,Itiquira,D2,n_destinos_exp,Países de destino das exportações,países,2001,14

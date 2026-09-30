@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-80a278967cad7ef99af148dcefe9ab34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3bb7ad87728f0932f71ec9dd68f092d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../site_libs/core-js-2.5.3/shim.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react-dom.min.js"></script>
+
+<script src="../site_libs/reactwidget-2.0.0/react-tools.js"></script>
+
+<link href="../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<link href="../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
+
+<script src="../site_libs/reactable-binding-0.4.5/reactable.js"></script>
+
 
 
 </head>
@@ -103,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../municipios/index.html"> 
 <span class="menu-text">Municípios</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../indicadores/index.html"> 
+<span class="menu-text">Indicadores</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-dimensões" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -183,12 +203,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#principais-resultados" id="toc-principais-resultados" class="nav-link active" data-scroll-target="#principais-resultados">Principais resultados</a></li>
+  <li><a href="#indicadores-da-dimensão-no-pantanal-norte" id="toc-indicadores-da-dimensão-no-pantanal-norte" class="nav-link" data-scroll-target="#indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</a></li>
   <li><a href="#documentos" id="toc-documentos" class="nav-link" data-scroll-target="#documentos">Documentos</a></li>
   <li><a href="#figuras-do-relatório" id="toc-figuras-do-relatório" class="nav-link" data-scroll-target="#figuras-do-relatório">Figuras do relatório</a></li>
   <li><a href="#ressalvas-metodológicas" id="toc-ressalvas-metodológicas" class="nav-link" data-scroll-target="#ressalvas-metodológicas">Ressalvas metodológicas</a></li>
   <li><a href="#dados-desta-dimensão" id="toc-dados-desta-dimensão" class="nav-link" data-scroll-target="#dados-desta-dimensão">Dados desta dimensão</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul class="collapse"><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -220,6 +241,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Em termos médios, o Pantanal Norte encontra-se mais preservado que o estado: o desmatamento acumulado até 2023, ponderado pela área (PRODES), era de 33,6% do território, ante 40,9% em Mato Grosso, com 55,5% de vegetação natural remanescente. A média, contudo, oculta um gradiente interno extremo, que vai de Barão de Melgaço (12,1% desmatado, planície pantaneira) a Mirassol D’Oeste (88,0% desmatado, Cerrado). A marca mais distintiva é o déficit de proteção: apenas 5,3% do território estava sob Unidade de Conservação ou Terra Indígena em 2019, ante 20,7% no estado, e 7 dos 13 municípios não possuem nenhuma Unidade de Conservação. A pressão de fogo é elevada, com densidade de 3.711 focos de calor por mil quilômetros quadrados em 2024, cerca de 2,2 vezes a do Resto de Mato Grosso (1.698), concentrada em Cáceres e Barão de Melgaço. A vegetação natural recuou 3,4 pontos percentuais entre 2000 e 2021 (MapBiomas), perda menor que a estadual (9,4 pontos).</p>
 <p>Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).</p>
 </section>
+<section id="indicadores-da-dimensão-no-pantanal-norte" class="level2">
+<h2 class="anchored" data-anchor-id="indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</h2>
+<p>Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-02f6fef41e8236917561" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-02f6fef41e8236917561">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Indicador":["<a href=\"../indicadores/perc_desmatado_acum.html\">Território desmatado (acumulado)<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/perc_veg_natural_remanescente.html\">Vegetação natural remanescente<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/incremento_desmat_km2.html\">Desmatamento no ano<\/a><div class=\"sub\">km²<\/div>","<a href=\"../indicadores/densidade_focos_por_1000km2.html\">Densidade de focos de calor<\/a><div class=\"sub\">focos por 1.000 km²<\/div>","<a href=\"../indicadores/taxa_antropizacao.html\">Taxa de antropização<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/perc_territorio_protegido.html\">Território em UC ou TI<\/a><div class=\"sub\">%<\/div>","<a href=\"../indicadores/perc_imoveis_conformes.html\">Imóveis do CAR declarados conformes<\/a><div class=\"sub\">%<\/div>"],"Ano":["2023","2023","2023","2024","2021","2019","2024"],"Mediana PN-13":["40,6%","23,3%","6,2","738,6","60,3%","0,0%","1,2%"],"Mediana MT":["51,5%","41,7%","6,6","1.042,7","46,9%","0,7%","1,4%"],"Maior":["88,0%<div class='sub'>Mirassol D'Oeste<\/div>","86,1%<div class='sub'>Barão de Melgaço<\/div>","57,1<div class='sub'>Santo Antônio do Leverger<\/div>","6.449,1<div class='sub'>Cáceres<\/div>","84,6%<div class='sub'>Mirassol D'Oeste<\/div>","11,4%<div class='sub'>Poconé<\/div>","3,7%<div class='sub'>Lambari D'Oeste<\/div>"],"Menor":["12,1%<div class='sub'>Barão de Melgaço<\/div>","3,9%<div class='sub'>Porto Esperidião<\/div>","0,0<div class='sub'>Curvelândia<\/div>","212,4<div class='sub'>Itiquira<\/div>","9,3%<div class='sub'>Barão de Melgaço<\/div>","0,0%<div class='sub'>Curvelândia<\/div>","0,6%<div class='sub'>Nossa Senhora do Livramento<\/div>"]},"columns":[{"id":"Indicador","name":"Indicador","type":"character","html":true,"minWidth":220},{"id":"Ano","name":"Ano","type":"character","minWidth":60,"align":"center"},{"id":"Mediana PN-13","name":"Mediana PN-13","type":"character","align":"right"},{"id":"Mediana MT","name":"Mediana MT","type":"character","align":"right"},{"id":"Maior","name":"Maior no PN-13","type":"character","html":true,"align":"right"},{"id":"Menor","name":"Menor no PN-13","type":"character","html":true,"align":"right"}],"sortable":false,"pagination":false,"compact":true,"language":{"sortLabel":"Ordenar por {name}","filterPlaceholder":"Filtrar","filterLabel":"Filtrar {name}","searchPlaceholder":"Buscar","searchLabel":"Buscar na tabela","noData":"Nenhum registro encontrado","pageNext":"Próxima","pagePrevious":"Anterior","pageNumbers":"{page} de {pages}","pageInfo":"{rowStart}–{rowEnd} de {rows} linhas","pageSizeOptions":"Mostrar {rows}","pageNextLabel":"Próxima página","pagePreviousLabel":"Página anterior","pageNumberLabel":"Página {page}","pageJumpLabel":"Ir para a página","pageSizeOptionsLabel":"Linhas por página","groupExpandLabel":"Expandir grupo","detailsExpandLabel":"Mostrar detalhes","selectAllRowsLabel":"Selecionar todas as linhas","selectAllSubRowsLabel":"Selecionar todas as linhas do grupo","selectRowLabel":"Selecionar linha","defaultGroupHeader":"Grupo","detailsCollapseLabel":"Ocultar detalhes","deselectAllRowsLabel":"Desmarcar todas as linhas","deselectAllSubRowsLabel":"Desmarcar linhas do grupo","deselectRowLabel":"Desmarcar linha"},"dataKey":"98315bf8ba80cb8c071847c633de1338"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
 <section id="documentos" class="level2">
 <h2 class="anchored" data-anchor-id="documentos">Documentos</h2>
 <ul>
@@ -231,14 +262,14 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="figuras-do-relatório">Figuras do relatório</h2>
 <p>Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.</p>
 <div class="galeria">
-<figure class="figure"><a href="figuras/D4/fig-01.png"><img src="figuras/D4/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-02.png"><img src="figuras/D4/fig-02.png" alt="Figura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-03.png"><img src="figuras/D4/fig-03.png" alt="Figura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-04.png"><img src="figuras/D4/fig-04.png" alt="Figura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-05.png"><img src="figuras/D4/fig-05.png" alt="Figura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-06.png"><img src="figuras/D4/fig-06.png" alt="Figura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-07.png"><img src="figuras/D4/fig-07.png" alt="Figura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)</figcaption></figure>
-<figure class="figure"><a href="figuras/D4/fig-08.png"><img src="figuras/D4/fig-08.png" alt="Figura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" href="figuras/D4/fig-01.png"><img src="figuras/D4/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)" href="figuras/D4/fig-02.png"><img src="figuras/D4/fig-02.png" alt="Figura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.2: Desmatamento acumulado por município do Pantanal Norte, 2023 (% do território)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)" href="figuras/D4/fig-03.png"><img src="figuras/D4/fig-03.png" alt="Figura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Desmatamento acumulado, 2023, por município do Pantanal Norte (% do território)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)" href="figuras/D4/fig-04.png"><img src="figuras/D4/fig-04.png" alt="Figura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.2: Desmatamento acumulado por bioma no Pantanal Norte, 2023 (km²)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)" href="figuras/D4/fig-05.png"><img src="figuras/D4/fig-05.png" alt="Figura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Taxa de antropização, 2021, por município do Pantanal Norte (%)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)" href="figuras/D4/fig-06.png"><img src="figuras/D4/fig-06.png" alt="Figura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Densidade de focos de calor, 2024, por município do Pantanal Norte (focos por 1.000 km²)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)" href="figuras/D4/fig-07.png"><img src="figuras/D4/fig-07.png" alt="Figura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Território protegido (UC + TI), 2019, por município do Pantanal Norte (% do território)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d4" data-description="Figura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" href="figuras/D4/fig-08.png"><img src="figuras/D4/fig-08.png" alt="Figura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 7.1: Posicionamento ambiental relativo - Pantanal Norte, Polo Metropolitano e Mato Grosso (escala 0 a 100)</figcaption></figure>
 </div>
 </section>
 <section id="ressalvas-metodológicas" class="level2">
@@ -273,6 +304,58 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a></main> <!-- /main -->
+<script>
+// Siglas explicadas ao passar o cursor (ou tocar, no celular). Aplica-se a parágrafos, listas e legendas.
+(function () {
+  var G = {
+    "PN-13": "Pantanal Norte: os 13 municípios do recorte do convênio SUDECO–UNEMAT",
+    "VAB": "Valor Adicionado Bruto: riqueza gerada pelos setores, sem os impostos",
+    "PIB": "Produto Interno Bruto",
+    "SICOR": "Sistema de Operações do Crédito Rural (Banco Central); cobre o crédito com recursos públicos",
+    "IFDM": "Índice FIRJAN de Desenvolvimento Municipal (0 a 1)",
+    "CAGED": "Cadastro Geral de Empregados e Desempregados (admissões e desligamentos)",
+    "RAIS": "Relação Anual de Informações Sociais (empregos formais em 31/12)",
+    "PRODES": "Monitoramento do desmatamento por satélite (INPE)",
+    "SNIS": "Sistema Nacional de Informações sobre Saneamento (adesão voluntária)",
+    "FPM": "Fundo de Participação dos Municípios",
+    "CAR": "Cadastro Ambiental Rural",
+    "IDEB": "Índice de Desenvolvimento da Educação Básica (0 a 10)",
+    "IDHM": "Índice de Desenvolvimento Humano Municipal (0 a 1)",
+    "FOFA": "Forças, Oportunidades, Fraquezas e Ameaças (matriz SWOT)",
+    "BPC": "Benefício de Prestação Continuada",
+    "CEMPRE": "Cadastro Central de Empresas (IBGE)",
+    "FOB": "Valor da mercadoria sem frete e seguro",
+    "Siconfi": "Sistema de Informações Contábeis e Fiscais do Setor Público (Tesouro Nacional)",
+    "PRISMA": "Protocolo de registro das etapas de busca e seleção de estudos",
+    "UC": "Unidade de Conservação",
+    "TI": "Terra Indígena",
+    "ZPE": "Zona de Processamento de Exportação"
+  };
+  var chaves = Object.keys(G).sort(function (a, b) { return b.length - a.length; });
+  var re = new RegExp("(^|[^\\wÀ-ú-])(" + chaves.map(function (k) { return k.replace(/[-]/g, "\\-"); }).join("|") + ")(?![\\wÀ-ú-])");
+  function marcar(el) {
+    var usados = {};
+    var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        var p = n.parentNode;
+        while (p && p !== el) { if (/^(A|ABBR|CODE|SCRIPT|STYLE|SVG|BUTTON|SELECT|OPTION)$/i.test(p.nodeName)) return NodeFilter.FILTER_REJECT; p = p.parentNode; }
+        return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    var nos = []; while (w.nextNode()) nos.push(w.currentNode);
+    nos.forEach(function (n) {
+      var m = n.nodeValue.match(re); if (!m || usados[m[2]]) return;
+      usados[m[2]] = true;
+      var i = m.index + m[1].length, depois = n.splitText(i); depois.splitText(m[2].length);
+      var ab = document.createElement("abbr"); ab.title = G[m[2]]; ab.tabIndex = 0; ab.textContent = m[2];
+      depois.parentNode.replaceChild(ab, depois);
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -682,11 +765,11 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto</p>
+<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link “Criar uma issue” (GitHub) ou escreva à coordenação.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><img src="..\assets/logo-unemat.jpg" height="36" alt="UNEMAT"> <img src="..\assets/brasao-mt.jpg" height="36" alt="Governo de Mato Grosso"> <img src="..\assets/logo-sudeco.png" height="36" alt="SUDECO"></p>
 </div>

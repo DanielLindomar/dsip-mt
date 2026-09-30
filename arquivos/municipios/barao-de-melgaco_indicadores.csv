@@ -300,29 +300,29 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2019,18.07
 5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2020,17.08
 5101605,Barão de Melgaço,D1,sh_serv_va,Participação dos serviços no VAB,%,2021,14.89
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2002,22168.08
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2003,23020.35
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2004,11022.36
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2005,12171.29
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2006,11580.84
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2007,12342.99
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2008,10967.76
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2009,9251.55
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2010,9222.66
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2011,9336.9
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2012,10476.49
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2013,7772.62
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2014,10153.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2015,9048.18
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2016,5908.84
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2017,8746.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2018,3275.07
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2019,4772.87
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2020,6309.67
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2021,8080.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2022,6287.88
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2023,9174.62
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ de 2024,2024,10512
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2002,22168.08
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2003,23020.35
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2004,11022.36
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2005,12171.29
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2006,11580.84
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2007,12342.99
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2008,10967.76
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2009,9251.55
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,9222.66
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,9336.9
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,10476.49
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,7772.62
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,10153.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,9048.18
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,5908.84
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,8746.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,3275.07
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,4772.87
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,6309.67
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,8080.43
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,6287.88
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,9174.62
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,10512
 5101605,Barão de Melgaço,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,77413.3611742157
 5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
 5101605,Barão de Melgaço,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2003,0

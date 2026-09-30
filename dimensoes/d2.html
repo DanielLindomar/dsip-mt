@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-80a278967cad7ef99af148dcefe9ab34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3bb7ad87728f0932f71ec9dd68f092d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../site_libs/core-js-2.5.3/shim.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react.min.js"></script>
+
+<script src="../site_libs/react-18.2.0/react-dom.min.js"></script>
+
+<script src="../site_libs/reactwidget-2.0.0/react-tools.js"></script>
+
+<link href="../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<link href="../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
+
+<script src="../site_libs/reactable-binding-0.4.5/reactable.js"></script>
+
 
 
 </head>
@@ -103,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../municipios/index.html"> 
 <span class="menu-text">Municípios</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../indicadores/index.html"> 
+<span class="menu-text">Indicadores</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-dimensões" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -183,12 +203,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#principais-resultados" id="toc-principais-resultados" class="nav-link active" data-scroll-target="#principais-resultados">Principais resultados</a></li>
+  <li><a href="#indicadores-da-dimensão-no-pantanal-norte" id="toc-indicadores-da-dimensão-no-pantanal-norte" class="nav-link" data-scroll-target="#indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</a></li>
   <li><a href="#documentos" id="toc-documentos" class="nav-link" data-scroll-target="#documentos">Documentos</a></li>
   <li><a href="#figuras-do-relatório" id="toc-figuras-do-relatório" class="nav-link" data-scroll-target="#figuras-do-relatório">Figuras do relatório</a></li>
   <li><a href="#ressalvas-metodológicas" id="toc-ressalvas-metodológicas" class="nav-link" data-scroll-target="#ressalvas-metodológicas">Ressalvas metodológicas</a></li>
   <li><a href="#dados-desta-dimensão" id="toc-dados-desta-dimensão" class="nav-link" data-scroll-target="#dados-desta-dimensão">Dados desta dimensão</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul class="collapse"><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -220,6 +241,16 @@ ul.task-list li input[type="checkbox"] {
 <p>A balança comercial do recorte foi superavitária em USD 2.326,4 milhões em 2024, mas apenas 7 dos 13 municípios registraram exportação nesse ano e, sem Rondonópolis, o Pantanal Norte exporta apenas USD 317,3 milhões. A Zona de Processamento de Exportação (ZPE) de Cáceres revela-se mais potencial que realidade, pois Cáceres é apenas o 5º exportador do recorte (USD 11,2 milhões). A bioeconomia é a vocação mais distintiva: o valor da produção bioeconômica alcançou R$ 228,4 milhões em 2024 e, em média por município (R$ 17,6 milhões), o recorte supera o Resto de Mato Grosso (R$ 15,0 milhões) e o Polo Metropolitano (R$ 12,5 milhões), com destaque para a aquicultura (R$ 68,2 milhões, 13,5% da produção estadual). O território reúne ainda cerca de 497.664 hectares de áreas protegidas (2019) e um ativo coletivo subaproveitado, a Indicação de Procedência “Pantanal” para o mel, concedida pelo INPI em 2015 e abrangente dos 13 municípios.</p>
 <p>Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (julho de 2026).</p>
 </section>
+<section id="indicadores-da-dimensão-no-pantanal-norte" class="level2">
+<h2 class="anchored" data-anchor-id="indicadores-da-dimensão-no-pantanal-norte">Indicadores da dimensão no Pantanal Norte</h2>
+<p>Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="reactable html-widget html-fill-item" id="htmlwidget-53271293e2b7460263bd" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-53271293e2b7460263bd">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Indicador":["<a href=\"../indicadores/valor_exp_fob_usd.html\">Exportações<\/a><div class=\"sub\">US$ correntes (FOB)<\/div>","<a href=\"../indicadores/n_destinos_exp.html\">Países de destino das exportações<\/a><div class=\"sub\">países<\/div>","<a href=\"../indicadores/valor_bioeconomia_brl2024.html\">Valor da bioeconomia<\/a><div class=\"sub\">R$ de 2024<\/div>","<a href=\"../indicadores/valor_aquicultura_brl2024.html\">Valor da aquicultura<\/a><div class=\"sub\">R$ de 2024<\/div>","<a href=\"../indicadores/area_protegida_total_ha.html\">Área protegida (UC + TI)<\/a><div class=\"sub\">hectares<\/div>"],"Ano":["2024","2024","2024","2024","2019"],"Mediana PN-13":["US$ 1,8 mi","2","R$ 5,4 mi","R$ 2,1 mi","21"],"Mediana MT":["US$ 28,1 mi","13","R$ 5,4 mi","R$ 927,0 mil","3.881"],"Maior":["US$ 3,0 bi<div class='sub'>Rondonópolis<\/div>","67<div class='sub'>Rondonópolis<\/div>","R$ 45,6 mi<div class='sub'>Itiquira<\/div>","R$ 28,3 mi<div class='sub'>Nossa Senhora do Livramento<\/div>","196.707<div class='sub'>Poconé<\/div>"],"Menor":["US$ 0<div class='sub'>Curvelândia<\/div>","0<div class='sub'>Curvelândia<\/div>","R$ 400,0 mil<div class='sub'>Curvelândia<\/div>","R$ 116,0 mil<div class='sub'>Curvelândia<\/div>","0<div class='sub'>Curvelândia<\/div>"]},"columns":[{"id":"Indicador","name":"Indicador","type":"character","html":true,"minWidth":220},{"id":"Ano","name":"Ano","type":"character","minWidth":60,"align":"center"},{"id":"Mediana PN-13","name":"Mediana PN-13","type":"character","align":"right"},{"id":"Mediana MT","name":"Mediana MT","type":"character","align":"right"},{"id":"Maior","name":"Maior no PN-13","type":"character","html":true,"align":"right"},{"id":"Menor","name":"Menor no PN-13","type":"character","html":true,"align":"right"}],"sortable":false,"pagination":false,"compact":true,"language":{"sortLabel":"Ordenar por {name}","filterPlaceholder":"Filtrar","filterLabel":"Filtrar {name}","searchPlaceholder":"Buscar","searchLabel":"Buscar na tabela","noData":"Nenhum registro encontrado","pageNext":"Próxima","pagePrevious":"Anterior","pageNumbers":"{page} de {pages}","pageInfo":"{rowStart}–{rowEnd} de {rows} linhas","pageSizeOptions":"Mostrar {rows}","pageNextLabel":"Próxima página","pagePreviousLabel":"Página anterior","pageNumberLabel":"Página {page}","pageJumpLabel":"Ir para a página","pageSizeOptionsLabel":"Linhas por página","groupExpandLabel":"Expandir grupo","detailsExpandLabel":"Mostrar detalhes","selectAllRowsLabel":"Selecionar todas as linhas","selectAllSubRowsLabel":"Selecionar todas as linhas do grupo","selectRowLabel":"Selecionar linha","defaultGroupHeader":"Grupo","detailsCollapseLabel":"Ocultar detalhes","deselectAllRowsLabel":"Desmarcar todas as linhas","deselectAllSubRowsLabel":"Desmarcar linhas do grupo","deselectRowLabel":"Desmarcar linha"},"dataKey":"6ae75ee4222f082987eafada7bd674ff"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
 <section id="documentos" class="level2">
 <h2 class="anchored" data-anchor-id="documentos">Documentos</h2>
 <ul>
@@ -231,12 +262,12 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="figuras-do-relatório">Figuras do relatório</h2>
 <p>Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.</p>
 <div class="galeria">
-<figure class="figure"><a href="figuras/D2/fig-01.png"><img src="figuras/D2/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
-<figure class="figure"><a href="figuras/D2/fig-02.png"><img src="figuras/D2/fig-02.png" alt="Figura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)</figcaption></figure>
-<figure class="figure"><a href="figuras/D2/fig-03.png"><img src="figuras/D2/fig-03.png" alt="Figura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)</figcaption></figure>
-<figure class="figure"><a href="figuras/D2/fig-04.png"><img src="figuras/D2/fig-04.png" alt="Figura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)</figcaption></figure>
-<figure class="figure"><a href="figuras/D2/fig-05.png"><img src="figuras/D2/fig-05.png" alt="Figura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)</figcaption></figure>
-<figure class="figure"><a href="figuras/D2/fig-06.png"><img src="figuras/D2/fig-06.png" alt="Figura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" href="figuras/D2/fig-01.png"><img src="figuras/D2/fig-01.png" alt="Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 1.1: Localização dos 13 municípios do Pantanal Norte em Mato Grosso</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)" href="figuras/D2/fig-02.png"><img src="figuras/D2/fig-02.png" alt="Figura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 3.1: Exportações por município do Pantanal Norte, 2024 (USD milhões, escala logarítmica)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)" href="figuras/D2/fig-03.png"><img src="figuras/D2/fig-03.png" alt="Figura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.1: Composição da bioeconomia por município do Pantanal Norte, 2024 (R$ milhões)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)" href="figuras/D2/fig-04.png"><img src="figuras/D2/fig-04.png" alt="Figura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 4.2: Aquicultura por município do Pantanal Norte, 2024 (R$ milhões)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)" href="figuras/D2/fig-05.png"><img src="figuras/D2/fig-05.png" alt="Figura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 5.1: Áreas protegidas (UC + TI) por município do Pantanal Norte, 2019 (mil hectares)</figcaption></figure>
+<figure class="figure"><a class="lightbox" data-gallery="d2" data-description="Figura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)" href="figuras/D2/fig-06.png"><img src="figuras/D2/fig-06.png" alt="Figura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)" loading="lazy" style="width:100%" class="figure-img"></a><figcaption>Figura 6.1: Bioeconomia média por município - Pantanal Norte, Polo Metropolitano, Resto de MT e Mato Grosso (R$ milhões, 2024)</figcaption></figure>
 </div>
 </section>
 <section id="ressalvas-metodológicas" class="level2">
@@ -269,6 +300,58 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a></main> <!-- /main -->
+<script>
+// Siglas explicadas ao passar o cursor (ou tocar, no celular). Aplica-se a parágrafos, listas e legendas.
+(function () {
+  var G = {
+    "PN-13": "Pantanal Norte: os 13 municípios do recorte do convênio SUDECO–UNEMAT",
+    "VAB": "Valor Adicionado Bruto: riqueza gerada pelos setores, sem os impostos",
+    "PIB": "Produto Interno Bruto",
+    "SICOR": "Sistema de Operações do Crédito Rural (Banco Central); cobre o crédito com recursos públicos",
+    "IFDM": "Índice FIRJAN de Desenvolvimento Municipal (0 a 1)",
+    "CAGED": "Cadastro Geral de Empregados e Desempregados (admissões e desligamentos)",
+    "RAIS": "Relação Anual de Informações Sociais (empregos formais em 31/12)",
+    "PRODES": "Monitoramento do desmatamento por satélite (INPE)",
+    "SNIS": "Sistema Nacional de Informações sobre Saneamento (adesão voluntária)",
+    "FPM": "Fundo de Participação dos Municípios",
+    "CAR": "Cadastro Ambiental Rural",
+    "IDEB": "Índice de Desenvolvimento da Educação Básica (0 a 10)",
+    "IDHM": "Índice de Desenvolvimento Humano Municipal (0 a 1)",
+    "FOFA": "Forças, Oportunidades, Fraquezas e Ameaças (matriz SWOT)",
+    "BPC": "Benefício de Prestação Continuada",
+    "CEMPRE": "Cadastro Central de Empresas (IBGE)",
+    "FOB": "Valor da mercadoria sem frete e seguro",
+    "Siconfi": "Sistema de Informações Contábeis e Fiscais do Setor Público (Tesouro Nacional)",
+    "PRISMA": "Protocolo de registro das etapas de busca e seleção de estudos",
+    "UC": "Unidade de Conservação",
+    "TI": "Terra Indígena",
+    "ZPE": "Zona de Processamento de Exportação"
+  };
+  var chaves = Object.keys(G).sort(function (a, b) { return b.length - a.length; });
+  var re = new RegExp("(^|[^\\wÀ-ú-])(" + chaves.map(function (k) { return k.replace(/[-]/g, "\\-"); }).join("|") + ")(?![\\wÀ-ú-])");
+  function marcar(el) {
+    var usados = {};
+    var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (n) {
+        var p = n.parentNode;
+        while (p && p !== el) { if (/^(A|ABBR|CODE|SCRIPT|STYLE|SVG|BUTTON|SELECT|OPTION)$/i.test(p.nodeName)) return NodeFilter.FILTER_REJECT; p = p.parentNode; }
+        return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    var nos = []; while (w.nextNode()) nos.push(w.currentNode);
+    nos.forEach(function (n) {
+      var m = n.nodeValue.match(re); if (!m || usados[m[2]]) return;
+      usados[m[2]] = true;
+      var i = m.index + m[1].length, depois = n.splitText(i); depois.splitText(m[2].length);
+      var ab = document.createElement("abbr"); ab.title = G[m[2]]; ab.tabIndex = 0; ab.textContent = m[2];
+      depois.parentNode.replaceChild(ab, depois);
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("main p, main li, main figcaption, main .kpi-rotulo, main .kpi-meta").forEach(marcar);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -678,11 +761,11 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto</p>
+<p>Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link “Criar uma issue” (GitHub) ou escreva à coordenação.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DanielLindomar/dsip-mt/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><img src="..\assets/logo-unemat.jpg" height="36" alt="UNEMAT"> <img src="..\assets/brasao-mt.jpg" height="36" alt="Governo de Mato Grosso"> <img src="..\assets/logo-sudeco.png" height="36" alt="SUDECO"></p>
 </div>
