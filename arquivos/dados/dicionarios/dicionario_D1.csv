@@ -216,16 +216,16 @@ d1_agropecuaria.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
 d1_agropecuaria.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
 d1_agropecuaria.csv,pantanal_norte,Indicador que vale 'True' (verdadeiro) quando o município integra o recorte do Pantanal Norte definido pelo convênio e 'False' caso contrário.,booleano (True/False),DSIP-MT — definição institucional do convênio SUDECO
 d1_agropecuaria.csv,ano,Ano-calendário a que a informação se refere.,ano,comum a todas as fontes
-d1_agropecuaria.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em valores correntes.",R$ correntes,IBGE/PAM (Produção Agrícola Municipal)
+d1_agropecuaria.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PAM (Produção Agrícola Municipal)
 d1_agropecuaria.csv,pam_area_colhida_ha,Área total colhida de lavouras no município no ano.,hectares (ha),IBGE/PAM (Produção Agrícola Municipal)
 d1_agropecuaria.csv,pam_n_produtos,Número de produtos agrícolas distintos cultivados no município no ano.,contagem (produtos),IBGE/PAM (Produção Agrícola Municipal)
 d1_agropecuaria.csv,rebanho_bovino,Número de cabeças de bovinos no rebanho municipal.,cabeças,IBGE/PPM (Pesquisa da Pecuária Municipal)
 d1_agropecuaria.csv,rebanho_total,Número total de animais dos rebanhos municipais (todas as espécies somadas).,cabeças,IBGE/PPM (Pesquisa da Pecuária Municipal)
-d1_agropecuaria.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em valores correntes.",R$ correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
-d1_agropecuaria.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em valores correntes.",R$ correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
-d1_agropecuaria.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em valores correntes (vazio em anos/municípios sem registro).",R$ correntes,IBGE/SIDRA — Pesca e Aquicultura
-d1_agropecuaria.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em valores correntes.",R$ correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
-d1_agropecuaria.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em reais de 2024.",R$ de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_agropecuaria.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
+d1_agropecuaria.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em milhares de reais correntes (vazio em anos/municípios sem registro).",R$ mil correntes,IBGE/SIDRA — Pesca e Aquicultura
+d1_agropecuaria.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em milhares de reais correntes.",R$ mil correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_agropecuaria.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em milhares de reais de 2024.",R$ mil de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
 d1_agropecuaria.csv,sh_lavoura_vbp_pct,Parcela das lavouras no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
 d1_agropecuaria.csv,sh_pecuaria_vbp_pct,Parcela da pecuária no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
 d1_agropecuaria.csv,sh_florestal_vbp_pct,Parcela da produção florestal (extrativismo e silvicultura) no valor total da produção agropecuária.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
@@ -237,10 +237,10 @@ d1_agropecuaria.csv,part_vbp_mt,Participação do município no valor total da p
 d1_agropecuaria.csv,area_colhida_por_hab,Área colhida de lavouras por 1.000 habitantes — intensidade agrícola relativa ao tamanho da população.,ha por 1.000 habitantes,IBGE/PAM e IBGE/População — cálculo DSIP-MT
 d1_agropecuaria.csv,rebanho_bovino_por_1000_hab,Cabeças de bovinos por 1.000 habitantes — peso relativo da pecuária bovina no município.,cabeças por 1.000 habitantes,IBGE/PPM e IBGE/População — cálculo DSIP-MT
 d1_agropecuaria.csv,sh_bovinos_rebanho_pct,Parcela dos bovinos no total de animais dos rebanhos municipais.,%,IBGE/PPM — cálculo DSIP-MT
-d1_agropecuaria.csv,produtividade_terra,Valor real da produção agropecuária por hectare colhido — aproximação da produtividade da terra.,R$ de 2024 por hectare,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_agropecuaria.csv,produtividade_terra,Valor real da produção agropecuária por hectare colhido — aproximação da produtividade da terra.,R$ mil de 2024 por hectare,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
 d1_agropecuaria.csv,vbp_var_pct,Variação anual do valor real da produção agropecuária em relação ao ano anterior.,%,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
 d1_agropecuaria.csv,cagr_vbp_real,Taxa média de crescimento real da produção agropecuária ao ano no período completo (valor constante por município).,% ao ano,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
-d1_agropecuaria.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
+d1_agropecuaria.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ mil de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
 d1_empresas.csv,id_municipio,Código de identificação do município no padrão do IBGE (7 dígitos); permite cruzar esta base com qualquer outra base oficial brasileira.,código IBGE (7 dígitos),IBGE
 d1_empresas.csv,municipio,Nome do município de Mato Grosso.,texto,IBGE
 d1_empresas.csv,grupo,"Grupo de comparação usado no estudo: 'pantanal_norte' (os 13 municípios do recorte institucional do convênio), 'polo_metropolitano' (Cuiabá e Várzea Grande) ou 'resto_mt' (demais 126 municípios).",texto (3 categorias),DSIP-MT — definição institucional do convênio SUDECO
@@ -349,12 +349,12 @@ d1_painel_pesm.csv,amplitude_sazonal,"Diferença entre o melhor e o pior mês do
 d1_painel_pesm.csv,saldo_setor_agro,"Saldo de vagas formais (contratações menos desligamentos) na agropecuária, pesca e silvicultura no ano.",contagem (vagas),MTE/CAGED — cálculo DSIP-MT
 d1_painel_pesm.csv,saldo_setor_industria,Saldo de vagas formais na indústria (inclui construção civil) no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
 d1_painel_pesm.csv,saldo_setor_servicos,Saldo de vagas formais nos serviços privados no ano.,contagem (vagas),MTE/CAGED — cálculo DSIP-MT
-d1_painel_pesm.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em valores correntes.",R$ correntes,IBGE/PAM (Produção Agrícola Municipal)
-d1_painel_pesm.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em valores correntes.",R$ correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
-d1_painel_pesm.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em valores correntes.",R$ correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
-d1_painel_pesm.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em valores correntes (vazio em anos/municípios sem registro).",R$ correntes,IBGE/SIDRA — Pesca e Aquicultura
-d1_painel_pesm.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em valores correntes.",R$ correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
-d1_painel_pesm.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em reais de 2024.",R$ de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
+d1_painel_pesm.csv,pam_valor_producao_brl,"Valor da produção das lavouras (temporárias e permanentes) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PAM (Produção Agrícola Municipal)
+d1_painel_pesm.csv,ppm_valor_producao_brl,"Valor da produção pecuária de origem animal (leite, ovos, mel etc.) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PPM (Pesquisa da Pecuária Municipal)
+d1_painel_pesm.csv,pevs_valor_brl,"Valor da produção florestal (extrativismo vegetal e silvicultura) no ano, em milhares de reais correntes.",R$ mil correntes,IBGE/PEVS (Produção da Extração Vegetal e Silvicultura)
+d1_painel_pesm.csv,pesca_valor_brl,"Valor da produção da pesca e aquicultura no ano, em milhares de reais correntes (vazio em anos/municípios sem registro).",R$ mil correntes,IBGE/SIDRA — Pesca e Aquicultura
+d1_painel_pesm.csv,vbp_agro_total_brl,"Valor Bruto da Produção agropecuária total: soma de lavoura, pecuária, produção florestal e pesca, em milhares de reais correntes.",R$ mil correntes,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
+d1_painel_pesm.csv,vbp_real_brl,"Valor Bruto da Produção agropecuária descontada a inflação, em milhares de reais de 2024.",R$ mil de 2024,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
 d1_painel_pesm.csv,sh_lavoura_vbp_pct,Parcela das lavouras no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
 d1_painel_pesm.csv,sh_pecuaria_vbp_pct,Parcela da pecuária no valor total da produção agropecuária do município.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
 d1_painel_pesm.csv,sh_florestal_vbp_pct,Parcela da produção florestal (extrativismo e silvicultura) no valor total da produção agropecuária.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
@@ -365,7 +365,7 @@ d1_painel_pesm.csv,rebanho_bovino,Número de cabeças de bovinos no rebanho muni
 d1_painel_pesm.csv,sh_bovinos_rebanho_pct,Parcela dos bovinos no total de animais dos rebanhos municipais.,%,IBGE/PPM — cálculo DSIP-MT
 d1_painel_pesm.csv,part_vbp_mt,Participação do município no valor total da produção agropecuária de Mato Grosso.,%,"IBGE (PAM, PPM, PEVS e Pesca) — cálculo DSIP-MT"
 d1_painel_pesm.csv,cagr_vbp_real,Taxa média de crescimento real da produção agropecuária ao ano no período completo (valor constante por município).,% ao ano,"IBGE (PAM, PPM, PEVS e Pesca) e IBGE/SCN (deflator) — cálculo DSIP-MT"
-d1_painel_pesm.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
+d1_painel_pesm.csv,vbp_por_trabalhador_agro,Valor real da produção agropecuária dividido pelo emprego formal do setor (RAIS) — aproximação de produtividade que não capta trabalhadores informais.,R$ mil de 2024 por trabalhador formal,IBGE (VBP) e MTE/RAIS — cálculo DSIP-MT
 d1_painel_pesm.csv,numero_empresas,Número de empresas e outras organizações formais ativas no município.,contagem (empresas),"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
 d1_painel_pesm.csv,pessoal_ocupado_total,"Total de pessoas ocupadas nas empresas formais — inclui assalariados, sócios e proprietários, indo além dos vínculos CLT da RAIS.",pessoas,"IBGE/CEMPRE (Cadastro Central de Empresas, via Base dos Dados)"
 d1_painel_pesm.csv,pessoal_por_empresa,Número médio de pessoas ocupadas por empresa — tamanho médio dos negócios locais.,razão (pessoas por empresa),IBGE/CEMPRE — cálculo DSIP-MT
