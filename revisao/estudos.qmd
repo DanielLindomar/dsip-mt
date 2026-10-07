@@ -1,48 +1,55 @@
 ---
-title: "Área econômica — estudos do corpus"
-description: "Os 225 estudos distintos do corpus da revisão sistemática da área-chave econômica do Projeto DSIP-MT"
+title: "Estudos do corpus"
+description: "Os estudos distintos dos corpora da revisão sistemática das cinco áreas-chave do Projeto DSIP-MT"
 ---
 
 ```{r}
 #| include: false
 source("_revisao.R")
-M   <- meta_rev()
-est <- ler_rev("estudos.csv") |> arrange(desc(ano), autor_ano)
-pr  <- ler_rev("prisma.csv")
-pv  <- function(i) pr$valor[pr$ordem == i]
-stopifnot(nrow(est) == 225)
+MM  <- lapply(names(AREAS_REV), meta_rev); names(MM) <- names(AREAS_REV)
+est <- bind_rows(lapply(names(AREAS_REV), function(a) ler_rev("estudos.csv", a) |> mutate(slug = a))) |>
+  mutate(area = factor(area, unname(AREAS_REV))) |> arrange(area, desc(ano), autor_ano) |> mutate(area = as.character(area))
+reg <- vapply(names(AREAS_REV), function(a) { p <- ler_rev("prisma.csv", a); p$valor[p$chave == "corpus"] }, 0L)
 ```
 
-```{r}
-#| results: asis
-cat(sprintf('::: {.faixa-versao}\nCorpus validado pela coordenação em %s; arquivo BibTeX regerado em %s com uma entrada por estudo distinto, conforme deliberação de %s.\n:::\n',
-            M[["data_validacao_matriz"]], M[["data_regeracao"]], M[["data_deliberacao"]]))
-```
+::: {.faixa-versao}
+Corpora validados pela coordenação: área econômica em 24/08/2026 (BibTeX regerado em 23/09/2026, uma entrada por estudo distinto); infraestrutura em 30/09/2026; setor público, sociodemográfica e ambiental em 04/10/2026.
+:::
 
-O corpus da revisão sistemática da área econômica tem `r pv(13)` registros, correspondentes a `r nrow(est)` estudos distintos, selecionados entre `r num_br(pv(4))` registros recuperados no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026). A tabela traz um estudo por linha; quando o mesmo estudo entrou no corpus por dois registros (versão em outra língua ou em outra base), a linha corresponde ao registro principal.
+Cada área-chave tem seu próprio corpus, selecionado no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026) com o léxico da área. A tabela traz um estudo por linha e por área: um estudo que entrou em duas áreas aparece duas vezes, uma em cada. Na área econômica, quando o mesmo estudo entrou no corpus por dois registros (versão em outra língua ou em outra base), a linha corresponde ao registro principal.
 
 ```{r}
+por_area <- est |> count(area, slug, name = "estudos") |> mutate(area = factor(area, unname(AREAS_REV))) |> arrange(area)
 div(class = "kpi-grade",
-  kpi_rev("Estudos distintos", nrow(est), sprintf("%d registros no corpus", pv(13))),
-  kpi_rev("Com DOI", sum(nzchar(est$doi)), pct_br(mean(nzchar(est$doi)), 1)),
-  kpi_rev("Citam município do recorte", sum(nzchar(est$municipios)), "pelo nome"),
-  kpi_rev("Período de publicação", paste(min(est$ano), "–", max(est$ano)), "ano da publicação"))
+  lapply(seq_len(nrow(por_area)), function(i) {
+    a <- por_area$slug[i]
+    kpi_rev(as.character(por_area$area[i]), num_br(por_area$estudos[i]),
+            sprintf("%s registros no corpus · %s com DOI", num_br(reg[[a]]), num_br(sum(nzchar(est$doi[est$slug == a])))))
+  }))
 ```
 
 ## Arquivos
 
-- [Corpus em BibTeX, sem resumos](../arquivos/revisao/Corpus_Economico_DSIP-MT_sem_resumos.bib) — `r nrow(est)` entradas, para gerenciadores de referências (Zotero, Mendeley, JabRef) e ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave do arquivo original não são publicados, por serem textos de terceiros; o campo `note` traz a chave interna do registro no projeto.
-- [Tabela dos estudos em CSV](../arquivos/revisao/estudos.csv).
+Corpus em BibTeX, sem resumos, para gerenciadores de referências (Zotero, Mendeley, JabRef) e ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave dos arquivos originais não são publicados, por serem textos de terceiros; o campo `note` traz a chave interna do registro no projeto.
+
+```{r}
+#| results: asis
+for (a in names(AREAS_REV)) {
+  cat(sprintf("- **%s** — [BibTeX](../arquivos/revisao/%s/%s) (%s entradas) · [tabela em CSV](../arquivos/revisao/%s/estudos.csv)\n",
+              AREAS_REV[[a]], a, MM[[a]][["bib_pub"]], num_br(sum(est$slug == a)), a))
+}
+```
 
 ## Estudos
 
-Use a busca para localizar autor, título ou periódico, e os filtros de ano e de recorte geográfico. O título leva ao DOI ou ao endereço do estudo, quando disponível.
+Use a busca para localizar autor, título ou periódico, e os filtros de área, ano e recorte geográfico. O título leva ao DOI ou ao endereço do estudo, quando disponível.
 
 ```{r}
-tab <- est |> transmute(autor_ano, ano, titulo, url, periodico, doi, recorte_geografico, municipios, autores)
+tab <- est |> transmute(area, autor_ano, ano, titulo, url, periodico, doi, recorte_geografico, municipios, autores)
+anos <- as.character(sort(unique(est$ano), decreasing = TRUE))
 reactable(tab, elementId = "tab-estudos", theme = tema_rev, compact = TRUE, wrap = TRUE,
   searchable = TRUE, filterable = TRUE, defaultPageSize = 20, showPageSizeOptions = TRUE,
-  pageSizeOptions = c(20, 50, 100, 225),
+  pageSizeOptions = c(20, 50, 100, 250),
   language = reactableLang(searchPlaceholder = "Buscar autor, título ou periódico", noData = "Nenhum estudo encontrado",
                            pageInfo = "{rowStart}–{rowEnd} de {rows} estudos", pagePrevious = "Anterior",
                            pageNext = "Próxima", pageSizeOptions = "Mostrar {rows}"),
@@ -50,9 +57,9 @@ reactable(tab, elementId = "tab-estudos", theme = tema_rev, compact = TRUE, wrap
     p(strong("Autoria: "), tab$autores[i]),
     if (nzchar(tab$municipios[i])) p(strong("Municípios do recorte citados: "), tab$municipios[i])),
   columns = list(
+    area = colDef(name = "Área", minWidth = 110, filterInput = filtro_select("tab-estudos", unname(AREAS_REV)), filterMethod = filtro_igual),
     autor_ano = colDef(name = "Autores", minWidth = 150, filterable = FALSE),
-    ano = colDef(name = "Ano", minWidth = 70, filterInput = filtro_select("tab-estudos", as.character(sort(unique(est$ano), decreasing = TRUE))),
-                 filterMethod = filtro_igual),
+    ano = colDef(name = "Ano", minWidth = 70, filterInput = filtro_select("tab-estudos", anos), filterMethod = filtro_igual),
     titulo = colDef(name = "Título", minWidth = 330, filterable = FALSE,
                     cell = function(v, i) link_ext(tab$url[i], v)),
     url = colDef(show = FALSE),
@@ -65,6 +72,26 @@ reactable(tab, elementId = "tab-estudos", theme = tema_rev, compact = TRUE, wrap
     autores = colDef(show = FALSE, searchable = TRUE)))
 ```
 
+```{=html}
+<script>
+// estudos.html#area=<pasta da área>: abre a tabela já filtrada pela área (links das páginas de cada área)
+(function () {
+  var nomes = {economica: "Econômica", infraestrutura: "Infraestrutura", "setor-publico": "Setor Público",
+               sociodemografica: "Sociodemográfica", ambiental: "Ambiental"};
+  var m = /area=([a-z-]+)/.exec(window.location.hash || "");
+  if (!m || !nomes[m[1]]) return;
+  function aplica(tentativa) {
+    if (window.Reactable && document.querySelector("#tab-estudos .rt-table")) {
+      Reactable.setFilter("tab-estudos", "area", nomes[m[1]]);
+      var s = document.querySelector('#tab-estudos select[aria-label="Filtrar area"]');
+      if (s) s.value = nomes[m[1]];
+    } else if (tentativa < 40) { setTimeout(function () { aplica(tentativa + 1); }, 100); }
+  }
+  aplica(0);
+})();
+</script>
+```
+
 ::: {.nota-fonte}
-Fonte: arquivo BibTeX do corpus da área econômica (pacote de entrega, pasta 04_Corpus_Bibliografico) e análise geográfica do corpus. Os `r sum(!nzchar(est$doi))` estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref; título e autoria permitem a busca textual. O recorte geográfico é identificado pelo nome de municípios e territórios no título, no resumo ou nas evidências extraídas do estudo.
+Fonte: arquivos BibTeX dos corpora das cinco áreas (pacotes de entrega, pasta 04_Corpus_Bibliografico) e análise geográfica de cada corpus. Os estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref; título e autoria permitem a busca textual. O recorte geográfico é identificado pelo nome de municípios e territórios no título, no resumo ou nas evidências extraídas do estudo.
 :::

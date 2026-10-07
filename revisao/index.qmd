@@ -1,19 +1,17 @@
 ---
-title: "Revisão de literatura — situação das áreas"
-description: "Método e situação da revisão de literatura das cinco áreas-chave do Projeto DSIP-MT"
+title: "Revisão de literatura — as cinco áreas-chave"
+description: "Método, situação e resultados da revisão de literatura das cinco áreas-chave do Projeto DSIP-MT"
 ---
 
 ```{r}
 #| include: false
 source("_revisao.R")
 sit <- ler_rev("situacao_areas.csv") |> arrange(ordem)
-pr  <- ler_rev("prisma.csv")
-M   <- meta_rev()
-pv  <- function(i) num_br(pr$valor[pr$ordem == i])
+MM  <- lapply(sit$slug, meta_rev); names(MM) <- sit$slug
 ```
 
 ::: {.faixa-versao}
-Situação registrada em 30/09/2026. A área econômica é a única concluída; as demais áreas estão em execução e seus resultados serão publicados quando os pacotes forem validados pela coordenação.
+Situação em 07/10/2026: as cinco áreas-chave estão concluídas e os pacotes estão publicados no Drive do projeto. A área econômica foi publicada em setembro; infraestrutura, setor público, sociodemográfica e ambiental, em 07/10/2026.
 :::
 
 ## Método
@@ -22,39 +20,62 @@ A revisão de literatura do Projeto DSIP-MT é feita por área-chave: econômica
 
 Cada área combina duas revisões, mantidas separadas porque têm pesos probatórios diferentes:
 
-- **Revisão sistemática.** Busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026), triagem por título e por resumo com dois avaliadores independentes e desempate, e extração das evidências dos estudos incluídos. Na área econômica, `r pv(4)` registros recuperados resultaram em `r pv(13)` registros incluídos, correspondentes a `r pv(14)` estudos distintos.
-- **Revisão documental complementar.** Leitura do acervo de documentos reunido pela coordenação (relatórios técnicos, planos de manejo, diagnósticos municipais). Na área econômica, `r M[["complementar_docs_triados"]]` documentos foram triados e `r M[["complementar_docs_lidos"]]` lidos, com `r num_br(as.integer(M[["complementar_evidencias"]]))` evidências extraídas.
+- **Revisão sistemática.** Busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026), triagem por título e por resumo com dois avaliadores independentes, e extração das evidências dos estudos incluídos. Somadas as cinco áreas, `r num_br(sum(sit$brutos))` registros recuperados levaram a `r num_br(sum(sit$estudos))` estudos analisados e a `r sum(sit$itens)` itens de matriz validados pela coordenação.
+- **Revisão documental complementar.** Leitura do acervo de documentos reunido pela coordenação (relatórios técnicos, planos de manejo, diagnósticos municipais), ampliado por busca documental dirigida nas áreas de infraestrutura, setor público e sociodemográfica. Somadas as cinco áreas, as matrizes complementares têm `r sum(sit$complementar)` itens.
 
-As duas revisões são cruzadas com os 13 municípios na **FOFA municipal**, que indica, para cada item da matriz e cada município, se há fonte que o documente, se há só fonte regional, se o item é uma hipótese a verificar em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Nenhum município do recorte havia sido visitado em campo até 21/09/2026.
+As duas revisões são cruzadas com os 13 municípios na **FOFA municipal**, que indica, para cada item da matriz e cada município, se há fonte que o documente, se há só fonte regional, se o item é uma hipótese a verificar em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Nenhum status resulta de verificação em campo.
+
+## As cinco áreas
+
+```{r}
+#| results: asis
+txt_card <- function(i) {
+  s <- sit[i, ]; M <- MM[[s$slug]]
+  sprintf('<a class="cartao" href="%s.html"><h4>%s</h4><p>Matriz FOFA com %d itens validados em %s; %s estudos no corpus; matriz complementar com %d itens; FOFA municipal.</p><p class="nota-fonte">%s · pacote publicado em %s</p></a>',
+          s$slug, s$area, s$itens, s$data_validacao, num_br(s$estudos), s$complementar, s$dimensao_fase_i, s$data_drive)
+}
+cat('```{=html}\n<div class="cartoes">\n', paste(vapply(seq_len(nrow(sit)), txt_card, ""), collapse = "\n"),
+    '\n<a class="cartao" href="estudos.html"><h4>Estudos do corpus</h4><p>Os estudos das cinco áreas, com busca, filtros por área, ano e recorte geográfico, e arquivos BibTeX.</p></a>\n</div>\n```\n', sep = "")
+```
+
+## Quadro comparativo
+
+```{r}
+q <- sit |> transmute(area, brutos, triados, registros, estudos, itens, complementar,
+                      base_factual = (documentado + regional + contraindicado) / (13 * itens),
+                      inferido, nao_avaliado)
+col_n <- function(nome, minWidth = 85) colDef(name = nome, align = "right", minWidth = minWidth, format = colFormat(separators = TRUE, locales = "pt-BR"))
+reactable(q, theme = tema_rev, compact = TRUE, wrap = TRUE, sortable = FALSE, pagination = FALSE,
+  columns = list(
+    area = colDef(name = "Área-chave", minWidth = 130, style = list(fontWeight = 600),
+                  cell = function(v, i) a(href = paste0(sit$slug[i], ".html"), v)),
+    brutos = col_n("Registros recuperados"), triados = col_n("Registros triados"),
+    registros = col_n("Registros no corpus"), estudos = col_n("Estudos distintos"),
+    itens = col_n("Itens da matriz"), complementar = col_n("Itens da complementar", 95),
+    base_factual = colDef(name = "Base factual da FOFA municipal", align = "right", minWidth = 105, cell = function(v) pct_br(v, 1)),
+    inferido = col_n("Pares inferidos (hipóteses)", 100), nao_avaliado = col_n("Pares não avaliados", 95)))
+```
+
+::: {.nota-fonte}
+Base factual: proporção dos pares município × item com status documentado, regional ou contraindicado, isto é, apoiados em fonte ou em dado, e não em similaridade. As áreas diferem no tamanho do corpus e da matriz, e a comparação entre elas deve considerar o léxico e o escopo de cada uma, descritos nos relatórios (RSE).
+:::
 
 ## Situação das cinco áreas
 
 ```{r}
 reactable(
-  sit |> select(area, dimensao_fase_i, situacao, marco, data, observacao),
+  sit |> transmute(area, dimensao_fase_i, situacao, data_validacao, data_drive, arquivos, observacao),
   theme = tema_rev, compact = TRUE, wrap = TRUE, sortable = FALSE, pagination = FALSE,
   columns = list(
     area = colDef(name = "Área-chave", minWidth = 110, style = list(fontWeight = 600)),
     dimensao_fase_i = colDef(name = "Dimensão (Fase I)", minWidth = 90),
-    situacao = colDef(name = "Situação", minWidth = 110),
-    marco = colDef(name = "Último marco registrado", minWidth = 180),
-    data = colDef(name = "Data", minWidth = 85),
+    situacao = colDef(name = "Situação", minWidth = 90),
+    data_validacao = colDef(name = "Matriz validada em", minWidth = 95),
+    data_drive = colDef(name = "Pacote publicado em", minWidth = 95),
+    arquivos = colDef(name = "Arquivos do pacote", minWidth = 80, align = "right", format = colFormat(separators = TRUE, locales = "pt-BR")),
     observacao = colDef(name = "Observação", minWidth = 330, style = list(fontSize = "0.82rem"))))
 ```
 
 ::: {.nota-fonte}
-Fonte: registros de execução da revisão (LEIA-ME do pacote da área econômica; registro de execução da área de infraestrutura; registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental), situação em 30/09/2026. As datas do calendário das três áreas da Fase B são previsões do documento de preparação e podem ser alteradas pela coordenação.
+Fonte: LEIA-ME e CHECKSUMS dos pacotes de entrega; registro de execução da área de infraestrutura; registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental. Os pacotes completos (relatórios em Word e PDF, matrizes, instrumentos de campo, anexos e scripts) estão no Drive do projeto, na pasta de análises da coordenação técnica.
 :::
-
-## Área econômica
-
-```{r}
-#| results: asis
-cat(sprintf('```{=html}\n<div class="cartoes">
-  <a class="cartao" href="economica.html"><h4>Matriz FOFA</h4><p>Os 40 itens validados em %s, com citações, ressalvas, ancoragem por município, matriz complementar e FOFA municipal.</p></a>
-  <a class="cartao" href="estudos.html"><h4>Estudos do corpus</h4><p>Os %s estudos distintos da revisão sistemática, com busca, filtro por ano e arquivo BibTeX.</p></a>
-  <a class="cartao" href="../arquivos/relatorios/%s"><h4>Relatório (RSE, PDF)</h4><p>Relatório da revisão bibliográfica/sistemática da área econômica: método, resultados, diagnóstico municipal e prioridades de campo.</p></a>
-</div>\n```\n', M[["data_validacao_matriz"]], pv(14), M[["rse_pdf"]]))
-```
-
-Os relatórios das demais áreas serão incluídos nesta seção quando os respectivos pacotes forem validados.

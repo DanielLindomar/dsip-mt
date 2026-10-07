@@ -44,11 +44,19 @@ website:
       - text: Revisão de literatura
         menu:
           - href: revisao/index.qmd
-            text: "Situação das áreas"
+            text: "As cinco áreas-chave"
           - href: revisao/economica.qmd
-            text: "Área econômica — matriz FOFA"
+            text: "Econômica"
+          - href: revisao/infraestrutura.qmd
+            text: "Infraestrutura"
+          - href: revisao/setor-publico.qmd
+            text: "Setor Público"
+          - href: revisao/sociodemografica.qmd
+            text: "Sociodemográfica"
+          - href: revisao/ambiental.qmd
+            text: "Ambiental"
           - href: revisao/estudos.qmd
-            text: "Área econômica — estudos do corpus"
+            text: "Estudos do corpus (todas as áreas)"
       - href: dados/index.qmd
         text: Dados
       - href: biblioteca/index.qmd
@@ -57,7 +65,7 @@ website:
         text: Sobre
   page-footer:
     left: |
-      Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 30/09/2026 · Encontrou um erro? Use o link "Criar uma issue" (GitHub) ou escreva à coordenação.
+      Projeto DSIP-MT · Convênio 984799/2025 SUDECO–UNEMAT · Versão preliminar para a equipe do projeto · Atualizado em 07/10/2026 · Encontrou um erro? Use o link "Criar uma issue" (GitHub) ou escreva à coordenação.
     right: |
       ![UNEMAT](/assets/logo-unemat.png){height=40} ![SUDECO](/assets/logo-sudeco.png){height=40}
 

@@ -1,0 +1,21 @@
+ordem,etapa,etapa_rotulo,chave,rotulo,valor,valor_texto
+1,Identificação,IDENTIFICAÇÃO,capes,Brutos CAPES,1010,1010
+2,Identificação,IDENTIFICAÇÃO,scielo,Brutos SciELO,319,319
+3,Identificação,IDENTIFICAÇÃO,scopus,Brutos Scopus (termos em inglês),1536,1536
+4,Identificação,IDENTIFICAÇÃO,total,Total bruto,2865,2865
+5,Identificação,IDENTIFICAÇÃO,unicos,Únicos após deduplicação,1808,1808
+6,Identificação,IDENTIFICAÇÃO,fora_periodo,Excluídos fora de 2011–2026,357,357
+7,Identificação,IDENTIFICAÇÃO,dup_removidas,Duplicatas do mesmo estudo removidas (10 pela regra básica + 12 pela ampliação),22,22
+8,Identificação,IDENTIFICAÇÃO,triados,Submetidos à triagem,1429,1429
+9,Triagem por título,TRIAGEM POR TÍTULOS (2 avaliadores; divergência vai ao resumo),titulo,Incluir / Excluir / Incerto,,593 / 332 / 504
+10,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"R1 — resumos recuperados em cascata (OpenAlex, Crossref, detalhes da coleta Scopus, Semantic Scholar) (1080 avaliados): incluir / excluir",,898 / 182
+11,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,r2 — consistência pelas regras aprovadas no G-lista (43 avaliados): incluir / excluir,,29 / 14
+12,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"r3 — complementar, candidatos sem resumo real (16 avaliados): incluir / excluir",,12 / 4
+13,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"r3c — continuação da complementar, com o PDF do lote CAFe (5 avaliados): incluir / excluir",,4 / 1
+14,Resultado,RESULTADO FINAL,corpus,CORPUS INCLUÍDO,897,897
+15,Resultado,RESULTADO FINAL,exc_titulo,Excluídos por título,332,332
+16,Resultado,RESULTADO FINAL,exc_resumo,Excluídos por resumo,198,198
+17,Resultado,RESULTADO FINAL,exc_ident,Excluídos por identificação da fonte,1,1
+18,Resultado,RESULTADO FINAL,exc_dup,Excluídos por duplicata do mesmo estudo,0,0
+19,Resultado,RESULTADO FINAL,sem_veredito,Registros sem veredito,1,1
+20,Resultado,RESULTADO FINAL,estudos,Estudos distintos no corpus (entradas do BibTeX),897,897

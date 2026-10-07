@@ -62,7 +62,7 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
   <a class="cartao" href="municipios/index.html"><h4>Municípios</h4><p>Perfil de cada um dos 13 municípios: indicadores das seis dimensões, comparação com o Pantanal Norte e Mato Grosso, FOFA municipal e ficha em PDF.</p></a>
   <a class="cartao" href="indicadores/index.html"><h4>Indicadores</h4><p>Os 72 indicadores com mapa dos 141 municípios de Mato Grosso, ranking do Pantanal Norte e evolução no tempo.</p></a>
   <a class="cartao" href="dimensoes/d1.html"><h4>Dimensões</h4><p>Principais resultados, figuras e ressalvas dos seis Relatórios Parciais I (D1 a D6).</p></a>
-  <a class="cartao" href="revisao/index.html"><h4>Revisão de literatura</h4><p>Matriz FOFA da área econômica, estudos do corpus e situação das demais áreas.</p></a>
+  <a class="cartao" href="revisao/index.html"><h4>Revisão de literatura</h4><p>Matrizes FOFA das cinco áreas-chave, FOFA municipal, matrizes complementares e estudos dos corpora.</p></a>
   <a class="cartao" href="dados/index.html"><h4>Dados</h4><p>Explorador de indicadores para os 141 municípios de MT e download das bases tratadas com dicionários.</p></a>
   <a class="cartao" href="biblioteca/index.html"><h4>Biblioteca</h4><p>Relatórios, síntese executiva e notas metodológicas em PDF.</p></a>
   <a class="cartao" href="sobre.html"><h4>Sobre</h4><p>O projeto, o recorte, as dimensões e como este site é feito.</p></a>
@@ -70,6 +70,8 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ```
 
 ## Novidades
+
+- **07/10/2026** — Versão 0.4: revisão de literatura das cinco áreas-chave (econômica, infraestrutura, setor público, sociodemográfica e ambiental), com matriz FOFA, matriz complementar e FOFA municipal de cada área; perfis municipais com a FOFA das cinco áreas em abas; estudos dos cinco corpora numa só tabela, com filtro por área; relatórios (RSE) das cinco áreas na Biblioteca; dicionário do D1 e licença do MapBiomas corrigidos conforme a errata da Fase I de 01/10/2026.
 
 - **30/09/2026** — Versão 0.3: 17 indicadores complementares do Observatório Sebrae (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022, ISDEL); valores dos gráficos ao passar o cursor ou tocar; mapas mais leves.
 

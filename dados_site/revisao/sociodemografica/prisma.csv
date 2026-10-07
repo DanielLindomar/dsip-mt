@@ -1,0 +1,21 @@
+ordem,etapa,etapa_rotulo,chave,rotulo,valor,valor_texto
+1,Identificação,IDENTIFICAÇÃO,capes,Brutos CAPES,904,904
+2,Identificação,IDENTIFICAÇÃO,scielo,Brutos SciELO,255,255
+3,Identificação,IDENTIFICAÇÃO,scopus,Brutos Scopus (termos em inglês),787,787
+4,Identificação,IDENTIFICAÇÃO,total,Total bruto,1946,1946
+5,Identificação,IDENTIFICAÇÃO,unicos,Únicos após deduplicação,1384,1384
+6,Identificação,IDENTIFICAÇÃO,fora_periodo,Excluídos fora de 2011–2026,279,279
+7,Identificação,IDENTIFICAÇÃO,dup_removidas,Duplicatas do mesmo estudo removidas (10 pela regra básica + 12 pela ampliação),22,22
+8,Identificação,IDENTIFICAÇÃO,triados,Submetidos à triagem,1083,1083
+9,Triagem por título,TRIAGEM POR TÍTULOS (2 avaliadores; divergência vai ao resumo),titulo,Incluir / Excluir / Incerto,,178 / 628 / 277
+10,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"R1 — resumos recuperados em cascata (OpenAlex, Crossref, detalhes da coleta Scopus, Semantic Scholar) (449 avaliados): incluir / excluir",,258 / 191
+11,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,r2 — consistência pelas regras aprovadas no G-lista (14 avaliados): incluir / excluir,,9 / 5
+12,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"r3 — complementar, candidatos sem resumo real (6 avaliados): incluir / excluir",,5 / 1
+13,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"r3c — continuação da complementar, com o PDF do lote CAFe (3 avaliados): incluir / excluir",,0 / 3
+14,Resultado,RESULTADO FINAL,corpus,CORPUS INCLUÍDO,255,255
+15,Resultado,RESULTADO FINAL,exc_titulo,Excluídos por título,628,628
+16,Resultado,RESULTADO FINAL,exc_resumo,Excluídos por resumo,199,199
+17,Resultado,RESULTADO FINAL,exc_ident,Excluídos por identificação da fonte,0,0
+18,Resultado,RESULTADO FINAL,exc_dup,Excluídos por duplicata do mesmo estudo,0,0
+19,Resultado,RESULTADO FINAL,sem_veredito,Registros sem veredito,1,1
+20,Resultado,RESULTADO FINAL,estudos,Estudos distintos no corpus (entradas do BibTeX),255,255

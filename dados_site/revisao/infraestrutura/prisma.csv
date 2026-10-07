@@ -1,0 +1,22 @@
+ordem,etapa,etapa_rotulo,chave,rotulo,valor,valor_texto
+1,Identificação,IDENTIFICAÇÃO,capes,Brutos CAPES,184,184
+2,Identificação,IDENTIFICAÇÃO,scielo,Brutos SciELO,60,60
+3,Identificação,IDENTIFICAÇÃO,scopus,Brutos Scopus (termos em inglês),358,358
+4,Identificação,IDENTIFICAÇÃO,total,Total bruto,602,602
+5,Identificação,IDENTIFICAÇÃO,unicos,Únicos após deduplicação,490,490
+6,Identificação,IDENTIFICAÇÃO,fora_periodo,Excluídos fora de 2011–2026,75,75
+7,Identificação,IDENTIFICAÇÃO,dup_removidas,Duplicatas do mesmo estudo removidas (6 pela regra básica + 7 pela ampliação),13,13
+8,Identificação,IDENTIFICAÇÃO,triados,Submetidos à triagem,402,402
+9,Triagem por título,TRIAGEM POR TÍTULOS (2 avaliadores independentes + desempate),titulo,Incluir / Excluir / Incerto,,14 / 347 / 41
+10,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, repescagem R2, consistência R3 e régua emendada R4, 2 avaliadores + desempate cada)",rodada,"R1 — resumos recuperados em cascata (OpenAlex, Crossref, detalhes da coleta Scopus, Semantic Scholar) (46 avaliados): incluir / excluir",,33 / 13
+11,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, repescagem R2, consistência R3 e régua emendada R4, 2 avaliadores + desempate cada)",rodada,R2 — repescagem pós-verificação adversarial (23 avaliados): incluir / excluir,,12 / 11
+12,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, repescagem R2, consistência R3 e régua emendada R4, 2 avaliadores + desempate cada)",rodada,R3 — consistência pela régua da infraestrutura como objeto (55 avaliados): incluir / excluir,,30 / 25
+13,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, repescagem R2, consistência R3 e régua emendada R4, 2 avaliadores + desempate cada)",rodada,R4 — régua emendada e definição operacional literal (55 avaliados): incluir / excluir,,33 / 22
+14,Resultado,RESULTADO FINAL,corpus,CORPUS INCLUÍDO,36,36
+15,Resultado,RESULTADO FINAL,exc_titulo,Excluídos por título,347,347
+16,Resultado,RESULTADO FINAL,exc_resumo,Excluídos por resumo,19,19
+17,Resultado,RESULTADO FINAL,arbitragem,Incluídos por arbitragem do coordenador (gate da lista),3,3
+18,Resultado,RESULTADO FINAL,exc_ident,Excluídos por identificação da fonte,0,0
+19,Resultado,RESULTADO FINAL,exc_dup,Excluídos por duplicata do mesmo estudo,0,0
+20,Resultado,RESULTADO FINAL,sem_veredito,Registros sem veredito,0,0
+21,Resultado,RESULTADO FINAL,estudos,Estudos distintos no corpus (entradas do BibTeX),36,36

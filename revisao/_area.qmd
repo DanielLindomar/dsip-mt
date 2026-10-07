@@ -1,0 +1,339 @@
+```{r}
+#| include: false
+# Página de uma área-chave da revisão. A página que inclui este arquivo define AREA (pasta em dados_site/revisao).
+source("_revisao.R")
+M     <- meta_rev(AREA)
+NOME  <- M[["area"]]; DE <- M[["de_area"]]
+N     <- as.integer(M[["n_itens"]])
+itens <- ler_rev("itens_fofa.csv", AREA) |> mutate(dimensao = factor(dimensao, ORDEM_DIM)) |> arrange(dimensao, ordem) |>
+  mutate(dimensao = as.character(dimensao))
+cit   <- ler_rev("citacoes_fofa.csv", AREA)
+pr    <- ler_rev("prisma.csv", AREA)
+est   <- ler_rev("estudos.csv", AREA)
+em    <- ler_rev("estudos_municipio.csv", AREA)
+fm    <- ler_rev("fofa_municipal.csv", AREA)
+comp  <- ler_rev("matriz_complementar.csv", AREA)
+tip   <- ler_rev("tipologia_municipal.csv", AREA)
+pv    <- function(k) { x <- pr$valor[pr$chave == k]; if (length(x) == 1 && !is.na(x)) x else 0L }
+tem   <- function(k) any(pr$chave == k)
+stopifnot(nrow(itens) == N, nrow(fm) == 13 * N, nrow(est) == pv("estudos"))
+ECON  <- AREA == "economica"
+nb    <- num_br
+```
+
+```{r}
+#| results: asis
+if (ECON) {
+  cat(sprintf('::: {.faixa-versao}\nPacote da área econômica regerado em %s, conforme deliberação da coordenação de %s, e reverificado em %s (%s arquivos). Matriz FOFA validada pela coordenação em **%s**. Relatório: [RSE da área econômica, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
+              M[["data_regeracao"]], M[["data_deliberacao"]], M[["data_reverificacao"]], M[["arquivos_pacote"]],
+              M[["data_validacao_matriz"]], M[["rse_pdf"]]))
+} else {
+  cat(sprintf('::: {.faixa-versao}\nPacote da área %s publicado no Drive do projeto em %s (%s arquivos, conferidos por SHA-256 no destino). Matriz FOFA validada pela coordenação em **%s**. Relatório: [RSE da área %s, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
+              DE, M[["data_publicacao_drive"]], nb(as.integer(M[["arquivos_pacote"]])), M[["data_validacao_matriz"]], DE, M[["rse_pdf"]]))
+}
+```
+
+Esta página apresenta a matriz FOFA (forças, oportunidades, fraquezas e ameaças) da área-chave `r DE` dos 13 municípios do Pantanal Norte. A matriz resulta da revisão sistemática; a revisão documental complementar e a FOFA municipal aparecem nas seções finais, separadas da matriz validada. Os estudos do corpus estão em [Estudos do corpus](estudos.qmd#area=`r AREA`).
+
+## Seleção dos estudos
+
+```{r}
+div(class = "kpi-grade",
+  kpi_rev("Registros recuperados", nb(pv("total")),
+          sprintf("CAPES %s · SciELO %s · Scopus %s", nb(pv("capes")), nb(pv("scielo")), nb(pv("scopus")))),
+  kpi_rev("Registros triados", nb(pv("triados")),
+          sprintf("%s únicos, menos %s fora de 2011–2026%s", nb(pv("unicos")), nb(pv("fora_periodo")),
+                  if (pv("dup_removidas") > 0) sprintf(" e %s duplicatas do mesmo estudo", nb(pv("dup_removidas"))) else "")),
+  kpi_rev("Registros incluídos", nb(pv("corpus")), "após triagem por título e por resumo"),
+  kpi_rev("Estudos distintos", nb(pv("estudos")),
+          if (pv("corpus") > pv("estudos")) sprintf("%d registros repetem estudo já incluído", pv("corpus") - pv("estudos")) else "um registro por estudo"))
+```
+
+```{r}
+cx <- function(txt, n, cls = "caixa") div(class = cls, HTML(sprintf("%s<br><b>%s</b>", txt, nb(n))))
+seta <- function() div(class = "seta", "↓")
+excl <- c(exc_titulo = "por título", exc_resumo = "por resumo", exc_ident = "identificação da fonte",
+          exc_dup = "duplicata do mesmo estudo", sem_veredito = "sem veredito")
+excl <- excl[vapply(names(excl), function(k) pv(k) > 0, logical(1))]
+fora_txt <- if (pv("dup_removidas") > 0) "Fora do período 2011–2026 e duplicatas do mesmo estudo" else "Fora do período 2011–2026"
+div(class = "prisma",
+  div(class = "etapa", "Identificação"),
+  cx(sprintf("Registros recuperados nas bases<br><span class='sub'>CAPES %s · SciELO %s · Scopus %s</span>", nb(pv("capes")), nb(pv("scielo")), nb(pv("scopus"))), pv("total")),
+  cx("Duplicatas removidas", pv("total") - pv("unicos"), "caixa excl"),
+  seta(), div(),
+  cx("Registros únicos", pv("unicos")),
+  cx(fora_txt, pv("fora_periodo") + pv("dup_removidas"), "caixa excl"),
+  div(class = "etapa", "Triagem"),
+  cx("Registros triados por título e resumo", pv("triados")),
+  cx(sprintf("Excluídos<br><span class='sub'>%s</span>", paste(sprintf("%s %s", excl, vapply(names(excl), function(k) nb(pv(k)), "")), collapse = " · ")),
+     sum(vapply(names(excl), pv, 0L)), "caixa excl"),
+  seta(), div(),
+  div(class = "etapa", "Inclusão"),
+  cx(if (pv("arbitragem") > 0) sprintf("Registros incluídos no corpus<br><span class='sub'>%s por arbitragem da coordenação</span>", nb(pv("arbitragem"))) else "Registros incluídos no corpus", pv("corpus")),
+  if (pv("corpus") > pv("estudos")) cx("Versões do mesmo estudo (mantidas como um estudo)", pv("corpus") - pv("estudos"), "caixa excl") else div(),
+  seta(), div(),
+  cx("<b style='font-size:1rem'>Estudos distintos analisados</b>", pv("estudos")), div())
+```
+
+<details><summary>Ver todos os números do fluxo em tabela</summary>
+
+```{r}
+reactable(pr |> transmute(etapa, rotulo, valor = ifelse(nzchar(valor_texto), valor_texto, as.character(valor))),
+  theme = tema_rev, compact = TRUE, sortable = FALSE, pagination = FALSE, groupBy = "etapa", defaultExpanded = TRUE,
+  columns = list(etapa = colDef(name = "Etapa", minWidth = 110),
+                 rotulo = colDef(name = "Registro", minWidth = 380),
+                 valor = colDef(name = "Quantidade", minWidth = 110, align = "right", aggregate = NULL)))
+```
+
+</details>
+
+```{r}
+#| results: asis
+regra <- function(e) { r <- unique(pr$etapa_rotulo[pr$etapa == e]); if (length(r)) sub("^[^(]*\\((.*)\\)\\s*$", "\\1", r[1]) else "" }
+cat(sprintf("::: {.nota-fonte}\nFonte: planilha de triagem e fluxo PRISMA do pacote da área %s (Anexo B da revisão sistemática). %s. Triagem por título: %s. Triagem por resumo: %s.%s\n:::\n",
+            DE, M[["datas_prisma"]], regra("Triagem por título"), regra("Triagem por resumo"),
+            if (pv("corpus") > pv("estudos")) sprintf(" Os %d registros incluídos correspondem a %d estudos distintos: %d registros são versões do mesmo estudo em outra língua ou outra base, mantidas no corpus por deliberação da coordenação de 21/09/2026.",
+                                                     pv("corpus"), pv("estudos"), pv("corpus") - pv("estudos")) else ""))
+```
+
+## A matriz em quadrantes
+
+```{r}
+#| results: asis
+por_q <- table(factor(itens$dimensao, ORDEM_DIM))
+cat(sprintf("Os %d itens validados: %d forças, %d oportunidades, %d fraquezas e %d ameaças. Clique em um item para ver a proposição completa, a ressalva e como verificá-lo em campo. Os selos mostram a confiança e a ancoragem territorial da evidência.\n\n",
+            N, por_q[[1]], por_q[[2]], por_q[[3]], por_q[[4]]))
+```
+
+```{r}
+cls_q <- c("Forças" = "forcas", "Oportunidades" = "oportunidades", "Fraquezas" = "fraquezas", "Ameaças" = "ameacas")
+sub_q <- c("Forças" = "internas, favoráveis", "Oportunidades" = "externas, favoráveis",
+           "Fraquezas" = "internas, desfavoráveis", "Ameaças" = "externas, desfavoráveis")
+limpa <- function(x) { x <- gsub('"{2,}', '"', x); sub("^(\\p{Ll})", "\\U\\1", x, perl = TRUE) }
+quadrante <- function(d) {
+  it <- itens[itens$dimensao == d, ]
+  it$expressao_original <- limpa(it$expressao_original); it$proposicao <- limpa(it$proposicao)
+  div(class = paste("fofa-q", cls_q[[d]]),
+    h4(d, span(class = "sub", paste0(" (", sub_q[[d]], ")"))),
+    lapply(seq_len(nrow(it)), function(i) tags$details(
+      tags$summary(tags$b(it$item_id[i]), it$expressao_original[i],
+                   span(class = "selo", paste("confiança", it$confianca[i])),
+                   span(class = "selo", it$ancoragem[i])),
+      div(class = "fofa-det",
+          p(it$proposicao[i]),
+          if (nzchar(it$ressalva[i])) p(strong("Ressalva: "), it$ressalva[i]),
+          if (nzchar(it$como_verificar[i])) p(strong("Como verificar em campo: "), it$como_verificar[i]),
+          p(class = "sub", sprintf("Lastro: %s estudos · convergência %s · citação principal: %s",
+                                   it$lastro_estudos[i], it$convergencia[i], it$fonte_principal[i]))))))
+}
+div(class = "fofa-quadro", lapply(ORDEM_DIM, quadrante))
+```
+
+## Os `r N` itens em tabela
+
+Cada item é uma proposição verificável. As colunas da tabela têm o seguinte significado:
+
+- **Lastro**: número de estudos distintos do corpus que sustentam o item, obtido pelo mapeamento das `r M[["sistematica_evidencias"]]` evidências extraídas contra os `r N` itens por dois mapeadores independentes (adotou-se a interseção).
+- **Convergência**: em quantas de três execuções independentes da síntese o item apareceu (3/3, 2/3 ou 1/3).
+- **Confiança**: critério composto de lastro e convergência. Lastro de 10 ou mais estudos vale 2 pontos, de 5 a 9 vale 1, de 4 ou menos vale 0; convergência 3/3 vale 2, 2/3 vale 1, 1/3 vale 0. Alta: 3 ou mais pontos; média: 2; baixa: 1 ou menos.
+- **Ancoragem**: território em que a evidência das citações exibidas foi produzida (Mato Grosso; Mato Grosso em parte; Pantanal Sul, em Mato Grosso do Sul, e outros territórios; Pantanal sem território definido). A ancoragem é independente da confiança.
+- **Verificável**: se o item pode ser verificado em campo.
+
+Clique em uma linha para ver a proposição completa, a ressalva, o modo de verificação em campo e as citações exibidas (`r nrow(cit)` no total, de `r M[["obras_citadas"]]` obras), com autor, ano e link para o DOI.
+
+```{r}
+detalhe_item <- function(i) {
+  it <- itens[i, ]; cs <- cit[cit$item_id == it$item_id, ] |> arrange(ordem_citacao)
+  div(style = "padding: .7rem 1.1rem; font-size: .88rem; line-height: 1.45;",
+    p(strong("Proposição verificável: "), it$proposicao),
+    p(strong("Expressão na matriz validada: "), it$expressao_original),
+    p(strong("Municípios do recorte citados nas fontes do item: "),
+      if (nzchar(it$municipios_citados)) it$municipios_citados else "nenhum"),
+    if (nzchar(it$abrangencia_detalhe)) p(strong("Escala e UF das evidências: "), it$abrangencia_detalhe),
+    p(strong("Ressalva: "), it$ressalva),
+    p(strong("Como verificar em campo: "), it$como_verificar),
+    p(strong(sprintf("Citações exibidas (%d):", nrow(cs)))),
+    tags$ol(style = "margin-bottom: 0;", lapply(seq_len(nrow(cs)), function(j) tags$li(
+      style = "margin-bottom: .35rem;",
+      tags$q(cs$citacao[j]), " — ",
+      link_ext(cs$url[j], cs$autor_ano[j]),
+      if (nzchar(cs$local[j])) paste0(", ", ifelse(cs$local[j] == "resumo", "resumo indexado", cs$local[j])),
+      ". ", span(class = "nota-fonte", paste0("Conferência: ", cs$conferencia[j], ".")),
+      if (nzchar(cs$vinculo_estudo[j])) span(class = "nota-fonte", paste0(" Vínculo: ", cs$vinculo_estudo[j], "."))))))
+}
+tab_itens <- itens |>
+  transmute(item_id, dimensao, expressao_original, lastro_estudos, confianca, convergencia, ancoragem, verificavel_campo)
+reactable(tab_itens, elementId = "tab-itens", theme = tema_rev, compact = TRUE, wrap = TRUE,
+  searchable = TRUE, filterable = TRUE, defaultPageSize = 10, showPageSizeOptions = TRUE,
+  pageSizeOptions = c(10, 20, N), onClick = "expand", rowStyle = list(cursor = "pointer"),
+  language = reactableLang(searchPlaceholder = "Buscar", noData = "Nenhum item", pageInfo = "{rowStart}–{rowEnd} de {rows} itens",
+                           pagePrevious = "Anterior", pageNext = "Próxima", pageSizeOptions = "Mostrar {rows}"),
+  details = detalhe_item,
+  columns = list(
+    item_id = colDef(name = "Item", minWidth = 75, filterable = FALSE),
+    dimensao = colDef(name = "Dimensão", minWidth = 115, filterInput = filtro_select("tab-itens", ORDEM_DIM), filterMethod = filtro_igual),
+    expressao_original = colDef(name = "Item (expressão validada)", minWidth = 280, filterable = FALSE),
+    lastro_estudos = colDef(name = "Lastro (estudos)", minWidth = 80, align = "right", filterable = FALSE),
+    confianca = colDef(name = "Confiança", minWidth = 95, filterInput = filtro_select("tab-itens", c("alta", "média", "baixa")), filterMethod = filtro_igual),
+    convergencia = colDef(name = "Convergência", minWidth = 100, filterInput = filtro_select("tab-itens", c("3/3", "2/3", "1/3")), filterMethod = filtro_igual),
+    ancoragem = colDef(name = "Ancoragem", minWidth = 150, filterInput = filtro_select("tab-itens"), filterMethod = filtro_igual),
+    verificavel_campo = colDef(name = "Verificável em campo", minWidth = 90, filterInput = filtro_select("tab-itens"), filterMethod = filtro_igual)))
+```
+
+```{r}
+#| results: asis
+cf <- table(factor(itens$confianca, c("alta", "média", "baixa")))
+cv <- table(factor(itens$convergencia, c("3/3", "2/3", "1/3")))
+an <- table(factor(itens$ancoragem, c("Mato Grosso", "Mato Grosso (parcial)", "Pantanal Sul (MS) e outros", "Pantanal genérico")))
+cat(sprintf("Distribuição: confiança alta em %d itens, média em %d e baixa em %d; convergência 3/3 em %d, 2/3 em %d e 1/3 em %d; ancoragem em Mato Grosso em %d itens, em parte em Mato Grosso em %d, predominantemente no Pantanal Sul ou em outros territórios em %d%s; %d itens verificáveis em campo.\n\n",
+            cf[[1]], cf[[2]], cf[[3]], cv[[1]], cv[[2]], cv[[3]], an[[1]], an[[2]], an[[3]],
+            if (an[[4]] > 0) sprintf(" e no Pantanal sem território definido em %d", an[[4]]) else "",
+            sum(itens$verificavel_campo == "Sim")))
+nao_loc <- sum(grepl("não localizada", cit$conferencia))
+cat(sprintf('::: {.nota-fonte}\nFonte: Matriz FOFA em formato integrado e planilha dos quadros FOFA (Anexo A) do pacote da área %s. As citações exibidas são trechos curtos dos estudos, reproduzidos com indicação de autor e fonte para fins de estudo e crítica (Lei 9.610/1998, art. 46, III). As citações foram conferidas contra o texto original: %d no PDF, %d no resumo indexado e %d no PDF com variação decorrente da extração de texto%s. Dados em CSV: [itens](../arquivos/revisao/%s/itens_fofa.csv) · [citações](../arquivos/revisao/%s/citacoes_fofa.csv).\n:::\n',
+            DE, sum(cit$conferencia == "confirmada no PDF"), sum(cit$conferencia == "confirmada no resumo indexado"),
+            sum(grepl("variação", cit$conferencia)),
+            if (nao_loc > 0) sprintf("; %d não localizada pelo conferidor automático e conferida à mão, conforme o relatório da área", nao_loc) else "",
+            AREA, AREA))
+```
+
+## Ancoragem por município
+
+A tabela conta, para cada município do recorte, quantos dos `r nb(nrow(est))` estudos do corpus o citam pelo nome (no título, no resumo ou nas evidências extraídas do estudo) e em quantos dos `r N` itens as fontes citadas mencionam o município.
+
+```{r}
+anc <- tip |> select(id_municipio, municipio, slug) |>
+  left_join(em |> count(id_municipio, name = "estudos"), by = "id_municipio") |>
+  mutate(estudos = coalesce(estudos, 0L),
+         itens = vapply(municipio, function(m) sum(vapply(strsplit(itens$municipios_citados, ";\\s*"), function(v) m %in% v, logical(1))), integer(1))) |>
+  arrange(desc(estudos), municipio)
+zeros <- anc$municipio[anc$estudos == 0]
+reactable(anc |> select(municipio, slug, estudos, itens), theme = tema_rev, compact = TRUE, pagination = FALSE,
+  rowStyle = function(i) if (anc$estudos[i] == 0) list(background = "#fde2e2"),
+  columns = list(
+    municipio = colDef(name = "Município", minWidth = 200,
+                       cell = function(v, i) a(href = paste0("../municipios/", anc$slug[i], ".html"), v)),
+    slug = colDef(show = FALSE),
+    estudos = colDef(name = "Estudos do corpus que citam o município", minWidth = 150, align = "right",
+                     cell = function(v) if (v == 0) strong("nenhum") else v),
+    itens = colDef(name = "Itens cujas fontes mencionam o município", minWidth = 170, align = "right")))
+```
+
+```{r}
+#| results: asis
+lista <- function(x) if (length(x) <= 1) x else paste(paste(head(x, -1), collapse = ", "), "e", tail(x, 1))
+if (length(zeros)) {
+  cat(sprintf("Nenhum estudo do corpus cita %s (linhas destacadas). %s da revisão complementar e da pesquisa de campo para qualquer afirmação municipal. ",
+              lista(zeros), if (length(zeros) == 1) "Esse município depende" else "Esses municípios dependem"))
+}
+cat(sprintf("Ao todo, %s dos %s estudos citam ao menos um município do recorte.\n\n", nb(n_distinct(em$chave)), nb(nrow(est))))
+```
+
+Recorte geográfico dos `r nb(nrow(est))` estudos distintos do corpus:
+
+```{r}
+rg <- est |> count(recorte_geografico, name = "estudos") |> arrange(desc(estudos)) |>
+  mutate(pct = estudos / sum(estudos))
+reactable(rg, theme = tema_rev, compact = TRUE, pagination = FALSE, sortable = FALSE,
+  columns = list(recorte_geografico = colDef(name = "Recorte geográfico do estudo", minWidth = 260),
+                 estudos = colDef(name = "Estudos", align = "right", minWidth = 80),
+                 pct = colDef(name = "%", align = "right", minWidth = 70, cell = function(v) pct_br(v, 0))))
+```
+
+::: {.nota-fonte}
+Fonte: análise geográfica do corpus (identificação lexical dos municípios e territórios citados em cada registro), consolidada por estudo distinto. A classificação de cada estudo segue a do registro principal do estudo.
+:::
+
+## Matriz complementar (revisão documental)
+
+```{r}
+#| results: asis
+if (ECON) {
+  cat(sprintf('::: {.callout-warning title="Advertência de uso"}\n%s\n:::\n', M[["advertencia_complementar"]]))
+} else if (nzchar(M[["complementar_nao_cobre"]])) {
+  cat(sprintf('::: {.callout-warning title="O que a matriz complementar não cobre"}\n%s\n\nA matriz é o mapa do que um acervo determinado registra, e não um diagnóstico completo da área: o silêncio do acervo sobre um município não significa ausência do fenômeno.\n:::\n',
+              gsub("—\\s*$", "", M[["complementar_nao_cobre"]])))
+}
+```
+
+A matriz complementar reúne `r nrow(comp)` itens extraídos do acervo documental (`r M[["resumo_complementar"]]`). Ela não altera os `r N` itens da matriz validada: `r sum(comp$corresponde_a != "Item novo")` itens correspondem a um item da matriz validada e `r sum(comp$corresponde_a == "Item novo")` são itens novos. A coluna "Fontes" conta observações independentes e não documentos: documentos que repetem o mesmo parágrafo com outro topônimo contam como uma observação. A rodada 1 varreu todo o acervo; a rodada 2 tratou lacunas temáticas indicadas pela auditoria de completude.
+
+```{r}
+detalhe_comp <- function(i) {
+  x <- comp[i, ]
+  div(style = "padding: .6rem 1.1rem; font-size: .88rem; line-height: 1.45;",
+    p(strong("Proposição verificável: "), x$proposicao),
+    if (nzchar(x$lacuna_tematica)) p(strong("Lacuna temática (rodada 2): "), x$lacuna_tematica),
+    p(strong("Municípios nomeados nas fontes: "), if (nzchar(x$municipios_nomeados)) x$municipios_nomeados else "nenhum"),
+    if (nzchar(x$auditoria)) p(strong("Auditoria: "), x$auditoria, "."),
+    if (nzchar(x$clausula_insuficiencia)) p(strong("Cláusula de insuficiência: "), x$clausula_insuficiencia))
+}
+reactable(comp |> select(codigo, dimensao, proposicao, corresponde_a, fontes_obs_independentes, documentos,
+                         abrangencia, confianca, convergencia),
+  elementId = "tab-comp", theme = tema_rev, compact = TRUE, wrap = TRUE, searchable = TRUE, filterable = TRUE,
+  defaultPageSize = 10, showPageSizeOptions = TRUE, pageSizeOptions = c(10, 25, nrow(comp)),
+  onClick = "expand", rowStyle = list(cursor = "pointer"), details = detalhe_comp,
+  language = reactableLang(searchPlaceholder = "Buscar", noData = "Nenhum item", pageInfo = "{rowStart}–{rowEnd} de {rows} itens",
+                           pagePrevious = "Anterior", pageNext = "Próxima", pageSizeOptions = "Mostrar {rows}"),
+  columns = list(
+    codigo = colDef(name = "Cód.", minWidth = 60, filterable = FALSE),
+    dimensao = colDef(name = "Dimensão", minWidth = 115, filterInput = filtro_select("tab-comp", ORDEM_DIM), filterMethod = filtro_igual),
+    proposicao = colDef(name = "Proposição verificável", minWidth = 320, filterable = FALSE),
+    corresponde_a = colDef(name = "Corresponde a", minWidth = 100, filterInput = filtro_select("tab-comp", "Item novo"), filterMethod = filtro_igual),
+    fontes_obs_independentes = colDef(name = "Fontes (obs. indep.)", minWidth = 80, align = "right", filterable = FALSE),
+    documentos = colDef(name = "Docs.", minWidth = 60, align = "right", filterable = FALSE),
+    abrangencia = colDef(name = "Abrangência", minWidth = 110, filterInput = filtro_select("tab-comp"), filterMethod = filtro_igual),
+    confianca = colDef(name = "Confiança", minWidth = 90, filterInput = filtro_select("tab-comp", c("alta", "média", "baixa")), filterMethod = filtro_igual),
+    convergencia = colDef(name = "Convergência", minWidth = 95, filterInput = filtro_select("tab-comp", c("3/3", "2/3", "1/3")), filterMethod = filtro_igual)))
+```
+
+```{r}
+#| results: asis
+cat(sprintf("::: {.nota-fonte}\nFonte: Matriz complementar (Anexo D da revisão complementar) do pacote da área %s. Os documentos do acervo e da busca dirigida, os textos extraídos deles e a base de evidências não são publicados neste site. Dados em CSV: [matriz complementar](../arquivos/revisao/%s/matriz_complementar.csv).\n:::\n", DE, AREA))
+```
+
+## FOFA municipal
+
+A FOFA municipal cruza os `r N` itens da matriz validada com cada um dos 13 municípios e atribui a cada par um status de evidência. Os status vêm das revisões sistemática e complementar e da tipologia municipal da área; nenhum resulta de verificação em campo.
+
+| Status | O que significa | Como usar |
+|---|---|---|
+| DOCUMENTADO | Fonte direta nomeia o município ao tratar do item | Achado. Pode ser afirmado. |
+| REGIONAL | Fonte de escala supramunicipal cobre o município, sem nomeá-lo neste ponto | Achado com ressalva de escala. |
+| INFERIDO <span class="rotulo-hipotese">hipótese de campo</span> | Similaridade estrutural com município documentado, segundo a tipologia municipal; a base de cada par nomeia o município de referência e o critério | Hipótese. Verificar em campo. Não conta como evidência em nenhuma contagem de lastro. |
+| CONTRAINDICADO | Indicador municipal da Fase I refuta o item | Achado negativo. |
+| NÃO AVALIADO | Sem base para afirmar ou negar | Lacuna declarada. |
+
+```{r}
+res <- fm |> count(id_municipio, status) |>
+  tidyr::pivot_wider(names_from = status, values_from = n, values_fill = 0)
+for (s in ORDEM_STATUS) if (!s %in% names(res)) res[[s]] <- 0L
+res <- tip |> select(id_municipio, municipio, slug, grupo, posicao_bioma) |>
+  left_join(res, by = "id_municipio") |>
+  mutate(base_factual = (DOCUMENTADO + REGIONAL + CONTRAINDICADO) / N) |>
+  arrange(desc(base_factual), municipio)
+stopifnot(all(rowSums(res[, ORDEM_STATUS]) == N))
+col_n <- function(nome, minWidth = 85, ...) colDef(name = nome, align = "right", minWidth = minWidth, ...)
+reactable(res |> select(municipio, slug, grupo, posicao_bioma, all_of(ORDEM_STATUS), base_factual),
+  theme = tema_rev, compact = TRUE, wrap = TRUE, pagination = FALSE,
+  columns = list(
+    municipio = colDef(name = "Município", minWidth = 170,
+                       cell = function(v, i) a(href = paste0("../municipios/", res$slug[i], ".html"), v)),
+    slug = colDef(show = FALSE),
+    grupo = colDef(name = M[["rotulo_grupo"]], minWidth = 170, style = list(fontSize = "0.8rem")),
+    posicao_bioma = colDef(name = "Posição no bioma", minWidth = 110, style = list(fontSize = "0.8rem")),
+    DOCUMENTADO = col_n("Documentado"),
+    REGIONAL = col_n("Regional"),
+    INFERIDO = col_n("Inferido", header = function(v) tagList("Inferido ", span(class = "rotulo-hipotese", "hipótese de campo")), minWidth = 110),
+    CONTRAINDICADO = col_n("Contraindicado", minWidth = 105),
+    `NÃO AVALIADO` = col_n("Não avaliado"),
+    base_factual = colDef(name = "Base factual", align = "right", minWidth = 80, cell = function(v) pct_br(v, 1))))
+```
+
+```{r}
+#| results: asis
+tot <- table(factor(fm$status, ORDEM_STATUS))
+cat(sprintf("Nos %s pares município × item: %d documentados, %d regionais, %d inferidos, %d contraindicados e %d não avaliados. A base factual soma documentado, regional e contraindicado, isto é, o que se apoia em fonte ou em dado, e não em similaridade. O item a item de cada município está na página do município (link na tabela).\n\n",
+            nb(nrow(fm)), tot[["DOCUMENTADO"]], tot[["REGIONAL"]], tot[["INFERIDO"]], tot[["CONTRAINDICADO"]], tot[["NÃO AVALIADO"]]))
+cat(sprintf("::: {.nota-fonte}\nFonte: Matriz cruzada municipal (Anexo B da revisão complementar) e tipologia municipal do pacote da área %s. Dados em CSV: [FOFA municipal](../arquivos/revisao/%s/fofa_municipal.csv).\n:::\n", DE, AREA))
+```

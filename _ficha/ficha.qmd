@@ -21,7 +21,6 @@ execute:
 #| include: false
 Sys.setenv(QUARTO_PROJECT_DIR = params$raiz)
 source(file.path(params$raiz, "R", "funcoes.R"))
-library(ggplot2)
 MUN_ID <- as.integer(params$id)
 M <- MUN[MUN$id_municipio == MUN_ID, ]; NOME <- M$municipio
 pop <- resumo_ind("populacao", MUN_ID); pib <- resumo_ind("pib_real", MUN_ID); emp <- resumo_ind("empregos_formais", MUN_ID)
@@ -68,10 +67,10 @@ As comparações usam a mediana dos 13 municípios do Pantanal Norte (PN-13) e a
 #| dpi: 200
 g <- GEO |> dplyr::mutate(cat = dplyr::case_when(id_municipio == MUN_ID ~ "a", grupo == "pantanal_norte" ~ "b", TRUE ~ "c"))
 bb <- sf::st_bbox(GEO[GEO$grupo == "pantanal_norte", ])
-ggplot(g) + geom_sf(aes(fill = cat), color = "white", linewidth = 0.15) +
-  scale_fill_manual(values = c(a = "#1E2761", b = "#7FAEDB", c = "#E5E7EB"), guide = "none") +
-  coord_sf(xlim = c(bb[["xmin"]] - .3, bb[["xmax"]] + .3), ylim = c(bb[["ymin"]] - .3, bb[["ymax"]] + .3), expand = FALSE) +
-  theme_void()
+# gráfico base do sf (o ggplot2 depende do S7, cuja DLL o controle de aplicativos do Windows bloqueia desde out/2026)
+par(mar = c(0, 0, 0, 0))
+plot(sf::st_geometry(g), col = c(a = "#1E2761", b = "#7FAEDB", c = "#E5E7EB")[g$cat], border = "white", lwd = 0.4,
+     xlim = c(bb[["xmin"]] - .3, bb[["xmax"]] + .3), ylim = c(bb[["ymin"]] - .3, bb[["ymax"]] + .3), xaxs = "i", yaxs = "i")
 ```
 :::
 ::::
@@ -91,25 +90,32 @@ for (d in names(DIMS)) {
 }
 ```
 
-## Revisão de literatura (área econômica)
+## Revisão de literatura (cinco áreas-chave)
 
 ```{r}
 #| results: asis
-f_rev <- ds("revisao", "fofa_municipal.csv"); f_est <- ds("revisao", "estudos_municipio.csv")
-if (file.exists(f_rev)) {
-  fm <- ler(f_rev); fm <- fm[fm$id_municipio == MUN_ID, ]
-  cont <- fm |> dplyr::count(status) |> dplyr::arrange(dplyr::desc(n))
-  cat("Situação dos 40 itens da matriz FOFA econômica para o município (revisão complementar, ago/2026; nenhum município havia sido visitado em campo até 21/09/2026; INFERIDO = hipótese de campo): ",
-      paste0(cont$status, " ", cont$n, collapse = "; "), ".\n\n", sep = "")
-  doc <- fm[fm$status == "DOCUMENTADO", ]
-  if (nrow(doc)) cat("**Itens documentados para o município:**\n\n", paste0("- ", doc$item_id, " (", doc$dimensao, "): ", doc$proposicao, collapse = "\n"), "\n\n", sep = "")
-}
-if (file.exists(f_est)) {
-  es <- ler(f_est); es <- es[es$id_municipio == MUN_ID, ]
-  if (nrow(es) == 0) cat("**Nenhum dos 225 estudos do corpus econômico cita o município** — prioridade para a pesquisa de campo.\n")
-  else cat(sprintf("**Estudos do corpus que citam o município (%d):**\n\n", nrow(es)),
-           paste0("- ", es$autores, " (", es$ano, "). ", es$titulo, ".", collapse = "\n"), "\n", sep = "")
-}
+AREAS_F <- c(economica = "Econômica", infraestrutura = "Infraestrutura", `setor-publico` = "Setor Público",
+             sociodemografica = "Sociodemográfica", ambiental = "Ambiental")
+ORD_F <- c("DOCUMENTADO", "REGIONAL", "INFERIDO", "CONTRAINDICADO", "NÃO AVALIADO")
+lin <- vapply(names(AREAS_F), function(a) {
+  fm <- ler(ds("revisao", a, "fofa_municipal.csv")); fm <- fm[fm$id_municipio == MUN_ID, ]
+  es <- ler(ds("revisao", a, "estudos_municipio.csv")); es <- es[es$id_municipio == MUN_ID, ]
+  t <- table(factor(fm$status, ORD_F))
+  sprintf("| %s | %d | %d | %d | %d | %d | %d | %d |", AREAS_F[[a]], nrow(fm), t[[1]], t[[2]], t[[3]], t[[4]], t[[5]], nrow(es))
+}, "")
+cat("Situação dos itens da matriz FOFA de cada área para o município (FOFA municipal; nenhum status resulta de verificação em campo; INFERIDO = hipótese de campo):
+
+",
+    "| Área | Itens | Documentado | Regional | Inferido | Contraindicado | Não avaliado | Estudos que citam o município |
+",
+    "|---|---:|---:|---:|---:|---:|---:|---:|
+", paste(lin, collapse = "
+"), "
+
+",
+    "Itens, bases e estudos de cada área: página do município no site do projeto, seção Revisão de literatura.
+
+", sep = "")
 ```
 
 ---

@@ -8,12 +8,18 @@ RAIZ_REV <- Sys.getenv("QUARTO_PROJECT_DIR", "..")
 DIR_REV  <- file.path(RAIZ_REV, "dados_site", "revisao")
 source(file.path(RAIZ_REV, "R", "idioma.R"))
 
-ler_rev <- function(f) {
-  x <- tibble::as_tibble(data.table::fread(file.path(DIR_REV, f), encoding = "UTF-8"))
+# Cada área tem sua pasta em dados_site/revisao/<área>; situacao_areas.csv fica na raiz.
+AREAS_REV <- c(economica = "Econômica", infraestrutura = "Infraestrutura", `setor-publico` = "Setor Público",
+               sociodemografica = "Sociodemográfica", ambiental = "Ambiental")
+
+ler_rev <- function(f, area = NULL) {
+  p <- if (is.null(area)) file.path(DIR_REV, f) else file.path(DIR_REV, area, f)
+  cc <- if (f == "prisma.csv") list(character = "valor_texto") else NULL
+  x <- tibble::as_tibble(data.table::fread(p, encoding = "UTF-8", colClasses = cc))
   mutate(x, across(where(is.character), ~ ifelse(is.na(.x), "", .x)))
 }
 
-meta_rev <- function() { m <- ler_rev("metadados_pacote.csv"); setNames(m$valor, m$chave) }
+meta_rev <- function(area) { m <- ler_rev("metadados.csv", area); setNames(m$valor, m$chave) }
 
 num_br <- function(x) format(x, big.mark = ".", decimal.mark = ",", trim = TRUE, scientific = FALSE)
 pct_br <- function(x, d = 1) paste0(formatC(100 * x, format = "f", digits = d, decimal.mark = ","), "%")

@@ -1,0 +1,11 @@
+---
+title: "Área ambiental — matriz FOFA"
+description: "Matriz FOFA da área-chave ambiental do Projeto DSIP-MT: itens validados, citações, ancoragem por município, matriz complementar e FOFA municipal"
+---
+
+```{r}
+#| include: false
+AREA <- "ambiental"
+```
+
+{{< include _area.qmd >}}

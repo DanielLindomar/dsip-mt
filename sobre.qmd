@@ -32,7 +32,7 @@ O estudo cobre 13 municípios, definidos institucionalmente no convênio: Barão
 ## Etapas
 
 1. **Fase I (concluída em julho de 2026):** coleta e tratamento de bases públicas e Relatórios Parciais I das seis dimensões.
-2. **Revisão de literatura (em andamento):** matriz FOFA (forças, oportunidades, fraquezas e ameaças) por área-chave. A área econômica foi concluída; as demais estão em execução.
+2. **Revisão de literatura (concluída em outubro de 2026):** matriz FOFA (forças, oportunidades, fraquezas e ameaças) por área-chave. As cinco áreas (econômica, infraestrutura, setor público, sociodemográfica e ambiental) foram concluídas e seus pacotes publicados no Drive do projeto.
 3. **Pesquisa de campo e Parciais II:** verificação das hipóteses nos municípios.
 4. **Relatórios gerais e relatórios executivos municipais** (13), com diretrizes para o desenvolvimento.
 5. **Painéis e website** para divulgação dos resultados.

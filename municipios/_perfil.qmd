@@ -6,8 +6,6 @@ NOME <- M$municipio
 pop  <- resumo_ind("populacao", MUN_ID)
 pib  <- resumo_ind("pib_real", MUN_ID)
 emp  <- resumo_ind("empregos_formais", MUN_ID)
-f_rev <- ds("revisao", "fofa_municipal.csv")
-f_est <- ds("revisao", "estudos_municipio.csv")
 TUR  <- ler(ds("turismo_info.csv")); TUR <- TUR[TUR$id_municipio == MUN_ID, ]
 txt_tur <- if (nrow(TUR)) {
   reg <- if (grepl("^Sem Regi", TUR$regiao_turistica)) "o município não integrava região turística" else paste0("o município integrava a ", TUR$regiao_turistica)
@@ -96,55 +94,92 @@ tabela_dim("D6", MUN_ID, NOME)
 fonte_rodape()
 ```
 
-## Revisão de literatura (área econômica)
+## Revisão de literatura
 
 ```{r}
-#| results: asis
-if (file.exists(f_rev)) {
-  fm <- ler(f_rev); fm <- fm[fm$id_municipio == MUN_ID, ]
-  cont <- fm |> count(status) |> arrange(desc(n))
-  cat(sprintf("A FOFA municipal cruza os 40 itens da matriz econômica com a evidência disponível para %s. ", NOME),
-      "Os status vêm da revisão complementar (ago/2026); **nenhum município havia sido visitado em campo até 21/09/2026**, ",
-      "por isso os itens INFERIDO são hipóteses a verificar no campo.\n\n", sep = "")
-  cat(paste0("- **", cont$status, "**: ", cont$n, ifelse(cont$n == 1, " item", " itens"), collapse = "\n"), "\n\n")
-} else {
-  cat("A FOFA municipal ainda não foi carregada nesta versão do site.\n\n")
+#| include: false
+AREAS_PERFIL <- c(economica = "Econômica", infraestrutura = "Infraestrutura", `setor-publico` = "Setor Público",
+                  sociodemografica = "Sociodemográfica", ambiental = "Ambiental")
+ORD_ST <- c("DOCUMENTADO", "REGIONAL", "INFERIDO", "CONTRAINDICADO", "NÃO AVALIADO")
+rev_area <- function(a) {
+  fm <- ler(ds("revisao", a, "fofa_municipal.csv")); es <- ler(ds("revisao", a, "estudos_municipio.csv"))
+  n_est <- nrow(ler(ds("revisao", a, "estudos.csv")))
+  list(fm = fm[fm$id_municipio == MUN_ID, ], es = es[es$id_municipio == MUN_ID, ], n_est = n_est)
 }
-```
-
-```{r}
-if (file.exists(f_rev)) {
-  ord <- c("DOCUMENTADO", "REGIONAL", "INFERIDO", "CONTRAINDICADO", "NÃO AVALIADO")
-  fm2 <- fm |> mutate(ordem = match(status, ord)) |> arrange(ordem, item_id) |>
+REV <- lapply(names(AREAS_PERFIL), rev_area); names(REV) <- names(AREAS_PERFIL)
+bloco_rev <- function(a) {
+  r <- REV[[a]]; fm <- r$fm; es <- r$es[order(-r$es$ano), ]
+  cont <- table(factor(fm$status, ORD_ST))
+  fm2 <- fm |> mutate(ordem = match(status, ORD_ST)) |> arrange(ordem, item_id) |>
     select(Item = item_id, Dimensão = dimensao, Proposição = proposicao, Status = status, Base = base)
-  reactable(fm2, compact = TRUE, searchable = TRUE, defaultPageSize = 10,
-            groupBy = "Status", wrap = TRUE,
-            columns = list(Item = colDef(minWidth = 70), Dimensão = colDef(minWidth = 95),
-                           Proposição = colDef(minWidth = 320),
-                           Status = colDef(minWidth = 110,
-                             cell = function(v) if (identical(v, "INFERIDO"))
-                               tagList(v, " ", span(class = "rotulo-hipotese", "hipótese de campo")) else v),
-                           Base = colDef(minWidth = 160, style = list(fontSize = "0.82em", color = "#6b7280"))))
+  tagList(
+    p(sprintf("A FOFA municipal da área cruza os %d itens da matriz com a evidência disponível para %s: ", nrow(fm), NOME),
+      HTML(paste(sprintf("<b>%s</b> %d", tolower(names(cont)), as.integer(cont)), collapse = " · ")), "."),
+    reactable(fm2, compact = TRUE, searchable = TRUE, defaultPageSize = 10, groupBy = "Status", wrap = TRUE,
+              columns = list(Item = colDef(minWidth = 70), Dimensão = colDef(minWidth = 95),
+                             Proposição = colDef(minWidth = 320),
+                             Status = colDef(minWidth = 110,
+                               cell = function(v) if (identical(v, "INFERIDO"))
+                                 tagList(v, " ", span(class = "rotulo-hipotese", "hipótese de campo")) else v),
+                             Base = colDef(minWidth = 160, style = list(fontSize = "0.82em", color = "#6b7280")))),
+    if (nrow(es) == 0) p(strong(sprintf("Nenhum dos %s estudos do corpus da área cita %s.", num(r$n_est, 0), NOME)),
+                         " O município é prioridade para a pesquisa de campo nesta área.")
+    else tagList(p(strong(sprintf("Estudos do corpus da área que citam %s (%d):", NOME, nrow(es)))),
+                 tags$ul(lapply(seq_len(nrow(es)), function(j) tags$li(
+                   paste0(es$autores[j], " (", es$ano[j], "). "),
+                   if (nchar(es$url[j]) > 0) a(href = es$url[j], target = "_blank", rel = "noopener", es$titulo[j]) else es$titulo[j])))),
+    p(class = "nota-fonte", "Matriz completa, citações e método em ",
+      a(href = paste0("../revisao/", a, ".html"), paste("Revisão de literatura — área", c(economica = "econômica", infraestrutura = "de infraestrutura", `setor-publico` = "do setor público", sociodemografica = "sociodemográfica", ambiental = "ambiental")[[a]])), "."))
 }
+res_rev <- bind_rows(lapply(names(AREAS_PERFIL), function(a) {
+  t <- table(factor(REV[[a]]$fm$status, ORD_ST))
+  tibble::tibble(Área = AREAS_PERFIL[[a]], Itens = nrow(REV[[a]]$fm), Documentado = t[["DOCUMENTADO"]], Regional = t[["REGIONAL"]],
+                 Inferido = t[["INFERIDO"]], Contraindicado = t[["CONTRAINDICADO"]], `Não avaliado` = t[["NÃO AVALIADO"]],
+                 `Estudos que citam o município` = nrow(REV[[a]]$es))
+}))
 ```
+
+As FOFAs municipais das cinco áreas-chave cruzam os itens de cada matriz com a evidência disponível para `r NOME`. Os status vêm das revisões sistemática e complementar e da tipologia municipal de cada área; **nenhum resulta de verificação em campo**, por isso os itens INFERIDO são hipóteses a verificar no campo.
 
 ```{r}
-#| results: asis
-if (file.exists(f_est)) {
-  es <- ler(f_est); es <- es[es$id_municipio == MUN_ID, ]
-  if (nrow(es) == 0) {
-    cat(sprintf("\n**Nenhum dos 225 estudos do corpus econômico cita %s.** O município é prioridade para a pesquisa de campo.\n\n", NOME))
-  } else {
-    cat(sprintf("\n**Estudos do corpus econômico que citam %s** (%d):\n\n", NOME, nrow(es)))
-    es <- es[order(-es$ano), ]
-    cat(paste0("- ", es$autores, " (", es$ano, "). ",
-               ifelse(nchar(es$url) > 0, paste0("[", es$titulo, "](", es$url, ")"), es$titulo),
-               collapse = "\n"), "\n\n")
-  }
-}
+reactable(res_rev, compact = TRUE, sortable = FALSE, pagination = FALSE,
+          columns = list(Área = colDef(minWidth = 130, style = list(fontWeight = 600)),
+                         Inferido = colDef(header = function(v) tagList("Inferido ", span(class = "rotulo-hipotese", "hipótese")))))
 ```
 
-Mais detalhes em [Revisão de literatura — área econômica](../revisao/economica.qmd).
+::: {.panel-tabset}
+
+### Econômica
+
+```{r}
+bloco_rev("economica")
+```
+
+### Infraestrutura
+
+```{r}
+bloco_rev("infraestrutura")
+```
+
+### Setor Público
+
+```{r}
+bloco_rev("setor-publico")
+```
+
+### Sociodemográfica
+
+```{r}
+bloco_rev("sociodemografica")
+```
+
+### Ambiental
+
+```{r}
+bloco_rev("ambiental")
+```
+
+:::
 
 ```{r}
 navegacao_municipio(MUN_ID)

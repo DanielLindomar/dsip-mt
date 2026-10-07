@@ -1,0 +1,19 @@
+ordem,etapa,etapa_rotulo,chave,rotulo,valor,valor_texto
+1,Identificação,IDENTIFICAÇÃO,capes,Brutos CAPES,447,447
+2,Identificação,IDENTIFICAÇÃO,scielo,Brutos SciELO,122,122
+3,Identificação,IDENTIFICAÇÃO,scopus,Brutos Scopus (termos em inglês),809,809
+4,Identificação,IDENTIFICAÇÃO,total,Total bruto,1378,1378
+5,Identificação,IDENTIFICAÇÃO,unicos,Únicos após deduplicação,1038,1038
+6,Identificação,IDENTIFICAÇÃO,fora_periodo,Excluídos fora de 2011–2026,199,199
+7,Identificação,IDENTIFICAÇÃO,triados,Submetidos à triagem,839,839
+8,Triagem por título,TRIAGEM POR TÍTULOS (2 avaliadores independentes + desempate),titulo,Incluir / Excluir / Incerto,,123 / 525 / 191
+9,Triagem por resumo,"TRIAGEM POR RESUMOS (3 rodadas, 2 avaliadores + desempate cada)",rodada,R1 — resumos OpenAlex (131 avaliados): incluir / excluir,,107 / 24
+10,Triagem por resumo,"TRIAGEM POR RESUMOS (3 rodadas, 2 avaliadores + desempate cada)",rodada,R2 — resumos recuperados via Crossref e Semantic Scholar (38): incluir / excluir,,27 / 11
+11,Triagem por resumo,"TRIAGEM POR RESUMOS (3 rodadas, 2 avaliadores + desempate cada)",rodada,R3 — resumos extraídos da interface Scopus (143): incluir / excluir,,102 / 41
+12,Resultado,RESULTADO FINAL,corpus,CORPUS INCLUÍDO,236,236
+13,Resultado,RESULTADO FINAL,exc_titulo,Excluídos por título,525,525
+14,Resultado,RESULTADO FINAL,exc_resumo,Excluídos por resumo,76,76
+15,Resultado,RESULTADO FINAL,exc_ident,Excluídos por identificação da fonte,1,1
+16,Resultado,RESULTADO FINAL,exc_dup,Excluídos por duplicata do mesmo estudo,1,1
+17,Resultado,RESULTADO FINAL,sem_veredito,Registros sem veredito,0,0
+18,Resultado,RESULTADO FINAL,estudos,Estudos distintos no corpus (entradas do BibTeX),225,225

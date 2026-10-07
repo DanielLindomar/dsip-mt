@@ -53,13 +53,19 @@ div(class = "cartoes", lapply(notas, function(x) item(x[1], x[2], "Nota metodol�
 
 ## Revisão de literatura
 
+Relatórios parciais da revisão bibliográfica/sistemática (RSE) das cinco áreas-chave: revisão sistemática e complementar, matriz FOFA, FOFA municipal e prioridades de campo.
+
 ```{r}
-div(class = "cartoes",
-  item("RSE_Parcial_Area_Economica_v1_20260908.pdf", "Revisão de literatura — área econômica (RSE Parcial)",
-       "Revisão sistemática e complementar, matriz FOFA, FOFA municipal e interpretação dos resultados."))
+areas_rse <- c(economica = "econômica", infraestrutura = "de infraestrutura", `setor-publico` = "do setor público",
+               sociodemografica = "sociodemográfica", ambiental = "ambiental")
+div(class = "cartoes", lapply(names(areas_rse), function(a) {
+  m <- ler(ds("revisao", a, "metadados.csv")); m <- setNames(m$valor, m$chave)
+  item(m[["rse_pdf"]], paste("Revisão de literatura — área", areas_rse[[a]], "(RSE Parcial)"),
+       sprintf("Matriz FOFA com %s itens validados em %s.", m[["n_itens"]], m[["data_validacao_matriz"]]))
+}))
 ```
 
-As demais áreas (Infraestrutura, Setor Público, Sociodemográfica e Ambiental) entram aqui quando forem concluídas. Veja a [situação das áreas](../revisao/index.qmd).
+Os pacotes completos de cada área (relatórios em Word, matrizes, instrumentos de campo, anexos e scripts) estão no Drive do projeto. Veja a [situação das áreas](../revisao/index.qmd).
 
 ## Como citar
 

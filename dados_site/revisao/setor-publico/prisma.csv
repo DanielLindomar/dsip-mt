@@ -1,0 +1,20 @@
+ordem,etapa,etapa_rotulo,chave,rotulo,valor,valor_texto
+1,Identificação,IDENTIFICAÇÃO,capes,Brutos CAPES,43,43
+2,Identificação,IDENTIFICAÇÃO,scielo,Brutos SciELO,7,7
+3,Identificação,IDENTIFICAÇÃO,scopus,Brutos Scopus (termos em inglês),49,49
+4,Identificação,IDENTIFICAÇÃO,total,Total bruto,99,99
+5,Identificação,IDENTIFICAÇÃO,unicos,Únicos após deduplicação,91,91
+6,Identificação,IDENTIFICAÇÃO,fora_periodo,Excluídos fora de 2011–2026,7,7
+7,Identificação,IDENTIFICAÇÃO,dup_removidas,Duplicatas do mesmo estudo removidas (0 pela regra básica + 0 pela ampliação),0,0
+8,Identificação,IDENTIFICAÇÃO,triados,Submetidos à triagem,84,84
+9,Triagem por título,TRIAGEM POR TÍTULOS (2 avaliadores; divergência vai ao resumo),titulo,Incluir / Excluir / Incerto,,5 / 57 / 22
+10,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"R1 — resumos recuperados em cascata (OpenAlex, Crossref, detalhes da coleta Scopus, Semantic Scholar) (25 avaliados): incluir / excluir",,18 / 7
+11,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,r2 — consistência pelas regras aprovadas no G-lista (18 avaliados): incluir / excluir,,15 / 3
+12,Triagem por resumo,"TRIAGEM POR RESUMOS (R1, 2 avaliadores + desempate cego)",rodada,"r3 — complementar, candidatos sem resumo real (2 avaliados): incluir / excluir",,2 / 0
+13,Resultado,RESULTADO FINAL,corpus,CORPUS INCLUÍDO,17,17
+14,Resultado,RESULTADO FINAL,exc_titulo,Excluídos por título,57,57
+15,Resultado,RESULTADO FINAL,exc_resumo,Excluídos por resumo,10,10
+16,Resultado,RESULTADO FINAL,exc_ident,Excluídos por identificação da fonte,0,0
+17,Resultado,RESULTADO FINAL,exc_dup,Excluídos por duplicata do mesmo estudo,0,0
+18,Resultado,RESULTADO FINAL,sem_veredito,Registros sem veredito,0,0
+19,Resultado,RESULTADO FINAL,estudos,Estudos distintos no corpus (entradas do BibTeX),17,17

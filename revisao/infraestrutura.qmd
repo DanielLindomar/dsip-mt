@@ -1,0 +1,11 @@
+---
+title: "Área de infraestrutura — matriz FOFA"
+description: "Matriz FOFA da área-chave de infraestrutura do Projeto DSIP-MT: itens validados, citações, ancoragem por município, matriz complementar e FOFA municipal"
+---
+
+```{r}
+#| include: false
+AREA <- "infraestrutura"
+```
+
+{{< include _area.qmd >}}
