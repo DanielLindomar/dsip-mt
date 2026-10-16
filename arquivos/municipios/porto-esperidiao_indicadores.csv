@@ -616,8 +616,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,17.23
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,11.37
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.2
-5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,203.46
-5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,350.42
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,32.2
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,32.4
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,52.7000000000001
@@ -828,8 +826,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,21.57
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,16.9
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,18.37
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,41.34
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,40.98
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,128.49
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.56
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,102.83

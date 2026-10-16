@@ -554,8 +554,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,3.52
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,12.91
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.35
-5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,29.34
-5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,246.45
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,1.09999999999997
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,0.600000000000023
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,1.10000000000002
@@ -753,8 +751,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,40.63
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,34.27
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,39.01
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,79.05
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,65.27
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,100.76
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,196.73
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,202.63

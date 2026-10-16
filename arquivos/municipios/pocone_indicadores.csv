@@ -616,8 +616,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,327.74
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,44.79
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,13.19
-5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,6230.97
-5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,3673.21
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,105.2
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,105.2
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,144.2
@@ -831,8 +829,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,24.42
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,19.18
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,21.15
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,43.92
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,39.07
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,129.6
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,101.66
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,113.01

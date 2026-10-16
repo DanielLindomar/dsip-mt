@@ -634,8 +634,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,40.97
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,7.64
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.61
-5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,146.03
-5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,581.8
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,38.5
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,38.5
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,27
@@ -887,8 +885,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,6.94
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,5.6
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,6.43
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,14.85
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,13.62
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,131.28
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,89.09
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,85.18

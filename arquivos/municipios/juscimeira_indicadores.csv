@@ -595,8 +595,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,59.74
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,19.29
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,11.13
-5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,51.58
-5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,1090.54
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,30.9000000000001
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,30.8999999999999
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,42.3000000000002
@@ -804,8 +802,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,25.15
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,20.84
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,23.41
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,49.84
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,43.32
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,177.8
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.82
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,101.57
