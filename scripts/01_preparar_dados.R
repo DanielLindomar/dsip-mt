@@ -48,7 +48,10 @@ ind <- ler("dados_site/indicadores.csv", na.strings = "")
 # Valores que são retratos de um único ano, repetidos nas bases (ver NOTAS_D3)
 ANO_FIXO <- c(taxa_urbanizacao = 2022, cagr_pop_2010_2025 = 2025)
 # Anos parciais que não entram (coleta do OST em 30/09/2026)
-ANO_MAX <- c(aberturas_por_1000_hab = 2025, empresas_cadastur = 2025, leitos_hospedagem = 2025, leitos_por_1000_hab = 2025)
+# quebras de série nas bases da Fase I (apontadas pelo site do Cleiton em 16/10/2026): focos de calor mudam de escala
+# em 2023-2024 (d4_queimadas.csv) e o FPM muda de classificação em 2022 (d6_financas.csv); o site para no último ano comparável
+ANO_MAX <- c(aberturas_por_1000_hab = 2025, empresas_cadastur = 2025, leitos_hospedagem = 2025, leitos_por_1000_hab = 2025,
+             densidade_focos_por_1000km2 = 2022, dep_fpm_pct = 2021)
 
 ler_ind <- function(i) {
   r <- ind[i, ]

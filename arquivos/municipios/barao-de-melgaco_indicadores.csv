@@ -582,8 +582,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,326.41
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,28.21
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.46
-5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,3749.34
-5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,6352.69
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,19.7
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,19.7
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,19.6999999999999
@@ -759,8 +757,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,32.84
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,28.51
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,27.78
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,59.2
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,58.79
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,135.11
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,97.45
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,111.29

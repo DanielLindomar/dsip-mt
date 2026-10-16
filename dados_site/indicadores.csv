@@ -36,7 +36,7 @@ taxa_pobreza_pct,D3,D3_PSDM/d3_idhm.csv,taxa_pobreza_pct,População em situaç�
 perc_desmatado_acum,D4,D4_PAM/d4_desmatamento.csv,perc_desmatado_acum,Território desmatado (acumulado),%,pct1,ano,1,1,0,PRODES/INPE.,-1,fase1,1
 perc_veg_natural_remanescente,D4,D4_PAM/d4_desmatamento.csv,perc_veg_natural_remanescente,Vegetação natural remanescente,%,pct1,ano,0,1,0,PRODES/INPE.,1,fase1,1
 incremento_desmat_km2,D4,D4_PAM/d4_desmatamento.csv,incremento_desmat_km2,Desmatamento no ano,km²,dec1,ano,0,1,1,,-1,fase1,1
-densidade_focos_por_1000km2,D4,D4_PAM/d4_queimadas.csv,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,dec1,ano,0,1,0,Há quebra de série de satélite em 2023/24; comparar com cautela.,-1,fase1,1
+densidade_focos_por_1000km2,D4,D4_PAM/d4_queimadas.csv,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,dec1,ano,0,1,0,Série até 2022: em 2023 e 2024 a base muda de escala (a mediana dos municípios de MT passa de cerca de 15 para 330 e 1.043 focos por 1.000 km²); esses anos não são exibidos até a correção da base.,-1,fase1,1
 taxa_antropizacao,D4,D4_PAM/d4_uso_terra.csv,taxa_antropizacao,Taxa de antropização,%,pct1,ano,0,1,0,MapBiomas; disponível até 2021.,-1,fase1,1
 perc_territorio_protegido,D4,D4_PAM/d4_areas_protegidas.csv,perc_territorio_protegido,Território em UC ou TI,%,pct1,ano_referencia_areas,0,0,0,Retrato de 2019.,1,fase1,1
 perc_imoveis_conformes,D4,D4_PAM/d4_car.csv,perc_imoveis_conformes,Imóveis do CAR declarados conformes,%,pct1,ano_referencia_car,0,0,0,Conformidade autodeclarada; não verificada em campo.,1,fase1,1
@@ -48,7 +48,7 @@ perc_domic_com_energia,D5,D5_PIM/d5_energia.csv,perc_domic_com_energia,Domicíli
 perc_pavimentado,D5,D5_PIM/d5_rodovias.csv,perc_pavimentado,Malha viária pavimentada,%,pct1,,0,0,0,© OpenStreetMap contributors (ODbL); ordem de grandeza.,1,fase1,1
 autonomia_fiscal_pct,D6,D6_PGPM/d6_financas.csv,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,pct1,ano,1,1,0,Receita própria sobre receita corrente.,1,fase1,1
 dep_transferencias_pct,D6,D6_PGPM/d6_financas.csv,dep_transferencias_pct,Dependência de transferências,% da receita corrente,pct1,ano,0,1,0,,-1,fase1,1
-dep_fpm_pct,D6,D6_PGPM/d6_financas.csv,dep_fpm_pct,Dependência do FPM,% da receita corrente,pct1,ano,0,0,0,,-1,fase1,1
+dep_fpm_pct,D6,D6_PGPM/d6_financas.csv,dep_fpm_pct,Dependência do FPM,% da receita corrente,pct1,ano,0,0,0,"Série até 2021: em 2022 o FPM dos municípios de MT na base passa de R$ 2,95 bi para R$ 7,12 bi, quebra de classificação e não aumento real; 2022 e 2023 não são exibidos até a correção da base.",-1,fase1,1
 receita_pc_real,D6,D6_PGPM/d6_financas.csv,receita_pc_real,Receita corrente por habitante,R$ de 2024 por habitante,brl,ano,0,1,0,,1,fase1,1
 despesa_pc_real,D6,D6_PGPM/d6_financas.csv,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,brl,ano,0,0,0,,0,fase1,1
 perc_desp_saude,D6,D6_PGPM/d6_financas.csv,perc_desp_saude,Despesa com saúde,% da despesa total,pct1,ano,0,0,0,Gasto executado; não é o piso constitucional.,0,fase1,1

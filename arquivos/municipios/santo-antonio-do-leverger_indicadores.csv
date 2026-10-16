@@ -618,8 +618,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,148.26
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,25.68
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,7
-5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,1079.97
-5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,3555.74
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,138.4
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,138.4
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,133.8
@@ -801,7 +799,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,26.72
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,21.68
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,24.45
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,54.71
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,100.04
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,96.68
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,93.44

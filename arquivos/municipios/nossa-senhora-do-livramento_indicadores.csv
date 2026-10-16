@@ -612,8 +612,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,79.92
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,9.02
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.5
-5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,359.45
-5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,1850.29
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,78.2000000000001
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,78.1999999999999
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,104.4
@@ -832,8 +830,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,21.59
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,17.69
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,19.78
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,38.86
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,35.54
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,137.56
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,101.35
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,120.78

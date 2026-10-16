@@ -71,6 +71,8 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 
 ## Novidades
 
+- **16/10/2026** — Correção: a densidade de focos de calor passa a ir até 2022 e a dependência do FPM até 2021. Nos anos seguintes, as bases da Fase I têm quebra de série (mudança de escala dos focos em 2023–2024 e de classificação do FPM em 2022), apontada pelo site do Cleiton Franco; esses anos voltam quando as bases forem corrigidas.
+
 - **07/10/2026** — Versão 0.4: revisão de literatura das cinco áreas-chave (econômica, infraestrutura, setor público, sociodemográfica e ambiental), com matriz FOFA, matriz complementar e FOFA municipal de cada área; perfis municipais com a FOFA das cinco áreas em abas; estudos dos cinco corpora numa só tabela, com filtro por área; relatórios (RSE) das cinco áreas na Biblioteca; dicionário do D1 e licença do MapBiomas corrigidos conforme a errata da Fase I de 01/10/2026.
 
 - **30/09/2026** — Versão 0.3: 17 indicadores complementares do Observatório Sebrae (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022, ISDEL); valores dos gráficos ao passar o cursor ou tocar; mapas mais leves.

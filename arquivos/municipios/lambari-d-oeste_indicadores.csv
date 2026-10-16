@@ -571,8 +571,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,14.13
 5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,9.04
 5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.22
-5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,279.11
-5105234,Lambari D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,719.25
 5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,12.6
 5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,30.5000000000001
 5105234,Lambari D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,8.6
@@ -768,8 +766,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,28.49
 5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,24.52
 5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,26.77
-5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,53.38
-5105234,Lambari D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,51.56
 5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,99.3
 5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,178.65
 5105234,Lambari D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,199.82

@@ -636,8 +636,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,113.26
 5102504,Cáceres,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,50.4
 5102504,Cáceres,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,5.47
-5102504,Cáceres,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,1085.85
-5102504,Cáceres,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,6449.06
 5102504,Cáceres,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,235.7
 5102504,Cáceres,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,217.2
 5102504,Cáceres,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,260.2
@@ -870,8 +868,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5102504,Cáceres,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,16.46
 5102504,Cáceres,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,9.34
 5102504,Cáceres,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,15.52
-5102504,Cáceres,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,32.94
-5102504,Cáceres,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,30.31
 5102504,Cáceres,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,123.1
 5102504,Cáceres,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,87.06
 5102504,Cáceres,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,90.42

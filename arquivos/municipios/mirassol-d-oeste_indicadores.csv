@@ -631,8 +631,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,12.08
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,14.86
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.22
-5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,254.55
-5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,434.78
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,16.8000000000001
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,13.4
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,21.1
@@ -862,8 +860,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,23.74
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,17.99
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,20.84
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,44.75
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,44.23
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,145.02
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,88.99
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,57.02

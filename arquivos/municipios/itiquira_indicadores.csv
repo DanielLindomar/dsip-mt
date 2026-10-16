@@ -635,8 +635,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5104609,Itiquira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,18.96
 5104609,Itiquira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.87
 5104609,Itiquira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,1.61
-5104609,Itiquira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,493.67
-5104609,Itiquira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,212.43
 5104609,Itiquira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,77.2999999999993
 5104609,Itiquira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,77.3000000000002
 5104609,Itiquira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,78.3000000000002
@@ -848,8 +846,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5104609,Itiquira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,12.15
 5104609,Itiquira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,10.51
 5104609,Itiquira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,11.24
-5104609,Itiquira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,28.63
-5104609,Itiquira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,26.09
 5104609,Itiquira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,171.16
 5104609,Itiquira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,54.48
 5104609,Itiquira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,97.38

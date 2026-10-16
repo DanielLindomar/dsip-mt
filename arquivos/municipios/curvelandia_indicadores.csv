@@ -569,8 +569,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,44.59
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.79
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,2.79
-5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,69.68
-5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,738.59
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,2.79999999999999
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,1.19999999999997
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,0.599999999999998
@@ -743,8 +741,6 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,41.32
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,34.39
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,38.1
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,76.61
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,71.08
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,98.31
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,95.79
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,94.15
