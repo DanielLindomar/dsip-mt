@@ -26,6 +26,14 @@ Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e 
 resumo_dimensao("D6")
 ```
 
+## Placar frente a Mato Grosso
+
+Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+
+```{r}
+placar_dimensao("D6")
+```
+
 ## Documentos
 
 - [Relatório Parcial I — Gestão pública (PGPM) (PDF, 27 páginas)](../arquivos/relatorios/D6_PGPM_Parcial_I_v1_20260614.pdf)

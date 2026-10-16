@@ -109,6 +109,59 @@ if (file.exists("arquivos/geo/mt_municipios.geojson")) file.remove("arquivos/geo
 st_write(geo, "arquivos/geo/mt_municipios.geojson", quiet = TRUE)
 msg("Malha: %d polígonos", nrow(geo))
 
+# ---- 4b. Agregados regionais: PN-13, PN-13 sem Rondonópolis e MT ---------------
+# Pedido do coordenador em 16/10/2026 (a partir do site do Cleiton Franco). Rondonópolis tem mais da metade da
+# população do recorte e domina os totais; o agregado sem ele mostra o restante da região. Regra por indicador
+# (coluna `agregacao` de indicadores.csv): soma dos municípios para totais; para taxas e proporções, média ponderada
+# pela base do indicador (população, área, PIB, emprego formal, empresas ativas, receita ou despesa), o que equivale a
+# recalcular a razão a partir das somas quando o denominador é a própria base; mediana quando não há base adequada.
+# Usa o último valor de cada município até o ano de referência (o mesmo que o site mostra); o peso é o do mesmo ano ou,
+# na falta, o do ano mais próximo.
+RONDONOPOLIS <- 5107602L
+area_km2 <- st_read(file.path(BRUT, "dados_coletados/shapefiles/municipios_mt.gpkg"), quiet = TRUE) |>
+  st_transform(5880) |> mutate(id_municipio = as.integer(code_muni), area = as.numeric(st_area(geom)) / 1e6) |>
+  st_drop_geometry() |> select(id_municipio, area)
+peso_de <- function(var, ids, anos) {
+  s <- serie[serie$indicador == var, c("id_municipio", "ano", "valor")]
+  mapply(function(i, a) {
+    x <- s[s$id_municipio == i, ]
+    if (!nrow(x)) return(NA_real_)
+    if (is.na(a)) return(x$valor[which.max(x$ano)])
+    x$valor[which.min(abs(x$ano - a))]
+  }, ids, anos)
+}
+pesos <- function(regra, ids, anos) switch(regra,
+  pop = peso_de("populacao", ids, anos),
+  pib = peso_de("pib_real", ids, anos),
+  emprego = peso_de("empregos_formais", ids, anos),
+  empresas = peso_de("empresas_ativas", ids, anos),
+  receita = peso_de("receita_pc_real", ids, anos) * peso_de("populacao", ids, anos),
+  despesa = peso_de("despesa_pc_real", ids, anos) * peso_de("populacao", ids, anos),
+  area = area_km2$area[match(ids, area_km2$id_municipio)],
+  stop("regra de agregação desconhecida: ", regra))
+agregar <- function(u, regra) {
+  u <- u[is.finite(u$valor), ]
+  if (!nrow(u)) return(list(valor = NA_real_, n = 0L))
+  v <- switch(regra,
+    soma = sum(u$valor),
+    mediana = median(u$valor),
+    { w <- pesos(regra, u$id_municipio, u$ano); ok <- is.finite(w) & w > 0
+      if (!any(ok)) NA_real_ else sum(u$valor[ok] * w[ok]) / sum(w[ok]) })
+  list(valor = unname(as.numeric(v))[1], n = nrow(u))
+}
+agregados <- map_dfr(seq_len(nrow(ind)), function(i) {
+  r <- ind[i, ]; u <- ultimos[ultimos$indicador == r$id, ]
+  a13 <- agregar(u[u$id_municipio %in% pn_ids, ], r$agregacao)
+  a12 <- agregar(u[u$id_municipio %in% setdiff(pn_ids, RONDONOPOLIS), ], r$agregacao)
+  amt <- agregar(u, r$agregacao)
+  tibble(indicador = r$id, regra = r$agregacao, ano = ano_ref$ano_ref[match(r$id, ano_ref$indicador)],
+         pn13 = a13$valor, n_pn13 = a13$n, pn12 = a12$valor, n_pn12 = a12$n, mt = amt$valor, n_mt = amt$n)
+})
+saveRDS(agregados, "dados_site/agregados.rds")
+chk <- agregados[agregados$indicador == "pib_real_pc", ]
+msg("Agregados: %d indicadores; PIB per capita PN-13 = %.0f, sem Rondonópolis = %.0f, MT = %.0f (ano %s)",
+    nrow(agregados), chk$pn13, chk$pn12, chk$mt, chk$ano)
+
 # ---- 5. Downloads: relatórios em PDF -----------------------------------------
 pdfs <- c(list.files(file.path(REL, "PDF"), "\\.pdf$", full.names = TRUE),
           list.files(file.path(REL, "Notas_Metodologicas"), "\\.pdf$", full.names = TRUE),
