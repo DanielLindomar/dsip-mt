@@ -226,9 +226,9 @@ tabela_dim <- function(dim, mun_id, nome_mun) {
             details = function(i) {
               g <- serie_mun_medianas(d$id[i], mun_id, nome_mun)
               div(class = "detalhe-ind",
-                  if (nzchar(g)) HTML(g) else p(class = "sub", "Indicador sem série histórica (retrato de um ano)."),
+                  if (nzchar(g)) HTML(g) else p(class = "sub", "Indicador sem série histórica, por constituir retrato de um único ano."),
                   if (nzchar(d$nota_txt[i])) p(class = "nota-fonte", strong("Nota: "), d$nota_txt[i]),
-                  p(class = "nota-fonte", a(href = url_ind(d$id[i]), "Ver este indicador para todos os municípios →")))
+                  p(class = "nota-fonte", a(href = url_ind(d$id[i]), "Indicador para todos os municípios de Mato Grosso →")))
             })
 }
 
@@ -397,7 +397,7 @@ txt_placar <- function(k) {
 
 placar_dimensao <- function(dim) {
   ids <- ids_placar(dim)
-  if (!length(ids)) return(p(class = "sub", "Esta dimensão não tem indicadores com sentido de melhor ou pior fora dos totais."))
+  if (!length(ids)) return(p(class = "sub", "A dimensão não dispõe de indicadores com sentido definido de melhor ou pior, excetuados os totais."))
   ag <- AGR[match(ids, AGR$indicador), ]
   med_mt <- vapply(ids, med_mt_de, 0)
   val_mun <- function(m) vapply(ids, function(id) ultimo(id, m)$valor, 0)
@@ -427,12 +427,12 @@ placar_dimensao <- function(dim) {
   k13 <- classes_mt(ag$pn13, ag$mt, ids); k12 <- classes_mt(ag$pn12, ag$mt, ids)
   saldo <- vapply(M13$id_municipio, function(m) {
     k <- classes_mt(val_mun(m), med_mt, ids); sum(k == "melhor", na.rm = TRUE) - sum(k == "pior", na.rm = TRUE) }, 0)
-  frase <- function(nome, k) sprintf("<b>%s</b>: melhor que Mato Grosso em %d de %d indicadores e pior em %d.",
+  frase <- function(nome, k) sprintf("<b>%s</b>: situação melhor que a de Mato Grosso em %d dos %d indicadores e pior em %d.",
                                      nome, sum(k == "melhor", na.rm = TRUE), length(ids), sum(k == "pior", na.rm = TRUE))
   lista <- function(x) if (length(x) <= 1) x else paste(paste(head(x, -1), collapse = ", "), "e", tail(x, 1))
   resumo <- HTML(paste0('<div class="placar-resumo"><p>', frase("Pantanal Norte (13 municípios)", k13), "<br>",
                         frase("Pantanal Norte sem Rondonópolis", k12), "<br>",
-                        sprintf("Entre os municípios, o melhor saldo (melhores menos piores) é de %s; o pior, de %s.",
+                        sprintf("Entre os municípios, o saldo mais favorável (indicadores melhores menos piores) é o de %s, e o menos favorável, o de %s.",
                                 lista(M13$municipio[saldo == max(saldo)]), lista(M13$municipio[saldo == min(saldo)])),
                         "</p></div>"))
   cab <- function(id) {
@@ -449,10 +449,10 @@ placar_dimensao <- function(dim) {
     reactable(d, compact = TRUE, sortable = FALSE, pagination = FALSE, wrap = TRUE, class = "tabela-placar", columns = cols,
               rowStyle = function(i) if (i <= 2) list(background = "#f3f4f8") else if (i <= 4) list(background = "#f4f8fc")),
     p(class = "nota-fonte",
-      "Como ler: ▲ melhor que MT · ● próximo de MT · ▼ pior que MT · – sem dado. Próximo = até 2 pontos percentuais (indicadores em %) ou até 10% do valor de referência (demais). ",
-      "Os municípios são comparados com o município mediano de Mato Grosso, a mesma referência das demais páginas; as duas regiões, com o agregado de Mato Grosso. ",
-      "Nos agregados, taxas e proporções são médias ponderadas pela base de cada indicador (população, área, PIB, emprego formal, empresas, receita ou despesa), o que equivale a recalcular a razão pelas somas; perdas de água, pavimentação, imóveis do CAR, cobertura da área agricultável e destinos de exportação usam a mediana. ",
-      "Totais (população, PIB, empregos, saldo de empregos), o índice do PIB per capita relativo a MT (repete o PIB per capita) e indicadores sem sentido de melhor ou pior ficam fora do placar. Ideia adaptada do site da SWOT do PESM de Cleiton Franco."))
+      "Legenda: ▲ melhor que MT; ● próximo de MT; ▼ pior que MT; – sem dado. Considera-se próximo o valor que difere da referência em até 2 pontos percentuais, nos indicadores expressos em percentual, ou em até 10%, nos demais. ",
+      "Os municípios são comparados com o município mediano de Mato Grosso, referência adotada nas demais páginas, e as duas regiões, com o agregado de Mato Grosso. ",
+      "Nos agregados, as taxas e proporções correspondem a médias ponderadas pela base de cada indicador (população, área, PIB, emprego formal, empresas, receita ou despesa), o que equivale a recalcular a razão a partir das somas; o IFDM, índice entre 0 e 1, é agregado por média simples, conforme as notas metodológicas do D6; e as perdas de água, a pavimentação, os imóveis do CAR, a cobertura da área agricultável e os destinos de exportação são agregados pela mediana. ",
+      "Excluem-se do placar os totais (população, PIB, empregos e saldo de empregos), cuja magnitude reflete o porte do território, o índice do PIB per capita relativo a MT, que replica a informação do PIB per capita, e os indicadores sem sentido definido. A proposta foi adaptada do site da matriz SWOT do PESM elaborado por Cleiton Franco."))
 }
 
 # Placar do município por dimensão (perfil municipal)
@@ -476,7 +476,7 @@ fonte_rodape <- function() {
   p(class = "nota-fonte",
     "Fonte: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ",
     "ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN e outras). ",
-    "Medianas calculadas no ano de referência de cada indicador. Detalhes em ",
-    a(href = "../dados/index.html", "Dados"), " e nas notas metodológicas da ",
+    "As medianas são calculadas no ano de referência de cada indicador, e os procedimentos encontram-se descritos em ",
+    a(href = "../dados/index.html", "Dados"), " e nas notas metodológicas disponíveis na ",
     a(href = "../biblioteca/index.html", "Biblioteca"), ".")
 }

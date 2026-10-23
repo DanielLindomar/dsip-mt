@@ -114,7 +114,8 @@ msg("Malha: %d polígonos", nrow(geo))
 # população do recorte e domina os totais; o agregado sem ele mostra o restante da região. Regra por indicador
 # (coluna `agregacao` de indicadores.csv): soma dos municípios para totais; para taxas e proporções, média ponderada
 # pela base do indicador (população, área, PIB, emprego formal, empresas ativas, receita ou despesa), o que equivale a
-# recalcular a razão a partir das somas quando o denominador é a própria base; mediana quando não há base adequada.
+# recalcular a razão a partir das somas quando o denominador é a própria base; média simples para o IFDM (notas do D6);
+# mediana quando não há base adequada.
 # Usa o último valor de cada município até o ano de referência (o mesmo que o site mostra); o peso é o do mesmo ano ou,
 # na falta, o do ano mais próximo.
 RONDONOPOLIS <- 5107602L
@@ -145,6 +146,7 @@ agregar <- function(u, regra) {
   v <- switch(regra,
     soma = sum(u$valor),
     mediana = median(u$valor),
+    media = mean(u$valor),   # índices entre 0 e 1 (IFDM): média simples, conforme as notas metodológicas do D6
     { w <- pesos(regra, u$id_municipio, u$ano); ok <- is.finite(w) & w > 0
       if (!any(ok)) NA_real_ else sum(u$valor[ok] * w[ok]) / sum(w[ok]) })
   list(valor = unname(as.numeric(v))[1], n = nrow(u))

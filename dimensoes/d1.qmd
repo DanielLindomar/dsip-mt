@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D1")
@@ -28,7 +28,7 @@ resumo_dimensao("D1")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D1")
@@ -41,7 +41,7 @@ placar_dimensao("D1")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,19 +75,17 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- O PIB municipal do IBGE está disponível apenas a preços correntes. Os valores reais resultam de deflação com índice nacional, o que pode introduzir ruído em municípios especializados.
-- O Valor Adicionado Bruto setorial do IBGE está disponível somente até 2021. Participações setoriais, HHI, quociente locacional e tipologia não são calculados para 2022 e 2023.
-- A RAIS cobre apenas o emprego formal. Indicadores como PIB por trabalhador e VBP por trabalhador agropecuário tendem a ser superestimados em economias com informalidade elevada e servem para comparação relativa entre municípios, não como estimativa absoluta.
-- As estimativas populacionais intercensitárias (2011–2021) podem desviar o PIB per capita em 5% a 15% nos municípios com menos de 10.000 habitantes.
-- As exportações (Comex Stat) estão em dólares correntes, sem deflação. Comparações ao longo do tempo sofrem efeito do câmbio e devem usar variações relativas ou participações.
-- O crédito rural (SICOR) começa em 2013 e o número de empresas (CEMPRE) está disponível até 2021 na base congelada. Séries mais longas dependem de novas coletas.
-- A raça/cor na RAIS tem cerca de 75% de valores ausentes, o que inviabiliza o cálculo de diferenciais salariais por raça/cor.
+O Produto Interno Bruto (PIB) municipal do IBGE é divulgado apenas a preços correntes, de modo que os valores reais resultam da deflação por um índice nacional, procedimento que pode introduzir ruído em municípios de estrutura produtiva especializada. Além disso, o Valor Adicionado Bruto setorial encontra-se disponível somente até 2021, razão pela qual as participações setoriais, o índice de Herfindahl-Hirschman (HHI), o quociente locacional e a tipologia não são calculados para 2022 e 2023.
+
+A Relação Anual de Informações Sociais (RAIS) abrange apenas o emprego formal. Por conseguinte, indicadores como o PIB por trabalhador e o Valor Bruto da Produção (VBP) por trabalhador agropecuário tendem a ser superestimados em economias com elevada informalidade e prestam-se à comparação relativa entre municípios, e não à estimação de magnitudes absolutas. De forma análoga, as estimativas populacionais intercensitárias (2011–2021) podem desviar o PIB *per capita* entre 5% e 15% nos municípios com menos de 10.000 habitantes.
+
+As exportações (Comex Stat) são expressas em dólares correntes, sem deflação, de modo que as comparações ao longo do tempo sofrem o efeito da taxa de câmbio e devem basear-se em variações relativas ou participações. Observa-se, ainda, que o crédito rural (SICOR) tem início em 2013 e que o número de empresas (CEMPRE) está disponível até 2021 na base congelada, de forma que séries mais longas dependem de novas coletas. Por fim, a variável raça/cor da RAIS apresenta cerca de 75% de valores ausentes, o que inviabiliza o cálculo de diferenciais salariais segundo esse atributo.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -122,4 +120,4 @@ if (file.exists(file.path(dir_dados, dic))) {
 cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 ```
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D6")
@@ -28,7 +28,7 @@ resumo_dimensao("D6")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D6")
@@ -41,7 +41,7 @@ placar_dimensao("D6")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,19 +75,17 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- A declaração ao Siconfi é facultativa. Em 2023, 138 dos 141 municípios de MT declararam; Santo Antônio do Leverger não declarou, e o recorte tem n = 12 nesse ano, sem imputação.
-- Rondonópolis responde por cerca de 53% da população do recorte. As médias ponderadas refletem principalmente esse município; reportam-se média simples e ponderada, com e sem Rondonópolis.
-- Valores reais existem apenas a partir de 2002 (limite do deflator INPC), e a despesa por função apenas a partir de 2013.
-- O IFDM é um índice entre 0 e 1. Por isso é agregado por média simples, nunca ponderada por população.
-- Finanças e IFDM têm cortes de ano distintos (finanças desde 1989, 2002 ou 2013 conforme o indicador; IFDM de 2013 a 2023). O ano de cada indicador deve ser citado em tabelas e figuras.
-- Autonomia fiscal e dependência são razões da receita corrente. Não medem capacidade de investimento nem qualidade do gasto.
-- A despesa por função reflete a execução, não os pisos legais. Os percentuais de saúde e educação não indicam, por si, o cumprimento dos mínimos constitucionais (15% e 25%).
+A declaração ao Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi) é facultativa. Em 2023, 138 dos 141 municípios de Mato Grosso realizaram a declaração; Santo Antônio do Leverger não a efetuou, e o recorte apresenta, nesse ano, n = 12, sem imputação. Uma vez que Rondonópolis responde por cerca de 53% da população do recorte, as médias ponderadas refletem principalmente esse município, razão pela qual se reportam médias simples e ponderadas, com e sem Rondonópolis.
+
+Os valores reais existem apenas a partir de 2002, limite do deflator INPC, e a despesa por função, somente a partir de 2013. As finanças e o Índice Firjan de Desenvolvimento Municipal (IFDM) apresentam cortes temporais distintos — finanças desde 1989, 2002 ou 2013, conforme o indicador, e IFDM de 2013 a 2023 —, de modo que o ano de cada indicador deve ser citado em tabelas e figuras. O IFDM, por constituir índice entre 0 e 1, é agregado por média simples, e nunca por média ponderada pela população. Constatou-se, posteriormente, que a dependência do Fundo de Participação dos Municípios (FPM) apresenta quebra de classificação em 2022 na base, razão pela qual este *site* apresenta a série apenas até 2021.
+
+A autonomia fiscal e os indicadores de dependência constituem razões da receita corrente e não mensuram a capacidade de investimento nem a qualidade do gasto. De modo análogo, a despesa por função reflete a execução orçamentária, e não os pisos legais; os percentuais de saúde e de educação não indicam, por si, o cumprimento dos mínimos constitucionais de 15% e 25%, respectivamente.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -124,4 +122,4 @@ cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 
 A base `d6_ifdm.csv`, citada nas notas metodológicas, não é distribuída neste site.
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

@@ -13,10 +13,10 @@ reg <- vapply(names(AREAS_REV), function(a) { p <- ler_rev("prisma.csv", a); p$v
 ```
 
 ::: {.faixa-versao}
-Corpora validados pela coordenação: área econômica em 24/08/2026 (BibTeX regerado em 23/09/2026, uma entrada por estudo distinto); infraestrutura em 30/09/2026; setor público, sociodemográfica e ambiental em 04/10/2026.
+Os *corpora* foram validados pela coordenação em 24/08/2026, na área econômica (cujo arquivo BibTeX foi regerado em 23/09/2026, com uma entrada por estudo distinto); em 30/09/2026, na área de infraestrutura; e em 04/10/2026, nas áreas de setor público, sociodemográfica e ambiental.
 :::
 
-Cada área-chave tem seu próprio corpus, selecionado no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026) com o léxico da área. A tabela traz um estudo por linha e por área: um estudo que entrou em duas áreas aparece duas vezes, uma em cada. Na área econômica, quando o mesmo estudo entrou no corpus por dois registros (versão em outra língua ou em outra base), a linha corresponde ao registro principal.
+Cada área-chave dispõe de *corpus* próprio, selecionado no Portal de Periódicos da CAPES, na SciELO e na Scopus, no período de 2011 a 2026, com o léxico específico da área. A tabela apresenta um estudo por linha e por área, de modo que um estudo incluído em duas áreas aparece duas vezes, uma em cada. Na área econômica, quando o mesmo estudo ingressou no *corpus* por dois registros — versão em outra língua ou em outra base —, a linha corresponde ao registro principal.
 
 ```{r}
 por_area <- est |> count(area, slug, name = "estudos") |> mutate(area = factor(area, unname(AREAS_REV))) |> arrange(area)
@@ -30,7 +30,7 @@ div(class = "kpi-grade",
 
 ## Arquivos
 
-Corpus em BibTeX, sem resumos, para gerenciadores de referências (Zotero, Mendeley, JabRef) e ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave dos arquivos originais não são publicados, por serem textos de terceiros; o campo `note` traz a chave interna do registro no projeto.
+Os *corpora* são disponibilizados em formato BibTeX, sem os resumos, para uso em gerenciadores de referências (Zotero, Mendeley, JabRef) e em ferramentas de mapeamento de literatura. Os campos de resumo e de palavras-chave dos arquivos originais não são publicados, por se tratarem de textos de terceiros, e o campo `note` contém a chave interna do registro no projeto.
 
 ```{r}
 #| results: asis
@@ -42,7 +42,7 @@ for (a in names(AREAS_REV)) {
 
 ## Estudos
 
-Use a busca para localizar autor, título ou periódico, e os filtros de área, ano e recorte geográfico. O título leva ao DOI ou ao endereço do estudo, quando disponível.
+A ferramenta de busca permite localizar estudos por autor, título ou periódico, e os filtros, selecioná-los por área, ano e recorte geográfico. O título de cada estudo remete ao respectivo DOI ou endereço eletrônico, quando disponível.
 
 ```{r}
 tab <- est |> transmute(area, autor_ano, ano, titulo, url, periodico, doi, recorte_geografico, municipios, autores)
@@ -93,5 +93,5 @@ reactable(tab, elementId = "tab-estudos", theme = tema_rev, compact = TRUE, wrap
 ```
 
 ::: {.nota-fonte}
-Fonte: arquivos BibTeX dos corpora das cinco áreas (pacotes de entrega, pasta 04_Corpus_Bibliografico) e análise geográfica de cada corpus. Os estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref; título e autoria permitem a busca textual. O recorte geográfico é identificado pelo nome de municípios e territórios no título, no resumo ou nas evidências extraídas do estudo.
+Fonte: elaboração própria com base nos arquivos BibTeX dos *corpora* das cinco áreas (pacotes de entrega, pasta 04_Corpus_Bibliografico) e na análise geográfica de cada *corpus*. Os estudos sem DOI foram publicados em periódicos que não depositam metadados no Crossref, e o título e a autoria permitem sua localização por busca textual. O recorte geográfico é identificado pela menção a municípios e territórios no título, no resumo ou nas evidências extraídas de cada estudo.
 :::

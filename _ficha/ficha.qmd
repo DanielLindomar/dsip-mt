@@ -56,9 +56,9 @@ Código IBGE `r MUN_ID` · Ficha gerada em `r format(Sys.Date(), "%d/%m/%Y")` a 
 
 :::: {layout="[60,40]"}
 ::: {}
-A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais.
+A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, o que corresponde a `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O Produto Interno Bruto (PIB) real de `r pib$ano` alcançou **`r fmt_valor(pib$valor, "brl_mil")`**, a preços de 2024, equivalente a `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, registravam-se `r fmt_valor(emp$valor, "int")` vínculos formais de emprego no município.
 
-As comparações usam a mediana dos 13 municípios do Pantanal Norte (PN-13) e a mediana dos 141 municípios de Mato Grosso, no ano de referência de cada indicador. "Posição" ordena do maior para o menor valor. "Frente ao PN-13" indica se o valor está acima ou abaixo da mediana do recorte e, quando o indicador tem sentido definido, se isso é favorável ou desfavorável.
+As comparações tomam como referência a mediana dos 13 municípios do Pantanal Norte (PN-13) e a mediana dos 141 municípios de Mato Grosso, no ano de referência de cada indicador. A coluna "Posição" ordena os municípios do maior para o menor valor, e a coluna "Frente ao PN-13" indica se o valor se situa acima ou abaixo da mediana do recorte e, quando o indicador tem sentido definido, se essa posição é favorável ou desfavorável.
 :::
 ::: {}
 ```{r}
@@ -103,7 +103,7 @@ lin <- vapply(names(AREAS_F), function(a) {
   t <- table(factor(fm$status, ORD_F))
   sprintf("| %s | %d | %d | %d | %d | %d | %d | %d |", AREAS_F[[a]], nrow(fm), t[[1]], t[[2]], t[[3]], t[[4]], t[[5]], nrow(es))
 }, "")
-cat("Situação dos itens da matriz FOFA de cada área para o município (FOFA municipal; nenhum status resulta de verificação em campo; INFERIDO = hipótese de campo):
+cat("O quadro apresenta a situação dos itens da matriz FOFA de cada área para o município, segundo a FOFA municipal. Nenhum status resulta de verificação em campo, e os itens classificados como INFERIDO constituem hipóteses a serem verificadas na pesquisa de campo.
 
 ",
     "| Área | Itens | Documentado | Regional | Inferido | Contraindicado | Não avaliado | Estudos que citam o município |
@@ -113,11 +113,11 @@ cat("Situação dos itens da matriz FOFA de cada área para o município (FOFA m
 "), "
 
 ",
-    "Itens, bases e estudos de cada área: página do município no site do projeto, seção Revisão de literatura.
+    "Os itens, as bases e os estudos de cada área encontram-se na página do município no site do projeto, seção Revisão de literatura.
 
 ", sep = "")
 ```
 
 ---
 
-Fontes: bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN — IFDM © FIRJAN — e outras). Indicadores de turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação (Censo 2022) e ISDEL (© Sebrae) obtidos via Observatório Setorial Territorial do Sebrae em 30/09/2026. Notas metodológicas e bases completas: https://daniellindomar.github.io/dsip-mt/
+Fonte: elaboração própria com base nas bases tratadas da Fase I do Projeto DSIP-MT (IBGE, RAIS/MTE, CAGED, BCB/SICOR, PPM/PAM, ComexStat, INEP, DATASUS, PRODES/INPE, MapBiomas, SNIS, ANEEL, Siconfi/STN, FIRJAN — IFDM © FIRJAN — e outras). Os indicadores de turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação (Censo 2022) e ISDEL (© Sebrae) foram obtidos por meio do Observatório Setorial Territorial do Sebrae em 30/09/2026. As notas metodológicas e as bases completas encontram-se em https://daniellindomar.github.io/dsip-mt/

@@ -10,7 +10,7 @@ TUR  <- ler(ds("turismo_info.csv")); TUR <- TUR[TUR$id_municipio == MUN_ID, ]
 txt_tur <- if (nrow(TUR)) {
   reg <- if (grepl("^Sem Regi", TUR$regiao_turistica)) "o município não integrava região turística" else paste0("o município integrava a ", TUR$regiao_turistica)
   clu <- if (TUR$cluster_mtur %in% LETTERS[1:5]) paste0(", categoria ", TUR$cluster_mtur, " (de A a E)") else ""
-  cat_t <- if (!is.na(TUR$categoria_turistica) && nzchar(TUR$categoria_turistica)) paste0(" Na categorização mais recente do MTur, é classificado como \"", tolower(TUR$categoria_turistica), "\".") else ""
+  cat_t <- if (!is.na(TUR$categoria_turistica) && nzchar(TUR$categoria_turistica)) paste0(" Na categorização mais recente do Ministério do Turismo, o município é classificado como \"", tolower(TUR$categoria_turistica), "\".") else ""
   paste0("No Mapa do Turismo Brasileiro de ", TUR$ano_mapa, ", ", reg, clu, ".", cat_t)
 } else ""
 ```
@@ -20,16 +20,16 @@ navegacao_municipio(MUN_ID)
 ```
 
 ::: {.faixa-versao}
-Versão preliminar para a equipe do projeto. Indicadores das bases tratadas da Fase I (congeladas em 08/07/2026). Cada valor mostra o ano a que se refere.
+Versão preliminar, destinada à equipe do projeto. Os indicadores provêm das bases tratadas da Fase I, congeladas em 08/07/2026, e cada valor é acompanhado do ano a que se refere.
 :::
 
 :::: {.perfil-topo}
 ::: {.perfil-texto}
-**`r NOME`** integra o Pantanal Norte Mato-grossense, recorte de 13 municípios definido institucionalmente no convênio SUDECO–UNEMAT. Código IBGE: `r MUN_ID`.
+O município de **`r NOME`** (código IBGE `r MUN_ID`) integra o Pantanal Norte Mato-grossense, recorte de 13 municípios que constitui definição institucional do convênio SUDECO–UNEMAT.
 
-A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O PIB real de `r pib$ano` foi de **`r fmt_valor(pib$valor, "brl_mil")`** (reais de 2024), `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, o município tinha `r fmt_valor(emp$valor, "int")` empregos formais. `r txt_tur`
+A população estimada em `r pop$ano` é de **`r fmt_valor(pop$valor, "int")` habitantes**, o que corresponde a `r num(100 * pop$valor / pop$soma_pn, 1)`% da população do Pantanal Norte. O Produto Interno Bruto (PIB) real de `r pib$ano` alcançou **`r fmt_valor(pib$valor, "brl_mil")`**, a preços de 2024, equivalente a `r num(100 * pib$valor / pib$soma_pn, 1)`% do PIB do recorte. Em `r emp$ano`, registravam-se `r fmt_valor(emp$valor, "int")` vínculos formais de emprego no município. `r txt_tur`
 
-As comparações usam a **mediana dos 13 municípios** (PN-13) e a **mediana dos 141 municípios de Mato Grosso**. Verde indica situação mais favorável que a mediana do PN-13 e vermelho, menos favorável; cinza indica indicador de contexto, sem sentido de melhor ou pior. O selo [OST]{.selo-ost} marca dados complementares obtidos no Observatório do Sebrae.
+As comparações tomam como referência a **mediana dos 13 municípios** do recorte (PN-13) e a **mediana dos 141 municípios de Mato Grosso**. A cor verde indica situação mais favorável que a mediana do PN-13, e a vermelha, situação menos favorável; o cinza identifica indicadores de contexto, para os quais não se define sentido de melhor ou pior. O selo [OST]{.selo-ost} identifica os dados complementares obtidos no Observatório Setorial Territorial do Sebrae.
 
 [Baixar a ficha do município em PDF](../arquivos/fichas/`r M$slug`.pdf){.btn .btn-sm .btn-primary} [Baixar os indicadores em CSV](../arquivos/municipios/`r M$slug`_indicadores.csv){.btn .btn-sm .btn-outline-primary}
 :::
@@ -48,7 +48,7 @@ grade_kpis(MUN_ID)
 
 ## Frente a Mato Grosso
 
-Em cada dimensão, quantos indicadores de `r NOME` estão melhores, próximos ou piores que os do município mediano de Mato Grosso (próximo = até 2 pontos percentuais nos indicadores em %, até 10% nos demais). Entram só os indicadores com sentido de melhor ou pior, sem os totais. O detalhe, com os 13 municípios e o Pantanal Norte com e sem Rondonópolis, está na página de cada dimensão.
+A tabela a seguir sintetiza, para cada dimensão, o número de indicadores em que `r NOME` se situa em posição melhor, próxima ou pior que a do município mediano de Mato Grosso. Considera-se próximo o valor que difere da referência em até 2 pontos percentuais, nos indicadores expressos em percentual, ou em até 10%, nos demais. Incluem-se apenas os indicadores com sentido definido de melhor ou pior, excluídos os totais, cuja magnitude reflete sobretudo o porte do município. O detalhamento, com os 13 municípios e o Pantanal Norte com e sem Rondonópolis, encontra-se na página de cada dimensão.
 
 ```{r}
 placar_municipio(MUN_ID)
@@ -56,7 +56,7 @@ placar_municipio(MUN_ID)
 
 ## Indicadores por dimensão
 
-Clique na seta de uma linha para ver a série histórica do indicador comparada às medianas. Na coluna "Posição", cada ponto é um município do PN-13, o ponto escuro é `r NOME` e o traço pontilhado é a mediana de MT.
+As tabelas apresentam, por dimensão, o valor mais recente de cada indicador, a posição do município no recorte, a minissérie temporal e a comparação com as medianas de referência. A seta à esquerda de cada linha expande a série histórica do indicador, comparada às medianas do PN-13 e de Mato Grosso. Na coluna "Posição", cada ponto representa um município do PN-13, o ponto escuro corresponde a `r NOME` e o traço pontilhado, à mediana de Mato Grosso.
 
 ::: {.panel-tabset}
 
@@ -121,7 +121,7 @@ bloco_rev <- function(a) {
   fm2 <- fm |> mutate(ordem = match(status, ORD_ST)) |> arrange(ordem, item_id) |>
     select(Item = item_id, Dimensão = dimensao, Proposição = proposicao, Status = status, Base = base)
   tagList(
-    p(sprintf("A FOFA municipal da área cruza os %d itens da matriz com a evidência disponível para %s: ", nrow(fm), NOME),
+    p(sprintf("A FOFA municipal da área cruza os %d itens da matriz com a evidência disponível para %s, com a seguinte distribuição de status: ", nrow(fm), NOME),
       HTML(paste(sprintf("<b>%s</b> %d", tolower(names(cont)), as.integer(cont)), collapse = " · ")), "."),
     reactable(fm2, compact = TRUE, searchable = TRUE, defaultPageSize = 10, groupBy = "Status", wrap = TRUE,
               columns = list(Item = colDef(minWidth = 70), Dimensão = colDef(minWidth = 95),
@@ -131,12 +131,12 @@ bloco_rev <- function(a) {
                                  tagList(v, " ", span(class = "rotulo-hipotese", "hipótese de campo")) else v),
                              Base = colDef(minWidth = 160, style = list(fontSize = "0.82em", color = "#6b7280")))),
     if (nrow(es) == 0) p(strong(sprintf("Nenhum dos %s estudos do corpus da área cita %s.", num(r$n_est, 0), NOME)),
-                         " O município é prioridade para a pesquisa de campo nesta área.")
+                         " Por essa razão, o município constitui prioridade para a pesquisa de campo nesta área.")
     else tagList(p(strong(sprintf("Estudos do corpus da área que citam %s (%d):", NOME, nrow(es)))),
                  tags$ul(lapply(seq_len(nrow(es)), function(j) tags$li(
                    paste0(es$autores[j], " (", es$ano[j], "). "),
                    if (nchar(es$url[j]) > 0) a(href = es$url[j], target = "_blank", rel = "noopener", es$titulo[j]) else es$titulo[j])))),
-    p(class = "nota-fonte", "Matriz completa, citações e método em ",
+    p(class = "nota-fonte", "A matriz completa, as citações e o método encontram-se em ",
       a(href = paste0("../revisao/", a, ".html"), paste("Revisão de literatura — área", c(economica = "econômica", infraestrutura = "de infraestrutura", `setor-publico` = "do setor público", sociodemografica = "sociodemográfica", ambiental = "ambiental")[[a]])), "."))
 }
 res_rev <- bind_rows(lapply(names(AREAS_PERFIL), function(a) {
@@ -147,7 +147,7 @@ res_rev <- bind_rows(lapply(names(AREAS_PERFIL), function(a) {
 }))
 ```
 
-As FOFAs municipais das cinco áreas-chave cruzam os itens de cada matriz com a evidência disponível para `r NOME`. Os status vêm das revisões sistemática e complementar e da tipologia municipal de cada área; **nenhum resulta de verificação em campo**, por isso os itens INFERIDO são hipóteses a verificar no campo.
+As FOFAs municipais das cinco áreas-chave cruzam os itens de cada matriz com a evidência disponível para `r NOME`. Os status derivam das revisões sistemática e complementar e da tipologia municipal de cada área. Ressalta-se que **nenhum deles resulta de verificação em campo**; por essa razão, os itens classificados como INFERIDO constituem hipóteses a serem verificadas na pesquisa de campo.
 
 ```{r}
 reactable(res_rev, compact = TRUE, sortable = FALSE, pagination = FALSE,

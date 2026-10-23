@@ -11,19 +11,16 @@ MM  <- lapply(sit$slug, meta_rev); names(MM) <- sit$slug
 ```
 
 ::: {.faixa-versao}
-Situação em 07/10/2026: as cinco áreas-chave estão concluídas e os pacotes estão publicados no Drive do projeto. A área econômica foi publicada em setembro; infraestrutura, setor público, sociodemográfica e ambiental, em 07/10/2026.
+Situação em 07/10/2026: as cinco áreas-chave encontram-se concluídas, e os respectivos pacotes de entrega, publicados no repositório do projeto — a área econômica em setembro e as áreas de infraestrutura, setor público, sociodemográfica e ambiental em 07/10/2026.
 :::
 
 ## Método
 
-A revisão de literatura do Projeto DSIP-MT é feita por área-chave: econômica, infraestrutura, setor público, sociodemográfica e ambiental. Em cada área, o produto é uma **matriz FOFA**, que organiza o que a literatura afirma sobre os 13 municípios do Pantanal Norte em quatro dimensões: **forças** e **fraquezas** (condições internas ao território) e **oportunidades** e **ameaças** (condições externas).
+A revisão de literatura do Projeto DSIP-MT organiza-se em cinco áreas-chave, a saber, econômica, infraestrutura, setor público, sociodemográfica e ambiental. Em cada área, o produto central consiste em uma **matriz FOFA**, que sistematiza o que a literatura afirma sobre os 13 municípios do Pantanal Norte em quatro dimensões: as **forças** e as **fraquezas**, que correspondem a condições internas ao território, e as **oportunidades** e as **ameaças**, que correspondem a condições externas.
 
-Cada área combina duas revisões, mantidas separadas porque têm pesos probatórios diferentes:
+Cada área combina duas revisões, mantidas separadas por possuírem pesos probatórios distintos. A **revisão sistemática** compreende a busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus, no período de 2011 a 2026, a triagem por título e por resumo realizada por dois avaliadores independentes e a extração das evidências dos estudos incluídos. Somadas as cinco áreas, os `r num_br(sum(sit$brutos))` registros recuperados resultaram em `r num_br(sum(sit$estudos))` estudos analisados e em `r sum(sit$itens)` itens de matriz validados pela coordenação. A **revisão documental complementar**, por sua vez, consiste na leitura do acervo de documentos reunido pela coordenação — relatórios técnicos, planos de manejo e diagnósticos municipais —, ampliado por busca documental dirigida nas áreas de infraestrutura, setor público e sociodemográfica; somadas as cinco áreas, as matrizes complementares totalizam `r sum(sit$complementar)` itens.
 
-- **Revisão sistemática.** Busca reproduzível no Portal de Periódicos da CAPES, na SciELO e na Scopus (período 2011–2026), triagem por título e por resumo com dois avaliadores independentes, e extração das evidências dos estudos incluídos. Somadas as cinco áreas, `r num_br(sum(sit$brutos))` registros recuperados levaram a `r num_br(sum(sit$estudos))` estudos analisados e a `r sum(sit$itens)` itens de matriz validados pela coordenação.
-- **Revisão documental complementar.** Leitura do acervo de documentos reunido pela coordenação (relatórios técnicos, planos de manejo, diagnósticos municipais), ampliado por busca documental dirigida nas áreas de infraestrutura, setor público e sociodemográfica. Somadas as cinco áreas, as matrizes complementares têm `r sum(sit$complementar)` itens.
-
-As duas revisões são cruzadas com os 13 municípios na **FOFA municipal**, que indica, para cada item da matriz e cada município, se há fonte que o documente, se há só fonte regional, se o item é uma hipótese a verificar em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Nenhum status resulta de verificação em campo.
+As duas revisões são cruzadas com os 13 municípios na **FOFA municipal**, que indica, para cada par formado por um item da matriz e um município, se há fonte que o documente, se há apenas fonte de escala regional, se o item constitui hipótese a ser verificada em campo, se o dado municipal o contradiz ou se não há base para avaliá-lo. Ressalta-se que nenhum desses status resulta de verificação em campo.
 
 ## As cinco áreas
 
@@ -57,7 +54,7 @@ reactable(q, theme = tema_rev, compact = TRUE, wrap = TRUE, sortable = FALSE, pa
 ```
 
 ::: {.nota-fonte}
-Base factual: proporção dos pares município × item com status documentado, regional ou contraindicado, isto é, apoiados em fonte ou em dado, e não em similaridade. As áreas diferem no tamanho do corpus e da matriz, e a comparação entre elas deve considerar o léxico e o escopo de cada uma, descritos nos relatórios (RSE).
+A base factual corresponde à proporção dos pares município × item com status documentado, regional ou contraindicado, isto é, apoiados em fonte ou em dado, e não em similaridade estrutural. Uma vez que as áreas diferem quanto à dimensão do *corpus* e da matriz, a comparação entre elas deve considerar o léxico e o escopo de cada uma, descritos nos respectivos relatórios (RSE).
 :::
 
 ## Situação das cinco áreas
@@ -77,5 +74,5 @@ reactable(
 ```
 
 ::: {.nota-fonte}
-Fonte: LEIA-ME e CHECKSUMS dos pacotes de entrega; registro de execução da área de infraestrutura; registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental. Os pacotes completos (relatórios em Word e PDF, matrizes, instrumentos de campo, anexos e scripts) estão no Drive do projeto, na pasta de análises da coordenação técnica.
+Fonte: elaboração própria com base nos arquivos LEIA-ME e CHECKSUMS dos pacotes de entrega, no registro de execução da área de infraestrutura e no registro das decisões conjuntas das áreas de setor público, sociodemográfica e ambiental. Os pacotes completos, que incluem relatórios em Word e PDF, matrizes, instrumentos de campo, anexos e *scripts*, encontram-se no repositório do projeto, na pasta de análises da coordenação técnica.
 :::

@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D3")
@@ -28,7 +28,7 @@ resumo_dimensao("D3")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D3")
@@ -41,7 +41,7 @@ placar_dimensao("D3")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,20 +75,17 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- IDHM, índice de Gini e taxa de pobreza têm o Censo 2010 como último ano, defasagem de 15 anos. Servem como retrato, não como série anual. A versão congelada do IDHM não traz os subíndices de educação, longevidade e renda.
-- Bolsa Família e BPC são medidos em famílias ou benefícios, não em pessoas. Por 100 habitantes, os valores podem superar 100. O Bolsa Família de 2012 é truncado e o de 2025 é parcial; o BPC só existe na fonte a partir de 2019.
-- O pré-natal adequado considera apenas gestantes com sete ou mais consultas (critério estrito do Ministério da Saúde), o que faz o déficit parecer maior do que em definições menos restritivas.
-- A taxa de mortalidade infantil bruta é instável em municípios pequenos e fica sem valor quando há menos de 30 nascidos vivos. Para tendência, usa-se a versão suavizada.
-- A composição por cor/raça e a urbanização são retrato do Censo 2022, replicado nos anos do painel. Não indicam evolução.
-- O IDEB é bienal (sem 2025) e o SAEB tem dados efetivos apenas de 2011 a 2021. A proporção de docentes com ensino superior só existe até 2020. Os registros de saúde (CNES e ANS) cobrem quatro anos de referência.
-- Os registros de mortalidade e nascimentos (SIM e SINASC) usam o município de residência, o que difere de estatísticas por local de ocorrência, como hospitais em polos.
-- Rondonópolis responde por cerca de 53% da população do recorte. Por isso as médias são reportadas de forma simples e ponderada, com os extremos municipais.
+O Índice de Desenvolvimento Humano Municipal (IDHM), o índice de Gini e a taxa de pobreza têm o Censo 2010 como último ano disponível, o que implica defasagem de 15 anos; servem, portanto, como retrato, e não como série anual. Além disso, a versão congelada do IDHM não contém os subíndices de educação, longevidade e renda. Os programas Bolsa Família e Benefício de Prestação Continuada (BPC) são mensurados em famílias ou benefícios, e não em pessoas, de modo que os valores por 100 habitantes podem superar 100; observa-se, ainda, que o Bolsa Família de 2012 é truncado, o de 2025 é parcial e o BPC somente consta da fonte a partir de 2019.
+
+O indicador de pré-natal adequado considera apenas as gestantes com sete ou mais consultas, critério estrito do Ministério da Saúde, o que tende a ampliar o déficit em relação a definições menos restritivas. A taxa de mortalidade infantil bruta é instável em municípios pequenos e fica sem valor quando há menos de 30 nascidos vivos; para a análise de tendência, utiliza-se a versão suavizada. Ademais, os registros de mortalidade e de nascimentos (SIM e SINASC) adotam o município de residência, o que os diferencia das estatísticas por local de ocorrência, como as de hospitais situados em municípios-polo.
+
+A composição por cor/raça e a taxa de urbanização constituem retrato do Censo 2022, replicado nos anos do painel, e não indicam evolução. O Índice de Desenvolvimento da Educação Básica (IDEB) é bienal, sem edição em 2025, e o SAEB dispõe de dados efetivos apenas entre 2011 e 2021; a proporção de docentes com ensino superior existe somente até 2020, e os registros de saúde (CNES e ANS) abrangem quatro anos de referência. Por fim, uma vez que Rondonópolis responde por cerca de 53% da população do recorte, as médias são reportadas de forma simples e ponderada, acompanhadas dos extremos municipais.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -123,4 +120,4 @@ if (file.exists(file.path(dir_dados, dic))) {
 cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 ```
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

@@ -17,7 +17,7 @@ item <- function(arquivo, titulo, descricao) {
 }
 ```
 
-Documentos entregues pelo projeto, em versão congelada. Os PDFs são as versões de referência para citação.
+Esta seção reúne os documentos entregues pelo projeto, em versão congelada. Os arquivos em PDF constituem as versões de referência para citação.
 
 ## Síntese
 
@@ -42,7 +42,7 @@ div(class = "cartoes", lapply(rel, function(x) item(x[1], x[2], "Relatório Parc
 
 ## Notas metodológicas
 
-Fontes, tratamentos, deflatores, construção de cada variável, correções e limitações.
+As notas metodológicas descrevem as fontes, os tratamentos, os deflatores, a construção de cada variável, as correções aplicadas e as limitações de cada dimensão.
 
 ```{r}
 notas <- list(c("NOTAS_D1_PESM.pdf", "Notas D1 · PESM"), c("NOTAS_D2_AEISM.pdf", "Notas D2 · AEISM"),
@@ -53,7 +53,7 @@ div(class = "cartoes", lapply(notas, function(x) item(x[1], x[2], "Nota metodol�
 
 ## Revisão de literatura
 
-Relatórios parciais da revisão bibliográfica/sistemática (RSE) das cinco áreas-chave: revisão sistemática e complementar, matriz FOFA, FOFA municipal e prioridades de campo.
+Os relatórios parciais da revisão bibliográfica e sistemática (RSE) das cinco áreas-chave apresentam a revisão sistemática e a complementar, a matriz FOFA, a FOFA municipal e as prioridades para a pesquisa de campo.
 
 ```{r}
 areas_rse <- c(economica = "econômica", infraestrutura = "de infraestrutura", `setor-publico` = "do setor público",
@@ -65,7 +65,7 @@ div(class = "cartoes", lapply(names(areas_rse), function(a) {
 }))
 ```
 
-Os pacotes completos de cada área (relatórios em Word, matrizes, instrumentos de campo, anexos e scripts) estão no Drive do projeto. Veja a [situação das áreas](../revisao/index.qmd).
+Os pacotes completos de cada área, que incluem os relatórios em Word, as matrizes, os instrumentos de campo, os anexos e os *scripts*, encontram-se no repositório do projeto, e a situação de cada área é apresentada em [Revisão de literatura](../revisao/index.qmd).
 
 ## Como citar
 

@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D5")
@@ -28,7 +28,7 @@ resumo_dimensao("D5")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D5")
@@ -41,7 +41,7 @@ placar_dimensao("D5")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,20 +75,17 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- O SNIS tem adesão voluntária. A ausência de dado, sobretudo em esgoto, é tratada como achado (município sem sistema informado), e os agregados consideram apenas quem reporta.
-- O saneamento é um corte transversal de 2022. Não há série comparável entre todos os municípios, portanto não se infere tendência longitudinal.
-- O índice de atendimento urbano de água está vazio para o recorte em 2022. Usa-se o índice de atendimento total.
-- O consumo de energia cobre apenas 2023 e o acesso domiciliar é um retrato da ANEEL (ano-fonte 2026). Nenhum dos dois forma série.
-- Rondonópolis responde por cerca de 62% do consumo de energia do recorte e distorce a média ponderada. Reportam-se média simples, média ponderada e valores sem Rondonópolis.
-- A malha rodoviária vem do OpenStreetMap, colaborativo e estático, e pode estar subestimada em áreas remotas. Os valores devem ser lidos como ordem de grandeza. Um município sem segmento mapeado consta com 0 km.
-- Em energia e rodovias, a ausência de dado foi convertida em zero, o que pode confundir “infraestrutura inexistente” com “dado faltante”.
-- O painel repete os retratos de energia e rodovias em todos os anos. A análise longitudinal fica restrita às colunas de saneamento.
+O Sistema Nacional de Informações sobre Saneamento (SNIS) baseia-se em adesão voluntária. Por essa razão, a ausência de dado, sobretudo em esgotamento sanitário, é tratada como achado — município sem sistema informado —, e os agregados consideram apenas os municípios que reportam. O saneamento constitui, além disso, corte transversal de 2022, sem série comparável para todos os municípios, de modo que não se inferem tendências longitudinais. Observa-se, ainda, que o índice de atendimento urbano de água está vazio para o recorte em 2022, razão pela qual se utiliza o índice de atendimento total.
+
+O consumo de energia abrange apenas 2023, e o acesso domiciliar constitui retrato da ANEEL (ano-fonte 2026); nenhum dos dois forma, portanto, série temporal. Uma vez que Rondonópolis responde por cerca de 62% do consumo de energia do recorte e distorce a média ponderada, reportam-se a média simples, a média ponderada e os valores sem esse município. A malha rodoviária, por sua vez, provém do OpenStreetMap, base colaborativa e estática que pode subestimar a extensão em áreas remotas; os valores devem, assim, ser lidos como ordem de grandeza, e o município sem segmento mapeado consta com 0 km.
+
+Em energia e rodovias, a ausência de dado foi convertida em zero, o que pode confundir infraestrutura inexistente com dado faltante. Por fim, o painel replica os retratos de energia e de rodovias em todos os anos, de modo que a análise longitudinal fica restrita às variáveis de saneamento.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -123,4 +120,4 @@ if (file.exists(file.path(dir_dados, dic))) {
 cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 ```
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

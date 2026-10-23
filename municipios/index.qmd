@@ -11,7 +11,7 @@ source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 m13 <- MUN[MUN$pn13, ] |> arrange(municipio)
 ```
 
-O recorte do projeto tem 13 municípios, definidos institucionalmente no convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal da revisão de literatura e uma ficha em PDF. Clique no mapa ou em um cartão.
+O recorte do projeto compreende 13 municípios, cuja delimitação constitui definição institucional do convênio SUDECO–UNEMAT. Cada perfil reúne os indicadores das seis dimensões da Fase I, a FOFA municipal das cinco áreas-chave da revisão de literatura e uma ficha em PDF, e pode ser acessado a partir do mapa ou dos cartões apresentados a seguir.
 
 ```{r}
 mapa_municipio(NULL, altura = 420)
@@ -32,7 +32,7 @@ div(class = "cartoes", lapply(seq_len(nrow(m13)), cartao))
 
 ## Os 13 municípios lado a lado
 
-Último valor disponível de cada indicador-chave. Clique no cabeçalho para ordenar.
+A tabela apresenta o último valor disponível de cada indicador-chave, e a ordenação pode ser alterada pelo cabeçalho das colunas.
 
 ```{r}
 ids <- IND$id[IND$kpi == 1]

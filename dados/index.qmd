@@ -11,12 +11,12 @@ source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
 ::: {.faixa-versao}
-Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos para download são cópias fiéis das bases entregues, exceto pelo IFDM (ver nota ao final). A seção final traz os dados complementares obtidos no Observatório do Sebrae.
+Bases tratadas da Fase I, congeladas em 08/07/2026. Os arquivos disponibilizados constituem cópias fiéis das bases entregues, à exceção do IFDM, conforme nota ao final; a última seção apresenta os dados complementares obtidos no Observatório do Sebrae.
 :::
 
 ## Explorador de indicadores
 
-A tabela traz o último valor de `r sum(IND$download == 1)` indicadores para os 141 municípios de Mato Grosso. Ela abre filtrada no Pantanal Norte; use as listas para mudar o grupo, a dimensão, o indicador ou o município, e o botão para baixar o recorte em CSV. Para ver um indicador em mapa, use a página [Indicadores](../indicadores/index.qmd).
+A tabela apresenta o último valor de `r sum(IND$download == 1)` indicadores para os 141 municípios de Mato Grosso e é exibida, inicialmente, com o filtro do Pantanal Norte. As listas de seleção permitem alterar o grupo, a dimensão, o indicador ou o município, e o botão de exportação gera o recorte selecionado em formato CSV. A representação cartográfica de cada indicador encontra-se na página [Indicadores](../indicadores/index.qmd).
 
 ```{r}
 DEC <- c(int = 0, dec1 = 1, dec2 = 2, dec3 = 3, pct1 = 1, pct2 = 2, brl = 0, brl_mil = 0, usd = 0)
@@ -66,7 +66,7 @@ tagList(
 
 ## Bases tratadas
 
-Cada base tem uma linha por município e ano (ou por município, nas bases de retrato único). A chave `id_municipio` é o código IBGE de 7 dígitos.
+Cada base contém uma linha por município e ano, ou apenas por município, no caso das bases que constituem retrato de um único ano. A chave `id_municipio` corresponde ao código IBGE de sete dígitos.
 
 ```{r}
 cat_b <- ler(file.path(RAIZ, "arquivos", "dados", "CATALOGO_BASES_TRATADAS.csv"))
@@ -81,7 +81,7 @@ reactable(cat_b, compact = TRUE, striped = TRUE, pagination = FALSE, groupBy = "
             a(href = paste0("../arquivos/dados/", v), download = NA, v))))
 ```
 
-Além das bases por dimensão:
+Além das bases por dimensão, disponibilizam-se os seguintes arquivos:
 
 - [Painel dos 141 municípios](../arquivos/dados/painel_municipios_mt.csv) e [painel do Pantanal Norte](../arquivos/dados/painel_pantanal_norte.csv)
 - [Tabela de municípios e grupos](../arquivos/dados/municipios_ref.csv)
@@ -89,7 +89,7 @@ Além das bases por dimensão:
 - [Malha municipal de MT simplificada (GeoJSON)](../arquivos/geo/mt_municipios.geojson) — IBGE, simplificada para uso na web
 - [Catálogo das bases](../arquivos/dados/CATALOGO_BASES_TRATADAS.csv)
 
-Todos os arquivos estão em UTF-8, separados por vírgula. Valores monetários reais estão em reais de 2024 (deflatores descritos nas notas metodológicas).
+Todos os arquivos estão codificados em UTF-8, com campos separados por vírgula. Os valores monetários reais estão expressos em reais de 2024, e os deflatores utilizados encontram-se descritos nas notas metodológicas.
 
 ## Fontes e licenças
 
@@ -106,15 +106,12 @@ reactable(fl, compact = TRUE, searchable = TRUE, defaultPageSize = 15, wrap = TR
 ::: {.callout-note}
 ## Notas sobre uso e atribuição
 
-- **IFDM (FIRJAN):** os valores aparecem nos perfis com citação da fonte, mas a base não é oferecida para download, porque a redistribuição depende de autorização da FIRJAN. Os dados estão em [firjan.com.br/ifdm](https://www.firjan.com.br/ifdm/).
-- **Rodovias:** dados de © OpenStreetMap contributors, sob licença ODbL.
-- **Uso da terra:** MapBiomas — citar a coleção conforme orientação do portal.
-- **Crédito rural (SICOR):** cobre cerca de 23,5% do crédito rural total; rotular como "crédito com recursos públicos".
+Os valores do Índice Firjan de Desenvolvimento Municipal (IFDM) são apresentados nos perfis com a citação da fonte, mas a base não é disponibilizada para *download*, uma vez que sua redistribuição depende de autorização da FIRJAN; os dados originais encontram-se em [firjan.com.br/ifdm](https://www.firjan.com.br/ifdm/). Os dados de rodovias provêm de © OpenStreetMap *contributors*, sob licença ODbL, e os de uso da terra, do MapBiomas, cuja coleção deve ser citada conforme a orientação do portal. Ressalta-se, ainda, que o crédito rural do SICOR abrange cerca de 23,5% do crédito rural total e deve, portanto, ser designado como "crédito com recursos públicos".
 :::
 
 ## Dados complementares (Observatório Sebrae)
 
-Bases coletadas em 30/09/2026 na API pública do [Observatório Setorial Territorial do Sebrae](https://observatorio.sebrae.com.br/) (OST) para os 141 municípios de Mato Grosso. Cobrem temas que a Fase I não coletou ou que tinham dados antigos: turismo, conectividade, empresas ativas recentes, agências bancárias, homicídios e ocupação no Censo 2022. Os indicadores escolhidos aparecem nos perfis municipais e nas páginas de indicador com o selo [OST]{.selo-ost}.
+As bases desta seção foram coletadas em 30/09/2026 na interface pública de programação (API) do [Observatório Setorial Territorial do Sebrae](https://observatorio.sebrae.com.br/) (OST), para os 141 municípios de Mato Grosso. Abrangem temas não coletados na Fase I ou cujos dados se encontravam defasados, a saber, turismo, conectividade, empresas ativas recentes, agências bancárias, homicídios e ocupação no Censo 2022. Os indicadores selecionados são apresentados nos perfis municipais e nas páginas de indicador com o selo [OST]{.selo-ost}.
 
 ```{r}
 dic_o <- ler(file.path(RAIZ, "arquivos", "dados", "sebrae", "dicionario_sebrae.csv"))
@@ -129,5 +126,5 @@ reactable(info, compact = TRUE, striped = TRUE, pagination = FALSE,
 ```
 
 - [Dicionário das variáveis (CSV)](../arquivos/dados/sebrae/dicionario_sebrae.csv) · [Descrição da coleta, cobertura e ressalvas (LEIA-ME)](../arquivos/dados/sebrae/LEIA-ME.md)
-- **Ressalvas:** as compras públicas (PNCP) cobrem só 27 municípios de MT e 4 do Pantanal Norte e não devem ser usadas para comparação; o Mapa do Turismo vai até 2019; os anos de 2026 são parciais; a agricultura familiar (CAF) não foi coletada porque o cubo estava fora do ar.
-- **Uso e citação:** os dados vêm de fontes oficiais (ANATEL, MTur, Receita Federal, Banco Central, MJSP/Sinesp, IBGE). Cite a fonte original e "via Observatório Sebrae (OST)". O **ISDEL** é um índice do próprio Sebrae: aparece nos perfis com citação ("© Sebrae"), mas não é oferecido para download.
+
+Cumpre registrar algumas ressalvas quanto a esses dados. As compras públicas (PNCP) abrangem apenas 27 municípios de Mato Grosso e 4 do Pantanal Norte, razão pela qual não devem ser utilizadas para comparação; o Mapa do Turismo estende-se somente até 2019; os valores de 2026 são parciais; e a agricultura familiar (CAF) não foi coletada, uma vez que o respectivo cubo de dados se encontrava indisponível. Os dados provêm de fontes oficiais (ANATEL, Ministério do Turismo, Receita Federal, Banco Central, MJSP/Sinesp e IBGE), de modo que se recomenda citar a fonte original acrescida da indicação "via Observatório Sebrae (OST)". O Índice Sebrae de Desenvolvimento Econômico Local (ISDEL), por constituir índice do próprio Sebrae, é apresentado nos perfis com a devida citação ("© Sebrae"), mas não é disponibilizado para *download*.

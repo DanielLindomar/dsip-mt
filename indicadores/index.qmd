@@ -9,7 +9,7 @@ toc: false
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Cada indicador tem uma página com o **mapa dos 141 municípios de Mato Grosso**, o **ranking dos 13 municípios do Pantanal Norte**, a evolução no tempo e a tabela completa. Escolha um indicador:
+Cada indicador dispõe de uma página própria, que apresenta o **mapa dos 141 municípios de Mato Grosso**, o ***ranking* dos 13 municípios do Pantanal Norte**, a evolução temporal e a tabela completa de valores. Os indicadores encontram-se listados a seguir, agrupados por dimensão.
 
 ```{r}
 tagList(lapply(names(DIMS), function(d) {

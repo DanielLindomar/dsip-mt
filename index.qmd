@@ -20,10 +20,10 @@ sem_ro <- function(id, fmt) { g <- AGR[AGR$indicador == id, ]; sprintf("sem Rond
 ```
 
 ::: {.faixa-versao}
-Versão preliminar para a equipe do projeto. Os resultados são atualizados à medida que as etapas do estudo são concluídas.
+Versão preliminar, destinada à equipe do projeto. Os resultados são atualizados à medida que se concluem as etapas do estudo.
 :::
 
-Este site reúne os resultados do Projeto DSIP-MT (Convênio 984799/2025 SUDECO–UNEMAT): indicadores dos 13 municípios do Pantanal Norte, os Relatórios Parciais I das seis dimensões, as bases de dados tratadas e a revisão de literatura. Em vez de relatórios e planilhas avulsos, cada resultado tem uma página, com a fonte e o ano de cada número.
+Este *site* reúne os resultados do Projeto DSIP-MT (Convênio 984799/2025 SUDECO–UNEMAT), a saber, os indicadores dos 13 municípios do Pantanal Norte, os Relatórios Parciais I das seis dimensões, as bases de dados tratadas e a revisão de literatura das cinco áreas-chave. Em substituição à circulação de relatórios e planilhas avulsos, cada resultado dispõe de uma página própria, na qual se indicam a fonte e o ano de referência de cada número. Desse modo, busca-se facilitar o acesso da equipe às evidências que fundamentam as etapas subsequentes do diagnóstico.
 
 ```{r}
 div(class = "atalhos",
@@ -50,13 +50,13 @@ div(class = "kpi-grade",
   k("Rebanho bovino", fmt_valor(reb$v, "int"), paste("cabeças ·", reb$ano, "·", sem_ro("rebanho_bovino", "int"))))
 ```
 
-Clique em um município do mapa para abrir o perfil.
+O mapa a seguir destaca os 13 municípios do recorte; a seleção de um deles conduz ao respectivo perfil municipal.
 
 ```{r}
 mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ```
 
-## O que há no site
+## Conteúdo do *site*
 
 ```{=html}
 <div class="cartoes">
@@ -66,20 +66,22 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
   <a class="cartao" href="revisao/index.html"><h4>Revisão de literatura</h4><p>Matrizes FOFA das cinco áreas-chave, FOFA municipal, matrizes complementares e estudos dos corpora.</p></a>
   <a class="cartao" href="dados/index.html"><h4>Dados</h4><p>Explorador de indicadores para os 141 municípios de MT e download das bases tratadas com dicionários.</p></a>
   <a class="cartao" href="biblioteca/index.html"><h4>Biblioteca</h4><p>Relatórios, síntese executiva e notas metodológicas em PDF.</p></a>
-  <a class="cartao" href="sobre.html"><h4>Sobre</h4><p>O projeto, o recorte, as dimensões e como este site é feito.</p></a>
+  <a class="cartao" href="sobre.html"><h4>Sobre</h4><p>O projeto, o recorte, as dimensões e a forma de elaboração deste <i>site</i>.</p></a>
 </div>
 ```
 
 ## Novidades
 
-- **16/10/2026** — Pantanal Norte sem Rondonópolis e placar frente a Mato Grosso. Cada página de dimensão traz um placar (▲ melhor, ● próximo, ▼ pior que MT) para os 13 municípios e para o Pantanal Norte com e sem Rondonópolis, agregados pela base de cada indicador; cada município tem o resumo por dimensão; os números da página inicial mostram também o total sem Rondonópolis. Ideia adaptada do site da SWOT do PESM de Cleiton Franco.
+- **23/10/2026** — Revisão dos textos do *site* segundo as convenções da escrita científica (registro impessoal, prosa contínua e indicação explícita de fontes e procedimentos).
 
-- **16/10/2026** — Correção: a densidade de focos de calor passa a ir até 2022 e a dependência do FPM até 2021. Nos anos seguintes, as bases da Fase I têm quebra de série (mudança de escala dos focos em 2023–2024 e de classificação do FPM em 2022), apontada pelo site do Cleiton Franco; esses anos voltam quando as bases forem corrigidas.
+- **16/10/2026** — Inclusão do agregado "Pantanal Norte sem Rondonópolis" e do placar frente a Mato Grosso. Cada página de dimensão passa a apresentar um placar (▲ melhor, ● próximo, ▼ pior que MT) para os 13 municípios e para o Pantanal Norte com e sem Rondonópolis, agregados segundo a base de cada indicador; os perfis municipais apresentam o resumo por dimensão, e os números da página inicial informam também o total sem Rondonópolis. A proposta foi adaptada do *site* da matriz SWOT do PESM elaborado por Cleiton Franco.
 
-- **07/10/2026** — Versão 0.4: revisão de literatura das cinco áreas-chave (econômica, infraestrutura, setor público, sociodemográfica e ambiental), com matriz FOFA, matriz complementar e FOFA municipal de cada área; perfis municipais com a FOFA das cinco áreas em abas; estudos dos cinco corpora numa só tabela, com filtro por área; relatórios (RSE) das cinco áreas na Biblioteca; dicionário do D1 e licença do MapBiomas corrigidos conforme a errata da Fase I de 01/10/2026.
+- **16/10/2026** — Correção das séries de densidade de focos de calor, que passam a terminar em 2022, e de dependência do Fundo de Participação dos Municípios (FPM), que passam a terminar em 2021. Nos anos posteriores, as bases da Fase I apresentam quebra de série — mudança de escala dos focos em 2023–2024 e de classificação do FPM em 2022 —, identificada no *site* elaborado por Cleiton Franco; tais anos serão reincorporados após a correção das bases.
 
-- **30/09/2026** — Versão 0.3: 17 indicadores complementares do Observatório Sebrae (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022, ISDEL); valores dos gráficos ao passar o cursor ou tocar; mapas mais leves.
+- **07/10/2026** — Versão 0.4: publicação da revisão de literatura das cinco áreas-chave (econômica, infraestrutura, setor público, sociodemográfica e ambiental), com a matriz FOFA, a matriz complementar e a FOFA municipal de cada área; inclusão da FOFA das cinco áreas nos perfis municipais; reunião dos estudos dos cinco *corpora* em uma única tabela, com filtro por área; disponibilização dos relatórios (RSE) das cinco áreas na Biblioteca; e correção do dicionário do D1 e da licença do MapBiomas, conforme a errata da Fase I de 01/10/2026.
 
-- **30/09/2026** — Versão 0.2: perfis municipais em abas, com posição entre os 13 e minisséries; páginas de indicador com mapa; matriz FOFA em quadrantes; fichas municipais em PDF; tabelas em português; mapas sem dependência externa.
+- **30/09/2026** — Versão 0.3: inclusão de 17 indicadores complementares do Observatório Sebrae (turismo, conectividade, empresas ativas, agências bancárias, homicídios, ocupação no Censo 2022 e ISDEL), exibição dos valores dos gráficos mediante passagem do cursor ou toque e redução do volume dos mapas.
 
-- **30/09/2026** — Primeira versão do site: 13 perfis municipais, seis dimensões, revisão de literatura da área econômica, explorador de dados e biblioteca.
+- **30/09/2026** — Versão 0.2: reorganização dos perfis municipais em abas, com a posição de cada município entre os 13 e minisséries temporais; páginas de indicador com mapa; matriz FOFA em quadrantes; fichas municipais em PDF; tabelas em português; e mapas sem dependência de serviços externos.
+
+- **30/09/2026** — Primeira versão do *site*, com 13 perfis municipais, as seis dimensões, a revisão de literatura da área econômica, o explorador de dados e a biblioteca.

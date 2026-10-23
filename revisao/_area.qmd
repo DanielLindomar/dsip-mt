@@ -24,16 +24,16 @@ nb    <- num_br
 ```{r}
 #| results: asis
 if (ECON) {
-  cat(sprintf('::: {.faixa-versao}\nPacote da área econômica regerado em %s, conforme deliberação da coordenação de %s, e reverificado em %s (%s arquivos). Matriz FOFA validada pela coordenação em **%s**. Relatório: [RSE da área econômica, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
+  cat(sprintf('::: {.faixa-versao}\nO pacote da área econômica foi regerado em %s, conforme deliberação da coordenação de %s, e reverificado em %s (%s arquivos). A matriz FOFA foi validada pela coordenação em **%s**. Relatório: [RSE da área econômica, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
               M[["data_regeracao"]], M[["data_deliberacao"]], M[["data_reverificacao"]], M[["arquivos_pacote"]],
               M[["data_validacao_matriz"]], M[["rse_pdf"]]))
 } else {
-  cat(sprintf('::: {.faixa-versao}\nPacote da área %s publicado no Drive do projeto em %s (%s arquivos, conferidos por SHA-256 no destino). Matriz FOFA validada pela coordenação em **%s**. Relatório: [RSE da área %s, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
+  cat(sprintf('::: {.faixa-versao}\nO pacote da área %s foi publicado no repositório do projeto em %s (%s arquivos, conferidos por SHA-256 no destino). A matriz FOFA foi validada pela coordenação em **%s**. Relatório: [RSE da área %s, v1 (PDF)](../arquivos/relatorios/%s).\n:::\n',
               DE, M[["data_publicacao_drive"]], nb(as.integer(M[["arquivos_pacote"]])), M[["data_validacao_matriz"]], DE, M[["rse_pdf"]]))
 }
 ```
 
-Esta página apresenta a matriz FOFA (forças, oportunidades, fraquezas e ameaças) da área-chave `r DE` dos 13 municípios do Pantanal Norte. A matriz resulta da revisão sistemática; a revisão documental complementar e a FOFA municipal aparecem nas seções finais, separadas da matriz validada. Os estudos do corpus estão em [Estudos do corpus](estudos.qmd#area=`r AREA`).
+Esta página apresenta a matriz FOFA (forças, oportunidades, fraquezas e ameaças) da área-chave `r DE` para os 13 municípios do Pantanal Norte. A matriz resulta da revisão sistemática da literatura, ao passo que a revisão documental complementar e a FOFA municipal são apresentadas nas seções finais, separadamente da matriz validada. Os estudos que compõem o *corpus* encontram-se relacionados em [Estudos do corpus](estudos.qmd#area=`r AREA`).
 
 ## Seleção dos estudos
 
@@ -75,7 +75,7 @@ div(class = "prisma",
   cx("<b style='font-size:1rem'>Estudos distintos analisados</b>", pv("estudos")), div())
 ```
 
-<details><summary>Ver todos os números do fluxo em tabela</summary>
+<details><summary>Números completos do fluxo de seleção</summary>
 
 ```{r}
 reactable(pr |> transmute(etapa, rotulo, valor = ifelse(nzchar(valor_texto), valor_texto, as.character(valor))),
@@ -90,9 +90,9 @@ reactable(pr |> transmute(etapa, rotulo, valor = ifelse(nzchar(valor_texto), val
 ```{r}
 #| results: asis
 regra <- function(e) { r <- unique(pr$etapa_rotulo[pr$etapa == e]); if (length(r)) sub("^[^(]*\\((.*)\\)\\s*$", "\\1", r[1]) else "" }
-cat(sprintf("::: {.nota-fonte}\nFonte: planilha de triagem e fluxo PRISMA do pacote da área %s (Anexo B da revisão sistemática). %s. Triagem por título: %s. Triagem por resumo: %s.%s\n:::\n",
+cat(sprintf("::: {.nota-fonte}\nFonte: elaboração própria com base na planilha de triagem e no fluxo PRISMA do pacote da área %s (Anexo B da revisão sistemática). %s. Triagem por título: %s. Triagem por resumo: %s.%s\n:::\n",
             DE, M[["datas_prisma"]], regra("Triagem por título"), regra("Triagem por resumo"),
-            if (pv("corpus") > pv("estudos")) sprintf(" Os %d registros incluídos correspondem a %d estudos distintos: %d registros são versões do mesmo estudo em outra língua ou outra base, mantidas no corpus por deliberação da coordenação de 21/09/2026.",
+            if (pv("corpus") > pv("estudos")) sprintf(" Os %d registros incluídos correspondem a %d estudos distintos, uma vez que %d registros constituem versões do mesmo estudo em outra língua ou em outra base, mantidas no *corpus* por deliberação da coordenação de 21/09/2026.",
                                                      pv("corpus"), pv("estudos"), pv("corpus") - pv("estudos")) else ""))
 ```
 
@@ -101,7 +101,7 @@ cat(sprintf("::: {.nota-fonte}\nFonte: planilha de triagem e fluxo PRISMA do pac
 ```{r}
 #| results: asis
 por_q <- table(factor(itens$dimensao, ORDEM_DIM))
-cat(sprintf("Os %d itens validados: %d forças, %d oportunidades, %d fraquezas e %d ameaças. Clique em um item para ver a proposição completa, a ressalva e como verificá-lo em campo. Os selos mostram a confiança e a ancoragem territorial da evidência.\n\n",
+cat(sprintf("A matriz validada compreende %d itens, dos quais %d forças, %d oportunidades, %d fraquezas e %d ameaças. A seleção de cada item exibe a proposição completa, a ressalva e o procedimento de verificação em campo, e os selos indicam a confiança e a ancoragem territorial da evidência.\n\n",
             N, por_q[[1]], por_q[[2]], por_q[[3]], por_q[[4]]))
 ```
 
@@ -131,15 +131,9 @@ div(class = "fofa-quadro", lapply(ORDEM_DIM, quadrante))
 
 ## Os `r N` itens em tabela
 
-Cada item é uma proposição verificável. As colunas da tabela têm o seguinte significado:
+Cada item constitui uma proposição verificável, caracterizada por cinco atributos. O **lastro** corresponde ao número de estudos distintos do *corpus* que sustentam o item, obtido pelo mapeamento das `r M[["sistematica_evidencias"]]` evidências extraídas contra os `r N` itens, realizado por dois mapeadores independentes, adotando-se a interseção entre ambos. A **convergência** indica em quantas de três execuções independentes da síntese o item foi identificado (3/3, 2/3 ou 1/3). A **confiança** resulta de critério composto de lastro e convergência, em que o lastro de 10 ou mais estudos vale 2 pontos, o de 5 a 9 vale 1 e o de 4 ou menos vale 0, ao passo que a convergência 3/3 vale 2 pontos, a 2/3 vale 1 e a 1/3 vale 0; classifica-se como alta a confiança com 3 ou mais pontos, como média a que soma 2 e como baixa a que soma 1 ou menos. A **ancoragem** identifica o território em que foi produzida a evidência das citações exibidas — Mato Grosso, Mato Grosso em parte, Pantanal Sul (Mato Grosso do Sul) e outros territórios, ou Pantanal sem território definido — e é independente da confiança. Por fim, o atributo **verificável** indica se o item pode ser verificado em campo.
 
-- **Lastro**: número de estudos distintos do corpus que sustentam o item, obtido pelo mapeamento das `r M[["sistematica_evidencias"]]` evidências extraídas contra os `r N` itens por dois mapeadores independentes (adotou-se a interseção).
-- **Convergência**: em quantas de três execuções independentes da síntese o item apareceu (3/3, 2/3 ou 1/3).
-- **Confiança**: critério composto de lastro e convergência. Lastro de 10 ou mais estudos vale 2 pontos, de 5 a 9 vale 1, de 4 ou menos vale 0; convergência 3/3 vale 2, 2/3 vale 1, 1/3 vale 0. Alta: 3 ou mais pontos; média: 2; baixa: 1 ou menos.
-- **Ancoragem**: território em que a evidência das citações exibidas foi produzida (Mato Grosso; Mato Grosso em parte; Pantanal Sul, em Mato Grosso do Sul, e outros territórios; Pantanal sem território definido). A ancoragem é independente da confiança.
-- **Verificável**: se o item pode ser verificado em campo.
-
-Clique em uma linha para ver a proposição completa, a ressalva, o modo de verificação em campo e as citações exibidas (`r nrow(cit)` no total, de `r M[["obras_citadas"]]` obras), com autor, ano e link para o DOI.
+A seleção de cada linha exibe a proposição completa, a ressalva, o procedimento de verificação em campo e as citações exibidas (`r nrow(cit)` no total, provenientes de `r M[["obras_citadas"]]` obras), com autor, ano e *link* para o DOI.
 
 ```{r}
 detalhe_item <- function(i) {
@@ -185,12 +179,12 @@ reactable(tab_itens, elementId = "tab-itens", theme = tema_rev, compact = TRUE, 
 cf <- table(factor(itens$confianca, c("alta", "média", "baixa")))
 cv <- table(factor(itens$convergencia, c("3/3", "2/3", "1/3")))
 an <- table(factor(itens$ancoragem, c("Mato Grosso", "Mato Grosso (parcial)", "Pantanal Sul (MS) e outros", "Pantanal genérico")))
-cat(sprintf("Distribuição: confiança alta em %d itens, média em %d e baixa em %d; convergência 3/3 em %d, 2/3 em %d e 1/3 em %d; ancoragem em Mato Grosso em %d itens, em parte em Mato Grosso em %d, predominantemente no Pantanal Sul ou em outros territórios em %d%s; %d itens verificáveis em campo.\n\n",
+cat(sprintf("Quanto à distribuição dos itens, observa-se confiança alta em %d itens, média em %d e baixa em %d; convergência 3/3 em %d, 2/3 em %d e 1/3 em %d; ancoragem em Mato Grosso em %d itens, parcialmente em Mato Grosso em %d e predominantemente no Pantanal Sul ou em outros territórios em %d%s; e %d itens verificáveis em campo.\n\n",
             cf[[1]], cf[[2]], cf[[3]], cv[[1]], cv[[2]], cv[[3]], an[[1]], an[[2]], an[[3]],
             if (an[[4]] > 0) sprintf(" e no Pantanal sem território definido em %d", an[[4]]) else "",
             sum(itens$verificavel_campo == "Sim")))
 nao_loc <- sum(grepl("não localizada", cit$conferencia))
-cat(sprintf('::: {.nota-fonte}\nFonte: Matriz FOFA em formato integrado e planilha dos quadros FOFA (Anexo A) do pacote da área %s. As citações exibidas são trechos curtos dos estudos, reproduzidos com indicação de autor e fonte para fins de estudo e crítica (Lei 9.610/1998, art. 46, III). As citações foram conferidas contra o texto original: %d no PDF, %d no resumo indexado e %d no PDF com variação decorrente da extração de texto%s. Dados em CSV: [itens](../arquivos/revisao/%s/itens_fofa.csv) · [citações](../arquivos/revisao/%s/citacoes_fofa.csv).\n:::\n',
+cat(sprintf('::: {.nota-fonte}\nFonte: elaboração própria com base na matriz FOFA em formato integrado e na planilha dos quadros FOFA (Anexo A) do pacote da área %s. As citações exibidas constituem trechos curtos dos estudos, reproduzidos com indicação de autor e fonte para fins de estudo e crítica (Lei 9.610/1998, art. 46, III), e foram conferidas contra o texto original: %d no PDF, %d no resumo indexado e %d no PDF com variação decorrente da extração de texto%s. Dados em CSV: [itens](../arquivos/revisao/%s/itens_fofa.csv) · [citações](../arquivos/revisao/%s/citacoes_fofa.csv).\n:::\n',
             DE, sum(cit$conferencia == "confirmada no PDF"), sum(cit$conferencia == "confirmada no resumo indexado"),
             sum(grepl("variação", cit$conferencia)),
             if (nao_loc > 0) sprintf("; %d não localizada pelo conferidor automático e conferida à mão, conforme o relatório da área", nao_loc) else "",
@@ -199,7 +193,7 @@ cat(sprintf('::: {.nota-fonte}\nFonte: Matriz FOFA em formato integrado e planil
 
 ## Ancoragem por município
 
-A tabela conta, para cada município do recorte, quantos dos `r nb(nrow(est))` estudos do corpus o citam pelo nome (no título, no resumo ou nas evidências extraídas do estudo) e em quantos dos `r N` itens as fontes citadas mencionam o município.
+A tabela apresenta, para cada município do recorte, o número de estudos, entre os `r nb(nrow(est))` do *corpus*, que o mencionam nominalmente — no título, no resumo ou nas evidências extraídas — e o número de itens, entre os `r N` da matriz, cujas fontes citadas fazem referência ao município.
 
 ```{r}
 anc <- tip |> select(id_municipio, municipio, slug) |>
@@ -223,13 +217,13 @@ reactable(anc |> select(municipio, slug, estudos, itens), theme = tema_rev, comp
 #| results: asis
 lista <- function(x) if (length(x) <= 1) x else paste(paste(head(x, -1), collapse = ", "), "e", tail(x, 1))
 if (length(zeros)) {
-  cat(sprintf("Nenhum estudo do corpus cita %s (linhas destacadas). %s da revisão complementar e da pesquisa de campo para qualquer afirmação municipal. ",
+  cat(sprintf("Nenhum estudo do *corpus* menciona %s (linhas destacadas). %s da revisão complementar e da pesquisa de campo para fundamentar qualquer afirmação de âmbito municipal. ",
               lista(zeros), if (length(zeros) == 1) "Esse município depende" else "Esses municípios dependem"))
 }
-cat(sprintf("Ao todo, %s dos %s estudos citam ao menos um município do recorte.\n\n", nb(n_distinct(em$chave)), nb(nrow(est))))
+cat(sprintf("No conjunto, %s dos %s estudos mencionam ao menos um município do recorte.\n\n", nb(n_distinct(em$chave)), nb(nrow(est))))
 ```
 
-Recorte geográfico dos `r nb(nrow(est))` estudos distintos do corpus:
+A tabela a seguir apresenta a distribuição dos `r nb(nrow(est))` estudos distintos do *corpus* segundo o recorte geográfico.
 
 ```{r}
 rg <- est |> count(recorte_geografico, name = "estudos") |> arrange(desc(estudos)) |>
@@ -241,7 +235,7 @@ reactable(rg, theme = tema_rev, compact = TRUE, pagination = FALSE, sortable = F
 ```
 
 ::: {.nota-fonte}
-Fonte: análise geográfica do corpus (identificação lexical dos municípios e territórios citados em cada registro), consolidada por estudo distinto. A classificação de cada estudo segue a do registro principal do estudo.
+Fonte: elaboração própria com base na análise geográfica do *corpus*, que identifica lexicalmente os municípios e territórios mencionados em cada registro, consolidada por estudo distinto. A classificação de cada estudo segue a do respectivo registro principal.
 :::
 
 ## Matriz complementar (revisão documental)
@@ -251,12 +245,12 @@ Fonte: análise geográfica do corpus (identificação lexical dos municípios e
 if (ECON) {
   cat(sprintf('::: {.callout-warning title="Advertência de uso"}\n%s\n:::\n', M[["advertencia_complementar"]]))
 } else if (nzchar(M[["complementar_nao_cobre"]])) {
-  cat(sprintf('::: {.callout-warning title="O que a matriz complementar não cobre"}\n%s\n\nA matriz é o mapa do que um acervo determinado registra, e não um diagnóstico completo da área: o silêncio do acervo sobre um município não significa ausência do fenômeno.\n:::\n',
+  cat(sprintf('::: {.callout-warning title="O que a matriz complementar não cobre"}\n%s\n\nA matriz representa o que um acervo determinado registra, e não um diagnóstico completo da área; por conseguinte, a ausência de registros sobre um município não significa ausência do fenômeno.\n:::\n',
               gsub("—\\s*$", "", M[["complementar_nao_cobre"]])))
 }
 ```
 
-A matriz complementar reúne `r nrow(comp)` itens extraídos do acervo documental (`r M[["resumo_complementar"]]`). Ela não altera os `r N` itens da matriz validada: `r sum(comp$corresponde_a != "Item novo")` itens correspondem a um item da matriz validada e `r sum(comp$corresponde_a == "Item novo")` são itens novos. A coluna "Fontes" conta observações independentes e não documentos: documentos que repetem o mesmo parágrafo com outro topônimo contam como uma observação. A rodada 1 varreu todo o acervo; a rodada 2 tratou lacunas temáticas indicadas pela auditoria de completude.
+A matriz complementar reúne `r nrow(comp)` itens extraídos do acervo documental (`r M[["resumo_complementar"]]`) e não altera os `r N` itens da matriz validada: `r sum(comp$corresponde_a != "Item novo")` itens correspondem a um item da matriz validada, e `r sum(comp$corresponde_a == "Item novo")` constituem itens novos. A coluna "Fontes" contabiliza observações independentes, e não documentos, de modo que documentos que repetem o mesmo parágrafo com outro topônimo contam como uma única observação. A primeira rodada de leitura abrangeu todo o acervo, e a segunda tratou das lacunas temáticas indicadas pela auditoria de completude.
 
 ```{r}
 detalhe_comp <- function(i) {
@@ -289,12 +283,12 @@ reactable(comp |> select(codigo, dimensao, proposicao, corresponde_a, fontes_obs
 
 ```{r}
 #| results: asis
-cat(sprintf("::: {.nota-fonte}\nFonte: Matriz complementar (Anexo D da revisão complementar) do pacote da área %s. Os documentos do acervo e da busca dirigida, os textos extraídos deles e a base de evidências não são publicados neste site. Dados em CSV: [matriz complementar](../arquivos/revisao/%s/matriz_complementar.csv).\n:::\n", DE, AREA))
+cat(sprintf("::: {.nota-fonte}\nFonte: elaboração própria com base na matriz complementar (Anexo D da revisão complementar) do pacote da área %s. Os documentos do acervo e da busca dirigida, os textos deles extraídos e a base de evidências não são publicados neste *site*. Dados em CSV: [matriz complementar](../arquivos/revisao/%s/matriz_complementar.csv).\n:::\n", DE, AREA))
 ```
 
 ## FOFA municipal
 
-A FOFA municipal cruza os `r N` itens da matriz validada com cada um dos 13 municípios e atribui a cada par um status de evidência. Os status vêm das revisões sistemática e complementar e da tipologia municipal da área; nenhum resulta de verificação em campo.
+A FOFA municipal cruza os `r N` itens da matriz validada com cada um dos 13 municípios e atribui a cada par um status de evidência, cujos significados se apresentam no Quadro 1. Os status derivam das revisões sistemática e complementar e da tipologia municipal da área, e nenhum deles resulta de verificação em campo.
 
 | Status | O que significa | Como usar |
 |---|---|---|
@@ -303,6 +297,8 @@ A FOFA municipal cruza os `r N` itens da matriz validada com cada um dos 13 muni
 | INFERIDO <span class="rotulo-hipotese">hipótese de campo</span> | Similaridade estrutural com município documentado, segundo a tipologia municipal; a base de cada par nomeia o município de referência e o critério | Hipótese. Verificar em campo. Não conta como evidência em nenhuma contagem de lastro. |
 | CONTRAINDICADO | Indicador municipal da Fase I refuta o item | Achado negativo. |
 | NÃO AVALIADO | Sem base para afirmar ou negar | Lacuna declarada. |
+
+: Quadro 1 – Status de evidência da FOFA municipal
 
 ```{r}
 res <- fm |> count(id_municipio, status) |>
@@ -333,7 +329,7 @@ reactable(res |> select(municipio, slug, grupo, posicao_bioma, all_of(ORDEM_STAT
 ```{r}
 #| results: asis
 tot <- table(factor(fm$status, ORDEM_STATUS))
-cat(sprintf("Nos %s pares município × item: %d documentados, %d regionais, %d inferidos, %d contraindicados e %d não avaliados. A base factual soma documentado, regional e contraindicado, isto é, o que se apoia em fonte ou em dado, e não em similaridade. O item a item de cada município está na página do município (link na tabela).\n\n",
+cat(sprintf("Dos %s pares município × item, %d são documentados, %d regionais, %d inferidos, %d contraindicados e %d não avaliados. A base factual corresponde à soma dos pares documentados, regionais e contraindicados, isto é, daqueles apoiados em fonte ou em dado, e não em similaridade estrutural. O detalhamento item a item encontra-se na página de cada município, acessível pela tabela.\n\n",
             nb(nrow(fm)), tot[["DOCUMENTADO"]], tot[["REGIONAL"]], tot[["INFERIDO"]], tot[["CONTRAINDICADO"]], tot[["NÃO AVALIADO"]]))
-cat(sprintf("::: {.nota-fonte}\nFonte: Matriz cruzada municipal (Anexo B da revisão complementar) e tipologia municipal do pacote da área %s. Dados em CSV: [FOFA municipal](../arquivos/revisao/%s/fofa_municipal.csv).\n:::\n", DE, AREA))
+cat(sprintf("::: {.nota-fonte}\nFonte: elaboração própria com base na matriz cruzada municipal (Anexo B da revisão complementar) e na tipologia municipal do pacote da área %s. Dados em CSV: [FOFA municipal](../arquivos/revisao/%s/fofa_municipal.csv).\n:::\n", DE, AREA))
 ```

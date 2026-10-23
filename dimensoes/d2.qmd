@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D2")
@@ -28,7 +28,7 @@ resumo_dimensao("D2")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D2")
@@ -41,7 +41,7 @@ placar_dimensao("D2")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,20 +75,15 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- As exportações concentram-se em Rondonópolis (cerca de 90% do recorte). Totais e médias são reportados com e sem esse município.
-- As exportações estão em dólares FOB correntes, sem deflação. Comparações temporais exigem citar o ano e usar participações ou variações relativas.
-- A ZPE de Cáceres é captada apenas pelo comércio exterior do município. A atividade operacional da zona não é medida nas bases atuais.
-- A cobertura da bioeconomia varia por componente: extrativismo desde 2002, silvicultura desde 2005 e aquicultura desde 2013. Comparações temporais ficam restritas à janela comum, a partir de 2013.
-- Unidades de conservação e terras indígenas constam como retrato de 2019, em hectares absolutos e não em percentual do território. Unidades criadas ou extintas depois de 2019 não estão refletidas.
-- A Indicação Geográfica tem um único registro (Indicação de Procedência “Pantanal”), de natureza qualitativa, sem série municipal.
-- Turismo e regime de loja franca (free shop) não foram coletados. Permanecem como pendências da agenda de campo de maio a setembro de 2026, sem estimativa de valores.
-- Os produtos exportados são identificados por código SH4, sem a descrição oficial correspondente.
+As exportações concentram-se em Rondonópolis, que responde por cerca de 90% do valor exportado pelo recorte; por essa razão, totais e médias são reportados com e sem esse município. Ademais, as exportações são expressas em dólares FOB correntes, sem deflação, de modo que as comparações temporais exigem a indicação do ano e o uso de participações ou variações relativas. Cumpre destacar, ainda, que os produtos exportados são identificados pelo código SH4, sem a descrição oficial correspondente, e que a Zona de Processamento de Exportação (ZPE) de Cáceres é captada apenas pelo comércio exterior do município, uma vez que a atividade operacional da zona não é mensurada nas bases atuais.
+
+A cobertura temporal da bioeconomia varia segundo o componente — extrativismo desde 2002, silvicultura desde 2005 e aquicultura desde 2013 —, razão pela qual as comparações temporais restringem-se à janela comum, iniciada em 2013. As unidades de conservação e as terras indígenas constituem retrato de 2019, expresso em hectares absolutos e não em percentual do território, de modo que as unidades criadas ou extintas após esse ano não estão refletidas. A Indicação Geográfica dispõe de um único registro, a Indicação de Procedência "Pantanal", de natureza qualitativa e sem série municipal. Por fim, o turismo e o regime de loja franca (*free shop*) não foram objeto de coleta na Fase I e permanecem como pendências da agenda de campo, sem estimativa de valores.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -123,4 +118,4 @@ if (file.exists(file.path(dir_dados, dic))) {
 cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 ```
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

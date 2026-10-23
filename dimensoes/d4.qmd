@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ::: {.faixa-versao}
-Relatório Parcial I — versão congelada de 08/07/2026. Os números vêm das bases tratadas da Fase I.
+Relatório Parcial I — versão congelada de 08/07/2026. Os números provêm das bases tratadas da Fase I.
 :::
 
 ## Principais resultados
@@ -20,7 +20,7 @@ Fonte do texto: Síntese Executiva dos Relatórios Parciais I, Projeto DSIP-MT (
 source(file.path(Sys.getenv("QUARTO_PROJECT_DIR", "."), "R", "funcoes.R"))
 ```
 
-Mediana dos 13 municípios, mediana de Mato Grosso e os municípios com maior e menor valor no ano de referência. Clique no nome do indicador para ver o mapa e o ranking. Indicadores com o selo [OST]{.selo-ost} são dados complementares obtidos no Observatório do Sebrae, fora dos Relatórios Parciais I.
+A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípios do recorte, a mediana de Mato Grosso e os municípios com o maior e o menor valor no ano de referência. O nome de cada indicador remete à página com o mapa e o *ranking* correspondentes. Os indicadores identificados pelo selo [OST]{.selo-ost} constituem dados complementares obtidos no Observatório Setorial Territorial do Sebrae e não integram os Relatórios Parciais I.
 
 ```{r}
 resumo_dimensao("D4")
@@ -28,7 +28,7 @@ resumo_dimensao("D4")
 
 ## Placar frente a Mato Grosso
 
-Cada município e o Pantanal Norte, com e sem Rondonópolis, comparados com Mato Grosso nos indicadores da dimensão que têm sentido de melhor ou pior. Rondonópolis tem mais da metade da população do recorte e pesa nos agregados; a linha sem ele mostra o restante da região.
+Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
 
 ```{r}
 placar_dimensao("D4")
@@ -41,7 +41,7 @@ placar_dimensao("D4")
 
 ## Figuras do relatório
 
-Figuras extraídas do Relatório Parcial I, na ordem em que aparecem no documento. A fonte de dados de cada figura consta no rodapé da própria imagem. Clique na imagem para ampliá-la.
+As figuras a seguir foram extraídas do Relatório Parcial I e são apresentadas na ordem em que aparecem no documento. A fonte de dados de cada figura consta do rodapé da própria imagem, que pode ser ampliada mediante seleção.
 
 ```{r}
 #| results: asis
@@ -75,20 +75,17 @@ cat("```{=html}\n<div class=\"galeria\">\n", paste(itens, collapse = "\n"),
 
 ## Ressalvas metodológicas
 
-Síntese das limitações registradas nas notas metodológicas da dimensão. O texto completo está no PDF das notas.
+Esta seção sintetiza as limitações registradas nas notas metodológicas da dimensão, cujo texto integral se encontra no documento em PDF correspondente.
 
-- Os focos de calor têm quebra de série de satélite entre 2022, 2023 e 2024. O número absoluto de focos não é comparável no tempo; usa-se a densidade por mil km². O ano de 2025 é parcial e foi excluído.
-- As fontes têm cortes finais distintos: PRODES até 2023 e MapBiomas até 2021. No painel, o uso da terra fica sem valor em 2022 e 2023. O ano de cada indicador deve ser citado.
-- O recorte abrange mais de um bioma (Cerrado, Pantanal e Amazônia). Tratá-lo como bloco ecológico único distorce a leitura; desmatamento e uso da terra são lidos por bioma e pelo gradiente oeste-leste.
-- A média simples é influenciada por municípios pequenos. Reportam-se a média simples e a média ponderada por área.
-- Unidades de conservação, terras indígenas e CAR são retratos estáticos (2019 e 2024) e não captam mudanças recentes de proteção ou cadastro.
-- A conformidade do CAR é autodeclarada e não foi verificada em campo. Sem a área de reserva legal exigida na base, não é possível calcular o déficit de Reserva Legal.
-- A ausência de unidade de conservação, terra indígena ou CAR está codificada como zero, e esse zero representa ausência real, não dado faltante.
-- A média do risco de fogo inclui o valor sentinela −999 do INPE (sem dado). Apenas valores não negativos, na escala de 0 a 1, têm interpretação.
+Os focos de calor apresentam quebra de série de satélite entre 2022, 2023 e 2024, de modo que o número absoluto de focos não é comparável ao longo do tempo. Constatou-se, posteriormente, que também a densidade de focos por mil km² é afetada pela mudança de escala, razão pela qual este *site* apresenta a série apenas até 2022; o ano de 2025, parcial, foi excluído. As fontes possuem, ademais, cortes temporais distintos — PRODES até 2023 e MapBiomas até 2021 —, de forma que, no painel, o uso da terra fica sem valor em 2022 e 2023, e o ano de cada indicador deve ser sempre citado.
+
+O recorte abrange mais de um bioma (Cerrado, Pantanal e Amazônia), e tratá-lo como bloco ecológico único distorceria a leitura; por isso, o desmatamento e o uso da terra são analisados por bioma e segundo o gradiente oeste-leste. Uma vez que a média simples é influenciada pelos municípios de menor extensão, reportam-se tanto a média simples quanto a média ponderada pela área.
+
+As unidades de conservação, as terras indígenas e o Cadastro Ambiental Rural (CAR) constituem retratos estáticos (2019 e 2024) e não captam mudanças recentes de proteção ou de cadastro. A conformidade do CAR é autodeclarada e não foi verificada em campo; ademais, na ausência da área de reserva legal exigida na base, não é possível calcular o déficit de Reserva Legal. Ressalta-se que a ausência de unidade de conservação, terra indígena ou CAR está codificada como zero, valor que representa ausência efetiva, e não dado faltante. Por fim, a média do risco de fogo inclui o valor sentinela −999 do INPE (sem dado), de modo que apenas os valores não negativos, na escala de 0 a 1, admitem interpretação.
 
 ## Dados desta dimensão
 
-Bases tratadas da Fase I em formato CSV (UTF-8), com as colunas descritas no dicionário de variáveis.
+As bases tratadas da Fase I são disponibilizadas em formato CSV (UTF-8), e as respectivas colunas encontram-se descritas no dicionário de variáveis.
 
 ```{r}
 #| results: asis
@@ -123,4 +120,4 @@ if (file.exists(file.path(dir_dados, dic))) {
 cat(paste(linhas, collapse = "\n"), "\n", sep = "")
 ```
 
-Veja os indicadores de cada município em [Municípios](../municipios/index.qmd).
+Os indicadores de cada município encontram-se em [Municípios](../municipios/index.qmd).

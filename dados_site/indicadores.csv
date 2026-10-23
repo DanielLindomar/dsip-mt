@@ -53,7 +53,7 @@ receita_pc_real,D6,D6_PGPM/d6_financas.csv,receita_pc_real,Receita corrente por 
 despesa_pc_real,D6,D6_PGPM/d6_financas.csv,despesa_pc_real,Despesa por habitante,R$ de 2024 por habitante,brl,ano,0,0,0,,0,fase1,1,pop
 perc_desp_saude,D6,D6_PGPM/d6_financas.csv,perc_desp_saude,Despesa com saúde,% da despesa total,pct1,ano,0,0,0,Gasto executado; não é o piso constitucional.,0,fase1,1,despesa
 perc_desp_educacao,D6,D6_PGPM/d6_financas.csv,perc_desp_educacao,Despesa com educação,% da despesa total,pct1,ano,0,0,0,Gasto executado; não é o mínimo constitucional.,0,fase1,1,despesa
-ifdm_geral,D6,D6_PGPM/d6_ifdm.csv,ifdm_geral,IFDM geral,índice 0–1,dec3,ano,1,1,0,© FIRJAN — Índice FIRJAN de Desenvolvimento Municipal. Dados disponíveis em firjan.com.br/ifdm.,1,fase1,0,pop
+ifdm_geral,D6,D6_PGPM/d6_ifdm.csv,ifdm_geral,IFDM geral,índice 0–1,dec3,ano,1,1,0,© FIRJAN — Índice FIRJAN de Desenvolvimento Municipal. Dados disponíveis em firjan.com.br/ifdm.,1,fase1,0,media
 empresas_ativas,D1,sebrae_empresas_ativas.csv,empresas_ativas,Empresas ativas (CNPJ),estabelecimentos ativos,int,ano,0,0,1,Receita Federal via Observatório Sebrae (OST); retrato em 30/09/2026; inclui MEI.,1,sebrae,1,soma
 empresas_ativas_por_1000_hab,D1,sebrae_empresas_ativas.csv,empresas_ativas_por_1000_hab,Empresas ativas por mil habitantes,por 1.000 hab.,dec1,ano,0,0,0,Receita Federal via OST; retrato em 30/09/2026; população de 2025.,1,sebrae,1,pop
 sh_mei_pct,D1,sebrae_empresas_ativas.csv,sh_mei_pct,MEI no total de empresas ativas,%,pct1,ano,0,0,0,Receita Federal via OST; retrato em 30/09/2026.,0,sebrae,1,empresas
