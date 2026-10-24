@@ -26,13 +26,6 @@ A tabela apresenta, para cada indicador da dimensão, a mediana dos 13 municípi
 resumo_dimensao("D6")
 ```
 
-## Placar frente a Mato Grosso
-
-Nesta seção, cada município e o Pantanal Norte, com e sem Rondonópolis, são comparados com Mato Grosso nos indicadores da dimensão para os quais se define sentido de melhor ou pior. Uma vez que Rondonópolis concentra mais da metade da população do recorte e exerce peso elevado sobre os agregados, a linha que o exclui permite avaliar a situação dos demais municípios da região.
-
-```{r}
-placar_dimensao("D6")
-```
 
 ## Documentos
 

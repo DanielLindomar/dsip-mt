@@ -16,7 +16,6 @@ k <- function(rotulo, valor, meta) div(class = "kpi", div(class = "kpi-rotulo", 
                                        div(class = "kpi-valor", valor), div(class = "kpi-meta", meta))
 pop <- soma_pn("populacao"); pib <- soma_pn("pib_real"); emp <- soma_pn("empregos_formais")
 exp <- soma_pn("valor_exp_fob_usd"); reb <- soma_pn("rebanho_bovino")
-sem_ro <- function(id, fmt) { g <- AGR[AGR$indicador == id, ]; sprintf("sem Rondonópolis: %s (%s%%)", fmt_valor(g$pn12, fmt), num(100 * g$pn12 / g$pn13, 0)) }
 ```
 
 ::: {.faixa-versao}
@@ -43,11 +42,11 @@ div(class = "atalhos",
 ```{r}
 div(class = "kpi-grade",
   k("Municípios no recorte", "13", "definição institucional do convênio"),
-  k("População", fmt_valor(pop$v, "int"), paste("habitantes ·", pop$ano, "·", sem_ro("populacao", "int"))),
-  k("PIB real", fmt_valor(pib$v, "brl_mil"), paste("reais de 2024 ·", pib$ano, "·", sem_ro("pib_real", "brl_mil"))),
-  k("Empregos formais", fmt_valor(emp$v, "int"), paste("vínculos em 31/12 ·", emp$ano, "·", sem_ro("empregos_formais", "int"))),
-  k("Exportações", fmt_valor(exp$v, "usd"), paste("US$ correntes (FOB) ·", exp$ano, "·", sem_ro("valor_exp_fob_usd", "usd"))),
-  k("Rebanho bovino", fmt_valor(reb$v, "int"), paste("cabeças ·", reb$ano, "·", sem_ro("rebanho_bovino", "int"))))
+  k("População", fmt_valor(pop$v, "int"), paste("habitantes ·", pop$ano)),
+  k("PIB real", fmt_valor(pib$v, "brl_mil"), paste("reais de 2024 ·", pib$ano)),
+  k("Empregos formais", fmt_valor(emp$v, "int"), paste("vínculos em 31/12 ·", emp$ano)),
+  k("Exportações", fmt_valor(exp$v, "usd"), paste("US$ correntes (FOB) ·", exp$ano)),
+  k("Rebanho bovino", fmt_valor(reb$v, "int"), paste("cabeças ·", reb$ano)))
 ```
 
 O mapa a seguir destaca os 13 municípios do recorte; a seleção de um deles conduz ao respectivo perfil municipal.
@@ -73,8 +72,6 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 ## Novidades
 
 - **23/10/2026** — Revisão dos textos do *site* segundo as convenções da escrita científica (registro impessoal, prosa contínua e indicação explícita de fontes e procedimentos).
-
-- **16/10/2026** — Inclusão do agregado "Pantanal Norte sem Rondonópolis" e do placar frente a Mato Grosso. Cada página de dimensão passa a apresentar um placar (▲ melhor, ● próximo, ▼ pior que MT) para os 13 municípios e para o Pantanal Norte com e sem Rondonópolis, agregados segundo a base de cada indicador; os perfis municipais apresentam o resumo por dimensão, e os números da página inicial informam também o total sem Rondonópolis. A proposta foi adaptada do *site* da matriz SWOT do PESM elaborado por Cleiton Franco.
 
 - **16/10/2026** — Correção das séries de densidade de focos de calor, que passam a terminar em 2022, e de dependência do Fundo de Participação dos Municípios (FPM), que passam a terminar em 2021. Nos anos posteriores, as bases da Fase I apresentam quebra de série — mudança de escala dos focos em 2023–2024 e de classificação do FPM em 2022 —, identificada no *site* elaborado por Cleiton Franco; tais anos serão reincorporados após a correção das bases.
 

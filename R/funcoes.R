@@ -20,7 +20,6 @@ MUN  <- ler(ds("municipios.csv"))
 SER  <- readRDS(ds("serie.rds"))
 ULT  <- readRDS(ds("ultimos.rds"))
 GEO  <- readRDS(ds("geo_mt.rds"))
-AGR  <- readRDS(ds("agregados.rds"))   # PN-13, PN-13 sem Rondonópolis e MT agregados (scripts/01_preparar_dados.R)
 PN   <- MUN$id_municipio[MUN$pn13]
 M13  <- MUN[MUN$pn13, ] |> arrange(municipio)
 
@@ -84,7 +83,10 @@ resumo_ind <- function(id, mun_id) {
   pos <- if (is.na(me$valor)) NA_integer_ else sum(up$valor > me$valor, na.rm = TRUE) + 1L
   list(valor = me$valor, ano = me$ano, pos = pos, n_pn = sum(!is.na(up$valor)),
        med_pn = median(up$valor, na.rm = TRUE), med_mt = median(u$valor, na.rm = TRUE),
-       soma_pn = sum(up$valor, na.rm = TRUE), vals_pn = setNames(up$valor, up$id_municipio))
+       # total do recorte só com os valores do ano de referência: o último valor de um município sem dado nesse
+       # ano (ex.: exportações de Glória D'Oeste, 2015) não entra na soma
+       soma_pn = sum(up$valor[if (length(ano_ref(id)) && !is.na(ano_ref(id))) up$ano %in% ano_ref(id) else TRUE], na.rm = TRUE),
+       vals_pn = setNames(up$valor, up$id_municipio))
 }
 
 # Situação em relação à mediana do PN-13, considerando o sentido do indicador
@@ -371,105 +373,6 @@ resumo_dimensao <- function(dim, prefixo = "../indicadores/") {
                            `Mediana PN-13` = colDef(align = "right"), `Mediana MT` = colDef(align = "right"),
                            Maior = colDef(html = TRUE, align = "right", name = "Maior no PN-13"),
                            Menor = colDef(html = TRUE, align = "right", name = "Menor no PN-13")))
-}
-
-# ---- Placar frente a Mato Grosso ----------------------------------------------
-# Municípios comparados com o município mediano de MT; as regiões (PN-13 e PN-13 sem Rondonópolis), com o agregado
-# de MT, calculado pela mesma regra. "Próximo" = até 2 pontos percentuais (indicadores em %) ou até 10% do valor de
-# referência (demais). Só entram indicadores com sentido definido e que não sejam totais (totais refletem o tamanho).
-# fora: totais (agregação por soma, inclusive o saldo de empregos) e o índice do PIB per capita relativo a MT, que repete o PIB per capita
-ids_placar <- function(dim) IND$id[IND$dim == dim & !is.na(IND$sentido) & IND$sentido != 0 & IND$agregacao != "soma" & IND$id != "pib_pc_rel_mt"]
-med_mt_de <- function(id) median(ULT$ultimos$valor[ULT$ultimos$indicador == id], na.rm = TRUE)
-classe_mt <- function(v, ref, fmt, sentido) {
-  if (!is.finite(v) || !is.finite(ref)) return(list(sym = "–", cls = "sit-neutra", k = NA_character_))
-  perto <- if (startsWith(fmt, "pct")) abs(v - ref) <= 2 else abs(v - ref) <= 0.10 * abs(ref)
-  if (perto) return(list(sym = "●", cls = "sit-neutra", k = "proximo"))
-  melhor <- (v > ref) == (sentido > 0)
-  if (melhor) list(sym = "▲", cls = "sit-boa", k = "melhor") else list(sym = "▼", cls = "sit-ruim", k = "pior")
-}
-classes_mt <- function(vals, refs, ids) vapply(seq_along(ids), function(i) {
-  r <- info_ind(ids[i]); classe_mt(vals[i], refs[i], r$fmt, r$sentido)$k }, "")
-txt_placar <- function(k) {
-  m <- sum(k == "melhor", na.rm = TRUE); p <- sum(k == "pior", na.rm = TRUE)
-  sprintf('<span class="sit sit-boa">%d %s</span> <span class="sit sit-ruim">%d %s</span>',
-          m, ifelse(m == 1, "melhor", "melhores"), p, ifelse(p == 1, "pior", "piores"))
-}
-
-placar_dimensao <- function(dim) {
-  ids <- ids_placar(dim)
-  if (!length(ids)) return(p(class = "sub", "A dimensão não dispõe de indicadores com sentido definido de melhor ou pior, excetuados os totais."))
-  ag <- AGR[match(ids, AGR$indicador), ]
-  med_mt <- vapply(ids, med_mt_de, 0)
-  val_mun <- function(m) vapply(ids, function(id) ultimo(id, m)$valor, 0)
-  cel <- function(v, ref, id) {
-    r <- info_ind(id); c <- classe_mt(v, ref, r$fmt, r$sentido)
-    sprintf('<span class="sit %s">%s %s</span>', c$cls, c$sym, fmt_valor(v, r$fmt))
-  }
-  linha <- function(territorio, vals, refs) {
-    k <- classes_mt(vals, refs, ids)
-    c(list(Territorio = territorio, Placar = txt_placar(k)),
-      setNames(as.list(mapply(cel, vals, refs, ids)), ids))
-  }
-  ref_linha <- function(nome, vals)
-    c(list(Territorio = nome, Placar = "referência"),
-      setNames(as.list(mapply(function(v, id) fmt_valor(v, info_ind(id)$fmt), vals, ids)), ids))
-  linhas <- c(
-    list(ref_linha("Mato Grosso: município mediano", med_mt),
-         ref_linha("Mato Grosso: agregado", ag$mt),
-         linha("Pantanal Norte (13 municípios)", ag$pn13, ag$mt),
-         linha("Pantanal Norte sem Rondonópolis", ag$pn12, ag$mt)),
-    lapply(seq_len(nrow(M13)), function(j)
-      linha(sprintf('<a href="../municipios/%s.html">%s</a>', M13$slug[j], esc(M13$municipio[j])),
-            val_mun(M13$id_municipio[j]), med_mt)))
-  d <- bind_rows(lapply(linhas, tibble::as_tibble))
-
-  # frase-resumo
-  k13 <- classes_mt(ag$pn13, ag$mt, ids); k12 <- classes_mt(ag$pn12, ag$mt, ids)
-  saldo <- vapply(M13$id_municipio, function(m) {
-    k <- classes_mt(val_mun(m), med_mt, ids); sum(k == "melhor", na.rm = TRUE) - sum(k == "pior", na.rm = TRUE) }, 0)
-  frase <- function(nome, k) sprintf("<b>%s</b>: situação melhor que a de Mato Grosso em %d dos %d indicadores e pior em %d.",
-                                     nome, sum(k == "melhor", na.rm = TRUE), length(ids), sum(k == "pior", na.rm = TRUE))
-  lista <- function(x) if (length(x) <= 1) x else paste(paste(head(x, -1), collapse = ", "), "e", tail(x, 1))
-  resumo <- HTML(paste0('<div class="placar-resumo"><p>', frase("Pantanal Norte (13 municípios)", k13), "<br>",
-                        frase("Pantanal Norte sem Rondonópolis", k12), "<br>",
-                        sprintf("Entre os municípios, o saldo mais favorável (indicadores melhores menos piores) é o de %s, e o menos favorável, o de %s.",
-                                lista(M13$municipio[saldo == max(saldo)]), lista(M13$municipio[saldo == min(saldo)])),
-                        "</p></div>"))
-  cab <- function(id) {
-    r <- info_ind(id)
-    sprintf('<a href="../indicadores/%s.html">%s</a><div class="sub">%s · %s</div>', id, esc(r$rotulo),
-            ifelse(is.na(ano_ref(id)), "retrato", ano_ref(id)), ifelse(r$sentido > 0, "↑ maior é melhor", "↓ menor é melhor"))
-  }
-  cols <- c(list(Territorio = colDef(name = "Território", html = TRUE, minWidth = 200, sticky = "left",
-                                     style = list(fontWeight = 600, background = "#fff")),
-                 Placar = colDef(name = "Placar", html = TRUE, minWidth = 165)),
-            setNames(lapply(ids, function(id) colDef(header = HTML(cab(id)), html = TRUE, align = "right", minWidth = 130)), ids))
-  tagList(
-    resumo,
-    reactable(d, compact = TRUE, sortable = FALSE, pagination = FALSE, wrap = TRUE, class = "tabela-placar", columns = cols,
-              rowStyle = function(i) if (i <= 2) list(background = "#f3f4f8") else if (i <= 4) list(background = "#f4f8fc")),
-    p(class = "nota-fonte",
-      "Legenda: ▲ melhor que MT; ● próximo de MT; ▼ pior que MT; – sem dado. Considera-se próximo o valor que difere da referência em até 2 pontos percentuais, nos indicadores expressos em percentual, ou em até 10%, nos demais. ",
-      "Os municípios são comparados com o município mediano de Mato Grosso, referência adotada nas demais páginas, e as duas regiões, com o agregado de Mato Grosso. ",
-      "Nos agregados, as taxas e proporções correspondem a médias ponderadas pela base de cada indicador (população, área, PIB, emprego formal, empresas, receita ou despesa), o que equivale a recalcular a razão a partir das somas; o IFDM, índice entre 0 e 1, é agregado por média simples, conforme as notas metodológicas do D6; e as perdas de água, a pavimentação, os imóveis do CAR, a cobertura da área agricultável e os destinos de exportação são agregados pela mediana. ",
-      "Excluem-se do placar os totais (população, PIB, empregos e saldo de empregos), cuja magnitude reflete o porte do território, o índice do PIB per capita relativo a MT, que replica a informação do PIB per capita, e os indicadores sem sentido definido. A proposta foi adaptada do site da matriz SWOT do PESM elaborado por Cleiton Franco."))
-}
-
-# Placar do município por dimensão (perfil municipal)
-placar_municipio <- function(mun_id) {
-  d <- bind_rows(lapply(names(DIMS), function(dim) {
-    ids <- ids_placar(dim)
-    k <- classes_mt(vapply(ids, function(id) ultimo(id, mun_id)$valor, 0), vapply(ids, med_mt_de, 0), ids)
-    tibble(Dimensao = sprintf('<a href="../dimensoes/%s.html#placar-frente-a-mato-grosso">%s · %s</a>', tolower(dim), dim, DIMS[[dim]]),
-           Melhor = sum(k == "melhor", na.rm = TRUE), Proximo = sum(k == "proximo", na.rm = TRUE),
-           Pior = sum(k == "pior", na.rm = TRUE), Avaliados = sum(!is.na(k)))
-  }))
-  reactable(d, compact = TRUE, sortable = FALSE, pagination = FALSE,
-            columns = list(Dimensao = colDef(name = "Dimensão", html = TRUE, minWidth = 230),
-                           Melhor = colDef(name = "▲ Melhor que MT", align = "center", style = list(color = "#1b7f4b", fontWeight = 600)),
-                           Proximo = colDef(name = "● Próximo de MT", align = "center"),
-                           Pior = colDef(name = "▼ Pior que MT", align = "center", style = list(color = "#b42318", fontWeight = 600)),
-                           Avaliados = colDef(name = "Indicadores com dado", align = "center")))
 }
 
 fonte_rodape <- function() {

@@ -148,7 +148,3 @@ g.serie:hover circle.pt { fill: #1E2761; }
 @media (max-width: 576px) { .nav-footer-right img { height: 30px !important; } }
 .logos-realizacao { display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; margin: 1rem 0 1.5rem; }
 .logos-realizacao img { height: 56px; width: auto; }
-
-/* Placar frente a MT (páginas de dimensão) */
-.tabela-placar .sit { font-size: .74rem; }
-.placar-resumo p { background: #f4f8fc; border-left: 3px solid #2E86AB; padding: .6rem .9rem; font-size: .9rem; }

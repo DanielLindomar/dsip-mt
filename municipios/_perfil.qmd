@@ -46,13 +46,6 @@ mapa_municipio(MUN_ID, altura = 300)
 grade_kpis(MUN_ID)
 ```
 
-## Frente a Mato Grosso
-
-A tabela a seguir sintetiza, para cada dimensão, o número de indicadores em que `r NOME` se situa em posição melhor, próxima ou pior que a do município mediano de Mato Grosso. Considera-se próximo o valor que difere da referência em até 2 pontos percentuais, nos indicadores expressos em percentual, ou em até 10%, nos demais. Incluem-se apenas os indicadores com sentido definido de melhor ou pior, excluídos os totais, cuja magnitude reflete sobretudo o porte do município. O detalhamento, com os 13 municípios e o Pantanal Norte com e sem Rondonópolis, encontra-se na página de cada dimensão.
-
-```{r}
-placar_municipio(MUN_ID)
-```
 
 ## Indicadores por dimensão
 
