@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,224518.14
 5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,323863.73
 5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,347892.21
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,339950.16
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,375098.08
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,334761.87
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,466123.63
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,363991.84
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,465413.03
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,499802.04
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,462549.04
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,1275346.66
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,1322633.64
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,700088.84
-5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,767084.01
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,338317.87
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,355551.77
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,316881.95
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,458658.03
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,358625.59
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,462358.55
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,494389.84
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,457461.81
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,1270941.62
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,1316976.2
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,684481.04
+5107800,Santo Antônio do Leverger,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,751295.01
 5107800,Santo Antônio do Leverger,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,34447.8881907313
 5107800,Santo Antônio do Leverger,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,88
 5107800,Santo Antônio do Leverger,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,81
@@ -489,10 +489,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,1991,0.52
 5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,2000,0.534
 5107800,Santo Antônio do Leverger,D3,idhm,IDHM,índice 0–1,2010,0.656
-5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0.92
-5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0.88
-5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1
-5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.12
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.35
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.09
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.24
+5107800,Santo Antônio do Leverger,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.38
 5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,10.34
 5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,10.78
 5107800,Santo Antônio do Leverger,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,9.81
@@ -618,6 +618,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,148.26
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,25.68
 5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,7
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,33.75
+5107800,Santo Antônio do Leverger,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,96.37
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,138.4
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,138.4
 5107800,Santo Antônio do Leverger,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,133.8
@@ -787,18 +789,19 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,34.74
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,26.21
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,31.76
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,28.14
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,33.96
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,34.82
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,34.23
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,37.69
-5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,29.99
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,23.92
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,29.35
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,30.11
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,29.76
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,31.07
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,25.17
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,33.25
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2017,100
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2018,28.7
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,26.72
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,21.68
 5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,24.45
+5107800,Santo Antônio do Leverger,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,27.35
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,100.04
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,96.68
 5107800,Santo Antônio do Leverger,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,93.44

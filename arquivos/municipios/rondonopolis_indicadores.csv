@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,954928.22
 5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,1062894.59
 5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,1173043.3
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,1181518.32
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,1435242.98
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,1423537.87
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,1415199.55
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,1098087.88
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,1451500.95
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,1595820.28
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,1509186.96
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,2504141.72
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,2864216.97
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,2138816.61
-5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,1799125.01
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,1177980.31
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,1427080.08
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,1415929.93
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,1407197.8
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,1093120.37
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,1447516.3
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,1591357.76
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,1503358.23
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,2501474
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,2860867.82
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,2134137.18
+5107602,Rondonópolis,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,1793345
 5107602,Rondonópolis,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,15961.4512027377
 5107602,Rondonópolis,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,459
 5107602,Rondonópolis,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,47
@@ -505,10 +505,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,1991,0.753
 5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,2000,0.638
 5107602,Rondonópolis,D3,idhm,IDHM,índice 0–1,2010,0.755
-5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.37
-5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.33
-5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.25
-5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,2.16
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.91
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.83
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.52
+5107602,Rondonópolis,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,2.15
 5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,4.27
 5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,4.66
 5107602,Rondonópolis,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,4.23
@@ -634,6 +634,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,40.97
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,7.64
 5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.61
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,5.52
+5107602,Rondonópolis,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,24.83
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,38.5
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,38.5
 5107602,Rondonópolis,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,27
@@ -865,17 +867,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,20.33
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,19.01
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,18.86
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,20.71
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,17.62
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,15.34
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,15.37
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,11.17
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,15.31
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,10.4
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,13.89
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,12.79
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,13.67
-5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,12.36
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,18.01
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,15.34
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,13.38
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,13.44
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,13.28
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,13.15
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,12.61
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,11.7
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,10.74
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,11.49
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,10.45
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,10.78
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,9.63
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,9.2
@@ -885,6 +887,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,6.94
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,5.6
 5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,6.43
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,7.43
+5107602,Rondonópolis,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,6.81
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,131.28
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,89.09
 5107602,Rondonópolis,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,85.18

@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,136769.24
 5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,151900.51
 5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,158213.97
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,176643.97
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,144115.81
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,165793.18
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,148593.14
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,118161.75
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,132994.73
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,224982.58
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,178766.09
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,192497.14
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,163939.2
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,201966.62
-5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,262982.99
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,170576.56
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,141554.46
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,164782.4
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,145915.66
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,117518.43
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,131581.54
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,223626.65
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,177369.02
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,190797.86
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,162556.85
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,201533.64
+5105622,Mirassol D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,261894.01
 5105622,Mirassol D'Oeste,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5105622,Mirassol D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,33
 5105622,Mirassol D'Oeste,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,32
@@ -502,10 +502,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D3,idhm,IDHM,índice 0–1,1991,0.69
 5105622,Mirassol D'Oeste,D3,idhm,IDHM,índice 0–1,2000,0.582
 5105622,Mirassol D'Oeste,D3,idhm,IDHM,índice 0–1,2010,0.704
-5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.7
-5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,2.16
-5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.18
-5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,2.09
+5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,2.02
+5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.48
+5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.43
+5105622,Mirassol D'Oeste,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,2.65
 5105622,Mirassol D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,7.66
 5105622,Mirassol D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,7.39
 5105622,Mirassol D'Oeste,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,6.83
@@ -631,6 +631,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,12.08
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,14.86
 5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.22
+5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,2.79
+5105622,Mirassol D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,13.01
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,16.8000000000001
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,13.4
 5105622,Mirassol D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,21.1
@@ -840,17 +842,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,39
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,36.66
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,36.49
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,41.41
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,39.02
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,34.04
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,41.12
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,39.05
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,49.08
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,41
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,25.74
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,37.69
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,39.43
-5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,36.76
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,35.09
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,33.93
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,28.93
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,35.76
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,26.56
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,35.82
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,34.88
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,31.84
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,31.63
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,33.09
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,30.85
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,30.72
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,29.15
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,26.56
@@ -860,6 +862,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,23.74
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,17.99
 5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,20.84
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,22.38
+5105622,Mirassol D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,22.12
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,145.02
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,88.99
 5105622,Mirassol D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,57.02

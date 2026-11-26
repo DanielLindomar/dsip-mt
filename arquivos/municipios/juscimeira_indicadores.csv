@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,347775.41
 5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,554207.93
 5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,605406.31
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,617826.65
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,605135.86
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,552840.03
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,529407.51
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,432564.5
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,545669.57
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,579240.1
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,733895.35
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,1139002.55
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,1144730.83
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,769359.05
-5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,767843
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,617113.79
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,602985.71
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,550408.21
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,522056.59
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,431221.76
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,541447.9
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,574392.87
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,730723.7
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,1130385
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,1142246.36
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,765201.09
+5105200,Juscimeira,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,760895
 5105200,Juscimeira,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,21.3429581219181
 5105200,Juscimeira,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,38
 5105200,Juscimeira,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,28
@@ -466,10 +466,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,1991,0.643
 5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,2000,0.568
 5105200,Juscimeira,D3,idhm,IDHM,índice 0–1,2010,0.714
-5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0.96
-5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0.9
-5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.88
-5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0.87
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.14
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.17
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,2.77
+5105200,Juscimeira,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.31
 5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,8.1
 5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,7.78
 5105200,Juscimeira,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,7.25
@@ -595,6 +595,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,59.74
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,19.29
 5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,11.13
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,4.82
+5105200,Juscimeira,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,22.26
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,30.9000000000001
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,30.8999999999999
 5105200,Juscimeira,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,42.3000000000002
@@ -783,16 +785,16 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,41.23
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,44.57
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,48.12
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,53.5
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,50.58
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,43
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,41.35
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,40.57
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,46.17
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,42.27
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,37.53
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,41.41
-5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,40.4
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,46.52
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,43.86
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,37.39
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,35.95
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,35.28
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,39.27
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,35.47
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,31.5
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,34.75
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,33.91
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,30.68
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,30.56
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,29.22
@@ -802,6 +804,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,25.15
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,20.84
 5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,23.41
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,24.92
+5105200,Juscimeira,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,21.66
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,177.8
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.82
 5105200,Juscimeira,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,101.57

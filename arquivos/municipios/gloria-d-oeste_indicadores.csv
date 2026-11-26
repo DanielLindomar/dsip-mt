@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,24659.09
 5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,28466.65
 5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,23950.91
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,41548.52
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,36279.64
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,59231.28
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,45944.93
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,41210.26
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,43747.7
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,59233.85
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,48458.26
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,52155.57
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,57801.45
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,68834.15
-5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,83771.01
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,40704.02
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,34531.38
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,57691.56
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,44725.69
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,38936.04
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,42240.61
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,57787.86
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,47140.43
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,51093.25
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,56968.56
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,68285.62
+5103957,Glória D'Oeste,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,81249.99
 5103957,Glória D'Oeste,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5103957,Glória D'Oeste,D2,n_destinos_exp,Países de destino das exportações,países,2015,2
 5103957,Glória D'Oeste,D2,valor_aquicultura_brl2024,Valor da aquicultura,R$ de 2024,2002,0
@@ -554,6 +554,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2019,3.52
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,12.91
 5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.35
+5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,1.17
+5103957,Glória D'Oeste,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,8.22
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,1.09999999999997
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,0.600000000000023
 5103957,Glória D'Oeste,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,1.10000000000002
@@ -731,17 +733,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,47.19
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,41.45
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,53.77
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,59.48
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,52.15
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,57.76
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,55.83
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,59.3
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,61.24
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,60.59
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,58.02
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,56.16
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,60.3
-5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,56.63
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,51.72
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,45.35
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,50.23
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,48.55
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,51.57
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,52.67
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,51.54
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,48.7
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,47.13
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,50.61
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,47.53
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,45.29
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,45.56
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,44.08
@@ -751,6 +753,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,40.63
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,34.27
 5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,39.01
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,39.53
+5103957,Glória D'Oeste,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,32.64
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1993,100.76
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1994,196.73
 5103957,Glória D'Oeste,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1995,202.63
