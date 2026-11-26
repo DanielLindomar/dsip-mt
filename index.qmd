@@ -71,7 +71,7 @@ mapa_municipio(NULL, altura = 400, prefixo = "municipios/")
 
 ## Novidades
 
-- **26/11/2026** — Correção de seis problemas das bases da Fase I, refletida nos relatórios, nas planilhas e neste *site*: a pesca do D1, que estava contada em dobro; a redação sobre a Indicação Geográfica "Pantanal" no D2; os leitos e a cobertura de saúde suplementar do D3; os focos de calor de 2023–2024 do D4, que passam a considerar apenas o satélite de referência do INPE; e o Fundo de Participação dos Municípios (FPM) do D6, sem a dupla contagem de 2022–2023. As séries de focos de calor (até 2024) e de dependência do FPM (até 2023) voltam a ser exibidas por inteiro.
+- **26/11/2026** — Correção de seis problemas das bases da Fase I, refletida nos relatórios, nas planilhas e neste *site*: a pesca do D1, que estava contada em dobro; a redação sobre a Indicação Geográfica "Pantanal" no D2; os leitos e a cobertura de saúde suplementar do D3; os focos de calor de 2023–2024 do D4, que passam a considerar apenas o satélite de referência do INPE; e o Fundo de Participação dos Municípios (FPM) do D6, sem a dupla contagem de 2022–2023. As séries de focos de calor (até 2024) e de dependência do FPM (até 2023) voltam a ser exibidas por inteiro. As tipologias municipais da revisão de literatura foram recalculadas com as bases corrigidas, sem mudança no status dos municípios; na área ambiental, Lambari D'Oeste e Rondonópolis passam ao grupo de conversão agropecuária consolidada.
 
 - **23/10/2026** — Revisão dos textos do *site* segundo as convenções da escrita científica (registro impessoal, prosa contínua e indicação explícita de fontes e procedimentos).
 
