@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,72350.65
 5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,60674.65
 5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,42944.42
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,297530.82
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,111086.7
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,177746.28
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,256421.84
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,179413.28
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,213749.22
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,209492.56
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,192666.98
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,247695.95
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,322813.07
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,238142.65
-5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,166603
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,172208.84
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,82320.23
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,106238.91
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,154322.71
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,112641.29
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,132871.01
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,126241.34
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,116674.31
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,166288.04
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,251149.78
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,183818.24
+5106109,Nossa Senhora do Livramento,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,138079.99
 5106109,Nossa Senhora do Livramento,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5106109,Nossa Senhora do Livramento,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,0
 5106109,Nossa Senhora do Livramento,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,0
@@ -483,10 +483,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D3,idhm,IDHM,índice 0–1,1991,0.467
 5106109,Nossa Senhora do Livramento,D3,idhm,IDHM,índice 0–1,2000,0.464
 5106109,Nossa Senhora do Livramento,D3,idhm,IDHM,índice 0–1,2010,0.638
-5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,0.95
-5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,0.97
-5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0.84
-5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,0.85
+5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.46
+5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.23
+5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.22
+5106109,Nossa Senhora do Livramento,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.24
 5106109,Nossa Senhora do Livramento,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,13.91
 5106109,Nossa Senhora do Livramento,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,15.04
 5106109,Nossa Senhora do Livramento,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,14.63
@@ -612,6 +612,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,79.92
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,9.02
 5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,10.5
+5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,19.15
+5106109,Nossa Senhora do Livramento,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,65.74
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,78.2000000000001
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,78.1999999999999
 5106109,Nossa Senhora do Livramento,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,104.4
@@ -810,17 +812,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1999,35.18
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,43.15
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,36.07
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,38.89
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,36.38
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,32.01
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,34.19
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,36.37
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,36.81
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,38.79
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,37.58
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,35.21
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,37.15
-5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,36.25
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,33.82
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,31.63
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,27.84
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,29.73
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,31.63
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,31.6
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,33
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,31.7
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,29.57
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,31.18
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,30.42
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,30.05
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,26.22
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,27.58
@@ -830,6 +832,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,21.59
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,17.69
 5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,19.78
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,19.43
+5106109,Nossa Senhora do Livramento,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,17.77
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,137.56
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,101.35
 5106109,Nossa Senhora do Livramento,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,120.78

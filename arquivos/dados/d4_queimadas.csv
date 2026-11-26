@@ -19,8 +19,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100102,Acorizal,resto_mt,Demais MT,FALSE,2020,75,73.98,,,1013.82825
 5100102,Acorizal,resto_mt,Demais MT,FALSE,2021,2,1.97,,,1013.82825
 5100102,Acorizal,resto_mt,Demais MT,FALSE,2022,6,5.92,,,1013.82825
-5100102,Acorizal,resto_mt,Demais MT,FALSE,2023,251,247.58,43.9,-3.249,1013.82825
-5100102,Acorizal,resto_mt,Demais MT,FALSE,2024,893,880.82,18.6,0.951,1013.82825
+5100102,Acorizal,resto_mt,Demais MT,FALSE,2023,2,1.97,9.6,0.905,1013.82825
+5100102,Acorizal,resto_mt,Demais MT,FALSE,2024,27,26.63,34.8,0.99,1013.82825
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2003,230,30.65,,,7504.70975
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2004,336,44.77,,,7504.70975
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2005,168,22.39,,,7504.70975
@@ -41,8 +41,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2020,147,19.59,,,7504.70975
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2021,61,8.13,,,7504.70975
 5100201,Água Boa,resto_mt,Demais MT,FALSE,2022,53,7.06,,,7504.70975
-5100201,Água Boa,resto_mt,Demais MT,FALSE,2023,1239,165.1,29.2,0.695,7504.70975
-5100201,Água Boa,resto_mt,Demais MT,FALSE,2024,3790,505.02,44,0.042,7504.70975
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2023,65,8.66,48.2,0.643,7504.70975
+5100201,Água Boa,resto_mt,Demais MT,FALSE,2024,185,24.65,53,-4.656,7504.70975
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2003,761,84.5,,,9006.11428
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2004,1132,125.69,,,9006.11428
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2005,733,81.39,,,9006.11428
@@ -63,8 +63,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2020,209,23.21,,,9006.11428
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2021,132,14.66,,,9006.11428
 5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2022,98,10.88,,,9006.11428
-5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2023,2699,299.69,37.5,-1.725,9006.11428
-5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2024,5994,665.55,27.5,0.05,9006.11428
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2023,114,12.66,47.4,-8.972,9006.11428
+5100250,Alta Floresta,resto_mt,Demais MT,FALSE,2024,198,21.99,88.2,-4.27,9006.11428
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2003,191,34.7,,,5504.45764
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2004,132,23.98,,,5504.45764
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2005,125,22.71,,,5504.45764
@@ -85,8 +85,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2020,164,29.79,,,5504.45764
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2021,46,8.36,,,5504.45764
 5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2022,41,7.45,,,5504.45764
-5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2023,511,92.83,31.3,-1.603,5504.45764
-5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2024,9662,1755.3,36.9,0.662,5504.45764
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2023,22,4,19.3,-52.115,5504.45764
+5100300,Alto Araguaia,resto_mt,Demais MT,FALSE,2024,213,38.7,117.3,0.964,5504.45764
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2003,174,77.59,,,2242.55948
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2004,745,332.21,,,2242.55948
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2005,251,111.93,,,2242.55948
@@ -107,8 +107,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2020,165,73.58,,,2242.55948
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2021,89,39.69,,,2242.55948
 5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2022,33,14.72,,,2242.55948
-5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2023,744,331.76,52.9,0.534,2242.55948
-5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2024,3001,1338.2,43.4,0.949,2242.55948
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2023,18,8.03,45.5,0.543,2242.55948
+5100359,Alto Boa Vista,resto_mt,Demais MT,FALSE,2024,77,34.34,93.7,0.856,2242.55948
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2003,272,72.07,,,3773.9521
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2004,206,54.58,,,3773.9521
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2005,64,16.96,,,3773.9521
@@ -129,8 +129,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2020,34,9.01,,,3773.9521
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2021,28,7.42,,,3773.9521
 5100409,Alto Garças,resto_mt,Demais MT,FALSE,2022,52,13.78,,,3773.9521
-5100409,Alto Garças,resto_mt,Demais MT,FALSE,2023,382,101.22,28.6,0.772,3773.9521
-5100409,Alto Garças,resto_mt,Demais MT,FALSE,2024,1940,514.05,45.3,0.803,3773.9521
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2023,11,2.91,27.3,0.65,3773.9521
+5100409,Alto Garças,resto_mt,Demais MT,FALSE,2024,77,20.4,58.9,0.849,3773.9521
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2003,114,61.59,,,1851.0719
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2004,100,54.02,,,1851.0719
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2005,83,44.84,,,1851.0719
@@ -151,8 +151,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2020,223,120.47,,,1851.0719
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2021,19,10.26,,,1851.0719
 5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2022,20,10.8,,,1851.0719
-5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2023,413,223.11,28.1,-1.984,1851.0719
-5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2024,10776,5821.49,30.4,0.346,1851.0719
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2023,18,9.72,32.5,0.554,1851.0719
+5100508,Alto Paraguai,resto_mt,Demais MT,FALSE,2024,256,138.3,76.7,0.981,1851.0719
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2003,46,32.02,,,1436.42551
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2004,16,11.14,,,1436.42551
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2005,2,1.39,,,1436.42551
@@ -173,8 +173,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2020,84,58.48,,,1436.42551
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2021,12,8.35,,,1436.42551
 5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2022,4,2.78,,,1436.42551
-5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2023,258,179.61,97.9,0.959,1436.42551
-5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2024,771,536.75,49.3,0.987,1436.42551
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2023,10,6.96,227,0.792,1436.42551
+5100607,Alto Taquari,resto_mt,Demais MT,FALSE,2024,14,9.75,51.3,0.866,1436.42551
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2003,1309,64.28,,,20364.58875
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2004,1307,64.18,,,20364.58875
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2005,1767,86.77,,,20364.58875
@@ -195,8 +195,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2020,728,35.75,,,20364.58875
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2021,315,15.47,,,20364.58875
 5100805,Apiacás,resto_mt,Demais MT,FALSE,2022,764,37.52,,,20364.58875
-5100805,Apiacás,resto_mt,Demais MT,FALSE,2023,14114,693.07,47,-1.086,20364.58875
-5100805,Apiacás,resto_mt,Demais MT,FALSE,2024,37247,1829.01,29.9,-2.261,20364.58875
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2023,409,20.08,81.7,0.432,20364.58875
+5100805,Apiacás,resto_mt,Demais MT,FALSE,2024,935,45.91,70.9,-0.166,20364.58875
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2003,178,27.77,,,6409.19522
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2004,226,35.26,,,6409.19522
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2005,178,27.77,,,6409.19522
@@ -217,8 +217,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2020,26,4.06,,,6409.19522
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2021,63,9.83,,,6409.19522
 5101001,Araguaiana,resto_mt,Demais MT,FALSE,2022,66,10.3,,,6409.19522
-5101001,Araguaiana,resto_mt,Demais MT,FALSE,2023,2836,442.49,47.3,0.714,6409.19522
-5101001,Araguaiana,resto_mt,Demais MT,FALSE,2024,1739,271.33,45.5,-3.097,6409.19522
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2023,83,12.95,44.3,0.669,6409.19522
+5101001,Araguaiana,resto_mt,Demais MT,FALSE,2024,64,9.99,79.7,0.721,6409.19522
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2003,36,52.33,,,687.88847
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2004,13,18.9,,,687.88847
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2005,9,13.08,,,687.88847
@@ -236,8 +236,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2020,28,40.7,,,687.88847
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2021,3,4.36,,,687.88847
 5101209,Araguainha,resto_mt,Demais MT,FALSE,2022,6,8.72,,,687.88847
-5101209,Araguainha,resto_mt,Demais MT,FALSE,2023,29,42.16,15.3,0.798,687.88847
-5101209,Araguainha,resto_mt,Demais MT,FALSE,2024,119,172.99,14.9,0.858,687.88847
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2023,0,0,,,687.88847
+5101209,Araguainha,resto_mt,Demais MT,FALSE,2024,9,13.08,69.5,0.894,687.88847
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2003,48,30.1,,,1594.55144
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2004,23,14.42,,,1594.55144
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2005,35,21.95,,,1594.55144
@@ -256,8 +256,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2020,26,16.31,,,1594.55144
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2021,5,3.14,,,1594.55144
 5101258,Araputanga,resto_mt,Demais MT,FALSE,2022,9,5.64,,,1594.55144
-5101258,Araputanga,resto_mt,Demais MT,FALSE,2023,4,2.51,3.1,-249.132,1594.55144
-5101258,Araputanga,resto_mt,Demais MT,FALSE,2024,2135,1338.93,82.1,-2.751,1594.55144
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2023,0,0,,,1594.55144
+5101258,Araputanga,resto_mt,Demais MT,FALSE,2024,95,59.58,197.6,-20.053,1594.55144
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2003,10,24.21,,,413.06821
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2004,12,29.05,,,413.06821
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2005,16,38.73,,,413.06821
@@ -277,8 +277,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2020,10,24.21,,,413.06821
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2021,5,12.1,,,413.06821
 5101308,Arenápolis,resto_mt,Demais MT,FALSE,2022,2,4.84,,,413.06821
-5101308,Arenápolis,resto_mt,Demais MT,FALSE,2023,245,593.12,43.7,-15.732,413.06821
-5101308,Arenápolis,resto_mt,Demais MT,FALSE,2024,98,237.25,9.7,-63.334,413.06821
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2023,7,16.95,19.6,-142.05,413.06821
+5101308,Arenápolis,resto_mt,Demais MT,FALSE,2024,8,19.37,13.6,0.546,413.06821
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2003,1934,77.22,,,25044.78932
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2004,2756,110.04,,,25044.78932
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2005,2759,110.16,,,25044.78932
@@ -299,8 +299,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2020,1001,39.97,,,25044.78932
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2021,1087,43.4,,,25044.78932
 5101407,Aripuanã,resto_mt,Demais MT,FALSE,2022,1394,55.66,,,25044.78932
-5101407,Aripuanã,resto_mt,Demais MT,FALSE,2023,19448,776.53,46.3,-4.262,25044.78932
-5101407,Aripuanã,resto_mt,Demais MT,FALSE,2024,39918,1593.86,27.7,-4.087,25044.78932
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2023,666,26.59,62.3,-1.147,25044.78932
+5101407,Aripuanã,resto_mt,Demais MT,FALSE,2024,1187,47.4,63.9,-8.417,25044.78932
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2003,320,27.95,,,11448.69456
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2004,673,58.78,,,11448.69456
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2005,1347,117.66,,,11448.69456
@@ -321,8 +321,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2020,3737,326.41,,,11448.69456
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2021,323,28.21,,,11448.69456
 5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2022,74,6.46,,,11448.69456
-5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2023,42925,3749.34,70.9,-0.252,11448.69456
-5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2024,72730,6352.69,38.6,0.087,11448.69456
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2023,803,70.14,81.9,0.602,11448.69456
+5101605,Barão de Melgaço,pantanal_norte,Pantanal-13,TRUE,2024,2022,176.61,123.3,0.989,11448.69456
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2003,273,45.13,,,6049.81985
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2004,290,47.94,,,6049.81985
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2005,332,54.88,,,6049.81985
@@ -343,8 +343,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2020,251,41.49,,,6049.81985
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2021,59,9.75,,,6049.81985
 5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2022,63,10.41,,,6049.81985
-5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2023,2690,444.64,136.6,-1.548,6049.81985
-5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2024,8786,1452.27,54.5,0.359,6049.81985
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2023,67,11.07,80.2,-47.947,6049.81985
+5101704,Barra do Bugres,resto_mt,Demais MT,FALSE,2024,249,41.16,132.9,-3.167,6049.81985
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2003,308,33.75,,,9125.18385
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2004,500,54.79,,,9125.18385
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2005,314,34.41,,,9125.18385
@@ -365,8 +365,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2020,532,58.3,,,9125.18385
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2021,410,44.93,,,9125.18385
 5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2022,265,29.04,,,9125.18385
-5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2023,3497,383.23,39.4,-3.655,9125.18385
-5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2024,17141,1878.43,36.3,-0.711,9125.18385
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2023,91,9.97,32.9,-21.976,9125.18385
+5101803,Barra do Garças,resto_mt,Demais MT,FALSE,2024,580,63.56,55.7,-0.778,9125.18385
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2003,312,73.17,,,4263.7716199999995
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2004,606,142.13,,,4263.7716199999995
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2005,268,62.86,,,4263.7716199999995
@@ -387,8 +387,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2020,135,31.66,,,4263.7716199999995
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2021,76,17.82,,,4263.7716199999995
 5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2022,69,16.18,,,4263.7716199999995
-5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2023,1677,393.31,55.9,-0.16,4263.7716199999995
-5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2024,2397,562.18,40.4,0.789,4263.7716199999995
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2023,46,10.79,177.2,0.197,4263.7716199999995
+5101852,Bom Jesus do Araguaia,resto_mt,Demais MT,FALSE,2024,125,29.32,63.3,0.489,4263.7716199999995
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2003,1567,98.03,,,15985.285619999999
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2004,2185,136.69,,,15985.285619999999
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2005,1759,110.04,,,15985.285619999999
@@ -409,8 +409,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2020,424,26.52,,,15985.285619999999
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2021,259,16.2,,,15985.285619999999
 5101902,Brasnorte,resto_mt,Demais MT,FALSE,2022,288,18.02,,,15985.285619999999
-5101902,Brasnorte,resto_mt,Demais MT,FALSE,2023,8768,548.5,58.2,-0,15985.285619999999
-5101902,Brasnorte,resto_mt,Demais MT,FALSE,2024,18438,1153.44,36.7,0.256,15985.285619999999
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2023,328,20.52,71.1,-2.95,15985.285619999999
+5101902,Brasnorte,resto_mt,Demais MT,FALSE,2024,640,40.04,57.4,-1.177,15985.285619999999
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2003,784,32.23,,,24324.642509999998
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2004,2005,82.43,,,24324.642509999998
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2005,1376,56.57,,,24324.642509999998
@@ -431,8 +431,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2020,2755,113.26,,,24324.642509999998
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2021,1226,50.4,,,24324.642509999998
 5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2022,133,5.47,,,24324.642509999998
-5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2023,26413,1085.85,74.8,-5.88,24324.642509999998
-5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2024,156871,6449.06,41.5,-70.744,24324.642509999998
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2023,514,21.13,82.7,-1.44,24324.642509999998
+5102504,Cáceres,pantanal_norte,Pantanal-13,TRUE,2024,2836,116.59,100.2,-20.4,24324.642509999998
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2003,434,72.64,,,5974.259840000001
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2004,684,114.49,,,5974.259840000001
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2005,477,79.84,,,5974.259840000001
@@ -453,8 +453,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2020,724,121.19,,,5974.259840000001
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2021,464,77.67,,,5974.259840000001
 5102603,Campinápolis,resto_mt,Demais MT,FALSE,2022,629,105.29,,,5974.259840000001
-5102603,Campinápolis,resto_mt,Demais MT,FALSE,2023,5610,939.03,33.9,0.862,5974.259840000001
-5102603,Campinápolis,resto_mt,Demais MT,FALSE,2024,17326,2900.11,29.9,0.933,5974.259840000001
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2023,294,49.21,41.3,0.842,5974.259840000001
+5102603,Campinápolis,resto_mt,Demais MT,FALSE,2024,906,151.65,51.9,0.979,5974.259840000001
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2003,372,39.45,,,9428.94014
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2004,353,37.44,,,9428.94014
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2005,173,18.35,,,9428.94014
@@ -475,8 +475,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2020,170,18.03,,,9428.94014
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2021,94,9.97,,,9428.94014
 5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2022,104,11.03,,,9428.94014
-5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2023,551,58.44,36.2,0.483,9428.94014
-5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2024,22240,2358.7,44.7,0.67,9428.94014
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2023,42,4.45,31.4,0.314,9428.94014
+5102637,Campo Novo do Parecis,resto_mt,Demais MT,FALSE,2024,665,70.53,74.2,0.907,9428.94014
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2003,133,24.53,,,5421.22013
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2004,85,15.68,,,5421.22013
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2005,69,12.73,,,5421.22013
@@ -497,8 +497,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2020,46,8.49,,,5421.22013
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2021,40,7.38,,,5421.22013
 5102678,Campo Verde,resto_mt,Demais MT,FALSE,2022,32,5.9,,,5421.22013
-5102678,Campo Verde,resto_mt,Demais MT,FALSE,2023,264,48.7,43.7,-3.822,5421.22013
-5102678,Campo Verde,resto_mt,Demais MT,FALSE,2024,714,131.7,30.5,-4.853,5421.22013
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2023,7,1.29,25.8,0.149,5421.22013
+5102678,Campo Verde,resto_mt,Demais MT,FALSE,2024,34,6.27,25.3,-61.977,5421.22013
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2003,297,43.69,,,6798.59104
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2004,409,60.16,,,6798.59104
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2005,132,19.42,,,6798.59104
@@ -519,8 +519,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2020,130,19.12,,,6798.59104
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2021,80,11.77,,,6798.59104
 5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2022,109,16.03,,,6798.59104
-5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2023,664,97.67,63.4,0.574,6798.59104
-5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2024,3732,548.94,57.4,-3.628,6798.59104
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2023,43,6.32,42.6,0.303,6798.59104
+5102686,Campos de Júlio,resto_mt,Demais MT,FALSE,2024,181,26.62,95.2,-10.3,6798.59104
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2003,115,33.44,,,3439.40107
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2004,472,137.23,,,3439.40107
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2005,136,39.54,,,3439.40107
@@ -541,8 +541,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2020,161,46.81,,,3439.40107
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2021,122,35.47,,,3439.40107
 5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2022,189,54.95,,,3439.40107
-5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2023,2228,647.79,66.9,0.665,3439.40107
-5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2024,3545,1030.7,36,-2.152,3439.40107
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2023,57,16.57,93.5,0.598,3439.40107
+5102694,Canabrava do Norte,resto_mt,Demais MT,FALSE,2024,116,33.73,59.1,-7.863,3439.40107
 5102702,Canarana,resto_mt,Demais MT,FALSE,2003,623,57.31,,,10870.96131
 5102702,Canarana,resto_mt,Demais MT,FALSE,2004,735,67.61,,,10870.96131
 5102702,Canarana,resto_mt,Demais MT,FALSE,2005,469,43.14,,,10870.96131
@@ -563,8 +563,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102702,Canarana,resto_mt,Demais MT,FALSE,2020,412,37.9,,,10870.96131
 5102702,Canarana,resto_mt,Demais MT,FALSE,2021,410,37.72,,,10870.96131
 5102702,Canarana,resto_mt,Demais MT,FALSE,2022,271,24.93,,,10870.96131
-5102702,Canarana,resto_mt,Demais MT,FALSE,2023,8652,795.88,77.9,-0.16,10870.96131
-5102702,Canarana,resto_mt,Demais MT,FALSE,2024,14453,1329.51,44.2,0.639,10870.96131
+5102702,Canarana,resto_mt,Demais MT,FALSE,2023,253,23.27,51.8,0.542,10870.96131
+5102702,Canarana,resto_mt,Demais MT,FALSE,2024,598,55.01,90.1,-0.849,10870.96131
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2003,160,67.02,,,2387.48013
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2004,169,70.79,,,2387.48013
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2005,141,59.06,,,2387.48013
@@ -585,8 +585,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2020,16,6.7,,,2387.48013
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2021,37,15.5,,,2387.48013
 5102793,Carlinda,resto_mt,Demais MT,FALSE,2022,11,4.61,,,2387.48013
-5102793,Carlinda,resto_mt,Demais MT,FALSE,2023,285,119.37,29.5,0.361,2387.48013
-5102793,Carlinda,resto_mt,Demais MT,FALSE,2024,156,65.34,28.6,-5.794,2387.48013
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2023,21,8.8,50.4,0.242,2387.48013
+5102793,Carlinda,resto_mt,Demais MT,FALSE,2024,11,4.61,55.6,0.525,2387.48013
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2003,469,120.58,,,3889.56728
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2004,768,197.45,,,3889.56728
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2005,750,192.82,,,3889.56728
@@ -607,8 +607,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2020,61,15.68,,,3889.56728
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2021,71,18.25,,,3889.56728
 5102850,Castanheira,resto_mt,Demais MT,FALSE,2022,52,13.37,,,3889.56728
-5102850,Castanheira,resto_mt,Demais MT,FALSE,2023,812,208.76,25.6,0.617,3889.56728
-5102850,Castanheira,resto_mt,Demais MT,FALSE,2024,480,123.41,23.4,-1.474,3889.56728
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2023,31,7.97,75.2,0.59,3889.56728
+5102850,Castanheira,resto_mt,Demais MT,FALSE,2024,19,4.88,31.4,0.581,3889.56728
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2003,310,48.53,,,6388.20423
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2004,273,42.74,,,6388.20423
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2005,199,31.15,,,6388.20423
@@ -629,8 +629,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2020,292,45.71,,,6388.20423
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2021,84,13.15,,,6388.20423
 5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2022,137,21.45,,,6388.20423
-5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2023,1690,264.55,31.1,-6.149,6388.20423
-5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2024,14751,2309.1,32.8,-7.213,6388.20423
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2023,74,11.58,30.4,-26.991,6388.20423
+5103007,Chapada dos Guimarães,resto_mt,Demais MT,FALSE,2024,346,54.16,71.5,-10.597,6388.20423
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2003,488,126.73,,,3850.6553
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2004,981,254.76,,,3850.6553
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2005,357,92.71,,,3850.6553
@@ -651,8 +651,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2020,402,104.4,,,3850.6553
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2021,162,42.07,,,3850.6553
 5103056,Cláudia,resto_mt,Demais MT,FALSE,2022,292,75.83,,,3850.6553
-5103056,Cláudia,resto_mt,Demais MT,FALSE,2023,4957,1287.31,68.5,0.096,3850.6553
-5103056,Cláudia,resto_mt,Demais MT,FALSE,2024,8702,2259.88,50.2,-7.881,3850.6553
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2023,155,40.25,60.7,0.502,3850.6553
+5103056,Cláudia,resto_mt,Demais MT,FALSE,2024,204,52.98,58.1,-14.011,3850.6553
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2003,518,31.3,,,16547.02174
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2004,574,34.69,,,16547.02174
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2005,633,38.25,,,16547.02174
@@ -673,8 +673,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2020,480,29.01,,,16547.02174
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2021,316,19.1,,,16547.02174
 5103106,Cocalinho,resto_mt,Demais MT,FALSE,2022,287,17.34,,,16547.02174
-5103106,Cocalinho,resto_mt,Demais MT,FALSE,2023,15746,951.59,66,-1.651,16547.02174
-5103106,Cocalinho,resto_mt,Demais MT,FALSE,2024,38687,2338,46.3,-6.365,16547.02174
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2023,232,14.02,54,0.8,16547.02174
+5103106,Cocalinho,resto_mt,Demais MT,FALSE,2024,966,58.38,90.1,-0.067,16547.02174
 5103205,Colíder,resto_mt,Demais MT,FALSE,2003,70,23.08,,,3032.59843
 5103205,Colíder,resto_mt,Demais MT,FALSE,2004,96,31.66,,,3032.59843
 5103205,Colíder,resto_mt,Demais MT,FALSE,2005,117,38.58,,,3032.59843
@@ -695,8 +695,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103205,Colíder,resto_mt,Demais MT,FALSE,2020,31,10.22,,,3032.59843
 5103205,Colíder,resto_mt,Demais MT,FALSE,2021,17,5.61,,,3032.59843
 5103205,Colíder,resto_mt,Demais MT,FALSE,2022,25,8.24,,,3032.59843
-5103205,Colíder,resto_mt,Demais MT,FALSE,2023,550,181.36,20,-1.443,3032.59843
-5103205,Colíder,resto_mt,Demais MT,FALSE,2024,455,150.04,26,-17.023,3032.59843
+5103205,Colíder,resto_mt,Demais MT,FALSE,2023,37,12.2,28.5,0.425,3032.59843
+5103205,Colíder,resto_mt,Demais MT,FALSE,2024,26,8.57,49.9,0.547,3032.59843
 5103254,Colniza,resto_mt,Demais MT,FALSE,2003,2104,75.27,,,27951.16004
 5103254,Colniza,resto_mt,Demais MT,FALSE,2004,3702,132.45,,,27951.16004
 5103254,Colniza,resto_mt,Demais MT,FALSE,2005,4200,150.26,,,27951.16004
@@ -717,8 +717,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103254,Colniza,resto_mt,Demais MT,FALSE,2020,1873,67.01,,,27951.16004
 5103254,Colniza,resto_mt,Demais MT,FALSE,2021,1462,52.31,,,27951.16004
 5103254,Colniza,resto_mt,Demais MT,FALSE,2022,3046,108.98,,,27951.16004
-5103254,Colniza,resto_mt,Demais MT,FALSE,2023,33090,1183.85,48.4,0.115,27951.16004
-5103254,Colniza,resto_mt,Demais MT,FALSE,2024,89520,3202.73,41,-0.185,27951.16004
+5103254,Colniza,resto_mt,Demais MT,FALSE,2023,1337,47.83,54.6,0.281,27951.16004
+5103254,Colniza,resto_mt,Demais MT,FALSE,2024,2686,96.1,87.2,0.475,27951.16004
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2003,1139,52.44,,,21720.160799999998
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2004,1676,77.16,,,21720.160799999998
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2005,1515,69.75,,,21720.160799999998
@@ -739,8 +739,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2020,792,36.46,,,21720.160799999998
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2021,270,12.43,,,21720.160799999998
 5103304,Comodoro,resto_mt,Demais MT,FALSE,2022,366,16.85,,,21720.160799999998
-5103304,Comodoro,resto_mt,Demais MT,FALSE,2023,6367,293.14,101.4,-4.848,21720.160799999998
-5103304,Comodoro,resto_mt,Demais MT,FALSE,2024,35471,1633.09,30.6,0.228,21720.160799999998
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2023,208,9.58,41.9,0.373,21720.160799999998
+5103304,Comodoro,resto_mt,Demais MT,FALSE,2024,1279,58.89,63.4,-1.453,21720.160799999998
 5103353,Confresa,resto_mt,Demais MT,FALSE,2003,1407,242.84,,,5794.01001
 5103353,Confresa,resto_mt,Demais MT,FALSE,2004,1672,288.57,,,5794.01001
 5103353,Confresa,resto_mt,Demais MT,FALSE,2005,1556,268.55,,,5794.01001
@@ -761,8 +761,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103353,Confresa,resto_mt,Demais MT,FALSE,2020,293,50.57,,,5794.01001
 5103353,Confresa,resto_mt,Demais MT,FALSE,2021,188,32.45,,,5794.01001
 5103353,Confresa,resto_mt,Demais MT,FALSE,2022,382,65.93,,,5794.01001
-5103353,Confresa,resto_mt,Demais MT,FALSE,2023,5465,943.22,70.6,-0.697,5794.01001
-5103353,Confresa,resto_mt,Demais MT,FALSE,2024,11370,1962.37,29.2,-1.632,5794.01001
+5103353,Confresa,resto_mt,Demais MT,FALSE,2023,186,32.1,85.6,-5.47,5794.01001
+5103353,Confresa,resto_mt,Demais MT,FALSE,2024,367,63.34,69.6,0.768,5794.01001
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2003,74,27.57,,,2684.1417
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2004,101,37.63,,,2684.1417
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2005,159,59.24,,,2684.1417
@@ -783,8 +783,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2020,121,45.08,,,2684.1417
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2021,51,19,,,2684.1417
 5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2022,78,29.06,,,2684.1417
-5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2023,1004,374.05,44,-0.738,2684.1417
-5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2024,29783,11095.91,31.6,0.984,2684.1417
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2023,48,17.88,68.9,0.531,2684.1417
+5103361,Conquista D'Oeste,resto_mt,Demais MT,FALSE,2024,741,276.07,77.9,0.983,2684.1417
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2003,1077,113.57,,,9483.19267
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2004,1700,179.26,,,9483.19267
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2005,2088,220.18,,,9483.19267
@@ -805,8 +805,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2020,417,43.97,,,9483.19267
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2021,269,28.37,,,9483.19267
 5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2022,449,47.35,,,9483.19267
-5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2023,4335,457.12,34.3,-0.385,9483.19267
-5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2024,3902,411.46,24.4,-0.002,9483.19267
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2023,215,22.67,39.2,0.372,9483.19267
+5103379,Cotriguaçu,resto_mt,Demais MT,FALSE,2024,144,15.18,43.6,0.732,9483.19267
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2003,133,40.67,,,3270.03225
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2004,173,52.9,,,3270.03225
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2005,137,41.9,,,3270.03225
@@ -827,8 +827,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2020,270,82.57,,,3270.03225
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2021,127,38.84,,,3270.03225
 5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2022,73,22.32,,,3270.03225
-5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2023,2113,646.17,37.2,-39.91,3270.03225
-5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2024,20457,6255.9,32.7,-12.7,3270.03225
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2023,99,30.27,40.8,-31.742,3270.03225
+5103403,Cuiabá,polo_metropolitano,Polo Metropolitano,FALSE,2024,607,185.63,79.2,-7.289,3270.03225
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2003,18,50.17,,,358.79068
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2004,20,55.74,,,358.79068
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2005,12,33.45,,,358.79068
@@ -846,8 +846,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2020,16,44.59,,,358.79068
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2021,1,2.79,,,358.79068
 5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2022,1,2.79,,,358.79068
-5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2023,25,69.68,24.2,0.404,358.79068
-5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2024,265,738.59,30.4,0.949,358.79068
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2023,1,2.79,10.5,0.19,358.79068
+5103437,Curvelândia,pantanal_norte,Pantanal-13,TRUE,2024,5,13.94,87.7,0.8,358.79068
 5103452,Denise,resto_mt,Demais MT,FALSE,2003,34,26.6,,,1278.1028900000001
 5103452,Denise,resto_mt,Demais MT,FALSE,2004,41,32.08,,,1278.1028900000001
 5103452,Denise,resto_mt,Demais MT,FALSE,2005,52,40.69,,,1278.1028900000001
@@ -868,8 +868,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103452,Denise,resto_mt,Demais MT,FALSE,2020,27,21.13,,,1278.1028900000001
 5103452,Denise,resto_mt,Demais MT,FALSE,2021,13,10.17,,,1278.1028900000001
 5103452,Denise,resto_mt,Demais MT,FALSE,2022,25,19.56,,,1278.1028900000001
-5103452,Denise,resto_mt,Demais MT,FALSE,2023,422,330.18,80.2,0.44,1278.1028900000001
-5103452,Denise,resto_mt,Demais MT,FALSE,2024,416,325.48,40.2,0.823,1278.1028900000001
+5103452,Denise,resto_mt,Demais MT,FALSE,2023,8,6.26,12.7,0.169,1278.1028900000001
+5103452,Denise,resto_mt,Demais MT,FALSE,2024,10,7.82,13.1,0.166,1278.1028900000001
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2003,457,54.96,,,8314.624
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2004,538,64.71,,,8314.624
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2005,224,26.94,,,8314.624
@@ -890,8 +890,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2020,256,30.79,,,8314.624
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2021,69,8.3,,,8314.624
 5103502,Diamantino,resto_mt,Demais MT,FALSE,2022,53,6.37,,,8314.624
-5103502,Diamantino,resto_mt,Demais MT,FALSE,2023,1599,192.31,67.4,-3.312,8314.624
-5103502,Diamantino,resto_mt,Demais MT,FALSE,2024,11714,1408.84,47.7,-1.588,8314.624
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2023,92,11.06,154.5,-10.307,8314.624
+5103502,Diamantino,resto_mt,Demais MT,FALSE,2024,425,51.11,94.3,-1.617,8314.624
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2003,21,9.56,,,2195.90917
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2004,40,18.22,,,2195.90917
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2005,56,25.5,,,2195.90917
@@ -912,8 +912,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2020,91,41.44,,,2195.90917
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2021,179,81.52,,,2195.90917
 5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2022,16,7.29,,,2195.90917
-5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2023,749,341.09,40.2,0.63,2195.90917
-5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2024,177,80.6,19.3,0.832,2195.90917
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2023,12,5.46,106,0.777,2195.90917
+5103601,Dom Aquino,resto_mt,Demais MT,FALSE,2024,14,6.38,26.3,0.797,2195.90917
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2003,1155,100.87,,,11450.58691
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2004,1995,174.23,,,11450.58691
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2005,1290,112.66,,,11450.58691
@@ -934,8 +934,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2020,664,57.99,,,11450.58691
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2021,430,37.55,,,11450.58691
 5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2022,632,55.19,,,11450.58691
-5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2023,23493,2051.69,62.7,0.284,11450.58691
-5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2024,17022,1486.56,47.4,0.302,11450.58691
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2023,731,63.84,42.7,0.344,11450.58691
+5103700,Feliz Natal,resto_mt,Demais MT,FALSE,2024,592,51.7,61.3,0.285,11450.58691
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2003,38,42.9,,,885.88088
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2004,33,37.25,,,885.88088
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2005,19,21.45,,,885.88088
@@ -954,8 +954,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2019,5,5.64,,,885.88088
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2020,2,2.26,,,885.88088
 5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2021,4,4.52,,,885.88088
-5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2023,13,14.67,5.2,0.572,885.88088
-5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2024,88,99.34,5.1,0.786,885.88088
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2023,0,0,,,885.88088
+5103809,Figueirópolis D'Oeste,resto_mt,Demais MT,FALSE,2024,5,5.64,13.1,0.71,885.88088
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2003,1269,75.09,,,16898.69521
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2004,1705,100.9,,,16898.69521
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2005,1037,61.37,,,16898.69521
@@ -976,8 +976,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2020,1187,70.24,,,16898.69521
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2021,558,33.02,,,16898.69521
 5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2022,379,22.43,,,16898.69521
-5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2023,8257,488.62,62.4,-0.607,16898.69521
-5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2024,18137,1073.28,43.4,-28.698,16898.69521
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2023,345,20.42,42,0.421,16898.69521
+5103858,Gaúcha do Norte,resto_mt,Demais MT,FALSE,2024,527,31.19,58.1,-10.76,16898.69521
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2003,219,58.89,,,3718.76064
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2004,136,36.57,,,3718.76064
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2005,170,45.71,,,3718.76064
@@ -998,8 +998,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2020,210,56.47,,,3718.76064
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2021,131,35.23,,,3718.76064
 5103908,General Carneiro,resto_mt,Demais MT,FALSE,2022,116,31.19,,,3718.76064
-5103908,General Carneiro,resto_mt,Demais MT,FALSE,2023,2876,773.38,80.8,0.933,3718.76064
-5103908,General Carneiro,resto_mt,Demais MT,FALSE,2024,6093,1638.45,29.1,0.981,3718.76064
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2023,133,35.76,164.5,0.966,3718.76064
+5103908,General Carneiro,resto_mt,Demais MT,FALSE,2024,200,53.78,47.3,0.918,3718.76064
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2003,31,36.38,,,852.08996
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2004,24,28.17,,,852.08996
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2005,23,26.99,,,852.08996
@@ -1018,8 +1018,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2019,3,3.52,,,852.08996
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,11,12.91,,,852.08996
 5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2021,2,2.35,,,852.08996
-5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,25,29.34,63.5,0.201,852.08996
-5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,210,246.45,22.2,0.843,852.08996
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,1,1.17,15.7,0,852.08996
+5103957,Glória D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,7,8.22,33.5,0.86,852.08996
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2003,464,97.88,,,4740.38757
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2004,854,180.15,,,4740.38757
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2005,523,110.33,,,4740.38757
@@ -1040,8 +1040,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2020,164,34.6,,,4740.38757
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2021,93,19.62,,,4740.38757
 5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2022,240,50.63,,,4740.38757
-5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2023,1987,419.16,38.8,-4.598,4740.38757
-5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2024,6076,1281.75,29.8,-3.821,4740.38757
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2023,65,13.71,33.5,0.661,4740.38757
+5104104,Guarantã do Norte,resto_mt,Demais MT,FALSE,2024,259,54.64,71.6,-6.793,4740.38757
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2003,150,29.78,,,5037.0386
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2004,322,63.93,,,5037.0386
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2005,141,27.99,,,5037.0386
@@ -1062,8 +1062,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2020,173,34.35,,,5037.0386
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2021,49,9.73,,,5037.0386
 5104203,Guiratinga,resto_mt,Demais MT,FALSE,2022,21,4.17,,,5037.0386
-5104203,Guiratinga,resto_mt,Demais MT,FALSE,2023,403,80.01,18.2,0.755,5037.0386
-5104203,Guiratinga,resto_mt,Demais MT,FALSE,2024,2351,466.74,23.6,0.941,5037.0386
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2023,20,3.97,19.9,0.695,5037.0386
+5104203,Guiratinga,resto_mt,Demais MT,FALSE,2024,74,14.69,38.3,0.785,5037.0386
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2003,26,42.99,,,604.7893200000001
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2004,34,56.22,,,604.7893200000001
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2005,24,39.68,,,604.7893200000001
@@ -1080,8 +1080,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2020,6,9.92,,,604.7893200000001
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2021,3,4.96,,,604.7893200000001
 5104500,Indiavaí,resto_mt,Demais MT,FALSE,2022,1,1.65,,,604.7893200000001
-5104500,Indiavaí,resto_mt,Demais MT,FALSE,2023,15,24.8,32.7,0.789,604.7893200000001
-5104500,Indiavaí,resto_mt,Demais MT,FALSE,2024,456,753.98,19.9,0.906,604.7893200000001
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2023,4,6.61,16.8,0.693,604.7893200000001
+5104500,Indiavaí,resto_mt,Demais MT,FALSE,2024,15,24.8,85.8,1,604.7893200000001
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2003,1211,352.33,,,3437.12846
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2004,1259,366.29,,,3437.12846
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2005,284,82.63,,,3437.12846
@@ -1102,8 +1102,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2020,136,39.57,,,3437.12846
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2021,40,11.64,,,3437.12846
 5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2022,43,12.51,,,3437.12846
-5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2023,451,131.21,30.1,0.311,3437.12846
-5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2024,812,236.24,33.2,-1.813,3437.12846
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2023,27,7.86,30.7,0.237,3437.12846
+5104526,Ipiranga do Norte,resto_mt,Demais MT,FALSE,2024,44,12.8,39.8,-22.429,3437.12846
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2003,1046,355.94,,,2938.7113
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2004,1673,569.3,,,2938.7113
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2005,1161,395.07,,,2938.7113
@@ -1124,8 +1124,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2020,198,67.38,,,2938.7113
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2021,76,25.86,,,2938.7113
 5104542,Itanhangá,resto_mt,Demais MT,FALSE,2022,55,18.72,,,2938.7113
-5104542,Itanhangá,resto_mt,Demais MT,FALSE,2023,2718,924.9,76.4,0.492,2938.7113
-5104542,Itanhangá,resto_mt,Demais MT,FALSE,2024,4332,1474.12,61.4,0.721,2938.7113
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2023,71,24.16,40.7,0.304,2938.7113
+5104542,Itanhangá,resto_mt,Demais MT,FALSE,2024,134,45.6,134.2,-6.706,2938.7113
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2003,403,87,,,4632.0151
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2004,765,165.15,,,4632.0151
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2005,397,85.71,,,4632.0151
@@ -1146,8 +1146,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2020,103,22.24,,,4632.0151
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2021,96,20.73,,,4632.0151
 5104559,Itaúba,resto_mt,Demais MT,FALSE,2022,111,23.96,,,4632.0151
-5104559,Itaúba,resto_mt,Demais MT,FALSE,2023,1273,274.83,40.9,-12.164,4632.0151
-5104559,Itaúba,resto_mt,Demais MT,FALSE,2024,6732,1453.36,39,0.081,4632.0151
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2023,123,26.55,36.1,0.448,4632.0151
+5104559,Itaúba,resto_mt,Demais MT,FALSE,2024,248,53.54,86.2,-3.507,4632.0151
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2003,246,28.26,,,8704.20405
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2004,327,37.57,,,8704.20405
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2005,176,20.22,,,8704.20405
@@ -1168,8 +1168,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2020,165,18.96,,,8704.20405
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2021,25,2.87,,,8704.20405
 5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2022,14,1.61,,,8704.20405
-5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2023,4297,493.67,71.6,0.386,8704.20405
-5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2024,1849,212.43,61,-6.278,8704.20405
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2023,95,10.91,65.2,-10.77,8704.20405
+5104609,Itiquira,pantanal_norte,Pantanal-13,TRUE,2024,85,9.77,176,0.671,8704.20405
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2003,29,12.04,,,2408.09555
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2004,31,12.87,,,2408.09555
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2005,29,12.04,,,2408.09555
@@ -1190,8 +1190,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2020,85,35.3,,,2408.09555
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2021,33,13.7,,,2408.09555
 5104807,Jaciara,resto_mt,Demais MT,FALSE,2022,17,7.06,,,2408.09555
-5104807,Jaciara,resto_mt,Demais MT,FALSE,2023,115,47.76,24,-17.991,2408.09555
-5104807,Jaciara,resto_mt,Demais MT,FALSE,2024,233,96.76,14.3,-25.035,2408.09555
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2023,0,0,,,2408.09555
+5104807,Jaciara,resto_mt,Demais MT,FALSE,2024,15,6.23,53,0.709,2408.09555
 5104906,Jangada,resto_mt,Demais MT,FALSE,2003,21,16.2,,,1295.97242
 5104906,Jangada,resto_mt,Demais MT,FALSE,2004,28,21.61,,,1295.97242
 5104906,Jangada,resto_mt,Demais MT,FALSE,2005,71,54.79,,,1295.97242
@@ -1212,8 +1212,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5104906,Jangada,resto_mt,Demais MT,FALSE,2020,74,57.1,,,1295.97242
 5104906,Jangada,resto_mt,Demais MT,FALSE,2021,8,6.17,,,1295.97242
 5104906,Jangada,resto_mt,Demais MT,FALSE,2022,13,10.03,,,1295.97242
-5104906,Jangada,resto_mt,Demais MT,FALSE,2023,396,305.56,57,0.316,1295.97242
-5104906,Jangada,resto_mt,Demais MT,FALSE,2024,495,381.95,19.9,0.317,1295.97242
+5104906,Jangada,resto_mt,Demais MT,FALSE,2023,7,5.4,40,0.823,1295.97242
+5104906,Jangada,resto_mt,Demais MT,FALSE,2024,24,18.52,45.5,0.605,1295.97242
 5105002,Jauru,resto_mt,Demais MT,FALSE,2003,46,35.14,,,1309.04055
 5105002,Jauru,resto_mt,Demais MT,FALSE,2004,45,34.38,,,1309.04055
 5105002,Jauru,resto_mt,Demais MT,FALSE,2005,98,74.86,,,1309.04055
@@ -1234,8 +1234,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105002,Jauru,resto_mt,Demais MT,FALSE,2020,53,40.49,,,1309.04055
 5105002,Jauru,resto_mt,Demais MT,FALSE,2021,6,4.58,,,1309.04055
 5105002,Jauru,resto_mt,Demais MT,FALSE,2022,15,11.46,,,1309.04055
-5105002,Jauru,resto_mt,Demais MT,FALSE,2023,51,38.96,10.1,0.607,1309.04055
-5105002,Jauru,resto_mt,Demais MT,FALSE,2024,1176,898.37,85.4,0.978,1309.04055
+5105002,Jauru,resto_mt,Demais MT,FALSE,2023,1,0.76,46.9,1,1309.04055
+5105002,Jauru,resto_mt,Demais MT,FALSE,2024,57,43.54,260.9,0.972,1309.04055
 5105101,Juara,resto_mt,Demais MT,FALSE,2003,2298,101.01,,,22750.78884
 5105101,Juara,resto_mt,Demais MT,FALSE,2004,2533,111.34,,,22750.78884
 5105101,Juara,resto_mt,Demais MT,FALSE,2005,2792,122.72,,,22750.78884
@@ -1256,8 +1256,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105101,Juara,resto_mt,Demais MT,FALSE,2020,593,26.07,,,22750.78884
 5105101,Juara,resto_mt,Demais MT,FALSE,2021,602,26.46,,,22750.78884
 5105101,Juara,resto_mt,Demais MT,FALSE,2022,817,35.91,,,22750.78884
-5105101,Juara,resto_mt,Demais MT,FALSE,2023,19648,863.62,47.8,0.216,22750.78884
-5105101,Juara,resto_mt,Demais MT,FALSE,2024,47227,2075.84,39.1,0.8,22750.78884
+5105101,Juara,resto_mt,Demais MT,FALSE,2023,685,30.11,54.3,-1.217,22750.78884
+5105101,Juara,resto_mt,Demais MT,FALSE,2024,1193,52.44,66.2,0.794,22750.78884
 5105150,Juína,resto_mt,Demais MT,FALSE,2003,943,36,,,26196.43324
 5105150,Juína,resto_mt,Demais MT,FALSE,2004,1733,66.15,,,26196.43324
 5105150,Juína,resto_mt,Demais MT,FALSE,2005,1531,58.44,,,26196.43324
@@ -1278,8 +1278,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105150,Juína,resto_mt,Demais MT,FALSE,2020,473,18.06,,,26196.43324
 5105150,Juína,resto_mt,Demais MT,FALSE,2021,271,10.34,,,26196.43324
 5105150,Juína,resto_mt,Demais MT,FALSE,2022,329,12.56,,,26196.43324
-5105150,Juína,resto_mt,Demais MT,FALSE,2023,4406,168.19,43,-5.929,26196.43324
-5105150,Juína,resto_mt,Demais MT,FALSE,2024,26761,1021.55,31.2,-0.054,26196.43324
+5105150,Juína,resto_mt,Demais MT,FALSE,2023,237,9.05,62,-17.337,26196.43324
+5105150,Juína,resto_mt,Demais MT,FALSE,2024,871,33.25,49.6,-0.297,26196.43324
 5105176,Juruena,resto_mt,Demais MT,FALSE,2003,634,224.98,,,2818.03539
 5105176,Juruena,resto_mt,Demais MT,FALSE,2004,722,256.21,,,2818.03539
 5105176,Juruena,resto_mt,Demais MT,FALSE,2005,780,276.79,,,2818.03539
@@ -1300,8 +1300,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105176,Juruena,resto_mt,Demais MT,FALSE,2020,55,19.52,,,2818.03539
 5105176,Juruena,resto_mt,Demais MT,FALSE,2021,57,20.23,,,2818.03539
 5105176,Juruena,resto_mt,Demais MT,FALSE,2022,60,21.29,,,2818.03539
-5105176,Juruena,resto_mt,Demais MT,FALSE,2023,799,283.53,52.4,0.371,2818.03539
-5105176,Juruena,resto_mt,Demais MT,FALSE,2024,2216,786.36,30.2,-0.074,2818.03539
+5105176,Juruena,resto_mt,Demais MT,FALSE,2023,19,6.74,100.2,0.342,2818.03539
+5105176,Juruena,resto_mt,Demais MT,FALSE,2024,83,29.45,51.6,0.788,2818.03539
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2003,61,22.63,,,2695.00356
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2004,98,36.36,,,2695.00356
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2005,59,21.89,,,2695.00356
@@ -1322,8 +1322,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2020,161,59.74,,,2695.00356
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2021,52,19.29,,,2695.00356
 5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2022,30,11.13,,,2695.00356
-5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2023,139,51.58,34.8,0.523,2695.00356
-5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2024,2939,1090.54,30,0.977,2695.00356
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2023,13,4.82,45.1,0.692,2695.00356
+5105200,Juscimeira,pantanal_norte,Pantanal-13,TRUE,2024,60,22.26,91.9,0.853,2695.00356
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2003,92,51.98,,,1769.8909600000002
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2004,130,73.45,,,1769.8909600000002
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2005,104,58.76,,,1769.8909600000002
@@ -1344,8 +1344,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,25,14.13,,,1769.8909600000002
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2021,16,9.04,,,1769.8909600000002
 5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2022,11,6.22,,,1769.8909600000002
-5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,494,279.11,66.3,0.364,1769.8909600000002
-5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,1273,719.25,41.4,0.919,1769.8909600000002
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,18,10.17,40.9,0.446,1769.8909600000002
+5105234,Lambari D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,26,14.69,67.2,0.86,1769.8909600000002
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2003,143,39.12,,,3655.63979
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2004,290,79.33,,,3655.63979
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2005,150,41.03,,,3655.63979
@@ -1366,8 +1366,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2020,59,16.14,,,3655.63979
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2021,26,7.11,,,3655.63979
 5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2022,14,3.83,,,3655.63979
-5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2023,708,193.67,37.5,-5.175,3655.63979
-5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2024,675,184.65,29,-15.7,3655.63979
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2023,44,12.04,38.5,-69.323,3655.63979
+5105259,Lucas do Rio Verde,resto_mt,Demais MT,FALSE,2024,68,18.6,32.5,0.281,3655.63979
 5105309,Luciara,resto_mt,Demais MT,FALSE,2003,259,62.43,,,4148.76082
 5105309,Luciara,resto_mt,Demais MT,FALSE,2004,278,67.01,,,4148.76082
 5105309,Luciara,resto_mt,Demais MT,FALSE,2005,273,65.8,,,4148.76082
@@ -1388,8 +1388,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105309,Luciara,resto_mt,Demais MT,FALSE,2020,417,100.51,,,4148.76082
 5105309,Luciara,resto_mt,Demais MT,FALSE,2021,213,51.34,,,4148.76082
 5105309,Luciara,resto_mt,Demais MT,FALSE,2022,304,73.27,,,4148.76082
-5105309,Luciara,resto_mt,Demais MT,FALSE,2023,5543,1336.06,49.8,-1.557,4148.76082
-5105309,Luciara,resto_mt,Demais MT,FALSE,2024,22631,5454.88,46.9,-7.098,4148.76082
+5105309,Luciara,resto_mt,Demais MT,FALSE,2023,188,45.31,55.4,0.785,4148.76082
+5105309,Luciara,resto_mt,Demais MT,FALSE,2024,749,180.54,82.5,0.965,4148.76082
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2003,1013,75.14,,,13481.36455
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2004,1265,93.83,,,13481.36455
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2005,866,64.24,,,13481.36455
@@ -1410,8 +1410,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2020,557,41.32,,,13481.36455
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2021,164,12.16,,,13481.36455
 5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2022,214,15.87,,,13481.36455
-5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2023,9596,711.8,69.2,-0.37,13481.36455
-5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2024,22124,1641.08,32.4,-3.807,13481.36455
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2023,171,12.68,67.5,0.358,13481.36455
+5105507,Vila Bela da Santíssima Trindade,resto_mt,Demais MT,FALSE,2024,534,39.61,58.4,-23.576,13481.36455
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2003,921,75.08,,,12267.61848
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2004,1485,121.05,,,12267.61848
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2005,946,77.11,,,12267.61848
@@ -1432,8 +1432,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2020,857,69.86,,,12267.61848
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2021,371,30.24,,,12267.61848
 5105580,Marcelândia,resto_mt,Demais MT,FALSE,2022,1085,88.44,,,12267.61848
-5105580,Marcelândia,resto_mt,Demais MT,FALSE,2023,11067,902.13,64.2,-0.141,12267.61848
-5105580,Marcelândia,resto_mt,Demais MT,FALSE,2024,49615,4044.39,49.4,0.052,12267.61848
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2023,370,30.16,50.6,0.5,12267.61848
+5105580,Marcelândia,resto_mt,Demais MT,FALSE,2024,1340,109.23,117.3,0.788,12267.61848
 5105606,Matupá,resto_mt,Demais MT,FALSE,2003,497,96.31,,,5160.38035
 5105606,Matupá,resto_mt,Demais MT,FALSE,2004,729,141.27,,,5160.38035
 5105606,Matupá,resto_mt,Demais MT,FALSE,2005,703,136.23,,,5160.38035
@@ -1454,8 +1454,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105606,Matupá,resto_mt,Demais MT,FALSE,2020,173,33.52,,,5160.38035
 5105606,Matupá,resto_mt,Demais MT,FALSE,2021,64,12.4,,,5160.38035
 5105606,Matupá,resto_mt,Demais MT,FALSE,2022,177,34.3,,,5160.38035
-5105606,Matupá,resto_mt,Demais MT,FALSE,2023,1439,278.86,69.6,-11.523,5160.38035
-5105606,Matupá,resto_mt,Demais MT,FALSE,2024,5104,989.07,32.2,0.095,5160.38035
+5105606,Matupá,resto_mt,Demais MT,FALSE,2023,57,11.05,37.5,-17.984,5160.38035
+5105606,Matupá,resto_mt,Demais MT,FALSE,2024,201,38.95,47.7,-4.153,5160.38035
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2003,111,103.12,,,1076.41515
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2004,140,130.06,,,1076.41515
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2005,69,64.1,,,1076.41515
@@ -1476,8 +1476,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2020,13,12.08,,,1076.41515
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2021,16,14.86,,,1076.41515
 5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2022,11,10.22,,,1076.41515
-5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,274,254.55,53.5,-3.129,1076.41515
-5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,468,434.78,28.1,-3.403,1076.41515
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2023,3,2.79,19.8,-332.953,1076.41515
+5105622,Mirassol D'Oeste,pantanal_norte,Pantanal-13,TRUE,2024,14,13.01,79.7,0.865,1076.41515
 5105903,Nobres,resto_mt,Demais MT,FALSE,2003,225,59.67,,,3770.52642
 5105903,Nobres,resto_mt,Demais MT,FALSE,2004,350,92.83,,,3770.52642
 5105903,Nobres,resto_mt,Demais MT,FALSE,2005,221,58.61,,,3770.52642
@@ -1498,8 +1498,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5105903,Nobres,resto_mt,Demais MT,FALSE,2020,150,39.78,,,3770.52642
 5105903,Nobres,resto_mt,Demais MT,FALSE,2021,52,13.79,,,3770.52642
 5105903,Nobres,resto_mt,Demais MT,FALSE,2022,51,13.53,,,3770.52642
-5105903,Nobres,resto_mt,Demais MT,FALSE,2023,499,132.34,14.7,-3.207,3770.52642
-5105903,Nobres,resto_mt,Demais MT,FALSE,2024,8121,2153.81,26.1,0.868,3770.52642
+5105903,Nobres,resto_mt,Demais MT,FALSE,2023,19,5.04,18.3,0.516,3770.52642
+5105903,Nobres,resto_mt,Demais MT,FALSE,2024,219,58.08,91.9,-3.64,3770.52642
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2003,28,20.7,,,1352.8320899999999
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2004,28,20.7,,,1352.8320899999999
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2005,31,22.91,,,1352.8320899999999
@@ -1520,8 +1520,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2020,27,19.96,,,1352.8320899999999
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2021,7,5.17,,,1352.8320899999999
 5106000,Nortelândia,resto_mt,Demais MT,FALSE,2022,7,5.17,,,1352.8320899999999
-5106000,Nortelândia,resto_mt,Demais MT,FALSE,2023,191,141.19,65.7,0.4,1352.8320899999999
-5106000,Nortelândia,resto_mt,Demais MT,FALSE,2024,1127,833.07,23.9,-1.72,1352.8320899999999
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2023,1,0.74,12,0.02,1352.8320899999999
+5106000,Nortelândia,resto_mt,Demais MT,FALSE,2024,41,30.31,75.8,0.859,1352.8320899999999
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2003,193,35.54,,,5430.49191
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2004,329,60.58,,,5430.49191
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2005,325,59.85,,,5430.49191
@@ -1542,8 +1542,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2020,434,79.92,,,5430.49191
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2021,49,9.02,,,5430.49191
 5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2022,57,10.5,,,5430.49191
-5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2023,1952,359.45,32.2,-4.472,5430.49191
-5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2024,10048,1850.29,22.6,0.871,5430.49191
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2023,104,19.15,38,-9.244,5430.49191
+5106109,Nossa Senhora do Livramento,pantanal_norte,Pantanal-13,TRUE,2024,357,65.74,61.8,0.971,5430.49191
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2003,1645,172.32,,,9546.42875
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2004,2049,214.64,,,9546.42875
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2005,2630,275.5,,,9546.42875
@@ -1564,8 +1564,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2020,733,76.78,,,9546.42875
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2021,490,51.33,,,9546.42875
 5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2022,841,88.1,,,9546.42875
-5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2023,11511,1205.79,48.5,-0.179,9546.42875
-5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2024,31389,3288.04,40.2,0.822,9546.42875
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2023,331,34.67,69.2,0.489,9546.42875
+5106158,Nova Bandeirantes,resto_mt,Demais MT,FALSE,2024,825,86.42,90.1,0.908,9546.42875
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2003,342,84.91,,,4027.82764
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2004,273,67.78,,,4027.82764
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2005,272,67.53,,,4027.82764
@@ -1586,8 +1586,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2020,608,150.95,,,4027.82764
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2021,508,126.12,,,4027.82764
 5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2022,512,127.12,,,4027.82764
-5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2023,9191,2281.88,63.2,0.685,4027.82764
-5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2024,21839,5422.03,44.6,0.993,4027.82764
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2023,234,58.1,64.3,0.923,4027.82764
+5106174,Nova Nazaré,resto_mt,Demais MT,FALSE,2024,784,194.65,81.9,0.984,4027.82764
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2003,353,74.74,,,4723.0552800000005
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2004,414,87.66,,,4723.0552800000005
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2005,305,64.58,,,4723.0552800000005
@@ -1608,8 +1608,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2020,357,75.59,,,4723.0552800000005
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2021,79,16.73,,,4723.0552800000005
 5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2022,121,25.62,,,4723.0552800000005
-5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2023,1020,215.96,16.8,0.589,4723.0552800000005
-5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2024,12935,2738.69,33.3,0.953,4723.0552800000005
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2023,61,12.92,34.1,0.485,4723.0552800000005
+5106182,Nova Lacerda,resto_mt,Demais MT,FALSE,2024,435,92.1,53.9,0.9,4723.0552800000005
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2003,100,42.78,,,2337.52289
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2004,208,88.98,,,2337.52289
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2005,168,71.87,,,2337.52289
@@ -1630,8 +1630,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2020,158,67.59,,,2337.52289
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2021,38,16.26,,,2337.52289
 5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2022,309,132.19,,,2337.52289
-5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2023,4340,1856.67,59.7,0.789,2337.52289
-5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2024,14997,6415.77,52.2,0.934,2337.52289
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2023,83,35.51,77.1,0.59,2337.52289
+5106190,Nova Santa Helena,resto_mt,Demais MT,FALSE,2024,370,158.29,142.5,0.897,2337.52289
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2003,122,37.08,,,3290.52793
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2004,155,47.1,,,3290.52793
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2005,157,47.71,,,3290.52793
@@ -1652,8 +1652,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2020,128,38.9,,,3290.52793
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2021,25,7.6,,,3290.52793
 5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2022,47,14.28,,,3290.52793
-5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2023,406,123.38,18.3,0.586,3290.52793
-5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2024,3879,1178.84,27.8,-2.881,3290.52793
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2023,19,5.77,35.9,0.439,3290.52793
+5106208,Nova Brasilândia,resto_mt,Demais MT,FALSE,2024,89,27.05,67.7,0.959,3290.52793
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2003,705,118.28,,,5960.61802
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2004,737,123.64,,,5960.61802
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2005,524,87.91,,,5960.61802
@@ -1674,8 +1674,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2020,238,39.93,,,5960.61802
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2021,151,25.33,,,5960.61802
 5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2022,123,20.64,,,5960.61802
-5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2023,2600,436.2,52.7,0.293,5960.61802
-5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2024,6177,1036.3,33.4,-1.6,5960.61802
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2023,143,23.99,114.2,0.268,5960.61802
+5106216,Nova Canaã do Norte,resto_mt,Demais MT,FALSE,2024,220,36.91,54,0.734,5960.61802
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2003,991,103.78,,,9549.24383
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2004,1310,137.18,,,9549.24383
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2005,444,46.5,,,9549.24383
@@ -1696,8 +1696,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2020,246,25.76,,,9549.24383
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2021,99,10.37,,,9549.24383
 5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2022,95,9.95,,,9549.24383
-5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2023,1981,207.45,53.6,-1.885,9549.24383
-5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2024,7377,772.52,33.6,-0.259,9549.24383
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2023,121,12.67,43.9,-8.302,9549.24383
+5106224,Nova Mutum,resto_mt,Demais MT,FALSE,2024,326,34.14,54,0.534,9549.24383
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2003,83,60.92,,,1362.37565
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2004,38,27.89,,,1362.37565
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2005,51,37.43,,,1362.37565
@@ -1718,8 +1718,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2020,56,41.1,,,1362.37565
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2021,13,9.54,,,1362.37565
 5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2022,15,11.01,,,1362.37565
-5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2023,342,251.03,50.2,0.35,1362.37565
-5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2024,3896,2859.71,41.8,0.466,1362.37565
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2023,6,4.4,20.2,0.473,1362.37565
+5106232,Nova Olímpia,resto_mt,Demais MT,FALSE,2024,103,75.6,288.4,0.933,1362.37565
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2003,2796,220.49,,,12680.75001
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2004,3702,291.94,,,12680.75001
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2005,1767,139.35,,,12680.75001
@@ -1740,8 +1740,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2020,447,35.25,,,12680.75001
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2021,292,23.03,,,12680.75001
 5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2022,903,71.21,,,12680.75001
-5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2023,8233,649.25,39.3,0.347,12680.75001
-5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2024,5235,412.83,37.7,0.587,12680.75001
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2023,357,28.15,53.2,-2.743,12680.75001
+5106240,Nova Ubiratã,resto_mt,Demais MT,FALSE,2024,257,20.27,44.2,0.307,12680.75001
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2003,201,36.4,,,5521.2615
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2004,179,32.42,,,5521.2615
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2005,161,29.16,,,5521.2615
@@ -1762,8 +1762,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2020,130,23.55,,,5521.2615
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2021,84,15.21,,,5521.2615
 5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2022,85,15.4,,,5521.2615
-5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2023,839,151.96,45.6,-0.675,5521.2615
-5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2024,5143,931.49,36.5,0.877,5521.2615
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2023,47,8.51,27.3,-22.765,5521.2615
+5106257,Nova Xavantina,resto_mt,Demais MT,FALSE,2024,142,25.72,59,0.819,5521.2615
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2003,1074,185.69,,,5783.74584
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2004,998,172.55,,,5783.74584
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2005,1215,210.07,,,5783.74584
@@ -1784,8 +1784,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2020,268,46.34,,,5783.74584
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2021,102,17.64,,,5783.74584
 5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2022,224,38.73,,,5783.74584
-5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2023,2591,447.98,25.6,-1.678,5783.74584
-5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2024,13168,2276.73,29.3,-1.195,5783.74584
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2023,83,14.35,56,0.318,5783.74584
+5106265,Novo Mundo,resto_mt,Demais MT,FALSE,2024,368,63.63,80.1,-1.787,5783.74584
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2003,92,103.32,,,890.44969
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2004,97,108.93,,,890.44969
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2005,80,89.84,,,890.44969
@@ -1806,8 +1806,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2020,13,14.6,,,890.44969
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2021,9,10.11,,,890.44969
 5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2022,17,19.09,,,890.44969
-5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2023,61,68.5,28.6,0.336,890.44969
-5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2024,86,96.58,14.7,0.366,890.44969
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2023,12,13.48,15.7,0.062,890.44969
+5106273,Novo Horizonte do Norte,resto_mt,Demais MT,FALSE,2024,4,4.49,15,0.5,890.44969
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2003,130,25.88,,,5023.52056
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2004,256,50.96,,,5023.52056
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2005,135,26.87,,,5023.52056
@@ -1828,8 +1828,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2020,145,28.86,,,5023.52056
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2021,26,5.18,,,5023.52056
 5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2022,65,12.94,,,5023.52056
-5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2023,3862,768.78,68.8,0.717,5023.52056
-5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2024,2149,427.79,26.1,0.831,5023.52056
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2023,62,12.34,85.3,0.772,5023.52056
+5106281,Novo São Joaquim,resto_mt,Demais MT,FALSE,2024,77,15.33,49.5,0.739,5023.52056
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2003,761,158.58,,,4798.89
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2004,1292,269.23,,,4798.89
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2005,1189,247.77,,,4798.89
@@ -1850,8 +1850,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2020,281,58.56,,,4798.89
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2021,111,23.13,,,4798.89
 5106299,Paranaíta,resto_mt,Demais MT,FALSE,2022,440,91.69,,,4798.89
-5106299,Paranaíta,resto_mt,Demais MT,FALSE,2023,4019,837.49,48.9,-14.83,4798.89
-5106299,Paranaíta,resto_mt,Demais MT,FALSE,2024,21289,4436.23,28.6,-10.04,4798.89
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2023,101,21.05,37.5,0.657,4798.89
+5106299,Paranaíta,resto_mt,Demais MT,FALSE,2024,669,139.41,75.9,-8.034,4798.89
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2003,1278,52.85,,,24183.37302
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2004,2156,89.15,,,24183.37302
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2005,972,40.19,,,24183.37302
@@ -1872,8 +1872,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2020,1017,42.05,,,24183.37302
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2021,909,37.59,,,24183.37302
 5106307,Paranatinga,resto_mt,Demais MT,FALSE,2022,695,28.74,,,24183.37302
-5106307,Paranatinga,resto_mt,Demais MT,FALSE,2023,22830,944.04,81,0.64,24183.37302
-5106307,Paranatinga,resto_mt,Demais MT,FALSE,2024,32228,1332.65,44.5,0.299,24183.37302
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2023,613,25.35,88.5,0.642,24183.37302
+5106307,Paranatinga,resto_mt,Demais MT,FALSE,2024,1054,43.58,76.1,-0.104,24183.37302
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2003,189,43.22,,,4373.07505
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2004,167,38.19,,,4373.07505
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2005,318,72.72,,,4373.07505
@@ -1894,8 +1894,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2020,208,47.56,,,4373.07505
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2021,247,56.48,,,4373.07505
 5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2022,169,38.65,,,4373.07505
-5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2023,2449,560.02,59.9,-24.008,4373.07505
-5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2024,14468,3308.43,39.2,-11.468,4373.07505
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2023,95,21.72,64,0.625,4373.07505
+5106315,Novo Santo Antônio,resto_mt,Demais MT,FALSE,2024,336,76.83,68.8,-16.946,4373.07505
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2003,114,28.43,,,4009.85086
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2004,134,33.42,,,4009.85086
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2005,67,16.71,,,4009.85086
@@ -1916,8 +1916,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2020,341,85.04,,,4009.85086
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2021,14,3.49,,,4009.85086
 5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2022,26,6.48,,,4009.85086
-5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2023,737,183.8,36.3,-3.337,4009.85086
-5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2024,6852,1708.79,29.5,0.989,4009.85086
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2023,8,2,29.8,0.684,4009.85086
+5106372,Pedra Preta,resto_mt,Demais MT,FALSE,2024,171,42.64,121,0.932,4009.85086
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2003,981,68.07,,,14411.64886
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2004,1413,98.05,,,14411.64886
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2005,1200,83.27,,,14411.64886
@@ -1938,8 +1938,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2020,638,44.27,,,14411.64886
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2021,294,20.4,,,14411.64886
 5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2022,825,57.25,,,14411.64886
-5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2023,11853,822.46,52.6,0.409,14411.64886
-5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2024,53579,3717.76,34.7,-0.702,14411.64886
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2023,413,28.66,78.1,-1.966,14411.64886
+5106422,Peixoto de Azevedo,resto_mt,Demais MT,FALSE,2024,1598,110.88,94.9,0.918,14411.64886
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2003,101,41.16,,,2453.85718
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2004,121,49.31,,,2453.85718
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2005,82,33.42,,,2453.85718
@@ -1960,8 +1960,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2020,84,34.23,,,2453.85718
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2021,7,2.85,,,2453.85718
 5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2022,22,8.97,,,2453.85718
-5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2023,366,149.15,53.8,0.795,2453.85718
-5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2024,409,166.68,33.9,0.921,2453.85718
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2023,18,7.34,26.3,0.888,2453.85718
+5106455,Planalto da Serra,resto_mt,Demais MT,FALSE,2024,13,5.3,30.4,0.846,2453.85718
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2003,230,13.36,,,17211.92155
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2004,512,29.75,,,17211.92155
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2005,526,30.56,,,17211.92155
@@ -1982,8 +1982,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2020,5641,327.74,,,17211.92155
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2021,771,44.79,,,17211.92155
 5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2022,227,13.19,,,17211.92155
-5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2023,107247,6230.97,84.1,-32.774,17211.92155
-5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2024,63223,3673.21,49.2,-121.849,17211.92155
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2023,2372,137.81,137.8,-14.703,17211.92155
+5106505,Poconé,pantanal_norte,Pantanal-13,TRUE,2024,1333,77.45,115.8,-37.675,17211.92155
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2003,113,41.22,,,2741.37953
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2004,109,39.76,,,2741.37953
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2005,124,45.23,,,2741.37953
@@ -2004,8 +2004,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2020,16,5.84,,,2741.37953
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2021,7,2.55,,,2741.37953
 5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2022,12,4.38,,,2741.37953
-5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2023,949,346.18,83.7,0.759,2741.37953
-5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2024,278,101.41,13.7,-10.214,2741.37953
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2023,28,10.21,103.9,0.657,2741.37953
+5106653,Pontal do Araguaia,resto_mt,Demais MT,FALSE,2024,20,7.3,45.8,-49.269,2741.37953
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2003,41,59.02,,,694.63236
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2004,37,53.27,,,694.63236
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2005,16,23.03,,,694.63236
@@ -2026,8 +2026,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2020,10,14.4,,,694.63236
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2021,12,17.28,,,694.63236
 5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2022,7,10.08,,,694.63236
-5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2023,110,158.36,6.9,0.524,694.63236
-5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2024,36,51.83,5.2,0.497,694.63236
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2023,6,8.64,26.6,0.677,694.63236
+5106703,Ponte Branca,resto_mt,Demais MT,FALSE,2024,1,1.44,6.9,0.81,694.63236
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2003,575,66.69,,,8622.01458
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2004,664,77.01,,,8622.01458
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2005,418,48.48,,,8622.01458
@@ -2048,8 +2048,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2020,249,28.88,,,8622.01458
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2021,163,18.91,,,8622.01458
 5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2022,142,16.47,,,8622.01458
-5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2023,6068,703.78,36.4,-0.547,8622.01458
-5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2024,15798,1832.29,29.5,-0.466,8622.01458
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2023,126,14.61,42,-33.584,8622.01458
+5106752,Pontes e Lacerda,resto_mt,Demais MT,FALSE,2024,401,46.51,83.3,-11.574,8622.01458
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2003,311,78.09,,,3982.42614
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2004,547,137.35,,,3982.42614
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2005,364,91.4,,,3982.42614
@@ -2070,8 +2070,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2020,278,69.81,,,3982.42614
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2021,125,31.39,,,3982.42614
 5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2022,261,65.54,,,3982.42614
-5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2023,3697,928.33,54.3,0.638,3982.42614
-5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2024,8869,2227.03,39,0.972,3982.42614
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2023,147,36.91,71.8,0.598,3982.42614
+5106778,Porto Alegre do Norte,resto_mt,Demais MT,FALSE,2024,292,73.32,98.3,0.918,3982.42614
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2003,1633,233.3,,,6999.60524
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2004,2122,303.16,,,6999.60524
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2005,1116,159.44,,,6999.60524
@@ -2092,8 +2092,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2020,350,50,,,6999.60524
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2021,308,44,,,6999.60524
 5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2022,215,30.72,,,6999.60524
-5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2023,7016,1002.34,68.1,0.502,6999.60524
-5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2024,15297,2185.41,45.9,0.824,6999.60524
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2023,212,30.29,47.5,0.481,6999.60524
+5106802,Porto dos Gaúchos,resto_mt,Demais MT,FALSE,2024,372,53.15,116.2,0.699,6999.60524
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2003,270,46.52,,,5804.50187
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2004,391,67.36,,,5804.50187
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2005,207,35.66,,,5804.50187
@@ -2114,8 +2114,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2020,100,17.23,,,5804.50187
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2021,66,11.37,,,5804.50187
 5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2022,36,6.2,,,5804.50187
-5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2023,1181,203.46,27.8,0.509,5804.50187
-5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2024,2034,350.42,26.1,-3.943,5804.50187
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2023,30,5.17,26.3,0.524,5804.50187
+5106828,Porto Esperidião,pantanal_norte,Pantanal-13,TRUE,2024,47,8.1,70.5,0.817,5804.50187
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2003,62,30.08,,,2060.8914
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2004,132,64.05,,,2060.8914
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2005,93,45.13,,,2060.8914
@@ -2136,8 +2136,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2020,123,59.68,,,2060.8914
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2021,3,1.46,,,2060.8914
 5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2022,13,6.31,,,2060.8914
-5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2023,278,134.89,17.5,0.832,2060.8914
-5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2024,17038,8267.3,37,0.993,2060.8914
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2023,16,7.76,18.4,0.768,2060.8914
+5106851,Porto Estrela,resto_mt,Demais MT,FALSE,2024,313,151.88,88.1,0.997,2060.8914
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2003,255,36.78,,,6933.95278
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2004,290,41.82,,,6933.95278
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2005,176,25.38,,,6933.95278
@@ -2158,8 +2158,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2020,427,61.58,,,6933.95278
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2021,107,15.43,,,6933.95278
 5107008,Poxoréu,resto_mt,Demais MT,FALSE,2022,134,19.33,,,6933.95278
-5107008,Poxoréu,resto_mt,Demais MT,FALSE,2023,1699,245.03,52.2,-0.342,6933.95278
-5107008,Poxoréu,resto_mt,Demais MT,FALSE,2024,16208,2337.48,33.8,0.311,6933.95278
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2023,92,13.27,56.4,0.881,6933.95278
+5107008,Poxoréu,resto_mt,Demais MT,FALSE,2024,454,65.47,76.8,0.974,6933.95278
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2003,160,29.28,,,5464.72028
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2004,118,21.59,,,5464.72028
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2005,74,13.54,,,5464.72028
@@ -2180,8 +2180,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2020,72,13.18,,,5464.72028
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2021,52,9.52,,,5464.72028
 5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2022,47,8.6,,,5464.72028
-5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2023,680,124.43,63,-5.536,5464.72028
-5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2024,913,167.07,38.4,-6.779,5464.72028
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2023,39,7.14,158.9,0.541,5464.72028
+5107040,Primavera do Leste,resto_mt,Demais MT,FALSE,2024,59,10.8,87.7,0.722,5464.72028
 5107065,Querência,resto_mt,Demais MT,FALSE,2003,2890,162.21,,,17816.0819
 5107065,Querência,resto_mt,Demais MT,FALSE,2004,3181,178.55,,,17816.0819
 5107065,Querência,resto_mt,Demais MT,FALSE,2005,1095,61.46,,,17816.0819
@@ -2202,8 +2202,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107065,Querência,resto_mt,Demais MT,FALSE,2020,481,27,,,17816.0819
 5107065,Querência,resto_mt,Demais MT,FALSE,2021,409,22.96,,,17816.0819
 5107065,Querência,resto_mt,Demais MT,FALSE,2022,642,36.03,,,17816.0819
-5107065,Querência,resto_mt,Demais MT,FALSE,2023,14710,825.66,58.5,-5.829,17816.0819
-5107065,Querência,resto_mt,Demais MT,FALSE,2024,13092,734.84,48.1,-0.369,17816.0819
+5107065,Querência,resto_mt,Demais MT,FALSE,2023,464,26.04,148.8,-2.122,17816.0819
+5107065,Querência,resto_mt,Demais MT,FALSE,2024,486,27.28,63.9,-3.723,17816.0819
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2003,59,45.88,,,1285.92494
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2004,54,41.99,,,1285.92494
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2005,56,43.55,,,1285.92494
@@ -2224,8 +2224,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2020,9,7,,,1285.92494
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2021,4,3.11,,,1285.92494
 5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2022,5,3.89,,,1285.92494
-5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2023,69,53.66,54.6,0.664,1285.92494
-5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2024,783,608.9,54.4,0.992,1285.92494
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2023,2,1.56,13.9,0.6,1285.92494
+5107107,São José dos Quatro Marcos,resto_mt,Demais MT,FALSE,2024,13,10.11,146.8,1,1285.92494
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2003,12,8.98,,,1336.90689
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2004,21,15.71,,,1336.90689
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2005,49,36.65,,,1336.90689
@@ -2246,8 +2246,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2020,54,40.39,,,1336.90689
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2021,2,1.5,,,1336.90689
 5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2022,7,5.24,,,1336.90689
-5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2023,7,5.24,17.6,0.319,1336.90689
-5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2024,1394,1042.71,99.4,0.993,1336.90689
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2023,1,0.75,9.8,0.03,1336.90689
+5107156,Reserva do Cabaçal,resto_mt,Demais MT,FALSE,2024,37,27.68,267.6,0.995,1336.90689
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2003,492,43.32,,,11356.844939999999
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2004,674,59.35,,,11356.844939999999
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2005,654,57.59,,,11356.844939999999
@@ -2268,8 +2268,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2020,276,24.3,,,11356.844939999999
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2021,444,39.1,,,11356.844939999999
 5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2022,410,36.1,,,11356.844939999999
-5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2023,10052,885.1,54.6,-0.101,11356.844939999999
-5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2024,31939,2812.31,42.6,-3.867,11356.844939999999
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2023,319,28.09,49.7,0.648,11356.844939999999
+5107180,Ribeirão Cascalheira,resto_mt,Demais MT,FALSE,2024,745,65.6,96.6,-0.448,11356.844939999999
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2003,18,29.12,,,618.19219
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2004,17,27.5,,,618.19219
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2005,5,8.09,,,618.19219
@@ -2289,8 +2289,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2020,34,55,,,618.19219
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2021,12,19.41,,,618.19219
 5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2022,15,24.26,,,618.19219
-5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2023,109,176.32,26,0.906,618.19219
-5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2024,79,127.79,10.1,0.853,618.19219
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2023,2,3.24,25,1,618.19219
+5107198,Ribeirãozinho,resto_mt,Demais MT,FALSE,2024,6,9.71,16.7,0.503,618.19219
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2003,14,26.31,,,532.17225
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2004,23,43.22,,,532.17225
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2005,9,16.91,,,532.17225
@@ -2309,8 +2309,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2019,2,3.76,,,532.17225
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2020,8,15.03,,,532.17225
 5107206,Rio Branco,resto_mt,Demais MT,FALSE,2021,5,9.4,,,532.17225
-5107206,Rio Branco,resto_mt,Demais MT,FALSE,2023,25,46.98,24.4,0.53,532.17225
-5107206,Rio Branco,resto_mt,Demais MT,FALSE,2024,835,1569.04,32.9,0.932,532.17225
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2023,0,0,,,532.17225
+5107206,Rio Branco,resto_mt,Demais MT,FALSE,2024,19,35.7,39.9,0.874,532.17225
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2003,874,228.28,,,3828.71477
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2004,1501,392.04,,,3828.71477
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2005,654,170.81,,,3828.71477
@@ -2331,8 +2331,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2020,172,44.92,,,3828.71477
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2021,150,39.18,,,3828.71477
 5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2022,214,55.89,,,3828.71477
-5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2023,2601,679.34,34.6,0.378,3828.71477
-5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2024,5230,1365.99,46.1,0.479,3828.71477
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2023,140,36.57,28.7,0.353,3828.71477
+5107248,Santa Carmem,resto_mt,Demais MT,FALSE,2024,196,51.19,71,-4.659,3828.71477
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2003,50,42.76,,,1169.43767
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2004,85,72.68,,,1169.43767
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2005,132,112.87,,,1169.43767
@@ -2353,8 +2353,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2020,12,10.26,,,1169.43767
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2021,6,5.13,,,1169.43767
 5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2022,8,6.84,,,1169.43767
-5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2023,246,210.36,59.8,0.392,1169.43767
-5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2024,113,96.63,11.5,0.572,1169.43767
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2023,7,5.99,24.4,0.527,1169.43767
+5107263,Santo Afonso,resto_mt,Demais MT,FALSE,2024,5,4.28,26.3,0.708,1169.43767
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2003,11,24.94,,,440.9974
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2004,11,24.94,,,440.9974
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2005,9,20.41,,,440.9974
@@ -2369,8 +2369,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2017,7,15.87,,,440.9974
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2018,3,6.8,,,440.9974
 5107297,São José do Povo,resto_mt,Demais MT,FALSE,2019,4,9.07,,,440.9974
-5107297,São José do Povo,resto_mt,Demais MT,FALSE,2023,10,22.68,39.9,0.503,440.9974
-5107297,São José do Povo,resto_mt,Demais MT,FALSE,2024,11,24.94,9.2,0.265,440.9974
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2023,0,0,,,440.9974
+5107297,São José do Povo,resto_mt,Demais MT,FALSE,2024,1,2.27,12.1,0.04,440.9974
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2003,742,162.59,,,4563.67268
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2004,792,173.54,,,4563.67268
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2005,818,179.24,,,4563.67268
@@ -2391,8 +2391,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2020,172,37.69,,,4563.67268
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2021,80,17.53,,,4563.67268
 5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2022,277,60.7,,,4563.67268
-5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2023,4373,958.22,66.3,-6.955,4563.67268
-5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2024,4290,940.03,43.1,-5.413,4563.67268
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2023,157,34.4,47.4,-5.893,4563.67268
+5107305,São José do Rio Claro,resto_mt,Demais MT,FALSE,2024,189,41.41,85.1,0.696,4563.67268
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2003,248,33.24,,,7461.71293
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2004,258,34.58,,,7461.71293
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2005,309,41.41,,,7461.71293
@@ -2413,8 +2413,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2020,301,40.34,,,7461.71293
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2021,106,14.21,,,7461.71293
 5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2022,207,27.74,,,7461.71293
-5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2023,3459,463.57,79,0.086,7461.71293
-5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2024,18065,2421.03,41.2,-7.171,7461.71293
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2023,175,23.45,50.3,-6.875,7461.71293
+5107354,São José do Xingu,resto_mt,Demais MT,FALSE,2024,388,52,76.8,-1.811,7461.71293
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2003,7,20.34,,,344.17919
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2004,6,17.43,,,344.17919
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2005,7,20.34,,,344.17919
@@ -2435,8 +2435,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2020,65,188.86,,,344.17919
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2021,1,2.91,,,344.17919
 5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2022,5,14.53,,,344.17919
-5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2023,51,148.18,25.3,0.397,344.17919
-5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2024,22,63.92,23.5,0.864,344.17919
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2023,3,8.72,20.3,0.697,344.17919
+5107404,São Pedro da Cipa,resto_mt,Demais MT,FALSE,2024,2,5.81,48.1,1,344.17919
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2003,390,30.78,,,12669.67156
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2004,675,53.28,,,12669.67156
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2005,890,70.25,,,12669.67156
@@ -2457,8 +2457,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2020,362,28.57,,,12669.67156
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2021,364,28.73,,,12669.67156
 5107578,Rondolândia,resto_mt,Demais MT,FALSE,2022,499,39.39,,,12669.67156
-5107578,Rondolândia,resto_mt,Demais MT,FALSE,2023,10241,808.31,54.5,0.5,12669.67156
-5107578,Rondolândia,resto_mt,Demais MT,FALSE,2024,12348,974.61,33,0.915,12669.67156
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2023,336,26.52,93.8,0.451,12669.67156
+5107578,Rondolândia,resto_mt,Demais MT,FALSE,2024,331,26.13,51,0.942,12669.67156
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2003,123,26.11,,,4711.25792
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2004,86,18.25,,,4711.25792
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2005,130,27.59,,,4711.25792
@@ -2479,8 +2479,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2020,193,40.97,,,4711.25792
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2021,36,7.64,,,4711.25792
 5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2022,50,10.61,,,4711.25792
-5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2023,688,146.03,53,-42.359,4711.25792
-5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2024,2741,581.8,41.6,-39.125,4711.25792
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2023,26,5.52,38.3,-44.872,4711.25792
+5107602,Rondonópolis,pantanal_norte,Pantanal-13,TRUE,2024,117,24.83,58.1,-33.294,4711.25792
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2003,315,43.88,,,7179.03578
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2004,555,77.31,,,7179.03578
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2005,278,38.72,,,7179.03578
@@ -2501,8 +2501,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2020,589,82.04,,,7179.03578
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2021,58,8.08,,,7179.03578
 5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2022,86,11.98,,,7179.03578
-5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2023,1103,153.64,34.6,0.572,7179.03578
-5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2024,29449,4102.08,34.4,0.922,7179.03578
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2023,44,6.13,26.3,0.591,7179.03578
+5107701,Rosário Oeste,resto_mt,Demais MT,FALSE,2024,634,88.31,78.9,0.95,7179.03578
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2003,357,63.52,,,5619.89249
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2004,389,69.22,,,5619.89249
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2005,434,77.23,,,5619.89249
@@ -2523,8 +2523,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2020,184,32.74,,,5619.89249
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2021,213,37.9,,,5619.89249
 5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2022,171,30.43,,,5619.89249
-5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2023,5753,1023.69,49.2,0.531,5619.89249
-5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2024,4954,881.51,64.4,-3.109,5619.89249
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2023,227,40.39,47.2,0.521,5619.89249
+5107743,Santa Cruz do Xingu,resto_mt,Demais MT,FALSE,2024,193,34.34,78.3,0.487,5619.89249
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2003,77,43.32,,,1777.58606
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2004,58,32.63,,,1777.58606
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2005,39,21.94,,,1777.58606
@@ -2545,8 +2545,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2020,30,16.88,,,1777.58606
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2021,16,9,,,1777.58606
 5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2022,16,9,,,1777.58606
-5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2023,108,60.76,50.7,0.318,1777.58606
-5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2024,722,406.17,27.7,0.825,1777.58606
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2023,3,1.69,14.6,0.27,1777.58606
+5107750,Salto do Céu,resto_mt,Demais MT,FALSE,2024,16,9,89.5,0.735,1777.58606
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2003,643,135.49,,,4745.72261
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2004,616,129.8,,,4745.72261
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2005,267,56.26,,,4745.72261
@@ -2567,8 +2567,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2020,56,11.8,,,4745.72261
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2021,35,7.38,,,4745.72261
 5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2022,48,10.11,,,4745.72261
-5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2023,655,138.02,37.7,0.332,4745.72261
-5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2024,2128,448.4,42.1,0.58,4745.72261
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2023,55,11.59,31.4,0.257,4745.72261
+5107768,Santa Rita do Trivelato,resto_mt,Demais MT,FALSE,2024,121,25.5,57,0.544,4745.72261
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2003,895,138.8,,,6448.1717100000005
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2004,997,154.62,,,6448.1717100000005
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2005,809,125.46,,,6448.1717100000005
@@ -2589,8 +2589,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2020,535,82.97,,,6448.1717100000005
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2021,229,35.51,,,6448.1717100000005
 5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2022,360,55.83,,,6448.1717100000005
-5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2023,7417,1150.25,56.4,-3.832,6448.1717100000005
-5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2024,35773,5547.77,32.4,-7.956,6448.1717100000005
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2023,249,38.62,55.6,0.77,6448.1717100000005
+5107776,Santa Terezinha,resto_mt,Demais MT,FALSE,2024,1047,162.37,72.8,-3.817,6448.1717100000005
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2003,98,27.17,,,3606.82669
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2004,186,51.57,,,3606.82669
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2005,114,31.61,,,3606.82669
@@ -2611,8 +2611,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2020,180,49.91,,,3606.82669
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2021,60,16.64,,,3606.82669
 5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2022,99,27.45,,,3606.82669
-5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2023,537,148.88,33.3,0.663,3606.82669
-5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2024,4314,1196.07,42.3,0.983,3606.82669
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2023,30,8.32,28.5,0.528,3606.82669
+5107792,Santo Antônio do Leste,resto_mt,Demais MT,FALSE,2024,174,48.24,66.1,0.918,3606.82669
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2003,341,36.19,,,9422.50319
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2004,556,59.01,,,9422.50319
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2005,412,43.73,,,9422.50319
@@ -2633,8 +2633,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2020,1397,148.26,,,9422.50319
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2021,242,25.68,,,9422.50319
 5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2022,66,7,,,9422.50319
-5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2023,10176,1079.97,57.5,0.032,9422.50319
-5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2024,33504,3555.74,38.9,0.512,9422.50319
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2023,318,33.75,71.9,0.58,9422.50319
+5107800,Santo Antônio do Leverger,pantanal_norte,Pantanal-13,TRUE,2024,908,96.37,80.8,0.994,9422.50319
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2003,719,42.66,,,16853.134299999998
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2004,1186,70.37,,,16853.134299999998
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2005,896,53.17,,,16853.134299999998
@@ -2655,8 +2655,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2020,338,20.06,,,16853.134299999998
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2021,554,32.87,,,16853.134299999998
 5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2022,653,38.75,,,16853.134299999998
-5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2023,10536,625.17,64.3,-0.119,16853.134299999998
-5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2024,16690,990.32,42.9,-9.627,16853.134299999998
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2023,363,21.54,44.3,0.481,16853.134299999998
+5107859,São Félix do Araguaia,resto_mt,Demais MT,FALSE,2024,580,34.41,60.2,-1.053,16853.134299999998
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2003,450,33.03,,,13625.03177
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2004,688,50.5,,,13625.03177
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2005,341,25.03,,,13625.03177
@@ -2677,8 +2677,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2020,132,9.69,,,13625.03177
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2021,132,9.69,,,13625.03177
 5107875,Sapezal,resto_mt,Demais MT,FALSE,2022,96,7.05,,,13625.03177
-5107875,Sapezal,resto_mt,Demais MT,FALSE,2023,5768,423.34,60.7,-0.204,13625.03177
-5107875,Sapezal,resto_mt,Demais MT,FALSE,2024,14272,1047.48,56.4,0.686,13625.03177
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2023,182,13.36,42.8,-5.491,13625.03177
+5107875,Sapezal,resto_mt,Demais MT,FALSE,2024,677,49.69,119.8,-2.114,13625.03177
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2003,68,45.48,,,1495.2963
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2004,210,140.44,,,1495.2963
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2005,124,82.93,,,1495.2963
@@ -2699,8 +2699,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2020,32,21.4,,,1495.2963
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2021,35,23.41,,,1495.2963
 5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2022,82,54.84,,,1495.2963
-5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2023,386,258.14,24.9,0.72,1495.2963
-5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2024,1734,1159.64,28.5,0.968,1495.2963
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2023,17,11.37,27,0.555,1495.2963
+5107883,Serra Nova Dourada,resto_mt,Demais MT,FALSE,2024,31,20.73,30.7,0.826,1495.2963
 5107909,Sinop,resto_mt,Demais MT,FALSE,2003,965,244.02,,,3954.62188
 5107909,Sinop,resto_mt,Demais MT,FALSE,2004,1522,384.87,,,3954.62188
 5107909,Sinop,resto_mt,Demais MT,FALSE,2005,516,130.48,,,3954.62188
@@ -2721,8 +2721,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107909,Sinop,resto_mt,Demais MT,FALSE,2020,112,28.32,,,3954.62188
 5107909,Sinop,resto_mt,Demais MT,FALSE,2021,85,21.49,,,3954.62188
 5107909,Sinop,resto_mt,Demais MT,FALSE,2022,102,25.79,,,3954.62188
-5107909,Sinop,resto_mt,Demais MT,FALSE,2023,1140,288.27,46.3,-56.104,3954.62188
-5107909,Sinop,resto_mt,Demais MT,FALSE,2024,1672,422.8,34.6,-118.399,3954.62188
+5107909,Sinop,resto_mt,Demais MT,FALSE,2023,62,15.68,78.9,-75.282,3954.62188
+5107909,Sinop,resto_mt,Demais MT,FALSE,2024,80,20.23,41.9,-111.98,3954.62188
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2003,1223,130.7,,,9357.313549999999
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2004,1055,112.75,,,9357.313549999999
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2005,375,40.08,,,9357.313549999999
@@ -2743,8 +2743,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2020,154,16.46,,,9357.313549999999
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2021,88,9.4,,,9357.313549999999
 5107925,Sorriso,resto_mt,Demais MT,FALSE,2022,76,8.12,,,9357.313549999999
-5107925,Sorriso,resto_mt,Demais MT,FALSE,2023,762,81.43,49.9,-4.993,9357.313549999999
-5107925,Sorriso,resto_mt,Demais MT,FALSE,2024,4396,469.79,49.5,-1.135,9357.313549999999
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2023,50,5.34,39,0.19,9357.313549999999
+5107925,Sorriso,resto_mt,Demais MT,FALSE,2024,167,17.85,94.7,0.559,9357.313549999999
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2003,2136,260.12,,,8211.51813
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2004,2433,296.29,,,8211.51813
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2005,1326,161.48,,,8211.51813
@@ -2765,8 +2765,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2020,188,22.89,,,8211.51813
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2021,114,13.88,,,8211.51813
 5107941,Tabaporã,resto_mt,Demais MT,FALSE,2022,303,36.9,,,8211.51813
-5107941,Tabaporã,resto_mt,Demais MT,FALSE,2023,6695,815.32,41.5,0.145,8211.51813
-5107941,Tabaporã,resto_mt,Demais MT,FALSE,2024,8193,997.74,37.5,0.478,8211.51813
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2023,238,28.98,42.1,0.293,8211.51813
+5107941,Tabaporã,resto_mt,Demais MT,FALSE,2024,216,26.3,45.2,0.419,8211.51813
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2003,487,42.25,,,11526.2533
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2004,615,53.36,,,11526.2533
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2005,728,63.16,,,11526.2533
@@ -2787,8 +2787,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2020,489,42.42,,,11526.2533
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2021,297,25.77,,,11526.2533
 5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2022,516,44.77,,,11526.2533
-5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2023,6618,574.17,68.9,0.536,11526.2533
-5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2024,25247,2190.39,48,0.582,11526.2533
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2023,261,22.64,59.1,0.71,11526.2533
+5107958,Tangará da Serra,resto_mt,Demais MT,FALSE,2024,1013,87.89,101.7,-0.102,11526.2533
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2003,882,196.55,,,4487.5046999999995
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2004,1413,314.87,,,4487.5046999999995
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2005,599,133.48,,,4487.5046999999995
@@ -2809,8 +2809,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2020,86,19.16,,,4487.5046999999995
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2021,50,11.14,,,4487.5046999999995
 5108006,Tapurah,resto_mt,Demais MT,FALSE,2022,50,11.14,,,4487.5046999999995
-5108006,Tapurah,resto_mt,Demais MT,FALSE,2023,2137,476.21,53.1,0.292,4487.5046999999995
-5108006,Tapurah,resto_mt,Demais MT,FALSE,2024,1994,444.34,24.7,-0.137,4487.5046999999995
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2023,84,18.72,38.9,0.223,4487.5046999999995
+5108006,Tapurah,resto_mt,Demais MT,FALSE,2024,148,32.98,35.6,0.241,4487.5046999999995
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2003,152,59.23,,,2566.46432
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2004,175,68.19,,,2566.46432
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2005,224,87.28,,,2566.46432
@@ -2831,8 +2831,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2020,66,25.72,,,2566.46432
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2021,54,21.04,,,2566.46432
 5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2022,33,12.86,,,2566.46432
-5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2023,418,162.87,31.8,0.641,2566.46432
-5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2024,1113,433.67,27,0.855,2566.46432
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2023,16,6.23,22.6,0.328,2566.46432
+5108055,Terra Nova do Norte,resto_mt,Demais MT,FALSE,2024,39,15.2,48.6,0.435,2566.46432
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2003,171,40.17,,,4257.36166
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2004,221,51.91,,,4257.36166
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2005,106,24.9,,,4257.36166
@@ -2853,8 +2853,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2020,104,24.43,,,4257.36166
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2021,26,6.11,,,4257.36166
 5108105,Tesouro,resto_mt,Demais MT,FALSE,2022,50,11.74,,,4257.36166
-5108105,Tesouro,resto_mt,Demais MT,FALSE,2023,499,117.21,22.1,0.586,4257.36166
-5108105,Tesouro,resto_mt,Demais MT,FALSE,2024,2365,555.51,25,0.898,4257.36166
+5108105,Tesouro,resto_mt,Demais MT,FALSE,2023,35,8.22,31.6,0.554,4257.36166
+5108105,Tesouro,resto_mt,Demais MT,FALSE,2024,93,21.84,65,0.837,4257.36166
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2003,71,29.59,,,2399.77922
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2004,80,33.34,,,2399.77922
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2005,46,19.17,,,2399.77922
@@ -2875,8 +2875,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2020,34,14.17,,,2399.77922
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2021,17,7.08,,,2399.77922
 5108204,Torixoréu,resto_mt,Demais MT,FALSE,2022,28,11.67,,,2399.77922
-5108204,Torixoréu,resto_mt,Demais MT,FALSE,2023,1173,488.79,56.7,0.733,2399.77922
-5108204,Torixoréu,resto_mt,Demais MT,FALSE,2024,139,57.92,20,-28.045,2399.77922
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2023,66,27.5,40.7,0.696,2399.77922
+5108204,Torixoréu,resto_mt,Demais MT,FALSE,2024,17,7.08,41.1,-58.391,2399.77922
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2003,316,68.9,,,4586.31652
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2004,867,189.04,,,4586.31652
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2005,541,117.96,,,4586.31652
@@ -2897,8 +2897,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2020,660,143.91,,,4586.31652
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2021,500,109.02,,,4586.31652
 5108303,União do Sul,resto_mt,Demais MT,FALSE,2022,1037,226.11,,,4586.31652
-5108303,União do Sul,resto_mt,Demais MT,FALSE,2023,6874,1498.81,54.1,-0.085,4586.31652
-5108303,União do Sul,resto_mt,Demais MT,FALSE,2024,18560,4046.82,41.7,0.886,4586.31652
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2023,308,67.16,88.4,0.399,4586.31652
+5108303,União do Sul,resto_mt,Demais MT,FALSE,2024,545,118.83,105.5,0.771,4586.31652
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2003,40,21.03,,,1901.6041599999999
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2004,77,40.49,,,1901.6041599999999
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2005,30,15.78,,,1901.6041599999999
@@ -2919,8 +2919,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2020,116,61,,,1901.6041599999999
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2021,3,1.58,,,1901.6041599999999
 5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2022,21,11.04,,,1901.6041599999999
-5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2023,116,61,76.2,0.713,1901.6041599999999
-5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2024,6900,3628.52,72.3,0.123,1901.6041599999999
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2023,7,3.68,28.1,0.496,1901.6041599999999
+5108352,Vale de São Domingos,resto_mt,Demais MT,FALSE,2024,242,127.26,177.2,0.999,1901.6041599999999
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2003,80,84.85,,,942.88829
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2004,65,68.94,,,942.88829
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2005,73,77.42,,,942.88829
@@ -2941,8 +2941,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2020,49,51.97,,,942.88829
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2021,33,35,,,942.88829
 5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2022,28,29.7,,,942.88829
-5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2023,937,993.76,28.4,-75.035,942.88829
-5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2024,1474,1563.28,19.3,-75.676,942.88829
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2023,58,61.51,35.1,-147.186,942.88829
+5108402,Várzea Grande,polo_metropolitano,Polo Metropolitano,FALSE,2024,80,84.85,63.3,-61.52,942.88829
 5108501,Vera,resto_mt,Demais MT,FALSE,2003,1329,449.82,,,2954.5132
 5108501,Vera,resto_mt,Demais MT,FALSE,2004,1403,474.87,,,2954.5132
 5108501,Vera,resto_mt,Demais MT,FALSE,2005,437,147.91,,,2954.5132
@@ -2963,8 +2963,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108501,Vera,resto_mt,Demais MT,FALSE,2020,71,24.03,,,2954.5132
 5108501,Vera,resto_mt,Demais MT,FALSE,2021,39,13.2,,,2954.5132
 5108501,Vera,resto_mt,Demais MT,FALSE,2022,70,23.69,,,2954.5132
-5108501,Vera,resto_mt,Demais MT,FALSE,2023,748,253.17,52.1,0.231,2954.5132
-5108501,Vera,resto_mt,Demais MT,FALSE,2024,1621,548.65,28.1,-0.001,2954.5132
+5108501,Vera,resto_mt,Demais MT,FALSE,2023,52,17.6,32.6,0.165,2954.5132
+5108501,Vera,resto_mt,Demais MT,FALSE,2024,93,31.48,48.9,0.531,2954.5132
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2003,1324,177.63,,,7453.68615
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2004,1526,204.73,,,7453.68615
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2005,1386,185.95,,,7453.68615
@@ -2985,8 +2985,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2020,348,46.69,,,7453.68615
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2021,117,15.7,,,7453.68615
 5108600,Vila Rica,resto_mt,Demais MT,FALSE,2022,180,24.15,,,7453.68615
-5108600,Vila Rica,resto_mt,Demais MT,FALSE,2023,3032,406.78,47.3,0.569,7453.68615
-5108600,Vila Rica,resto_mt,Demais MT,FALSE,2024,8933,1198.47,31.9,0.503,7453.68615
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2023,121,16.23,49.4,0.521,7453.68615
+5108600,Vila Rica,resto_mt,Demais MT,FALSE,2024,305,40.92,73.9,-2.415,7453.68615
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2003,82,76.38,,,1073.57631
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2004,117,108.98,,,1073.57631
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2005,48,44.71,,,1073.57631
@@ -3007,8 +3007,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2020,12,11.18,,,1073.57631
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2021,6,5.59,,,1073.57631
 5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2022,6,5.59,,,1073.57631
-5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2023,160,149.03,51.9,0.59,1073.57631
-5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2024,491,457.35,43.9,0.94,1073.57631
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2023,7,6.52,24,0.705,1073.57631
+5108808,Nova Guarita,resto_mt,Demais MT,FALSE,2024,9,8.38,27.8,0.52,1073.57631
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2003,158,81.36,,,1941.89259
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2004,226,116.38,,,1941.89259
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2005,189,97.33,,,1941.89259
@@ -3029,8 +3029,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2020,90,46.35,,,1941.89259
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2021,16,8.24,,,1941.89259
 5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2022,11,5.66,,,1941.89259
-5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2023,656,337.81,42.6,0.363,1941.89259
-5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2024,597,307.43,42.5,0.448,1941.89259
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2023,23,11.84,28,0.267,1941.89259
+5108857,Nova Marilândia,resto_mt,Demais MT,FALSE,2024,17,8.75,57.6,0.505,1941.89259
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2003,1419,122.83,,,11552.6838
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2004,2870,248.43,,,11552.6838
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2005,1592,137.8,,,11552.6838
@@ -3051,8 +3051,8 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2020,774,67,,,11552.6838
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2021,399,34.54,,,11552.6838
 5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2022,774,67,,,11552.6838
-5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2023,27744,2401.52,71.5,0.258,11552.6838
-5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2024,30075,2603.29,47.4,0.74,11552.6838
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2023,923,79.89,85,-4.187,11552.6838
+5108907,Nova Maringá,resto_mt,Demais MT,FALSE,2024,1098,95.04,78.9,-1.16,11552.6838
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2003,1010,192.45,,,5248.0563
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2004,1019,194.17,,,5248.0563
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2005,946,180.26,,,5248.0563
@@ -3073,5 +3073,5 @@ id_municipio,municipio,grupo,subgrupo,pantanal_norte,ano,n_focos,densidade_focos
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2020,321,61.17,,,5248.0563
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2021,111,21.15,,,5248.0563
 5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2022,219,41.73,,,5248.0563
-5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2023,3306,629.95,40.7,-0.133,5248.0563
-5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2024,3620,689.78,35.5,0.801,5248.0563
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2023,139,26.49,77.5,0.569,5248.0563
+5108956,Nova Monte Verde,resto_mt,Demais MT,FALSE,2024,151,28.77,55.7,0.692,5248.0563

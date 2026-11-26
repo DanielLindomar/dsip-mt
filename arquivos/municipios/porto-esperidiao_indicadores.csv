@@ -341,17 +341,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,49772.6
 5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,46754.45
 5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,54621.02
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,71898.32
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,50326.29
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,53153.74
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,37354.97
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,45178.81
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,68095.93
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,84094.32
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,86354.8
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,131323.19
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,163691.31
-5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,83980.99
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,67498.53
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,48187.74
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,50377.78
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,34164.82
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,42420.99
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,65449.89
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,83289.66
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,85708.35
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,130248.4
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,162687.99
+5106828,Porto Esperidião,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,82895
 5106828,Porto Esperidião,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,55785.4276189442
 5106828,Porto Esperidião,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,11
 5106828,Porto Esperidião,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2017,1
@@ -616,6 +616,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,17.23
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,11.37
 5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.2
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,5.17
+5106828,Porto Esperidião,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,8.1
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,32.2
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,32.4
 5106828,Porto Esperidião,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,52.7000000000001
@@ -806,17 +808,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,39.96
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,37.96
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,31.09
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,30.27
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,26.88
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,26.22
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,32.48
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,34.01
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,34.31
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,28
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,26.74
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,25.15
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,34.85
-5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,33.03
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,26.34
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,23.38
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,22.8
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,28.24
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,29.58
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,29.53
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,23.82
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,22.44
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,21.11
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,29.25
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,27.72
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,25.46
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,23.92
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,23.97
@@ -826,6 +828,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,21.57
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,16.9
 5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,18.37
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,20.67
+5106828,Porto Esperidião,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,20.49
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,128.49
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,93.56
 5106828,Porto Esperidião,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,102.83

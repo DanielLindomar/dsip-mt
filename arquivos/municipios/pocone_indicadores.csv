@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,133233.43
 5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,45669.31
 5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,55489.19
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,202479.14
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,133149.32
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,63332.04
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,112946.28
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,116697.53
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,112381.26
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,104636.87
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,141405.16
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,165699.83
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,314853.88
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,211593.97
-5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,190246
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,161398.45
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,127572.14
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,60327.64
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,110081.47
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,114387.46
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,109380.47
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,101842.1
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,138330.27
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,160579.46
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,310184.75
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,207348.57
+5106505,Poconé,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,185381
 5106505,Poconé,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,196706.989114516
 5106505,Poconé,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,271
 5106505,Poconé,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,299
@@ -487,10 +487,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D3,idhm,IDHM,índice 0–1,1991,0.61
 5106505,Poconé,D3,idhm,IDHM,índice 0–1,2000,0.528
 5106505,Poconé,D3,idhm,IDHM,índice 0–1,2010,0.652
-5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.29
-5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.28
-5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.23
-5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.63
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.89
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.87
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.8
+5106505,Poconé,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.92
 5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,11.82
 5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,12.75
 5106505,Poconé,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,12.75
@@ -616,6 +616,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,327.74
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,44.79
 5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,13.19
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,137.81
+5106505,Poconé,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,77.45
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,105.2
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,105.2
 5106505,Poconé,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,144.2
@@ -813,14 +815,14 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2000,26.68
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,30.91
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,34.59
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,45.5
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,34.95
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,44.15
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,39.97
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,43.97
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,43.09
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,41.48
-5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,36.07
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,39.56
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,30.39
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,38.39
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,34.75
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,37.13
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,36.65
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,34.82
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,30.28
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,31.22
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,33.24
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2016,30.99
@@ -829,6 +831,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,24.42
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,19.18
 5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,21.15
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,21.96
+5106505,Poconé,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,19.53
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,129.6
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,101.66
 5106505,Poconé,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,113.01

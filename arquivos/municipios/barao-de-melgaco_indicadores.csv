@@ -340,18 +340,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,9222.66
 5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,9336.9
 5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,10476.49
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,7772.62
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,10153.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,9048.18
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,5908.84
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,8746.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,3275.07
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,4772.87
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,6309.67
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,8080.43
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,6287.88
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,9174.62
-5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,10512
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,7367.59
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,9755.32
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,8671.11
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,5579.42
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,8402.19
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,2975.46
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,4432.45
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,5989.94
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,7803.54
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,6029.58
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,8919.63
+5101605,Barão de Melgaço,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,9987
 5101605,Barão de Melgaço,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,77413.3611742157
 5101605,Barão de Melgaço,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,35
 5101605,Barão de Melgaço,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2019,23
@@ -453,10 +453,10 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,1991,0.439
 5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,2000,0.446
 5101605,Barão de Melgaço,D3,idhm,IDHM,índice 0–1,2010,0.6
-5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.05
-5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.06
-5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,0.98
-5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.1
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2010,1.58
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2015,1.59
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2020,1.47
+5101605,Barão de Melgaço,D3,leitos_sus_per_1000,Leitos SUS por mil habitantes,por 1.000 hab.,2023,1.65
 5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2013,13.39
 5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2014,13.6
 5101605,Barão de Melgaço,D3,perc_pop_bf,Famílias no Bolsa Família por 100 habitantes,famílias por 100 hab.,2015,12.56
@@ -582,6 +582,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,326.41
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,28.21
 5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,6.46
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,70.14
+5101605,Barão de Melgaço,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,176.61
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,19.7
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,19.7
 5101605,Barão de Melgaço,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,19.6999999999999
@@ -740,15 +742,15 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1996,38.53
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,1997,49.44
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,46.31
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,57.39
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,54.05
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,48.05
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,49.75
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,48.62
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,52.96
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,50.02
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,46.44
-5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,47.69
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,49.91
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,47.02
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,41.78
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,43.26
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,42.28
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,45.47
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,42.07
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,38.7
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,40.02
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,27.91
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,35.37
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,34.69
@@ -757,6 +759,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,32.84
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,28.51
 5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,27.78
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,29.6
+5101605,Barão de Melgaço,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,29.4
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1989,135.11
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1990,97.45
 5101605,Barão de Melgaço,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,1991,111.29

@@ -338,18 +338,18 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2010,29994.64
 5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2011,32217.39
 5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2012,56196.76
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,93504.44
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,69164.18
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,122285.78
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,110475.5
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,96224.78
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,87414.94
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,101361.52
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,84481.2
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,81016.97
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,87752.38
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,52794.41
-5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,62728.99
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2013,77531.85
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2014,67560.51
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2015,120693.67
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2016,109424.23
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2017,94059.61
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2018,86699.4
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2019,100674.97
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2020,83915.68
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2021,80522.64
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2022,87270.78
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2023,52369.78
+5103437,Curvelândia,D1,vbp_real_brl,Valor bruto da produção agropecuária,R$ mil de 2024,2024,62411.99
 5103437,Curvelândia,D2,area_protegida_total_ha,Área protegida (UC + TI),hectares,2019,0
 5103437,Curvelândia,D2,empregos_turismo,Empregos formais no turismo (Mapa do Turismo),empregos,2017,0
 5103437,Curvelândia,D2,empresas_cadastur,Empresas de turismo no CadasTur,empresas,2020,1
@@ -569,6 +569,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2020,44.59
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2021,2.79
 5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2022,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2023,2.79
+5103437,Curvelândia,D4,densidade_focos_por_1000km2,Densidade de focos de calor,focos por 1.000 km²,2024,13.94
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2001,2.79999999999999
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2002,1.19999999999997
 5103437,Curvelândia,D4,incremento_desmat_km2,Desmatamento no ano,km²,2003,0.599999999999998
@@ -721,17 +723,17 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2022,5.5
 5103437,Curvelândia,D6,autonomia_fiscal_pct,Autonomia fiscal,% da receita corrente,2023,5.29
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2001,53.59
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,54.36
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,47.54
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,46.57
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,55.46
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,54.9
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,56.28
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,55.05
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,37.88
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,54.51
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,56.08
-5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,53.07
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2002,47.41
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2003,41.34
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2004,40.49
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2005,48.23
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2006,47.74
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2007,46.71
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2008,46.82
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2009,46.85
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2010,45.74
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2011,47.07
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2012,44.54
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2013,44.7
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2014,41.05
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2015,39.83
@@ -741,6 +743,8 @@ id_municipio,municipio,dimensao,indicador,rotulo,unidade,ano,valor
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2019,41.32
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2020,34.39
 5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2021,38.1
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2022,38.3
+5103437,Curvelândia,D6,dep_fpm_pct,Dependência do FPM,% da receita corrente,2023,35.54
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2001,98.31
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2002,95.79
 5103437,Curvelândia,D6,dep_transferencias_pct,Dependência de transferências,% da receita corrente,2003,94.15
