@@ -225,13 +225,15 @@ tabela_dim <- function(dim, mun_id, nome_mun) {
               Serie = colDef(name = "Série", html = TRUE, align = "center", minWidth = 120),
               PN = colDef(name = "Frente ao PN-13", html = TRUE, align = "center", minWidth = 110),
               MT = colDef(name = "Mediana MT", align = "right", minWidth = 90)),
-            details = function(i) {
+            # O gráfico é uma cadeia SVG; o reactable só a interpreta como HTML quando o detalhe
+            # vem como texto com html = TRUE (dentro de uma tag, ele a escapa e mostra o código).
+            details = colDef(name = "", width = 45, html = TRUE, details = function(i) {
               g <- serie_mun_medianas(d$id[i], mun_id, nome_mun)
-              div(class = "detalhe-ind",
+              as.character(div(class = "detalhe-ind",
                   if (nzchar(g)) HTML(g) else p(class = "sub", "Indicador sem série histórica, por constituir retrato de um único ano."),
                   if (nzchar(d$nota_txt[i])) p(class = "nota-fonte", strong("Nota: "), d$nota_txt[i]),
-                  p(class = "nota-fonte", a(href = url_ind(d$id[i]), "Indicador para todos os municípios de Mato Grosso →")))
-            })
+                  p(class = "nota-fonte", a(href = url_ind(d$id[i]), "Indicador para todos os municípios de Mato Grosso →"))))
+            }))
 }
 
 # ---- Navegação entre municípios ---------------------------------------------
